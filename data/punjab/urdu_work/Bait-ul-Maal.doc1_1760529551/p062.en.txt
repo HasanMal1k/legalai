@@ -1,0 +1,19 @@
+62
+
+Financial assistance is provided by Punjab Bait-ul-Mal for the purpose of meeting the educational expenses of children from poor families who, due to financial constraints, are unable to provide or continue the education of their children. The policy of the Council in this regard is to provide, particularly in higher education, professional education, computer sciences, and industrial training, so that they can become capable of earning a livelihood as soon as possible by obtaining education or learning a profitable skill. However, students and female students who are orphans, disabled, or needy, and who possess a better educational record while pursuing education at the school, college, and university levels, may also avail of this facility. The applicant should send the form to the District Bait-ul-Mal Committee established in their district through the mediation of the head of the relevant educational institution.
+
+4.1 Educational scholarships have been divided according to different durations. However, the District Committee shall endeavor to give preference to students and female students pursuing clinical/professional education.
+
+Scholarship Rates:
+4.2 Educational scholarships for students and female students pursuing education in schools, colleges, and universities are approved and issued monthly as financial assistance and other expenses according to each course as per the following rates:
+
+| Number | Residential | Non-Residential | Courses |
+| :--- | :--- | :--- | :--- |
+| 1 | | | Lower Primary (1st to 8th Class) |
+| 2 | | | Matric (9th to 10th Class) |
+| 3 | 2500 Rupees | 2000 Rupees | FA, FSc, ICS / I.Com |
+| 4 | 3000 Rupees | 2500 Rupees | BA, B.Sc, B.Com, B.Sc |
+| 5 | 4000 Rupees | 3000 Rupees | University Students: MA, M.Sc, M.Com, LLB |
+| 6 | 4000 Rupees | 3000 Rupees | MBBS |
+| 7 | 3500 Rupees | 3000 Rupees | M.Phil |
+| 8 | 2000 Rupees | 1500 Rupees | Vocational / Apprenticeship |

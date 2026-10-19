@@ -1,0 +1,28 @@
+{
+ "_about": "Passages audit_kg.py lists that were read by hand (2026-10-18) and found not to repeal the current law named. audit_kg.py leaves out a (law, source, repealing document) pair listed here. Re-read if the repealing document's text changes.",
+ "reviewed": [
+  {"law": "Lasbela University of Agriculture, Water and Marine Sciences Act, 2010", "in": "The LUAWMS Revised Amended Service Statues, 2020", "why": "repeals the university's Service Statutes 2010, not the Act"},
+  {"law": "The Chemical Fertilizers (Development Surcharge) Act, 1973", "in": "The Loans for Agricultural Purposes Act, 1973", "why": "repeals the Ordinance of the same name (printed in the same gazette)"},
+  {"law": "The Constitution of the Islamic Republic of Pakistan", "in": "The Constitution of the Islamic Republic of Pakistan, 1973", "why": "Article 266: the 1973 Constitution repeals the Interim Constitution of 1972"},
+  {"law": "The Employees Cost of Living (Relief) Act, 1974", "in": "The Punjab Minimum Wages Act, 2019", "why": "a Punjab repeal: ends the law in Punjab only"},
+  {"law": "The Federal Government Lands and Buildings (Recovery of Possession) Ordinance, 1965", "in": "The Punjab Immovable Public Properties (Removal of Encroachment) Ordinance, 2022", "why": "repeals the Punjab Government Lands and Buildings Ordinance, 1966, a different law"},
+  {"law": "The Foreign Private Investment (Promotion and Protection) Act, 1976", "in": "The Dowry and Bridal Gifts (Restriction) Act, 1976", "why": "the Act repeals its own Ordinance ('Ordinace' misprinted); same gazette"},
+  {"law": "The Institute of Management Sciences, Lahore, Ordinance, 2002", "in": "The Hajvery University, Lahore, Ordinance, 2002", "why": "repeals the Syed Ali Hajvery Institute of Technology and Management Sciences Ordinance, a different law"},
+  {"law": "The Lahore Arts Council Ordinance, 2002", "in": "The Lahore Arts Council (First Amendment) Act, 2003", "why": "repeals two amending Ordinances, not the principal Ordinance"},
+  {"law": "The Land Acquisition Act, 1894", "in": "The West Pakistan Requisitioned Land (Continuance) (Amendment) Ordinance", "why": "garbled clause repealing the Requisitioned Land (Continuance of Powers) Order, 1956"},
+  {"law": "The Land Reforms Act, 1977", "in": "The Land Reforms (Baluchistan Pat Feeder Canal) (Amendment) Act, 1977", "why": "repeals an amending Ordinance"},
+  {"law": "The Land Reforms Act, 1977", "in": "The Privileges of Members of the National and Provincial Assemblies (Amendment) Act, 1977", "why": "same gazette: the clause repeals an amending Ordinance"},
+  {"law": "The Land Reforms Regulation, 1972", "in": "The Land Reforms (Punjab Amendment) Act, 1973", "why": "repeals the Land Reforms (Punjab Amendment) Ordinance, 1972"},
+  {"law": "The Pakistan Electronic Media Regulatory Authority Ordinance, 2002", "in": "Pakistan Electronic Media Regulatory Authority (Distribution Service Operations) Regulations, 2011", "why": "repeals the Cable TV Regulations 2002, not the Ordinance"},
+  {"law": "The Punjab Agricultural Income Tax Rules, 1997", "in": "The Punjab Agricultural Income Tax Act, 1997", "why": "repeals the Ordinance of 1997, not the Rules"},
+  {"law": "The Punjab Information Technology Board Ordinance, 1999", "in": "The Punjab Information Technology Board Ordinance, 1999", "why": "a re-promulgated Ordinance repealing its predecessor of the same name"},
+  {"law": "The Punjab Land Reforms Rules, 1972", "in": "The Land Reforms (Punjab Amendment) Act, 1973", "why": "repeals the Land Reforms (Punjab Amendment) Ordinance, 1972"},
+  {"law": "The Town Improvement Act, 1922", "in": "West Pakistan Rangers (Amendment) Act, 1975", "why": "garbled North-West Frontier Province clause: repeals it in that province only"},
+  {"law": "The West Pakistan Money-Lenders Ordinance, 1960", "in": "The Islamabad Capital Territory Prohibition of Interest on Private Loans Act, 2023", "why": "an Islamabad repeal; the Khyber Pakhtunkhwa copy is untouched"},
+  {"law": "The West Pakistan Tobacco Vend Act, 1958", "in": "Balochistan Tobacco Vend (Forms and conditions of Licences) (Repeal) Rules, 2000", "why": "repeals the Forms and Conditions of Licences Rules 1958, not the Act"},
+  {"law": "The West Pakistan Tobacco Vend Rules, 1958", "in": "Balochistan Tobacco Vend (Forms and conditions of Licences) (Repeal) Rules, 2000", "why": "repeals the Forms and Conditions of Licences Rules, a different set of rules"},
+  {"law": "the Foreign Private Investment (Promotion and Protection) Act, 1976", "in": "The Dowry and Bridal Gifts (Restriction) Act, 1976", "why": "the Act repeals its own Ordinance; same gazette"},
+  {"law": "The Federal Government Lands and Buildings (Recovery of Possession) Ordinance, 1965", "in": "The Public Property (Removal of Encroachment) Act, 1977", "why": "a Khyber Pakhtunkhwa repeal of its own 1966 Ordinance and 1977 Ordinance, different laws"},
+  {"law": "The Land Reforms Act, 1977", "in": "The Land Reforms (Balochistan Pat Feeder Canal) (Second Amendment) Ordinance, 1977", "why": "repeals the first Amendment Ordinance, not the Act"}
+ ]
+}

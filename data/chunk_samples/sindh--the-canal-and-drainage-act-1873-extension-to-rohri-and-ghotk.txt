@@ -1,0 +1,29 @@
+The Canal and Drainage Act, 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, 1972
+{"title": "The Canal and Drainage Act, 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, 1972", "instrument_type": "Act", "text_source": "native", "chars": 1312, "method": "whole", "contents_entries": 0, "provisions": 0, "problems": [], "chunks": 2, "largest_chunk": 1311}
+
+====================================================================================================
+#0 | card  | 560 chars
+The Canal and Drainage Act, 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, 1972 — Overview
+The Canal and Drainage Act, 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, 1972 (Act, 1972, Sindh).
+This Act was enacted to repeal the application of the Canal and Drainage Act, 1873 to specific canal areas. It specifically targets the regions irrigated by the Rohri and Ghotki Canals within Sindh. The legislation also repeals two related Ordinances from 1970 that previously extended or amended the 1873 Act for these areas.
+Subjects: canals, drainage, irrigation, repeal, Rohri Canal, Ghotki Canal, Sindh Ordinance, West Pakistan Ordinance.
+
+====================================================================================================
+#1 | document  | 1311 chars
+The Canal and Drainage Act, 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, 1972
+SIND ACT NO. VII OF 1972 THE CANAL AND DRAINAGE ACT, 1873 (EXTENSION TO ROHRI AND GHOTKI CANALS AREAS) (REPEAL) ACT, 1972.
+C O N T E N T S Preamble Sections
+1. Short title and commencement.
+2. Repeal.
+SIND ACT NO. VII OF 1972 THE CANAL AND DRAINAGE ACT, 1873 (EXTENSION TO ROHRI AND GHOTKI CANALS AREAS) (REPEAL) ACT, 1972.
+[18th July, 1972] An Act to repeal the Canal and Drainage Act, 1873, in its application to the areas irrigated by the Rohri and Ghotki Canals.
+WHEREAS it is expedient to repeal the Canal and Preamble.
+Drainage Act, 1873, in its application to the areas irrigated by the Rohri and Ghotki Canals;
+It is hereby enacted as follows:-
+1. (1) This Act may be called the Canal and Drainage Act, Short title and 1873 (Extension to Rohri and Ghotki Canals Areas) (Repeal) Act, commencement.
+1972.
+(2) It shall be deemed to have come into force from Rabi 1971-72.
+2. The following enactments are hereby repealed:--
+(1) The Canal and Drainage Act, 1873 (VIII of 1878), in its Repeal application to the areas irrigated by the Rohri and Ghotki Canals;
+(2) The Canal and Drainage (Extension to Rohri and Ghotki Canals Areas) Ordinance, 1970 (West Pakistan Ordinance XVII of 1970);
+(3) The Canal and Drainage (Extension to Rohri Canal Area) (Sind Amendment) Ordinance, 1970 (Sind Ordinance XIV of 1970).

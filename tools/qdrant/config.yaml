@@ -1,0 +1,10 @@
+# Qdrant (the vector database) for the Pakistan Law Assistant: data under data\qdrant, reachable only from this PC.
+# Started by run_app.ps1; dashboard at http://127.0.0.1:6333/dashboard
+storage:
+  storage_path: D:/Hasan/Scrapper/data/qdrant/storage
+  snapshots_path: D:/Hasan/Scrapper/data/qdrant/snapshots
+service:
+  host: 127.0.0.1
+  http_port: 6333
+  grpc_port: 6334
+telemetry_disabled: true

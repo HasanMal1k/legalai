@@ -1,0 +1,63 @@
+The Majority Act, 1875
+{"title": "The Majority Act, 1875", "instrument_type": "Act", "text_source": "native", "chars": 3254, "method": "provisions", "contents_entries": 4, "provisions": 4, "problems": ["over a third of the text was read as footnotes"], "chunks": 6, "largest_chunk": 1220}
+
+====================================================================================================
+#0 | card  | 721 chars
+The Majority Act, 1875 — Overview
+The Majority Act, 1875 (Act, 1875, Federal).
+The Majority Act, 1875 amends the legal framework concerning the age of majority for individuals domiciled in Pakistan. It establishes that minors with appointed guardians or under Court of Wards jurisdiction attain majority at twenty-one years, while others do so at eighteen. The Act specifies how age is computed and includes savings clauses regarding marriage, dower, divorce, adoption, and religious rites.
+Subjects: age of majority, guardianship, domicile, minor, Court of Wards, Code of Civil Procedure, Succession Act, Guardians and Wards Act.
+Provisions: 1. Short title; 2. Savings; 3. Age of majority of persons domiciled in Pakistan; 4. Age of majority how computed
+
+====================================================================================================
+#1 | preamble  | 357 chars | pages 2-2
+The Majority Act, 1875 — Title and preamble
+THE MAJORITY ACT, 1875 1ACT No. IX OF 1875 [2nd March, 1875] An Act to amend the Law respecting the age of majority Preamble. WHEREAS, in the case of person domiciled in [Pakistan], it is expedient to prolong the period of nonage, and to attain more uniformity and certainty respecting the age of majority than now, exists; It is hereby enacted as follows:—
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3 and 2nd sch., (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation” which had been subs. by A.O., 1949, Arts. 3(2) and 4, for “British India”.
+
+====================================================================================================
+#2 | section 1 | 255 chars | pages 2-2
+The Majority Act, 1875 — Section 1: Short title
+1. Short title.—This Act may be called the 3* Majority Act, 1875.
+Local extent. [It extends to the whole of Pakistan;
+Commencement and operation. and it shall come into force and have effect only on the expiration of three months from the passing thereof.
+    note: Tbe original para. as amended by A.O. 1937, A.O., 1949. Arts. 3(2) and 4, and the Federal Laws (Revision and Declaration) Act, 1951 (26 of 1951), s. 4 and III Sch., has been subs. by Ord. 21 of 1960. s. 3 and 2nd Sch. (with effect from the 14th October. 1951) to read as above.
+
+====================================================================================================
+#3 | section 2 | 269 chars | pages 2-2
+The Majority Act, 1875 — Section 2: Savings
+2. Savings. Nothing herein contained shall affect—
+(a) the capacity of any person to act in the following matters (namely), marriage, dower, divorce and adoption;
+(b) the religion or religious rites and usages of any class of [citizens of] [Pakistan]; or 7* * * * * * *
+    note: Subs by A.O., 1961, Art. 2 and Sch: for “Her Majesty’s subject in” (with effect from the 23rd March. 1956).
+    note: Subs by A.O., 1949, Sch., for “India”. 7C1ause (c) omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#4 | section 3 | 957 chars | pages 2-3
+The Majority Act, 1875 — Section 3: Age of majority of persons domiciled in Pakistan
+3. Age of majority of persons domiciled in Pakistan. Subject as aforesaid, [every minor of whose person or property or both a guardian, other than a guardian for a suit within the meaning of [Order XXXII of the First Schedule to the Code of Civil Procedure, 1908 (Act V of 1908)], has been or shall be appointed or declared by any Court of Justice before the minor has attained the age of eighteen years, and every minor of whose property the superintendence has been or shall be assumed by any Court of Wards before the minor has attained that age] shall, notwithstanding anything contained in. the [Succession Act, 1925 (XXXIX of 1925)] or in any other enactment, be deemed to have attained his majority when he shall have completed his age of twenty-one years and not before.
+Subject as aforesaid, every other person domiciled [Pakistan] shall be deemed to have attained his majority when he shall have completed his age of eighteen years and not before.
+    note: Subs by the Guardians and Wards Act,1890 (8 of 1890), s. 52, for “every minor of whose person or property a guardian has been or shall be appointed by any Court of Justice, and every minor under the jurisdiction of any Court of Wards”.
+    note: Subs. by Ord. 27 of 1981, s.3 and 2nd Sch., for “Chapter XXXI of the Code of Civil Procedure”.
+    note: Subs. ibid. for “Indian Succession Act (No. X of 1865)”.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3 and 2nd Sch. (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation”, which had been subs. by A.O. 1949. Arts 3(2) and 4 for “British India”.
+
+====================================================================================================
+#5 | section 4 | 1220 chars | pages 3-3
+The Majority Act, 1875 — Section 4: Age of majority how computed
+4. Age of majority how computed. In computing the age of any person, the day on which he was born is to be included as a whole day, and he shall be deemed to have attained majority, if he falls within the first paragraph of section 3, at the beginning of the twenty-first anniversary of that day, and if he falls within the second paragraph of section 3, at the beginning of the eighteenth anniversary of that day.
+Illustrations
+(a) Z is born in [Pakistan] on the first day of January [1949], and has a [Pakistan] domicile. A guardian of his person is appointed by a Court of Justice. Z attains majority at the first moment of the first day of January [1970].
+(b) Z is born in [Pakistan] on the twenty-ninth day of February [1948] and has a [Pakistan] domicile. A guardian of his property is appointed by a Court of Justice, Z attains majority at the first moment of the twenty eighth day of February [1969].
+(c) Z is born on the first day of January [1948]. He acquires a domicile in [Pakistan]. No guardian is appointed of his person or property by any Court of Justice, nor is he under the Jurisdiction or any Court of Wards. Z attains majority at the first moment of the first day of January [1966].
+Date: 16-09-2024
+    note: Subs. by Ord. 27 of 1981 s. 3 and 2nd Sch., for “the provinces” which was subs. by A.O. 1949, Sch., for “British India”.
+    note: Subs. by the Federal Laws (Revision and Declaration) Act. 1951 (26 of 1951), s. 4 and III Sch., for “1850”.
+    note: Subs. ibid., for “British Indian”.
+    note: Subs. ibid., for”1871”.
+    note: Subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s. 3 and IInd Sch., for “the Provinces” which was subs. by A. O., 1949, Sch., for “British India”.
+    note: Subs. by the Federal Laws (Revision and Declaration) Act, 1951 (26 of 1951), s. 4 and III Sch., for “1852)”.
+    note: Subs. ibid., for “British India”.
+    note: Subs. ibid., for “1873”.
+    note: Subs. ibid., for “1850”.
+    note: Subs. ibid., for “1868”.

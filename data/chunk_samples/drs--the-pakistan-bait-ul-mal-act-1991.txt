@@ -1,0 +1,216 @@
+The Pakistan Bait-ul-Mal Act, 1991
+{"title": "The Pakistan Bait-ul-Mal Act, 1991", "instrument_type": "Act", "text_source": "native", "chars": 14210, "method": "provisions", "contents_entries": 0, "provisions": 23, "problems": [], "read_by_model": true, "chunks": 29, "largest_chunk": 2154}
+
+====================================================================================================
+#0 | card  | 1372 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Overview
+The Pakistan Bait-ul-Mal Act, 1991 (Act, 1992, Federal).
+This Act establishes the Bait-ul-Mal fund to provide financial assistance to destitute and needy persons such as widows, orphans, and invalids. The fund is administered by a Board of Management appointed by the Federal Government. Sources of financing include tax receipts, grants, voluntary donations, and income from property sales. The Act also provides for tax deductions on donations made to the fund and outlines the purposes for which the money can be utilized, including medical treatment, education, and self-employment schemes.
+Subjects: Bait-ul-Mal fund, financial assistance for needy persons, Board of Management, tax deductions for donations, medical treatment for indigent sick, educational stipends, self-employment schemes.
+Provisions: 2. Definitions; 4. Administration of Bait-u-Mal; 6. Appointment of the office of the Chairman (Ameen) and Members; 7. Remuneration and terms and conditions of service of Chairman and Members; 8. Oath of office,e tc; 9. Powers of Chairman; 10. Incorporation of Bait-ul-Mal; 11. Head Office of the Board; 12. Administrative control over the Board; 14. Meetings of the Board; 16. Recruitment and terms and conditions of service and disciplinary powers; 18. Audit; 19. Annual Statement of Accounts; 20. Submission of Annual Reports and Statemenis etc; 22. Delegation
+
+====================================================================================================
+#1 | preamble  | 124 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Title and preamble
+M-302 REGISTERED No.
+L7646 Che Gazette of akistan EXTRAORDINARY PUBLISHED BY AUTHORITY ISLLAMABAD, TUESDAY. JANUARY 14, 1992
+
+====================================================================================================
+#2 | passage  | 957 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations
+NATIONAL. ASSEMBLY SECRETARIAT Islanabad. the l4th January, 1992 The following Act of Majlis-e-Shoora (Purliameat) received the assent of the President on the 6th January. 1992, and is hercby published for general information.
+ACT NO, IO F 1992 An Aet to provide for estublisiment af a Bait-u-Mal WHEREAS it is the duty of the State to provide for basic necessitics of life such as food, clothing, housing, education and medical relief for all citizens, irrespective of their sex. ciavle. creed or race, who are permanently or temporarily unable to earn their livelihood on account of sickness or umemployment or cirçumstances beyond their control:
+AND WHEREAS it is cxpedient to establish a Bait-ul- Mul fund for providing ussistance to destitute and needy widows, orphans, invalid, infim and such other persons, und thercby save them from hardshipand suffering and to enable them to lead an honourable life in the society:
+It is hereby enacted as lollows:
+
+====================================================================================================
+#3 | section 1 | 214 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations — Chapter I: Preliminary — Section 1
+I. Short title, extent and comncncement.)) This Act may be called the Pakistan Buit-ul-Mul Act. 1991.
+(2) It shall extend to the whole of Pakistan.
+() (2523 Ex. Gaz.]
+2 IPART1 2
+(3) lt shall come into lore at oncc.
+
+====================================================================================================
+#4 | section 2 | 492 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations — Chapter I: Preliminary — Section 2: Definitions
+2. Definitions,-In this Act, unless tihere is anything repugnant in the subject or context,(cid:19)
+(a) "Bait-ud-Mul" mcans the welfare fund to be called Bait-ul-Ma.
+cstablishd under Ntn 3;
+(b) "Board" ncans the Board of Management of Bair-ul-Mal constituted under section S for the administration of the Buit-ul-Mal:
+(c) "Chairman (Amcen)'" means the Chairmua (Amcen) of the Board:
+(d) "Member" means a member of the Bourd: and
+(c) "Prescribed" means prescribed by rules made under this Act.
+
+====================================================================================================
+#5 | passage  | 71 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations — Chapter II
+Establishment of Bait-ul-Mal,-0) The Federal Government shall establish
+
+====================================================================================================
+#6 | section 3 | 798 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations — Chapter II — Section 3
+3, a tund to be known as Bait-ul-Mal.
+(2) The Bait-ut-Mal shall be financed from the following sources, namely:
+(a) transfer of receipts from tax evied for this purpose;
+(b) grants from the Federal Government, Provincial Governments, local authorities, national organizations and international agencies:
+(e) volunlary donations. including sadqut und atiyyar by individuals.
+societies, bodies, institutions or organizations; and
+(d) sale of propcrty of the Bait-ul-Mal, whether movable or immovable, and income from such property, investments and other asseis.
+(3) In determining the tax liabiluy of an asscssee for an assessTment year under the Income Tax Ordinance, I979 (XXXIo f 1979), his taxable income shall be reduced by the amount paid by him as donation under clause (c) of sub-section (2).
+
+====================================================================================================
+#7 | section 4 | 404 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: Acts, Ordinances, President's Orders and Regulations — Chapter II — Section 4: Administration of Bait-u-Mal
+4. Administration of Bait-u-Mal.The Bait-ub-Mal shall be adninistered by the Board and the moneys in the Bait-ul-Mal shall be utilized for the following purposes namely:
+(a) to provide financial assistance to destitute and needy widows, orphans.
+invalid. infirm and other needy persons;
+(b) for rendering help for rehabilitation of the persons specified in clause (a) in various professions or vocalions;
+
+====================================================================================================
+#8 | passage  | 932 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: The Gazeite of Pakistan, Extra.. Jan. 14, 1992 3
+(c) to provide assistancc to the children of the persons specified in clause (a) for educational pursuits:
+() o provide residential accommodation and necessary facilities to the persons specified in clause (a);
+(e) to provide for free medical treatment for indigent sick persons and to set up free hospitals. poor houses and rehabilitation centres and to give financial aid to charitable institutions, including industrial homes and other educational institutions established specially for the poor and needy:
+()t o provide stipends to educated youth during their Iraining belore Ihen employment in jobs:
+(g) to provide stipends and financial assinlance lo hrilliant hu poor students nho cannot aflurd o cqutre hngher technical or medical cducation abroad for lack of money:
+(h) to sponisor and promote self-employment scheme: and
+(i) any other purpose approved by the Board having regard to the aims and objects of the Bait-ul-Mal.
+
+====================================================================================================
+#9 | section 5 | 441 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: The Gazeite of Pakistan, Extra.. Jan. 14, 1992 3 — Chapter III: Constitution of the Board of Management — Section 5
+5, Board of Managenent for Bait-u-MalH)) The Federal Government shall, by notification in tbe official Gazette. constitute a Board of Management for administration of the Bait-ut-Mal.
+(2) The Board Shallc onsist of
+(i) Chairman (Ameen) and ive non-oficial Members, to be appointed by the Federal Government:
+(üi) a representative of the Central Zakat Council: and
+(iä) Two officials of the Federal Government nominated by the Prime Minister.
+
+====================================================================================================
+#10 | section 6 | 461 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: The Gazeite of Pakistan, Extra.. Jan. 14, 1992 3 — Chapter IV: Term of Office of Chairman and Members — Section 6: Appointment of the office of the Chairman (Ameen) and Members
+6 Appointment of the office of the Chairman (Ameen) and Members,-The Chairman and Members of the Board. other than er-oflicio Members, shall be appointed from amongst Ulama, social workers. jurists, elected representatives and persons well-versed in Islamic Law and Jurisprudence who enjoy good reputation for honesty. integrity and devotion to Islamic ldeology and who genuinely believe in. and practise. moral values as cnjoined by thc Injunctions of Islam.
+4
+
+====================================================================================================
+#11 | section 7 | 2154 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: The Gazeite of Pakistan, Extra.. Jan. 14, 1992 3 — Chapter IV: Term of Office of Chairman and Members — Section 7: Remuneration and terms and conditions of service of Chairman and Members
+7. Remuneration and terms and conditions of service of Chairman and Members.,-(1) Unless the Chairman (Amcen) or a non-official Member cects to hold his respective office in honorary capacity. he shall receive such salary and allowances and be subjcct to such terms and conditions of service as may be prescribed and shall perform such duties as are assigned to him under this Act or the rules framed thereunder.
+(2) The term of the office of the Chairman (Amccen) shall b five ycars and that ofa Member thrce years and shall be eligible for re-appointment for another term or for such shorter term, as the Federal Government may determine.
+(3) The Chairman (Ameen) or a non-official Member may, by writing under his hand addressed to the Federal Government, resign his offive:
+Provided that the resignalion shall not take effect until accepted by the Federal Government.
+(4) In thc case of a Member. the resignation shall be submitted to the Federal Government through the Chairman (Ameen).
+(5) Any vacancy in the office of the Chairman (Ameen) or Member shall be illed by appointment or as the case may be. by nomination, in accordance with the provisions of sections S and 6.
+(6) The Chairman (Ameen) or any Member nominaled under sub-section (5).
+shall hold office for the unexpired term of his predecessor.
+(7) Where after such inquiry as it may deem fit, the Federal Governmenl is of the opinign that the Chairman (Ameen) or a Member is guilly of misconduct or has become incapable of properly performing the official duties of his office by reason of physical or mental incapacity or has been declared insolvent. it may remove him from office after giving him an opportunity of showing cause against thc action proposed to be taken.
+(8) Where after such inquiry as he may deem fit. the Chairman (Ameen) is of the opinion that a non-official Member is guilty of misconduct or has become incapable of property performing the official duties of his office by reason of physical oT mental incapacity or has been declared insolvent, he may remove him from offiee after giving him an opportunity of showing cause against the action proposed to be taken.
+
+====================================================================================================
+#12 | section 8 | 419 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I: The Gazeite of Pakistan, Extra.. Jan. 14, 1992 3 — Chapter V: Oath of Office by Chairman, Members — Section 8: Oath of office,e tc
+8. Oath of office,e tc.-I) Before entering upon oflice, the Chairman (Ameen) and a non-official Member of Board shall take and sign an oath in the form appended to this Act..
+(2) Every officer and servant of the Board shall be requircd to take an oath in the form to be prescribed by thc Board.
+(3) The written and signcd oaths shall be placed on the personal files of the licers and servants maintaincd in this behalf.
+
+====================================================================================================
+#13 | section 9 | 397 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VI: Powers of the Chairman — Section 9: Powers of Chairman
+9 Powers of Chairman.(1) Until such time the Board is constituled the Chairnan (Ameen) shall exercise all administrative. financial and other powers of the Board under this Act:
+Provided that, when the Board is constituted, every appointment made or ad1ministrative or inancial powers cxercised by the Chairman (mcen) shall be reported to the Board, without unnecessary delay. for its information.
+
+====================================================================================================
+#14 | section 10 | 218 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VII: Bait-ul-mal to Be a Body Corporate — Section 10: Incorporation of Bait-ul-Mal
+10. Incorporation of Bait-ul-Mal.-The Bait-ul-Mal Shall be a body corporate.
+shall be cntitled to acquire and hold property, shall have perpclual succession and a common scal and shall by the said name sue and be sucd.
+
+====================================================================================================
+#15 | section 11 | 116 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VII: Bait-ul-mal to Be a Body Corporate — Section 11: Head Office of the Board
+1I, Head Oice of the Board.The Head Office of the Board shall be at such placc as may be notificd by the Government.
+
+====================================================================================================
+#16 | section 12 | 136 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VII: Bait-ul-mal to Be a Body Corporate — Section 12: Administrative control over the Board
+12. Administrative control over the Board.1The Board shall be under the direct administrative control of the prime Minister of Pakistan.
+
+====================================================================================================
+#17 | passage  | 562 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VIII: Conduct of Business
+conduct 1 3 i . t s b C u o s n in d e u s c s t a o n f d B r u e s g i u n l e a s t s e o i f t s t h p e r o B ce o c a di r n d gs . ) a T s h m e ay B b o e a r p d r e s s h c a r l i l b c h d av b e y th it e . f p r o o w m e r ti s m to e to time.
+provinc ( i 2 a ) l . F D or i v t i h si e o n s a m l. oo D th is t c ri o c n t du o c r t o o th f e i r ts s b p u c s c i i n a e l ss C . o t m he m B itt o e a e r s d o m r ay s ub ap -c p o o m in m t i s tt u e c e h s consisting of such members as may bc prescribed by it, from time to lime.
+
+====================================================================================================
+#18 | section 14 | 882 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter VIII: Conduct of Business — Section 14: Meetings of the Board
+14. Meetings of the Board.T)h e Board shall meet at such timc and place and in such manner as may be prescribed by regulations:
+vonvene P d r o b v y i d t e h d e th C a h t ai u r n m ti a l n r e ( g A u m la c ti e o n n ) s . are made in this behalf. such mcetings shall he
+(2) The Chairman (Ameen) and five members, or in his absence, not less than six Members shall be present to constitute a quorum at a meeting of the Board:
+Provided that if a meting of the Board is not held for want of the required quorum, it will be postponcd to a subscqucnt date and the postponed meeting may be held without the required quorum, but writen notice to this efTect shall be sent to al Members of the Board.
+(3) During the absence abroad or on leave of the Chairman (Ameen) he nnay nominate a Member convene and preside over the mectings of the Board to i(cid:17)spose of urgent business.
+
+====================================================================================================
+#19 | section 15 | 292 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter 1X — Section 15
+15. Employment of officersa nd servsnts,The Board may, as the case may be, employ such officers and servants or appoint such experts, consultants or advisers, from timc to time as it may consider necessary for the performance of its functions, on such terms and conditions as it may deem fit.
+
+====================================================================================================
+#20 | section 16 | 264 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter 1X — Section 16: Recruitment and terms and conditions of service and disciplinary powers
+I6. Recruitment and terms and conditions of service and disciplinary powers.-The Board shall prescribe the proccdure for appointment and terms and conditions of service for its officers and scrvants, and shall be competent to take disciplinary action against them.
+
+====================================================================================================
+#21 | section 17 | 224 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter X: Accounts and Audit — Section 17
+17. Maintenance of Accoants.The Board shall maintain complete and acçurate books of açcounts in connection with the discharge of its responsibilities and those delegatcd by it to its officers and staff, as may be prescribed.
+
+====================================================================================================
+#22 | section 18 | 255 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter X: Accounts and Audit — Section 18: Audit
+18. Audit)T he accounts of Bait-ul- Mal shall be audited every year by the Auditor-General of Pakistan in such manner as may be preseribed by the Federal Government.
+(2) A copy ofthe Audit Report shall be sent to the Board for comments ad remedial action.
+
+====================================================================================================
+#23 | section 19 | 233 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter X: Accounts and Audit — Section 19: Annual Statement of Accounts
+19. Annual Statement of Accounts,--In the month of January cach year, the Board shall submit to the Federal Government, for approval, a stalement of cstimated receipts and expenditures in respect of the next financial year.
+7 PART I)
+
+====================================================================================================
+#24 | section 20 | 704 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter X: Accounts and Audit — Section 20: Submission of Annual Reports and Statemenis etc
+20. Submission of Annual Reports and Statemenis etc. Annual Report.H)) As soon as possible. the Board shall suomit to the Federal Government, after the end of every financial year but before the last day or' September next following. a report on the conduct of its alfairs during the year.
+(2) Ac opy of the report referred to in sub-section (|) together with a copy of the audit report referred to in section 18 shall be placed by the Federal Government before the Naional Assembly.
+(3) The Federal Governrnent may call upon the Board to supply any intormation or staicments pertaining to its responsibilitics under this Act, and the Board shall comply with such requircments, without unnecessary delay.
+
+====================================================================================================
+#25 | section 21 | 265 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter XI: Miscellaneous — Section 21
+21. Imaonity.() The Chairnan (Ameen), Members/oficers, and servants of the Board shall, when acting or purporting to Act, in pursuance of any of the provisions of this Act, be deemed to be public servants within the mcaning of section 21 of the Pakistan Penal Code.
+
+====================================================================================================
+#26 | section 22 | 264 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter XI: Miscellaneous — Section 22: Delegation
+22. Delegation.--After the Board hás been constituted. it may, by general or special order, delegate to the Chairman, Member or an officer of the Board, any of its powers, duies or functions, under this Act, subject G such conditions as it may think fit to impose.
+
+====================================================================================================
+#27 | section 23 | 90 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter XI: Miscellaneous — Section 23
+23. Rules,-The Federal Governmen may make rules for carrying out the purposcs of this Act.
+
+====================================================================================================
+#28 | section 24 | 1329 chars
+The Pakistan Bait-ul-Mal Act, 1991 — Part I — Chapter XI: Miscellaneous — Section 24
+24. Regulatious,-The Board may, with thé approval of the Federal Government, make regulations not inconsistent with rules for conduct of its business and its mneetings.
+8 IPART FORM (See scction 8) (ln the name of Allah, the most Beneficient and most mereiful -, do solemnly swear that I shall bear true aith and allegiance to Pakistan:
+That as Chairman (Amcen)/Member of the Board of Management of Bait-ut Mal, I will discharge my duties and perform ny functions honestly. faithfully and to the best of my ability. in accordance with the laws of the Islamic Republic of Pakistan.
+and without fear or favour, aflection or il-will That I will allow no personal interest to influence my official conduct or my official decisions.
+That I shall do my best to discharge my responsibilities in the best interest of Pnkistan, with a vicw to carrying out the aim_ and objects for which the Buit-u-Mat has been sct up.
+That I will not directly or indirectly communicate or reveal to any person any matler which will comc to my notice for consideration as Chairman (Ameen); Member of the Board of Management of Buit-u-Mal.
+May Allah Almighty help and guide me (Aa'meen).
+(Signature) K. A. GORAYA.
+Secretary General.
+PRINTED BY.THE MANAGER, PRINTING CORPORATION OF PAKISTAN PRESS, ISLAMABAD PUBLISHED BY THE MANAGER OF PUBLICATIONS, KARACHI

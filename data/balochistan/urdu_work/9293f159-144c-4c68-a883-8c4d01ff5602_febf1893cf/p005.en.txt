@@ -1,0 +1,25 @@
+6
+
+The Registrar shall issue the certificate in the prescribed manner.
+(2) For a delay of more than sixty (60) days, the birth registration certificate shall be issued upon payment of a fee of three hundred (300) rupees.
+(3) For a delay of ten (10) to twenty (20) years, the birth registration certificate shall be issued upon payment of a fee of five hundred (500) rupees.
+(4) For a delay of more than twenty (20) years, the birth registration certificate shall be issued upon payment of a fee of one thousand (1000) rupees.
+
+Schedule of Birth Registration Fees:
+
+| Serial No. | Type | Period | Responsibility | Required Time | Fee |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | New Registration | 60 days | Registrar's Responsibility | 3 days | 100 Rupees |
+| 2 | Late Registration | 61 days to 10 years | Clinic or Hospital Responsibility | 7 days | 300 Rupees |
+| 3 | After Due Date | More than 10 years to 20 years | Clinic or Hospital Responsibility, for registration after due date | 20 days | 500 Rupees |
+| | | From 20 years | Relevant Staff, Clinic or Hospital Responsibility, for registration after due date | | |
+| | | | | | |
+| 4 | After Due Date | More than 20 years | By entering with the applicant's documents | | 1000 Rupees |
+
+(5) The prescribed fee includes all other fees. However, in case of any increase in the prescribed fee, the applicant shall be bound to pay the additional fee.
+
+(8) It is necessary to convert manual birth certificates into computerized registration certificates.
+To convert previously issued manual birth certificates into computerized registration certificates, after verification of the medical operation and medical training certificate from the patient's card, it shall be issued with the approval of the relevant council's standards and committee. And a certificate for computerized birth registration shall be issued upon payment of a fee of five hundred (500) rupees.
+
+(9) Procedure for Registration of Orphans:
+In such cases where children are found to be orphans and there is no information regarding their parents, and they are in the custody of any institution, company, or a trustworthy person, then in such a case, after the legal appointment of a guardian, they shall be registered, in which the name of the guardian shall be entered along with other details.

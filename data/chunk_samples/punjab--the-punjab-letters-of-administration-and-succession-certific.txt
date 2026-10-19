@@ -1,0 +1,115 @@
+The Punjab Letters of Administration and Succession Certificates Rules, 2021
+{"title": "The Punjab Letters of Administration and Succession Certificates Rules, 2021", "instrument_type": "Rules", "text_source": "native", "chars": 10580, "method": "provisions", "contents_entries": 7, "provisions": 7, "problems": [], "chunks": 13, "largest_chunk": 1472}
+
+====================================================================================================
+#0 | card  | 1058 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Overview
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 (Rules, 2021, Punjab).
+These rules were made under the Punjab Letters of Administration and Succession Certificates Act, 2021 to regulate the application process for Letters of Administration or Succession Certificates. They outline requirements for applications, including death certificates, heir lists, and authorization forms, as well as procedures for summary enquiries and public notice publication. The rules also cover fees, costs, bio-metric verification of legal heirs, and the issuance of duplicate or amended certificates.
+Subjects: Letters of Administration, Succession Certificates, Legal Heirs, Fee Structure, Bio-metric Verification, Application Process, Duplicate Documents, Notice Publication.
+Provisions: 1. Short title and commencement; 2. Definitions; 3. Application for Letter of Administration or Succession Certificate; 4. Summary enquiry; 5. Publication of notice; 6. Duplicate or amended Letter of Administration or Succession Certificate; 7. Fee and cost
+
+====================================================================================================
+#1 | preamble  | 409 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Title and preamble
+SCHEDULES
+1. Schedule I
+2. Schedule II
+3. Schedule III
+4. Schedule IV GOVERNMENT OF THE PUNJAB LAW AND PARLIAMENTARY AFFAIRS DEPARTMENT Dated, Lahore 16 June 2021 NOTIFICATION No. Legis: 5-6/2021/3302.- In exercise of the powers conferred under section 13 of the Punjab Letters of Administration and Succession Certificates Act 2021 (IX of 2021), Governor of the Punjab is pleased to make the following rules:
+
+====================================================================================================
+#2 | rule 1 | 182 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 1: Short title and commencement
+1. Short title and commencement.- (1) These rules may be cited as the Punjab Letters of Administration and Succession Certificates Rules 2021.
+(2) They shall come into force at once.
+
+====================================================================================================
+#3 | rule 2 | 606 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 2: Definitions
+2. Definitions.- In the rules, unless the subject or context otherwise requires:
+(a) “Act” means the Punjab Letters of Administration and Succession Certificates Act 2021 (IX of 2021)
+(b) “applicant” means a person authorized to make an application under section 6 of the Act;
+(b) "property" includes movable and immovable property;
+(c) “rules” means the Punjab Letters of Administration and Succession Certificates Rules 2021; and
+(d) “Schedule” means the Schedule appended to the rules.
+(2) A word and expression used but not defined in the rules shall have the same meaning as assigned to it in the Act.
+
+====================================================================================================
+#4 | rule 3 | 754 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 3: Application for Letter of Administration or Succession Certificate
+3. Application for Letter of Administration or Succession Certificate.- An application for grant of Letter of Administration or Succession Certificate may be made by the applicant, at any notified office of the Authority, in the form set out in Schedule I, along with the following documents:
+(a) death certificate of the deceased;
+(b) list of the legal heirs and copies of their National Identity Cards which may include a CNIC, NICOP or any such instrument issued by the Authority;
+(c) an authorization in the form set out in Schedule I by the legal heirs in favour of the applicant; and
+(d) documentary evidence of ownership of immovable and movable properties in respect of which the Letter of Administration or Succession Certificate is applied for.
+
+====================================================================================================
+#5 | rule 4 | 320 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 4: Summary enquiry
+4. Summary enquiry.- (1) Upon receipt of an application, the Authority may require from the applicant, such evidence, documentary or otherwise, or may make such enquiries as it deems fit.
+(2) In case of any factual controversy, the Authority shall decline to process the application and inform the applicant accordingly.
+
+====================================================================================================
+#6 | rule 5 | 1051 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 5: Publication of notice
+5. Publication of notice.- (1) Where there is no factual controversy involved, a notice shall be published on the web portal of the Authority and in one English language and one Urdu language daily newspaper of wide circulation for inviting objections from the general public.
+(2) Where no objection or claim is received within fourteen days of the publication of notice, the Authority shall require the applicant and all legal heirs to appear in person, in any of its notified offices, for bio-metric verification.
+(3) Where bio-metric of a legal heir is not verified, the Authority may require the legal heir to appear before it in person on a date fixed by the Authority or it may resort to any other modern device with a view to satisfy itself as to the identity of any legal heir.
+(4) Upon verification, if the Authority is satisfied, it may issue the Letter of Administration or the Succession Certificate, as the case may be, in favour of the applicant and the legal heirs, in the forms mentioned under Schedules II and III, as the case may be.
+
+====================================================================================================
+#7 | rule 6 | 1359 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 6: Duplicate or amended Letter of Administration or Succession Certificate
+6. Duplicate or amended Letter of Administration or Succession Certificate.- (1) The Authority may, for any Letter of Administration or Succession Certificate which is lost, stolen, destroyed or damaged, issue a duplicate Letter of Administration or Succession Certificate to the applicant.
+(2) For the purposes of sub-rule (1), in case of lost or stolen Letter of Administration or the Succession Certificate, a copy of police report or FIR, as the case may be, reporting such fact shall be submitted to the Authority and in case of a destroyed or damaged Letter of Administration or Succession Certificate, the original instrument shall be surrendered to the Authority.
+(3) In case of an error, a Letter of Administration or Succession Certificate may be amended by making an application to the Authority, which may, subject to surrender of the original Letter of administration or the Succession Certificate, issue an amended Letter of Administration or the Succession Certificate, as the case may be.
+(4) For the purposes of issuing a duplicate or amended Letter of Administration or Succession Certificate, the Authority may conduct an enquiry or require from the applicant such evidence as it may deem fit.
+(5) A duplicate or amended Letter of Administration or Succession Certificate shall be issued upon payment of such fee as provided in Schedule IV.
+
+====================================================================================================
+#8 | rule 7 | 1023 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Rule 7: Fee and cost
+7. Fee and cost.- (1) The Authority shall charge fee and other charges for its services as specified in Schedule IV.
+(2) The Authority shall make necessary arrangements for the collection of fee and other charges and may collect, or cause to be collected for issuance of the Letter of Administration or Succession Certificate at any time prior to or along with the deposit of application, as it may deem fit.
+(3) The Authority may adopt any mode or manner for collection of the fee and other charges as it may deem fit for achieving efficiency and facilitating the deposit and collection of fee and other charges by and from the applicant.
+(4) If an application is declined due to factual controversy or upon objection of any person or due to any dispute at the stage of verification, fees and other charges, if any, collected by the Authority, shall be refunded to the applicant after deducting the processing charges as specified in Schedule IV.
+SECRETARY GOVERNMENT OF THE PUNJAB LAW AND PARLIAMENTARY AFFAIRS DEPARTMENT
+
+====================================================================================================
+#9 | schedule  | 1206 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Schedule I — part 1 of 2
+(Rule 3) LETTER OF AUTHORIZATION FOR LETTER OF ADMINISTRATION / SUCCESSION CERTIFICATE
+1. I___________ S/D/W of _________ bearing CNIC/NICOP No.________________ do hereby state on oath that the legal heirs mentioned below have authorized the undersigned to act on their behalf for the purpose of filing the application for the grant of Succession Certificate/Letter of Administration in respect of movable/immovable properties (mentioned below) of the deceased Mr/Mrs/Miss/Ms. ______________ S/D/W of _____________ bearing CNIC/NICOP
+2. The details of movable/immovable properties and the legal heirs are given below:
+(a) Details of movable/immovable properties NB: In the case of immovable properties, the address and area of the property is to be mentioned, while in case of movable assets, such as a bank account. The account number is to be mentioned. In case of co-ownership, the percentage or fraction of ownership in the asset is to be mentioned
+(b) Legal heirs details (include all legal heirs) Sr Name CNIC Relation Relation Religion Sect Cell E- Share of Signature Address No. /NICOP with with No. mail legal No. applicant deceased heirs in the assets e.g. (1-2 of total or 2/3 of remaining etc.)
+
+====================================================================================================
+#10 | schedule  | 1472 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Schedule I — part 2 of 2
+3. I _____________ the above named applicant do hereby state on oath and declare that the list of legal heirs and details of the assets provided by me are true and correct to the best of my knowledge and belief and nothing has been concealed.
+Sign/ Thumb impression of Applicant Attested by Oath Commissioner Schedule II (Rule 5) LETTER OF ADMINISTRATION (Issued under the Punjab Letters of Administration and Succession Certificates Act 2021) It is certified that ________ S/D/W ___________ bearing CNIC/NICOP No.______________ applied on ______________ for issuance of Letter of Administration regarding immovable properties mentioned below, as left by the deceased Mr/Mrs/Miss/Ms. ______________ S/D/O __________ bearing CNIC/NICOP No. ________________ in favour of the legal heirs mentioned hereunder:—
+Sr # Details of immovable properties 1 2 Details of Legal heirs of the deceased and their shares (according to the Personal Law of the deceased) are as under:
+Legal heirs details Sr # Name CNIC /NICOP No. Relation with Deceased Share 1 2 This Letter of Administration is accordingly granted in favour of_______and empowers him/her________ to further distribute the above mentioned properties, among the legal heirs mentioned aforesaid.
+Dated this day of This certificate is issued on the basis of information provided by applicant (s) and after fulfilling legal formalities under the provision of the Letters of Administration and Succession Certificates Act, 2020.
+
+====================================================================================================
+#11 | schedule  | 1148 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Schedule III
+(Rule 5) SUCCESSION CERTIFICATE (Issued under the Punjab Letters of Administration and Succession Certificates Act 2021) It is certified that _________ S/D/W ___________ bearing CNIC/NICOP No.______________ applied on ______________ for issuance of Succession Certificate in respect of movable properties mentioned below, as left by the deceased Mr/Mrs/Miss/Ms. ______________ S/D/O of bearing CNIC/NICOP No.
+________________ in favour of the legal heirs mentioned hereunder:
+Sr # Details of movable properties 1 2 Details of Legal heirs and their respective shares (according to the Personal Law of deceased) are as under:
+Legal heirs details Sr # Name CNIC /NICOP No. Relation with Deceased Share 1 2 This Succession Certificate is accordingly granted in favour of and empowers him/her to collect movable properties of the deceased mentioned above and distribute them among the legal heirs mentioned aforesaid.
+Dated this day of This certificate is issued on the basis of information provided by the applicant and after fulfilling legal formalities under the provision of the Punjab Letters of Administration and Succession Certificates Act 2021.
+
+====================================================================================================
+#12 | schedule  | 665 chars
+The Punjab Letters of Administration and Succession Certificates Rules, 2021 — Schedule IV
+(Rule 7) Fee and Cost
+(1) Following fee shall be paid by the applicant at the time of filing an application under rule 3 and 6 respectively:
+(a) For initial Application (i) Rs. 20, 000/-(In case value of the property is more than Rs. 100,000/-)
+(ii) Rs. 10, 000/-(In case value of the property is less than Rs. 100,000/-)
+(b) For application of Rs. 5,000 duplicate or amended letter of administration or succession certificate
+(2) Fee mentioned above may be paid through pay order or demand draft or a bank challan in favour of the Authority or any other mode as the Authority may deem fit.
+(3) An applicant shall be refunded Rs. 5,000/- if application is declined.

@@ -1,0 +1,21 @@
+(و) Vehicles with a maximum carrying capacity of 2,030 kilograms, but not exceeding 2,090 kilograms.
+220
+(ڈ) Vehicles with a carrying capacity exceeding 1,090 kilograms, but not exceeding 1,090 kilograms.
+1320
+(ڈ) Vehicles with a carrying capacity exceeding 1,090 kilograms, but not exceeding 8,120 kilograms.
+1830
+(ر) Vehicles with a maximum carrying capacity of 1,830 kilograms.
+1830
+132
+(ڑ) Vehicles for hire and for extraordinary use for the transport of passengers (taxis and buses) which are normally limited to a corporation, a village, or a settlement.
+(الف) Trade car 14/90
+(ب) Other vehicles in which more than 10 persons are carried 310/08
+(ج) Other vehicles in which more than 10 persons are carried, but not exceeding 19 persons 392
+(د) Other vehicles in which more than 2 persons are carried per seat 555
+(ڈ) Vehicles which are mechanically powered, rickshaws, camels, vehicles which do not carry more than 10 persons.
+475
+Vehicles which are for hire and are normally used for the transport of passengers (taxis and buses) which are not completely limited to a village or a settlement.
+(الف) Trade car 40/90
+(ب) Other vehicles in which more than 10 persons are carried, but not exceeding 380/80
+(ج) Other vehicles in which more than 10 persons are carried, but not exceeding 19 persons 392
+(د) Other vehicles in which more than 2 persons are carried per seat 13/80

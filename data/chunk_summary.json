@@ -1,0 +1,67 @@
+{
+ "by_source": {
+  "pakistancode": {
+   "laws": 1020,
+   "chunks": 43468
+  },
+  "drs": {
+   "laws": 3840,
+   "chunks": 87206
+  },
+  "punjab": {
+   "laws": 2058,
+   "chunks": 69710
+  },
+  "kp": {
+   "laws": 551,
+   "chunks": 15079
+  },
+  "balochistan": {
+   "laws": 860,
+   "chunks": 24686
+  },
+  "sindh": {
+   "laws": 872,
+   "chunks": 30124
+  }
+ },
+ "generated_at": "2026-10-18T22:44:00Z",
+ "laws": 9201,
+ "chunks": 270273,
+ "laws_by_method": {
+  "provisions": 6097,
+  "whole": 1850,
+  "passages": 1254
+ },
+ "laws_structured_with_the_model": 316,
+ "chunks_by_unit": {
+  "section": 137616,
+  "passage": 43872,
+  "rule": 33267,
+  "schedule": 20898,
+  "regulation": 9403,
+  "card": 9201,
+  "preamble": 6470,
+  "article": 4410,
+  "paragraph": 3028,
+  "document": 1850,
+  "contents": 130,
+  "notes": 128
+ },
+ "chunk_chars": {
+  "median": 881,
+  "p10": 218,
+  "p90": 1814,
+  "p99": 2165,
+  "largest": 2999,
+  "under_200": 21199,
+  "over_2600": 256
+ },
+ "laws_with_problems": {
+  "no numbered provisions found": 678,
+  "N numbers are missing between provisions N and N": 487,
+  "the contents list N provisions; N were found": 174,
+  "the table of contents could not be followed; provisions found by counting": 34,
+  "over a third of the text was read as footnotes": 4
+ }
+}

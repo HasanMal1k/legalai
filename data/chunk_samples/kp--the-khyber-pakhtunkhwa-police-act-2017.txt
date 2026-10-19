@@ -1,0 +1,1464 @@
+The Khyber Pakhtunkhwa Police Act, 2017
+{"title": "The Khyber Pakhtunkhwa Police Act, 2017", "instrument_type": "Act", "text_source": "native", "chars": 135678, "method": "provisions", "contents_entries": 144, "provisions": 144, "problems": [], "chunks": 167, "largest_chunk": 2078}
+
+====================================================================================================
+#0 | card  | 1793 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Overview
+The Khyber Pakhtunkhwa Police Act, 2017 (Act, 2017, Khyber Pakhtunkhwa).
+The Khyber Pakhtunkhwa Police Act, 2017 consolidates and amends the law regarding police administration in the province. It establishes various bodies including Public Safety Commissions at provincial, capital city, and district levels, as well as Regional Police Complaint Authorities. The Act outlines the constitution, organization, appointment, duties, and discipline of the police force, while also providing powers for maintaining public order and regulating assemblies.
+Subjects: police powers, public order, police establishment, discipline, complaint authorities, licensing, assemblies, oaths.
+Provisions: 1. Short title, extent and commencement; 2. Definitions; 3. Attitude and responsibilities of police towards the public; 4. Duties of police; 5. Emergency duties of police with regard to essential services; 6. Police Establishment for the Province; 7. Constitution of the Police Establishment; 8. Superintendence of the Police; 9. Powers of the Chief Minister; 10. Police Policy Board; 11. Administration of Police.]; 12. Administration of Police in a district and Unit; 13. Police Establishment to be organized on functional basis; 14. Constitution of regions and divisions etc; 15. Posting of Provincial Police Officer; 16. Term of office of Provincial Police Officer; 17. Powers and functions of the Provincial Police Officer; 18. Powers of Provincial Police Officer, concerning police accounts; 19. Posts of Additional Inspector General of Police; 20. Posts of Deputy Inspector General, Assistant Inspector General,; 21. * * * *.]; 22. Responsibilities of Head of District Police; 23. Responsibility of Capital City Police Officer; 24. * * * *.]; 25. Posting and functions of Head of Investigation; ...
+
+====================================================================================================
+#1 | preamble  | 1051 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Title and preamble
+WHEREAS in pursuance of the Constitution of the Islamic Republic of Pakistan and the laws in force in the Province of the Khyber Pakhtunkhwa, the Police has an obligation to perform its duties and functions in an efficient manner for prevention and detection of crime and maintenance of public order;
+AND WHEREAS it is expedient to make the police apolitical and accountable to the people through democratic institutions and civilian oversight bodies;
+AND WHEREAS in order to maintain effective internal discipline, achieve high performance standards and ensure across the board service delivery, it is expedient to give operational, administrative and financial autonomy to Police;
+AND WHEREAS it is expedient to reconstruct and regulate the Police in order to be responsible, service oriented and responsive to effectively uphold and enforce laws, maintain public order, protect the lives, properties and honour of the people, without any discrimination through modern proactive policing and community participation;
+It is hereby enacted as follows:
+
+====================================================================================================
+#2 | section 1 | 219 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter I: Preliminary — Section 1: Short title, extent and commencement
+1. Short title, extent and commencement.---(1) This Act may be called the Khyber Pakhtunkhwa Police Act, 2017.
+(2) It extends to the whole of the Province of the Khyber Pakhtunkhwa.
+(3) It shall come into force at once.
+
+====================================================================================================
+#3 | section 2 | 1653 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter I: Preliminary — Section 2: Definitions [(a) to (j)]
+2. Definitions.---(1)In this Act, unless the context otherwise requires,- 10 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(a) ‘Administration’ includes management of administrative, operational and financial functions;
+(b) ‘Capital City Police Officer’ means the head of police of the Capital City District, who is posted under section 21;
+(c) ‘Capital City District’ means City District of Peshawar;
+(d) ‘Code’ means the Code of Criminal Procedure, 1898 (Act V of 1898);
+(e) ‘cognizance’ means taking notice by an authority legally empowered to take action on its decision regarding a matter relating to police excess for remedial and corrective measures under this Act;
+(f) ‘Commission’ means the Provincial Public Safety Commission, Capital City District Public Safety Commission and District Public Safety Commission, as the case may be;
+(g) “direct” means a written order or instruction to a Police Officer issued by an authority empowered to direct under this Act and such directing authority shall be deemed to be an officer authorized under sub-section (2) of section 118 of this Act;
+(h) ‘District’ means a revenue estate notified under Khyber Pakhtunkhwa Land revenue Act, 1967;
+(i) "District Police Officer" means the head of police of a district posted under section 21;
+(j) “exigency of service”, in relation to posting and transfer, means an urgent or unforeseen situation which, for the reasons to be recorded in writing, requires premature transfer of a Police Officer for performance of specific tasks or duties but not as a replacement for what should be rightly treated as an efficiency and discipline matter;
+
+====================================================================================================
+#4 | section 2 | 1530 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter I: Preliminary — Section 2: Definitions [(k) to (a)]
+2. Definitions.---(1)In this Act, unless the context otherwise requires,- 10 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) [...]
+(k) “Government” means the Government of the Khyber Pakhtunkhwa;
+(l) ‘Head of District Police’ means a District Police Officer or a Capital City Police Officer, as the case may be;
+11 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(m) ‘Head of Unit’ means a police officer not below the rank of Superintendent of Police or any other officer heading a self contained administrative unit with operational and financial autonomy;
+(n) ‘junior ranks’ means members of the Police as provided in section 7 of this Act;
+(o) ‘person’ includes community, a company, or corporation;
+(p) ‘Place’ includes-
+(a) any building, tent, booth or other structure, whether permanent or temporary; and
+(b) any area, whether enclosed or open.
+(q) ‘place of public amusement’ means any place where music, singing, dancing or game or any other amusement, diversion, or recreation or the means of carrying on the same is provided etc., to which the public are admitted either on payment of money or with the intention that money may be collected from those admitted;
+(r) ‘place of public entertainment’ means any place of boarding and lodging to which public are admitted by any person owning, or having any interest in, or managing, such place;
+(s) ‘Police Officer’ means a member of the police, who is subject to this Act;
+(t) ‘Police or Police Establishment’ means the police referred to in section 6 of this Act and includes,-
+(a) all persons appointed as special police officers or additional police officers under this Act; and
+
+====================================================================================================
+#5 | section 2 | 1451 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter I: Preliminary — Section 2: Definitions [(b) to (gg)]
+2. Definitions.---(1)In this Act, unless the context otherwise requires,- 10 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) [...]
+(b) all other employees of the police.
+(u) ‘Province’ means the Province of the Khyber Pakhtunkhwa;
+(v) ‘Provincial Police Officer’ means the head of the Police for the Province posted under section 15 of this Act;
+(w) ‘prescribed’ means prescribed by rules made under this Act;
+12 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(x) ‘property’ means any moveable property, money or valuable security;
+(y) ‘public place’ means any place to which the public may have access;
+(z) ‘Regional Police Officer’ means Head of the police of a region;
+(aa) ‘rules’ means rules made under this Act;
+(bb) ‘Schedule’ means a schedule to this Act;
+(cc) ‘senior ranks’ means members of the Police as provided in section 7 of this Act;
+(dd) 'Station House Officer' means the officer incharge of a police station;
+(ee) ‘Street’ includes any highway, bridge, way, causeway, arch, road, lane, footway, square, alley or passage, whether or not it is a thoroughfare and to which the public have access, whether permanently or temporarily;
+(ff) 'Sub-Divisional Police Officer' means a police officer not below the rank of Assistant Superintendent of Police or Deputy Superintendent of Police, supervising one or more police stations;
+(gg) ‘Vehicle’ includes any conveyance of any description mechanically propelled or otherwise.
+(2) All references in respect of District Superintendent of Police in any law in force shall mean Head of District Police.
+
+====================================================================================================
+#6 | section 3 | 662 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter II: Responsibilities and Duties of Police — Section 3: Attitude and responsibilities of police towards the public
+3. Attitude and responsibilities of police towards the public.---It shall be the responsibility of every police officer to-
+(a) behave with the members of the public with due decorum and courtesy;
+13 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(b) promote amity in the society;
+(c) guide and assist members of the public particularly the poor, disabled or physically weak and children who are either lost or find themselves helpless on the streets or other public places;
+(d) aid individuals who are in danger of physical harm particularly women and children; and
+(e) protect life and property of minorities and their places of worship.
+
+====================================================================================================
+#7 | section 4 | 1635 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter II: Responsibilities and Duties of Police — Section 4: Duties of police [(a) to (o)]
+4. Duties of police.---(1)Subject to law, it shall be the duty of every police officer to-
+(a) protect life, property, honour and liberty of citizens;
+(b) detect, investigate and bring offenders to justice;
+(c) maintain public order and security;
+(d) preserve and promote public peace;
+(e) counter militancy and terrorism;
+(f) ensure that the rights and privileges, under the law, of a person taken in custody, are protected;
+(g) prevent the commission of offences and public nuisance;
+(h) collect and communicate intelligence affecting public peace and crime in general;
+(i) keep order and prevent obstruction on public roads and in the public streets and thoroughfares, at fairs and all other places of public resort and in the neighborhood of and at the vulnerable and sensitive places including places of public worship;
+(j) regulate and control traffic on public roads and streets;
+(k) take charge of all unclaimed property and to prepare its inventory;
+(l) provide information in the prescribed manner regarding unclaimed property, to prevent the abuse of such property;
+14 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(m) apprehend all persons whom he is legally authorized to apprehend and for whose apprehension, sufficient grounds exist;
+(n) ensure that the information about the arrest of a person is promptly communicated to a person of his choice;
+(o) enter and inspect without a warrant on reliable information any public place, shop or gaming-house where alcoholic drinks or narcotics are sold or weapons are illegally stored and other public places of resort of loose and disorderly characters;
+
+====================================================================================================
+#8 | section 4 | 867 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter II: Responsibilities and Duties of Police — Section 4: Duties of police [(p) to (w)]
+4. Duties of police.---(1)Subject to law, it shall be the duty of every police officer to- [...]
+(p) obey and promptly execute all lawful orders;
+(q) perform other duties and exercise powers as are conferred by this Act, the Code or any other law for the time being in force;
+(r) aid and co-operate with other agencies for the prevention of destruction of public property by violence, fire, or natural calamities;
+(s) assist in preventing members of public from exploitation by any person or organized groups;
+(t) take charge of lunatics at large to prevent them from causing harm to themselves or other members of the public and their property;
+(u) prevent harassment of women and children in public places;
+(v) take action against vagrants for security purposes and to confiscate anything found from them in favour of Government; and
+(w) create public awareness regarding their lawful rights and duties and educate the public regarding their safety and security.
+
+====================================================================================================
+#9 | section 4 | 1051 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter II: Responsibilities and Duties of Police — Section 4: Duties of police [(2) to (4)]
+4. Duties of police.---(1)Subject to law, it shall be the duty of every police officer to- [...]
+(2) Police officer shall make every effort to-
+(a) afford relief to people in distress situations, particularly in respect of women and children;
+(b) provide assistance to victims of road accidents;
+15 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(c) assist accident victims or their heirs or their dependents, where applicable, with such information and documents as would facilitate their compensation claims; and
+(d) cause awareness amongst public regarding traffic laws and inform the victims of road accidents of their rights and privileges.
+(3) It shall be the duty of a police officer to lay information before a competent court and to apply for a summons, warrant, search warrant or such other legal process as may, by law, be issued against any person suspected of committing an offence.
+(4) Every police officer while on police duty shall have all the powers and privileges of a police officer, under any law for the time being in force and be liable to serve at any time in any branch, division, bureau and section.
+
+====================================================================================================
+#10 | section 5 | 446 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter II: Responsibilities and Duties of Police — Section 5: Emergency duties of police with regard to essential services
+5. Emergency duties of police with regard to essential services.---(1) Government may, in an emergency, by notification in the official Gazette, declare any specified service to be an essential service to the community.
+(2) Upon a declaration being made under sub-section (1) and so long as it remains in force, it shall be the duty of every police officer to obey any lawful order given by a senior police officer in relation to the declaration.
+
+====================================================================================================
+#11 | section 6 | 767 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 6: Police Establishment for the Province
+6. Police Establishment for the Province.---(1)Government shall maintain a Police Establishment for the Province.
+(2) The Headquarter of the Police at Peshawar shall be known as Central Police Office to be headed by the Provincial Police Officer, which shall comprise of Establishment Branch, Administration Branch, Operation Branch, Investigation Branch, Finance and Procurement Branch, Internal Accountability Branch, Welfare Branch, Legal Branch, Public Relations Section, Information Technology Branch, Public Complaint Section, Infrastructure Development Branch and Training Branch;
+Provided that the Provincial Police Officer, within existing resources may constitute any other Branch, Bureau, Section, Unit at the provincial headquarters as deemed appropriate.
+
+====================================================================================================
+#12 | section 7 | 1450 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 7: Constitution of the Police Establishment
+7. Constitution of the Police Establishment.---(1) The Police Establishment shall consist of senior and junior rank police officers and officials and other employees and shall have such organization as Government in consultation with the Provincial Police Officer may from time to time determine.
+16 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) The following shall be the senior and junior ranks in the police Establishment:
+Senior Police Ranks
+(a) Provincial Police Officer
+(b) Additional Inspector General of Police
+(c) Deputy Inspector General of Police
+(d) Assistant Inspector General of Police/Senior Superintendent of Police
+(e) Superintendent of Police
+(f) Assistant Superintendent of Police/Deputy Superintendent of Police Junior Police Ranks
+(a) Inspector of Police
+(b) Sub-Inspector of Police
+(c) Assistant Sub-Inspector of Police
+(d) Police Head Constable
+(e) Police Constable
+(3) The recruitment in police other than ministerial and specialist cadre shall be in the rank of Constable, Assistant Sub-Inspector and Assistant Superintendent of Police.
+(4) Notwithstanding anything contained in sub-section (3) and section 29 of this Act, Government shall, 1[* * * *] directly recruit persons in the rank of Deputy Superintendent of Police, which shall not exceed five percent (5%) of the total posts in that cadre.
+(5) Subject to rules, Head of District Police shall be the Appointing Authority for junior ranks.
+
+====================================================================================================
+#13 | section 8 | 607 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 8: Superintendence of the Police
+8. Superintendence of the Police.---(1) The overall power of superintendence of Police shall vest in Government, which shall be exercised in such a manner to ensure that Police shall perform its duties efficiently and strictly in accordance with law.
+1 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+17 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) Government may, subject to availability of resources, provide sufficient human resources to the Police to ensure that working hours of the Police personnel are in conformity with the laws regulating working hours in Pakistan.
+
+====================================================================================================
+#14 | section 9 | 1535 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 9: Powers of the Chief Minister
+9. Powers of the Chief Minister.---(1) For the purpose of superintendence, the Chief Minister may hold and preside periodical meetings of law and order as and when required for formulating policy and oversight.
+(2) The Chief Minister may order for fact finding inquiry against a police officer for access, neglect, abuse of authority and conduct prejudicial to public interest; provided that for the purpose of inquiry, the Chief Minister may,-
+(i) refer the matter to Provincial Police Officer; or
+(ii) refer the matter to Provincial Public Safety Commission; or
+(iii) constitute a Committee of three persons having one representative from Police Department to be nominated by the Provincial Police Officer and others to be nominated by the Chief Minister from amongst the civil servants:
+Provided further that for the purpose of this sub-section, the Chief Minister may, in cases of grave misconduct or in cases where he deems that the officer may affect the inquiry proceedings, direct that the police officer may temporarily be closed to Police Headquarter in which case the inquiry shall be held within a period of seven (07) days and if access, neglect or abuse of authority is proved in the aforesaid inquiry, recommend to the competent authority for appropriate action in accordance with rules.
+(3) The Chief Minister shall preside over at least two meetings in a year of the Provincial Public Safety Commission.
+1[(4) Any direction given by the Chief Minister in matters related to law and order, shall be compiled forthwith.]
+
+====================================================================================================
+#15 | section 10 | 896 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 10: Police Policy Board
+10. Police Policy Board.---(1) There shall be a Police Policy Board headed by Provincial Police Officer and consisting of at least eight senior police officers not below the rank of Deputy Inspector General and any co-opted members as the Provincial Police Officer may deem appropriate for formulating strategies to ensure efficient and transparent administration and public service delivery 2[:]
+1 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Replaced vide Khyber Pakhtunkhwa Act No. XI of 2024.
+18 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) 1[Provided that two members of the Provincial Public Safety Commission nominated by the Chairman of the Provincial Public Safety Comission may attend the meetings as observer.]
+(2) The Police Policy Board shall give input and advice on major issues relating to the Police referred to it by Provincial Police Officer.
+
+====================================================================================================
+#16 | section 11 | 257 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 11: Administration of Police.]
+2[11. Administration of Police.---The Administration of Police in the Province shall vest in the Provincial Police Officer, who shall exercise such operational and administrative powers subject to policy, oversight and guidance given by the Chief Minister.]
+
+====================================================================================================
+#17 | section 12 | 516 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 12: Administration of Police in a district and Unit
+12. Administration of Police in a district and Unit.---(1) Subject to this Act, the administration of Police in a Capital City District, shall vest in Capital City Police Officer and in a District shall vest in the District Police Officer.
+(2) The Capital City Police Officer or District Police Officer may delegate any of his powers and functions conferred on him to a Superintendent of Police, Assistant or Deputy Superintendent of Police.
+(3) The administration of police in a Unit shall vest in the Head of Unit.
+
+====================================================================================================
+#18 | section 13 | 819 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(2)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and sections.
+(2) The branches, divisions, bureaus and sections referred to in sub- section (1) may include but not limited to, Investigation, Intelligence, Operation, Watch and Ward, Reserve Police, Training and Development, Human Resource Management, Traffic Planning and Management, Information Technology, Transport, Bomb Disposal Unit, Canine, Mounted Police, Research and Development, Estate Management, Telecommunication, Criminal Record Office and Forensic Science Laboratory and shall be headed by such police officers as the Provincial Police Officer may determine.
+
+====================================================================================================
+#19 | section 13 | 1534 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(i) to (ii)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(3) Notwithstanding anything contained in sub-section (2), for effective performance of functions under this Act, the Police shall have-
+(i) a Counter Terrorism Department to be headed by a police officer of the rank of Additional Inspector General and shall 1 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+19 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) have such staff as the Provincial Police Officer may determine for collection of intelligence, surveillance and monitoring, and to conduct operations. The Counter Terrorism Department shall have its offices in regions, districts and sub-divisions with notified police stations and detention centers in order to investigate all such cases relating to terrorism as notified by the Provincial Police Officer;
+(ii) Special Branch to be headed by a police officer of the rank of Additional Inspector General with such staff at headquarter, regional, district and sub-divisional level as the Provincial Police Officer may determine to keep abreast the Provincial Police Officer and the offices and establishments of Government as approved by the Provincial Police Officer about activities that have likely affect and impact on crime and public order and to perform functions as given in the Blue Book and any other duties assigned by the Provincial Police Officer;
+Explanation: Blue book means the document notified by the Federal Government for the protection and security of important persons.
+
+====================================================================================================
+#20 | section 13 | 1945 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(iii) to (vii)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(iii) an Elite Force to be headed by a police officer of the rank of Additional Inspector General and shall have specialized units at headquarter, regional and district level to respond to serious situations of law and order, and terrorism;
+(iv) a Public Relations Section to be headed by a police officer not below BS 19and assisted by information officers under the direct control of Provincial Police Officer to respond to electronic and print media on Police issues, create awareness, education and improve police image in the public and shall have its regional offices to be headed by an Officer not below BS 17;
+(v) Finance and Procurement Branch to be headed by a police officer not below the rank of Deputy Inspector General and comprising of Finance, Procurement, Logistics and Audit units each headed by an officer not below the rank of Assistant Inspector General to assist the Provincial Police Officer on issues relating to finance, procurement, logistics and audit;
+(vi) Internal Accountability Branch to be headed by a police officer of the rank of Additional Inspector General assisted by 20 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) such police officers as determined by the Provincial Police Officer for the purpose of internal accountability of Police and comprising of Human Rights Vigilance Wing and Complaint and Enquiry Wing each headed by an officer not below the rank of Assistant Inspector General;
+(vii) a Legal Affairs Branch at Central Police Office to be headed by a police officer not below the rank of BS 19 with such staff at headquarter, regional, district and sub-divisional level as the Provincial Police Officer may determine to assist the police on matters relating to investigations and legal affairs; provided that it shall be a separate and specialist cadre and its officers shall not be merged in any other Branch, Unit, Bureau etc., of police subject to rules as prescribed;
+
+====================================================================================================
+#21 | section 13 | 1578 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(viii) to (xi)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(viii) Reserve Police to be headed by a police officer not below the rank of Deputy Inspector General with its offices at regional and district level for assisting the local police in law and order, crime, security and any other duties as the Provincial Police Officer may determine;
+Provided that if the strength of Reserve Police exceeds 10,000 it shall be headed by an officer of the rank of Additional Inspector General of Police;
+(ix) Traffic Branch to be headed by an officer not below the rank of Deputy Inspector General of Police with such number of staff as determined by the Provincial Police Officer to assist the Provincial Police Officer in formulating policies relating to traffic and regulating traffic on highways within the Province;
+(x) Warden Traffic Police Service in Capital City Police and regional headquarters and any other urban area with the approval of Government for management and control of traffic to be headed by an officer not below the rank of Superintendent of Police; provided that this unit shall be a separate cadre upto the rank of Inspector in the manner prescribed. The initial recruitment process and training shall be similar as prescribed for Constable and Assistant Sub- Inspector in addition to the specialized training in the manner prescribed;
+(xi) Welfare Branch to be headed by a police officer not below the rank of Assistant Inspector General to assist the Provincial 21 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) Police Officer with the welfare of the Police and Police Martyrs and their families;
+
+====================================================================================================
+#22 | section 13 | 642 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(xii) to (xiii)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(xii) Infrastructure Development Unit to be headed by a police officer not below the rank of Deputy Inspector General of Police, and assisted by such number of technical officers as the Provincial Police Officer may determine, to deal with all matters of Infrastructure Development Projects; and
+(xiii) Telecommunication and Transport Branch to be headed by a police officer of the rank of Deputy Inspector General and consisting of Telecommunication Unit and Transport Unit each headed by a police officer not below the rank of Superintendent of police. The units may have such technical staff as determined by the Provincial Police Officer.
+
+====================================================================================================
+#23 | section 13 | 1711 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(4) to (7)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(4) The police, in addition to the Police Training College Hangu, and other police training schools, shall have the following specialized schools for the capacity building of police personnel:
+(i) Police School of Investigation;
+(ii) Police School of Intelligence;
+(iii) Police School of Tactics;
+(iv) Police School of Public Disorder and Riot Management;
+(v) Police School of Explosive Handling;
+(vi) Police School of Information Technology;
+(vii) Police School of Traffic Management;
+(viii) Police School of Telecommunication; and
+(ix) Elite Police Training Centre.
+Provided that the Provincial Police Officer may establish other specialized schools of training with prior approval of Government.
+(5) A police officer up to the rank of Deputy Superintendent of Police shall be promoted to a higher rank after getting requisite training in the specialized schools as provided in sub-section (4) and qualifying promotion courses in a manner to be determined by Provincial Police Officer.
+(6) A Deputy Superintendent of Police shall not be promoted to the next higher rank unless he undergoes junior command course in a manner determined by the Provincial Police Officer.
+(7) There shall be a Directorate of Training in the Police to be headed by an officer not below the rank of Deputy Inspector General of Police and consisting of three sections each headed by an officer not below the rank of Superintendent of 22 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) Police to deal with pre-service training, in-service training and specialized training respectively to assist the Provincial Police Officer in formulation of training policy and modules, and evaluation of schools and courses.
+
+====================================================================================================
+#24 | section 13 | 298 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 13: Police Establishment to be organized on functional basis [(8) to (9)]
+13. Police Establishment to be organized on functional basis.---(1) The Police Establishment constituted under section 7of this Act shall, as far as practicable, be organized on functional or territorial basis into branches, divisions, bureaus and [...]
+(8) Every police officer shall be liable for posting to any branch, division, bureau and section, or anywhere in or outside the police unless otherwise provided under this Act.
+(9) Posting to any specialized branch, division, bureau or section shall be subject to necessary training and experience.
+
+====================================================================================================
+#25 | section 14 | 1575 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter III: Constitution and Organization of the Police — Section 14: Constitution of regions and divisions etc
+14. Constitution of regions and divisions etc.---(1) The Provincial Police Officer may with the approval of Government constitute police regions in the Province.
+Explanation: For the purpose of this section, Region means two or more Districts to be headed by a Regional Police Officer.
+(2) Within the budgetary allocations, Provincial Police Officer may through notification-
+(a) divide districts into police divisions, sub divisions and police stations;
+(b) sub-divide the police stations into police posts; and
+(c) define the limits and extent of such divisions, sub divisions, police stations and police posts:
+Provided that the limits and extent of such divisions, police stations and police posts shall, as far as practicable, be coterminous with the limits of Tehsils, or Town in a city district and Village Council or Neighbourhood Council respectively.
+(3) A police region under sub-section (1) shall be headed by a police officer not below the rank of Deputy Inspector General of Police.
+(4) A police division shall be headed by an officer not below the rank of a Superintendent of Police; a police sub-division shall be headed by an officer not below the rank of an Assistant or Deputy Superintendent of Police and a police station shall be headed by an officer of the rank of Inspector or Sub-Inspector of Police.
+(5) The term of office for Station House Officer shall not be less than one year and not more than two years unless transferred earlier due to exigency of service or misconduct.
+23 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#26 | section 15 | 1052 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 15: Posting of Provincial Police Officer
+15. Posting of Provincial Police Officer.---(1) Government shall, out of a panel of three police officers recommended by the National Public Safety Commission from a list provided by the Federal Government, post a police officer of the rank of Inspector General of Police as Provincial Police Officer of the Province:
+Provided that before a police officer is posted as Provincial Police Officer under sub-section (1), the Federal Government shall place his services at the disposal of Government:
+Provided further that where the National Public Safety Commission is not constituted, Federal Government shall provide complete list of BPS-21 and above officers for appointment of one of them as Provincial Police Officer.
+(2) During temporary absence of the Provincial Police Officer, the Additional Inspector General of Police, Headquarters may exercise all or any of the powers, perform all or any of the functions and duties, and discharge all or any of the responsibilities of the Provincial Police Officer relating to routine and day to day affairs.
+
+====================================================================================================
+#27 | section 16 | 453 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 16: Term of office of Provincial Police Officer
+16. Term of office of Provincial Police Officer.---(1) The term of office of Provincial Police Officer may not be less than two years from the date of his posting.
+(2) Government may with the approval of Federal Government, repatriate or the Federal Government may, on its own accord, recall, Provincial Police Officer.
+(3) Government may initiate the case of premature transfer of the Provincial Police Officer for unsatisfactory performance of duties.
+
+====================================================================================================
+#28 | section 17 | 1782 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 17: Powers and functions of the Provincial Police Officer [(2) to (6)]
+17. Powers and functions of the Provincial Police Officer.---(1) The Provincial Police Officer shall have all operational, administrative and financial powers as ex- officio Secretary to Government and other powers under this Act or under any other law for the time being in force.
+(2) The Provincial Police Officer may, by a general or special order, empower any officer subordinate to him to exercise and perform all or any of the powers, functions or duties to be exercised or performed under this Act.
+(3) The Provincial Police Officer may, in consultation with Police Policy Board, for direction and control issue standing orders in accordance with the provisions of this Act or rules made hereunder for the efficient functioning of the police.
+24 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(4) Notwithstanding anything contained in other laws or rules for the time being in force, the Provincial Police Officer shall transfer and post officers up to the rank of Additional Inspector General in the Police Establishment throughout the Province and issue notification thereof 1[:]
+2[Provided that the posting and transfer of BS-18 and above officers shall be made with the approval of the Chief Minister.]
+(5) Every Officer posted under sub-section (4), shall exercise and perform such powers, functions and duties, as assigned to him under this Act, or any other law for the time being in force.
+(6) 3[Subject to the approval of Government, the] Provincial Police Officer shall prepare a provincial annual policing plan for review by the Provincial Public Safety Commission. The plan shall include–
+(a) objectives of policing;
+(b) financial resources likely to be available during the year;
+(c) targets; and
+(d) mechanism for achieving these targets.
+
+====================================================================================================
+#29 | section 17 | 490 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 17: Powers and functions of the Provincial Police Officer [(7) to (8)]
+17. Powers and functions of the Provincial Police Officer.---(1) The Provincial Police Officer shall have all operational, administrative and financial powers as ex- officio Secretary to Government and other powers under this Act or under any other [...]
+(7) The Provincial Police Officer for the efficient service delivery to public may, at provincial, regional or district level, establish public information system, police assistance lines and complaint management system for facilitation and assistance to public at large.
+(8) The Provincial Police Officer shall ensure welfare of Police and shall take appropriate measures for the wellbeing of serving, retired, deceased personnel and their families, in accordance with Government policies.
+
+====================================================================================================
+#30 | section 18 | 781 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 18: Powers of Provincial Police Officer, concerning police accounts
+18. Powers of Provincial Police Officer, concerning police accounts.---(1) Provincial Police Officer, shall have authority to investigate all matters of accounts connected with the Police Establishment and all persons concerned shall be bound to give reasonable aid and facilities in conducting such investigation and to conform to his orders consequent thereto.
+(2) The power of Provincial Police Officer, to investigate accounts under sub-section (1) shall be without prejudice to the Auditor General’s authority to audit police accounts.
+1 Replaced vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+3 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+25 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#31 | section 19 | 289 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 19: Posts of Additional Inspector General of Police
+19. Posts of Additional Inspector General of Police.---There shall be such number of Additional Inspectors General of Police as Government in consultation with the Provincial Police Officer, may determine, to assist the Provincial Police Officer in the efficient performance of his duties.
+
+====================================================================================================
+#32 | section 20 | 441 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 20: Posts of Deputy Inspector General, Assistant Inspector General,
+20. Posts of Deputy Inspector General, Assistant Inspector General, Senior Superintendent, Superintendent, Assistant Superintendent, and Deputy Superintendent.---Subject to this Act, there shall be such number of Deputy Inspector General, Assistant Inspector General, Senior Superintendent, Superintendent, Assistant Superintendent, and Deputy Superintendent, as Government, in consultation with the Provincial Police Officer, may determine.
+
+====================================================================================================
+#33 | section 21 | 220 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 21: * * * *.]
+1[21. * * * *]
+(2) The term of the Head of District Police, shall not be less than two years and not more than three years from the date of his posting unless transferred earlier due to exigency of service or misconduct.
+
+====================================================================================================
+#34 | section 22 | 1056 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 22: Responsibilities of Head of District Police
+22. Responsibilities of Head of District Police.---(1) Head of District Police shall prepare an Annual Policing Plan consistent with Provincial Policing Plan in the prescribed manner.
+(2) The Policing Plan shall include-
+(a) objectives of policing;
+(b) financial resources likely to be available during the year;
+(c) targets; and
+(d) mechanism for achieving these targets.
+(3) Head of District Police shall obtain the approval of the plan from the District Public Safety Commission or Capital City District Public Safety Commission, as the case may be, and send copies of the approved plan to Government and Provincial Public Safety Commission through Provincial Police Officer.
+(4) Subject to the provisions of this Act, Head of District Police shall present a report to the District Assembly twice a year on police performance.
+(5) The Head of District Police shall be responsible for maintaining law and order in the District.
+1 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+26 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#35 | section 23 | 313 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 23: Responsibility of Capital City Police Officer
+23. Responsibility of Capital City Police Officer.---The Capital City Police Officer in addition to his powers and responsibilities as District Head of Police under this Act or under any other law for the time being in force, shall also exercise the powers of Regional Police Officer in the Capital City District.
+
+====================================================================================================
+#36 | section 24 | 14 chars | table
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 24: * * * *.]
+1[24. * * * *]
+
+====================================================================================================
+#37 | section 25 | 1847 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 25: Posting and functions of Head of Investigation
+25. Posting and functions of Head of Investigation.---(1) There shall be a Provincial Investigation Branch to be headed by an officer of the rank of Additional Inspector General of Police.
+(2) The Additional Inspector General of Police, Investigation shall assist the Provincial Police Officer in the supervision of investigation in the Province in the manner prescribed. The Additional Inspector General, Investigation shall-
+(a) head the specialized units established at the provincial level for the investigation of crimes having inter-regional impact;
+(b) conduct performance audit of investigation staff;
+(c) monitor the investigations;
+(d) examine and enquire complaints relating to conduct of investigations;
+(e) head the provincial crimes branch;
+(f) make recommendations to Provincial Police Officer for second change of investigation in light of the recommendations of the Provincial Review Board;
+(g) supervise and approve the investigations conducted by the Provincial Crimes Branch;
+(h) supervise working of Criminal Record Office;
+(i) compile crime statistics;
+(j) head the research and analysis wing of the investigation branch;
+1 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+27 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(k) head the forensic labs and other investigation support units at the provincial level;
+(l) compile and circulate periodic crime reports and criminal intelligence gazette;
+(m) coordinate with other provinces and Interpol in matters of investigation; and
+(n) perform any other duty assigned by the Provincial Police Officer.
+(3) The Provincial Police Officer may determine the territorial and functional jurisdiction of Provincial Investigation Branch and each of the unit so established shall be headed by an officer not below the rank of Deputy Inspector General of Police.
+
+====================================================================================================
+#38 | section 26 | 1679 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 26: Separation of investigation function [(2) to (5)]
+26. Separation of investigation function.---(1) There shall be separation of investigation from other functions of the police at police station level.
+(2) Subject to sub-section (3), there shall be a District Investigation Branch in each District, under the supervision of Head of District Investigation Branch, to investigate all cases registered in the District.
+(3) The Provincial Police Officer may notify the offences which shall be investigated by the officers in the police station under the supervision of the Station House Officer of the police station;
+Provided that if an offence in a case is required to be investigated by the District Investigation Branch then the entire case shall be investigated by the District Investigation Branch:
+Provided further that cases of murder and such other offences as determined by Provincial Police Officer shall be investigated by an officer of the rank of Inspector and where an Inspector is not available, the investigation shall be conducted by an officer not below the rank of Sub-Inspector duly authorized by the District Police Officer.
+(4) The District Investigation Branch, other than in the Capital City District, shall be headed by a police officer not below the rank of a Superintendent of Police and shall consist of such other police officers as the Provincial Police Officer may determine.
+(5) In the Capital City District, the District Investigation Branch shall be headed by a police officer not below the rank of Senior Superintendent of Police and 28 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) shall consist of such other police officers as the Provincial Police Officer may determine.
+
+====================================================================================================
+#39 | section 26 | 1578 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 26: Separation of investigation function [(6) to (9)]
+26. Separation of investigation function.---(1) There shall be separation of investigation from other functions of the police at police station level. [...]
+(6) The members of District Investigation Branch shall not form part of any police station and, as far as possible, the District Investigation Branch shall comprise specialized wings, each wing being responsible for investigation of one or more types of cases.
+(7) In order to institute specialized units in each District, the Provincial Police Officer shall determine the organization and jurisdiction, as and when required, at the level of the District
+(8) The Head of District Investigation Branch shall be directly responsible to the Head of District Police.
+(9) There shall be a supervisory officer in each police sub-division who-
+(a) shall visit scene of crime in special report cases as specified by the Provincial Police Officer;
+(b) shall ensure timely completion of investigation and submission of challan;
+(c) may summon the investigation officer or team of officers, review the case file, evaluate the evidence and issue instructions to the investigation officer or team of officers in the form of case diary;
+(d) shall verify the investigation in special report cases by writing a case diary before submission of report in the Court; and
+(e) shall verify the investigation where the accused nominated in First Information Report has been declared innocent by the investigating officer:
+Explanation: For the purpose of this section, the supervisory officer means the Sub-Divisional Police Officer or such other police officer not below the rank of Assistant Superintendent of Police or Deputy Superintendent of Police as the Provincial Police Officer may determine.
+
+====================================================================================================
+#40 | section 26 | 1363 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 26: Separation of investigation function [(10) to (14)]
+26. Separation of investigation function.---(1) There shall be separation of investigation from other functions of the police at police station level. [...]
+(10) A supervisory officer shall be responsible to the Head of investigation branch for the functions mentioned in sub-section (9).
+29 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(11) An officer of the police station shall, immediately after receiving information of an offence, inform the District Investigation Branch of the offence which is required to be investigated by the District Investigation Branch.
+(12) If the Head of District Investigation Branch is of the opinion that a case under investigation with the District Investigation Branch is not in its jurisdiction, he shall, under intimation to the Head of District Police, send the case through the supervisory officer for further investigation to the Station House Officer of the police station.
+(13) If the Station House Officer of the police station is of the opinion that a case under investigation by the police station staff is required to be investigated by the District Investigation Branch, he shall, under intimation to the Head of District Police, send the case through the supervisory officer for further investigation to the District Investigation Branch.
+(14) Except in case of an emergency notified by the Provincial Police Officer for a specified period, the members of District Investigation Branch shall not be employed for duties other than investigation.
+
+====================================================================================================
+#41 | section 27 | 1775 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 27: Transfer of investigation
+27. Transfer of investigation.---(1) Within seven working days of the filing of an application, the Regional Police Officer may, after obtaining opinion of the Regional Review Board and for reasons to be recorded in writing, transfer investigation of a case from the investigation officer to Regional Crimes Branch or any other investigation officer or a team of investigation officers in that region or, with the approval of the Provincial Police Officer, to the officer of any other region or unit:
+Provided that the Regional Crimes Branch shall be headed by an officer not below the rank of Superintendent of Police.
+(2) If the Regional Police Officer has transferred an investigation, the Provincial Police Officer may, within fifteen (15) days of the filing of an application, after obtaining opinion of the Provincial Review Board and for reasons to be recorded in writing, order second transfer of investigation of a case to the Provincial Crimes Branch:
+Provided that the investigation in the Provincial Crimes Branch shall be supervised by an officer not below the rank of Deputy Inspector General of Police.
+(3) For the purpose of this section:
+30 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(a) 'Regional Review Board' means the Regional Review Board constituted by the Regional Police Officer consisting of a Superintendent of Police as Chairperson and two Superintendents of Police as members including the Head of Investigation of the concerned district; and
+(b) 'Provincial Review Board' means the Provincial Review Board constituted by the Additional Inspector General of Police, Investigation consisting of Deputy Inspector General of Police as Chairperson and two officers not below the rank of Superintendent of Police as members.
+
+====================================================================================================
+#42 | section 28 | 212 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 28: Recruitment in the rank of Assistant Superintendent of Police
+28. Recruitment in the rank of Assistant Superintendent of Police.---The recruitment in the rank of Assistant Superintendent of Police shall be through the Federal Public Service Commission on all Pakistan basis.
+
+====================================================================================================
+#43 | section 29 | 560 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 29: Appointment of Deputy Superintendent of Police
+29. Appointment of Deputy Superintendent of Police.---(1) The posts of Deputy Superintendent of Police shall be filled in the following manner:
+(i) subject to competitive examination, twenty five percent (25%) by selection on merit from amongst graduate Inspectors, on the recommendation of Public Service Commission in the prescribed manner; and
+(ii) seventy five percent (75%) from Inspectors on the recommendation of Departmental Selection Committee in the prescribed manner.
+(2) The other terms and conditions of service shall be such as may be prescribed.
+
+====================================================================================================
+#44 | section 30 | 600 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 30: Appointment of Inspectors
+30. Appointment of Inspectors.---(1) The post of Inspector shall be filled in the following manner:
+(i) subject to competitive examination, twenty five percent (25%) by selection on merit from amongst graduate Sub-Inspectors on recommendation of Public Service Commission in the prescribed manner; and
+(ii) seventy five percent (75%) from amongst Sub-Inspectors on the recommendation of Departmental Promotion Committee in the prescribed manner.
+31 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) The other terms and conditions of service shall be such as may be prescribed.
+
+====================================================================================================
+#45 | section 31 | 551 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 31: Appointment of Sub-Inspectors
+31. Appointment of Sub-Inspectors.---(1) The post of the Sub-Inspector shall be filled in the following manner:
+(i) subject to competitive examination, twenty five percent (25%) by selection on merit from amongst Assistant Sub-Inspectors on recommendation of Public Service Commission in the prescribed manner; and
+(ii) seventy five percent (75%) from amongst Assistant Sub- Inspectors on the recommendation of Departmental Promotion Committee in the prescribed manner.
+(2) The other terms and conditions of service shall be such as may be prescribed.
+
+====================================================================================================
+#46 | section 32 | 1278 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 32: Appointment of Assistant Sub-Inspectors
+32. Appointment of Assistant Sub-Inspectors.--- 1[(1) The post of the Assistant Sub-Inspector shall be filled in the prescribed manner, as per following quota:
+(a) fifty percent (50%) from amongst the Head Constables, on the recommendations of the Departmental Promotion Committee;
+(b) twenty five percent (25%), from amongst the Graduate Constables or Head Constables by selection on merit, subject to competitive examination, on the recommendations of Khyber Pakhtunkhwa Public Service Commission;
+(c) twelve and half percent (12.5%), by initial recruitment, through Khyber Pakhtunkhwa Public Service Commission;
+and
+(d) twelve and half (12.5%), by initial recruitment, from amongst the wards of Shuhada of Police, on the basis of seniority to be determined with effect from the date of the martyrdom and their eligibility:
+Provided that seats, remaining vacant from the quota reserved for wards of Shuhada Police under this clause, shall be shifted towards the quota reserved for appointment of 1 Substituted vide Khyber Pakhtunkhwa Act No. VII of 2024.
+32 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) Assistant Sub Inspectors by initial recruitment under clause
+(c).]
+(2) The other terms and conditions of service shall be such as may be prescribed.
+
+====================================================================================================
+#47 | section 33 | 154 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 33: Appointment of Head Constables
+33. Appointment of Head Constables.---The post of the Head Constable shall be filled in by promotion from amongst the constables in the prescribed manner.
+
+====================================================================================================
+#48 | section 34 | 365 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 34: Initial recruitment of Constables
+34. Initial recruitment of Constables.---(1)The post of Constable shall be filled in by initial recruitment at the District level by the head of district police through a selection process conducted by an accredited testing agency approved by the Provincial Police Officer.
+(2) The recruitment in the rank of Constable shall be on the basis of district of domicile.
+
+====================================================================================================
+#49 | section 35 | 280 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 35: Appointment of experts
+35. Appointment of experts.---(1)Government may, on recommendation of the Khyber Pakhtunkhwa Public Service Commission, appoint experts to assist the Provincial Police Officer.
+(2) The qualifications, eligibility, terms and conditions of service of experts shall be as prescribed.
+
+====================================================================================================
+#50 | section 36 | 406 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 36: Appointment of Director of Police Communications etc
+36. Appointment of Director of Police Communications etc.---Subject to rules, Provincial Police Officer, may appoint Directors of Communication, Electronics, Motor Transport, Information Technology, Traffic Engineering, Research Analysis and any other specialized discipline for the whole of the Province or for any part thereof and such number of officers and staff as may be determined from time to time.
+
+====================================================================================================
+#51 | section 37 | 14 chars | table
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 37: * * * *.]
+1[37. * * * *]
+
+====================================================================================================
+#52 | section 38 | 258 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 38: Oath or affirmation by members of police
+38. Oath or affirmation by members of police.---Every member of the police shall on appointment make and subscribe before Provincial Police Officer or head of a training institution, an oath or affirmation according to the form set out in the First Schedule.
+
+====================================================================================================
+#53 | section 39 | 518 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 39: Certificate of appointment
+39. Certificate of appointment.---(1) Officers of junior ranks shall on appointment receive a certificate in the form provided in the Second Schedule. The certificate shall be issued under the seal of such officer as Provincial Police Officer may determine.
+1 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+33 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) A certificate of appointment shall become null and void whenever the police officer named therein ceases to belong to the police.
+
+====================================================================================================
+#54 | section 40 | 534 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 40: Suspension of police officer
+40. Suspension of police officer.---(1) Subject to rules, the authority or an officer authorized in this behalf by the authority shall have power to suspend a member of police.
+(2) The powers and functions vested in a member of police shall remain suspended while such officer is under suspension:
+Provided that notwithstanding his suspension such member shall not cease to be a member of Police Establishment and shall continue to be subject to the control of the same authorities to which he would have been, but for his suspension.
+
+====================================================================================================
+#55 | section 41 | 541 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 41: General powers of Provincial Police Officer etc
+41. General powers of Provincial Police Officer etc.---Subject to this Act and rules made there-under, Provincial Police Officer, Regional Police Officer, Head of Units and Head of District Police, as the case may be, shall within their respective spheres of authority, direct and regulate all matters of recruitment, training, postings, transfers, promotions, arms, drill, discipline, clothing, distribution of duties, welfare, development and any other matter concerning the efficient fulfillment of duties by the police under his control.
+
+====================================================================================================
+#56 | section 42 | 729 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 42: Appointment of special police officers
+42. Appointment of special police officers. –(1) Subject to rules 1[and approval of Government], Head of District Police and Head of Units may against the posts approved by the Government appoint special police officers for special purposes or occasions when the police available to him is not sufficient to assist the police under his command.
+(2) Every special police officer so appointed shall, on appointment-
+(a) receive a certificate in the prescribed form; and
+(b) have such powers, immunities and perform such duties and have such responsibilities as determined by the Head of District and Head of Unit, as the case may be, in accordance with the standing orders issued by the Provincial Police Officer from time to time.
+
+====================================================================================================
+#57 | section 43 | 1184 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 43: Appointment of additional police
+43. Appointment of additional police.---(1) Head of the District Police subject to the approval of the 2[Government, through] Provincial Police Officer, may appoint additional police officers of such rank and for such time as he may deem fit for the purposes stated in their employment orders.
+1 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+34 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) Every additional police officer so appointed shall on appointment –
+(a) receive a certificate in a form approved by Provincial Police Officer;
+(b) have such powers, immunities and perform such duties and have such responsibilities as determined by the Head of District and Head of Unit, as the case may be, in accordance with the standing orders issued by the Provincial Police Officer from time to time; and
+(c) be subject to orders of the Head of the District Police.
+(3) The employment of additional police may be made at the request of any person reasonably requiring such police and the cost of such employment shall be recovered in such manner as provided under this Act or rules made there under.
+
+====================================================================================================
+#58 | section 44 | 532 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 44: Ministerial staff etc
+44. Ministerial staff etc.---(1) Subject to rules, Provincial Police Officer, may appoint ministerial staff and other employees to assist the police.
+(2) Any person employed under sub-section (1) shall be under the direction and control of Provincial Police Officer.
+(3) The powers of direction and control referred to in sub-section (2) shall include the powers of discipline and dismissal.
+(4) Subject to rules, Provincial Police Officer, may delegate his powers and authority under this section to an officer of appropriate rank.
+
+====================================================================================================
+#59 | section 45 | 1134 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 45: Police support to Government functionaries, etc
+45. Police support to Government functionaries, etc.---Any functionary of the Federal Government, Provincial Government, any statutory body or anybody or corporation owned, set up or controlled by any such Government or in which such Government has a controlling share or interest, District Government, Tehsil or Town Municipal Administration or Village Council or Neighbourhood Council, or Cantonment Board may for the discharge of his official duties which in his opinion require police assistance, ask for police support from the concerned police authority of the area and such authority shall provide the requisite support:
+Provided that, if for any reason, the police authority is unable to provide the police support requested under this section it shall forthwith bring the matter through its channel of command to the notice of Head of District Police who shall make arrangement for provision of police support and, where he is unable to provide such support, he shall inform the Nazim, District Government and the requisitioning authority with reasons.
+35 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#60 | section 46 | 1821 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 46: Responsibility and relationship with District Government
+46. Responsibility and relationship with District Government.---(1) Subject to the provisions of sub-section (5) of section 22, in all exigencies threatening public order, natural calamities, general elections, processions, festivals etc, whether religious or otherwise, the 1[Chairman, Tehsil Council or Chairman, Town Council, as the case may be,] or Deputy Commissioner, as the case may be, shall coordinate between District Police and other Departments as well as provide his services to mediate for resolving issues leading to public disorder.
+(2) Where a 2[Chairman, Tehsil Council or Chairman, Town Council, as the case may be,] receives any public complaint relating to police, he may refer the matter to Head of District Police for appropriate legal action. The Head of District Police shall within fifteen (15) days submit a report to the 3[Chairman, Tehsil Council or Chairman, Town Council, as the case may be,].
+4[(3) * * * *]
+(4) The Village Council or Neighbourhood Council may refer in writing any public complaint relating to police, through the concerned 5[Chairman], to the concerned Station House Officer for necessary legal action. The Station House Officer, as the case may be, shall take appropriate legal action on such complaint and report back to the concerned council through the Nazim within fifteen (15) days.
+(5) The Head of District Police in consultation with the 6[Chairman, Tehsil Council or Chairman, Town Council, as the case may be,] shall prepare traffic plan in the area and shall also facilitate 7[Chairman, Tehsil Council or Chairman, Town Council, as the case may be,] for the implementation of all municipal laws and for this purpose provide necessary police force on payment if required permanently;
+provided that the services of police shall not be used for personal purposes.
+
+====================================================================================================
+#61 | section 47 | 2078 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 47: Public Liaison Councils [(2) to (3)]
+47. Public Liaison Councils.---(1)The Head of District Police or Senior Superintendent of Police (Operations) in the manner as provided in sub-section (7) shall notify the Public Liaison Councils at Village and Neighbourhood level consisting of such number of voluntary members and in the manner as the Provincial Police Officer may determine through standing order; provided that each Committee shall have:
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+3 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+4 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+5 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+6 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+7 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+36 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(i) seventy (70) percent of its members from the elected members of the concerned Village Council or Neighbourhood Councils, as the case may be; and
+(ii) thirty (30) percent of its members shall be persons of high repute and integrity in the area.
+(2) The Public Liaison Council shall have the powers to-
+(a) issue first warning for violations of Amplifier Act in mosques, shops and marketplaces;
+(b) check tenant acknowledgement receipt;
+(c) verify the credentials of tenants; and
+(d) monitor the activities of released convicts / accused and other anti-social elements.
+(3) The Public Liaison council shall perform the following functions:
+(i) assist the local police in crime prevention and maintenance of public order;
+(ii) inform the local police about the tensions in the area which can lead to violence;
+(iii) inform the local police about any development affecting the general public;
+(iv) inform the local police about new tenants in the area;
+(v) inform the local police about misuse of loud-speaker and hate speeches in the area;
+(vi) inform the local police about any anti-social activity prevalent in the area; and
+(vii) any other function approved by the Provincial Police Officer.
+
+====================================================================================================
+#62 | section 47 | 985 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IV: Appointment, Posting and Functions of Police Officer — Section 47: Public Liaison Councils [(4) to (8)]
+47. Public Liaison Councils.---(1)The Head of District Police or Senior Superintendent of Police (Operations) in the manner as provided in sub-section (7) shall notify the Public Liaison Councils at Village and Neighbourhood level [...]
+(4) In case of any law and order situation, the local police would seek their assistance in resolving the issue.
+37 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(5) For the purpose of this section, the Station House Officer may hold periodical meetings with the members of the Public Liaison Councils.
+(6) The tenure of the Council shall be two years.
+(7) The members of the Public Liaison Council shall be selected in the following manner:
+(i) the Head of District Police or Senior Superintendent of Police (Operations) shall notify the members on the recommendation of a committee constituted by the Regional Police Officer or Capital City Police Officer, as the case may be. The Committee shall be headed by an officer of the rank of Superintendent of Police serving in that region; and
+(ii) the members would be selected after proper verification from the Special Branch.
+(8) The Committee shall give due attention to the repute of the members recommended.
+
+====================================================================================================
+#63 | section 48 | 1215 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 48: Establishment and composition of Provincial Public Safety
+48. Establishment and composition of Provincial Public Safety Commission.- --(1) There shall be a Provincial Public Safety Commission, consisting of 1[fifteen
+(15)] members.
+2[(2) The Provincial Public Safety Commission shall consist of the following members to be appointed by the Government:
+(a) seven (07) members of the Provincial Assembly, to be nominated by the Speaker of the Provincial Assembly, comprising four members including one female from Treasury Benches to be nominated in consultation with the Leader of the House and the other three from Opposition Benches to be nominated in consultation with the leader of Opposition;
+(b) Advocate General, Khyber Pakhtunkhwa as ex-officio member; and 1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024..
+38 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(c) seven (07) members, shall be independent members to be nominated by the Government from the following:
+(i) one member from Minority community.
+(ii) an Advocate of Supreme Court or the High Court having a minimum ten (10) years of practice at the bar.
+and
+(iii) five members from civil society including one female.]
+
+====================================================================================================
+#64 | section 49 | 1624 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 49: Functions of the Provincial Public Safety Commission
+49. Functions of the Provincial Public Safety Commission.---(1)Subject to this Act, the Provincial Public Safety Commission shall-
+(a) evaluate the performance of the Police twice a year and submit annual report to the Government and Provincial Assembly;
+(b) take cognizance of police excesses, except matters relating to investigation, of Regional Police Officers and Head of District Police on the request of aggrieved person, and proceed in the manner provided in section 50.
+(c) enquire into the complaints against the members of the Regional Police Complaints Authorities and District Public Safety Commissions;
+(d) coordinate and supervise the functions and evaluate the performance of the District Public Safety Commissions and Regional Police Complaint Authorities;
+(e) approve Provincial Annual Policing Plan;
+(f) assist police in redressal of their issues and grievances;
+(g) recommend to the Government for grants to various police establishments within the Province, for enhancing their capability to perform their functions efficiently as prescribed in the law; and
+(h) recommend reforms for modernization of laws and procedure in respect of police.
+(2) At least one member of the Provincial Public Safety Commission shall sit as an observer in centralized purchases of police.
+39 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(3) For the purpose of enquiries, the Chairman Provincial Public Safety Commission shall constitute, for a period of one year, an “Enquiry Panel” consisting of five members provided that two of its members shall be from amongst the retired Government servants.
+
+====================================================================================================
+#65 | section 50 | 727 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 50: Procedure upon complaints.]
+1[50. Procedure upon complaints: (1) When a complaint is received in the Commission under clause (b) of sub-section (1) of Section 49 of this Act, the Commission shall, notwithstanding the powers of the Regional Police Complaint Authority to inquire into the complaints under this Act, have mutatis mutandis all the powers of the Regional Police Complaint Authority to inquire into the complaint, as provided in this Act.
+(2) When a complaint is received to the Commission under clause (c) of sub-section
+(1) of section 49 of this Act, the Commission may, after preliminary inquiry, recommend to the Government appropriate action, including removal of any member from the concerned Commission or Authority, as the case may be.]
+
+====================================================================================================
+#66 | section 51 | 1315 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 51: Establishment and composition of the Capital City District Public
+51. Establishment and composition of the Capital City District Public Safety Commission.---(1) Government shall establish a Capital City District Public Safety Commission in Capital City District consisting of fifteen(15) members.
+2[(2) The Capital City District Public Safety Commission shall consist of the following members to be appointed by the Government:
+(a) three (03) members, of the Provincial Assembly or the National Assembly including one female member, to be nominated by the Speaker of the Provincial Assembly, comprising one member from Treasury Benches to be nominated in consultation with Leader of the House and the other one from the opposition benches to be nominated in consultation with the leader of opposition:
+(b) four (04) elected members of the Local Government to be nominated by the Government
+(c) eight (08) members shall be independent members to be nominated by the Government from the following:
+(i) three (03) retired civil servants in BS-19 or above; and
+(ii) five (05) from Civil Society including one woman and one Advocate of the High Court with minimum of 05 years practice at the bar.]
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+40 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#67 | section 52 | 1865 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 52: Functions of the Capital City District Public Safety Commission [part 1 of 2]
+52. Functions of the Capital City District Public Safety Commission.---(1) The Capital City District Public Safety Commission shall perform the following functions:
+(a) hold quarterly review meetings with the Capital City Police Officer on police performance and send reports thereof along with recommendations to the Government, the Provincial Police Officer, the Provincial Public Safety Commission and the Capital City Police Officer;
+(b) approve Annual Policing Plan of the Capital City District;
+(c) conduct scientific public feedback surveys through professionals on the police performance and police image;
+(d) identify and report to the Capital City Police Officer social problems that require police attention;
+(e) +mediate contentious issues between police and other Government departments at the district level;
+(f) recommend police resource enhancement measures to the Government or Local Government, as the case may be;
+(g) recommend creation of a new police station or police post in consultation with Capital City Police Officer;
+(h) assist the Capital City Police Officer in developing crime control strategies;
+(i) enhance public police relations and cooperation;
+(j) receive public complaints and grievances against the police officers upto the rank of Assistant or Deputy Superintendent of Police, sift those complaints, conduct preliminary enquiry and refer such complaints to the Head of District for remedial actions who shall report the action taken within thirty (30) days to the Commission. In case the Commission is not satisfied with the action taken by the Head of District, refer public complaints against police to the concerned Regional Complaints Authority;
+(k) forward complaints against the Head of District Police to the Provincial Public Safety Commission.
+41 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#68 | section 52 | 482 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 52: Functions of the Capital City District Public Safety Commission [(2) to (3)]
+52. Functions of the Capital City District Public Safety Commission.---(1) The Capital City District Public Safety Commission shall perform the following functions: [...]
+(2) The Chairman may nominate a member of Commission to inspect police station to the extent of illegal confinement of any person who shall record the report in the daily diary.
+(3) At least one member of the Capital City Public Safety Commission shall act as observer in procurement, the amount of which is more than five (05) lacs rupees and if the member has any reservation, he shall bring the same in the notice of Capital City Police Officer and the Provincial Police Officer.
+
+====================================================================================================
+#69 | section 53 | 1390 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 53: Establishment and composition of the District Public Safety
+1[53. Establishment and composition of the District Public Safety Commission.----(1) Government shall establish a District Public Safety Commission in each district consisting of ten (10) members.
+(2) The District Public Safety Commission shall consist of the following members to be appointed by Government:
+(a) two (02) members of the Provincial Assembly or the National Assembly from the concerned district, one each from the Treasury Benches and the opposition Benches to be nominated by the Speaker of the Provincial Assembly on the recommendation of Leader of the House and the Leader of Opposition, respectively:
+Provided that where the required number of members of the Provincial Assembly or National Assembly is not available in the concerned district, the Speaker of the Provincial Assembly may nominate another member of Provincial Assembly or National Assembly, as the case may be, of the concerned region.
+(b) two (02) members, to be nominated by the Government from amongst the elected members of the local government of the district concerned; and
+(c) six (06) members, shall be independent members, to be nominated by the Government from the following:
+(i) two (02) retired civil servant in BS-19 or above; and
+(ii) four (04) from the civil society including one female and an Advocate of the district concerned with five (05) years practice as advocate of the High Court.]
+
+====================================================================================================
+#70 | section 54 | 369 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 54: Functions of the District Pubic Safety Commission
+54. Functions of the District Public Safety Commission.--- The District Public Safety Commission shall perform such functions in the District as the Capital City Public Safety Commission performs in Capital City District under section 52.
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+42 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#71 | section 55 | 82 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 55: Term of the Commission.]
+1[55. Term of the Commission.- The term of a Commission shall be four (04) years.]
+
+====================================================================================================
+#72 | section 56 | 542 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 56: Appointment of Chairperson and Vice-Chairperson of a
+56. Appointment of Chairperson and Vice-Chairperson of a Commission.--- 2[(1) The Chairpersons of Commissions shall be an elected representative of Provincial Assembly or the National Assembly, to be nominated by the Speaker of the Provincial Assembly whereas the Vice- Chairperson of Commissions shall be elected by the members of the concerned Commission from amongst themselves]
+(2) The Chairperson shall preside over the meetings of the Commission.
+(3) In the absence of the Chairperson, the Vice-Chairperson shall preside over a meeting.
+
+====================================================================================================
+#73 | section 57 | 13 chars | table
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 57: * * * *
+3[57. * * * *
+
+====================================================================================================
+#74 | section 58 | 12 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 58: * * * *.]
+58. * * * *]
+
+====================================================================================================
+#75 | section 59 | 1534 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 59: Selection criteria of independent members
+59. Selection criteria of independent members.---A person shall be disqualified from becoming a member of a Commission if he–
+(a) is an activist of any political party; or
+(b) is found suffering from physical or mental incapacity; or
+(c) is declared a bankrupt, loan defaulter or tax evader; or
+(d) is not a citizen of Pakistan; or
+(e) is not permanent domiciled resident of Khyber Pakhtunkhwa;
+or
+(f) holds an office of profit in the service of Pakistan; or
+(g) is in the service of any statutory body or any other body which is owned or controlled by the Government or in which the Government has a controlling share or interest; or
+(h) has been dismissed, removed or compulsorily retired from the service of Pakistan on grounds of corruption or any other form of misconduct; or 1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+3 Deleted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+43 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(i) is convicted of a criminal offence; or
+(j) has any conflict of interest; or
+(k) is involved in activities prejudicial to the ideology, interest, security, unity, solidarity, peace and integrity of Pakistan and its people, and the good order and harmony of society; or
+(l) has entered into plea bargain or voluntary returns under the National Accountability Bureau Act, 2002; or
+(m) belongs to any proscribed organization; or
+(n) has been notified under the Fourth Schedule of the Anti- Terrorism Act, 1997.
+
+====================================================================================================
+#76 | section 60 | 918 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 60: Terms of members of the Commission
+60. Terms of members of the Commission.--- 1[(1) The term of office of a member of a Commission shall be four (04) years unless he resigns at any time before the expiry of his term, or ceases to be a member of the Provincial Assembly or the Local Bodies concerned, as the case may be: Provided that if any vacancy occurs due to the resignation or any other cause, another member shall be appointed on the said vacancy for the remaining period in accordance with the provisions of this Act:
+Provided further that in case of dissolution of the Provincial Assembly or National Assembly or where the Local Government is not constituted in any district under the Local Government Act, 2013, the nominated/independent members of the commission shall continue during the intervening period till the new members of the Assemblies / Local Government are elected and notified.]
+(2) No member shall be eligible for a second term.
+
+====================================================================================================
+#77 | section 61 | 1107 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 61: Removal of independent members of the Commission
+61. Removal of independent members of the Commission.---Government may remove an independent member of a Commission from office on its own volition if he-
+(a) ceases to be a citizen of Pakistan; or
+(b) is found suffering from physical or mental incapacity; or
+(c) is guilty of misconduct; or 1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+44 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(d) is found to have dealt with any matter in which he had a conflict of interest; or
+(e) is convicted of a criminal offence; or
+(f) is declared a bankrupt, loan defaulter or tax evader; or
+(g) is involved in activities prejudicial to the ideology, interest, security, unity, solidarity, peace and integrity of Pakistan and its people, and the good order and harmony of society; or
+(h) has entered into plea bargain or voluntary returns under the National Accountability Bureau Act, 2002; or
+(i) to any proscribed organization; or
+(j) comes within the Fourth Schedule of the Anti-Terrorism Act, 1997; or
+(k) fails to attend its three consecutive meetings without any reasonable cause.
+
+====================================================================================================
+#78 | section 62 | 1474 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 62: Meetings and conduct of business of a Commission
+62. Meetings and conduct of business of a Commission.---(1) The business of a Commission shall be conducted in its meeting.
+(2) The meeting may be convened by the Chairperson or on the requisition of one-third of the members.
+(3) Quorum for the meeting of a Commission shall be seven members in case of Provincial Public Safety Commission and not less than half members in case of Capital City District Public Safety Commission and District Public Safety Commission.
+(4) Members shall attend meetings of a Commission as and when required for which at least a week’s notice, with agenda, shall be given. There shall be a minimum of one meeting in a month, provided that an emergency meeting may be held at a short notice.
+(5) Decisions of the Commission shall be by simple majority.
+(6) A Commission may hold public consultations as and when required.
+(7) The Provincial Police Officer and heads of prosecution service, prison and probation departments or their nominees shall attend meetings of the Provincial Public Safety Commission as non-voting members, when invited.
+45 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(8) Head of District Police and in his absence, the next senior officer may be invited to attend a meeting of a Commission which he shall attend.
+(9) A Commission may invite any expert for consultations on specific issues.
+(10) A Commission, with the approval of Government, may frame regulations for the conduct of its business.
+
+====================================================================================================
+#79 | section 63 | 856 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 63: Secretariat of the Provincial Public Safety Commission
+63. Secretariat of the Provincial Public Safety Commission.---(1) Government shall establish a permanent secretariat of the Provincial Public Safety Commission independent of police establishment.
+(2) The Secretariat shall be headed by a person who shall be appointed by the Commission on contract basis on the recommendation of the concerned Scrutiny Committee for a period of three years and in the performance of his functions he shall be responsible to the Chairperson Provincial Public Safety Commission.
+(3) The Secretariat shall consist of such number of officers and staff as Government may in consultation with the Provincial Public Safety Commission determine from time to time.
+(4) The organization of the Secretariat and functions of officers and staff shall be such as may be determined by the Commission with the prior approval of Government.
+
+====================================================================================================
+#80 | section 64 | 1002 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 64: Secretariat of the Capital City District Public Safety Commission
+64. Secretariat of the Capital City District Public Safety Commission.---(1) The Government shall establish a permanent secretariat of the Capital City District Public Safety Commission having its office in the District Assembly of the Capital City District.
+(2) The Secretariat shall be headed by a person who shall be appointed by the Commission on contract basis on the recommendation of the concerned Scrutiny Committee for a period of three years and in the performance of his functions he shall be responsible to the Chairperson Capital City District Public Safety Commission.
+(3) The Secretariat shall consist of such number of officers and staff as Government may in consultation with the Provincial Public Safety Commission determine from time to time.
+(4) The organization of the Secretariat and functions of officers and staff shall be such as may be determined by the Commission with the prior approval of Government.
+46 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#81 | section 65 | 873 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter V: Establishment of Public Safety Commissions — Section 65: Secretariat of the District Public Safety Commission
+65. Secretariat of the District Public Safety Commission.---(1) Government shall establish a permanent secretariat of the District Public Safety Commission in the District Assembly Complex of the concerned District.
+(2) The Secretariat shall be headed by a person who shall be appointed by the Commission on contract basis on the recommendation of the concerned Scrutiny Committee for a period of three years and in the performance of his functions he shall be responsible to the Chairperson District Public Safety Commission.
+(3) The Secretariat shall consist of such number of officers and staff as Government may in consultation with the Provincial Public Safety Commission determine from time to time.
+(4) The organization of the Secretariat and functions of officers and staff shall be such as may be determined by the Commission with the prior approval of Government.
+
+====================================================================================================
+#82 | section 66 | 350 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 66: Establishment of Regional Police Complaint Authorities
+66. Establishment of Regional Police Complaint Authorities.---Government shall establish Regional Police Complaint Authorities on regional basis for enquiring into complaints of police excesses, other than relating to investigations, against all Police officials upto the rank of Assistant Superintendent of Police or Deputy Superintendent of Police.
+
+====================================================================================================
+#83 | section 67 | 1487 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 67: Composition
+67. Composition.--- 1[(1) Each Regional Police Complaint Authority shall consist of members including the Chairman to be appointed by the Government.
+(2) The members shall consist of:
+(a) one representative of each Local Government of the Districts in the concerned region;
+(b) a retired civil servant of BS-19 or above;
+(c) a retired Judge of BS-20 or above;
+(d) any professional from private sector having Master Degree and ten
+(10) years administrative and management experience;
+(e) one advocate of Supreme Court or High Court with minimum of 05 years of practice at the bar; and 1 Substituted, sub- sections (1), (2) and (3) vide Khyber Pakhtunkhwa Act No. XI of 2024.
+47 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(f) one retired police officer of BS-19 or above.]
+(4) The Chairman shall be elected by the member of the Regional Police Complaint Authority from amongst themselves.
+1[(5) The members shall be appointed for a period of four (04) years or during the pleasure of the Government, whichever is earlier]
+(6) No member shall be eligible for a second term.
+(7) The Chairman shall preside over the meetings of the Regional Police Complaint Authority.
+(8) The selection process shall be completed within thirty days from the commencement of the selection process.
+(9) The members shall be of impeccable integrity and proven professional competence in their relevant fields.
+(10) The appointment of members shall be notified in the official Gazette.
+
+====================================================================================================
+#84 | section 68 | 156 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 68: Emoluments
+68. Emoluments.---The Chairman and the members of the Regional Police Complaints Authority shall be entitled to such emoluments as Government may determine.
+
+====================================================================================================
+#85 | section 69 | 1534 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 69: Functions of the Regional Police Complaints Authority
+69. Functions of the Regional Police Complaints Authority.---The Regional Police Complaints Authority shall-
+(a) receive from any aggrieved person in writing on an affidavit, or from the Chief Minister, Provincial Public Safety Commission, Provincial Police Officer or District Public Safety Commission complaint of police excesses and to process it in accordance with section 70;
+(b) receive reference of police excesses from District Police Officer, Regional Police Officer and Provincial Police Officer, conduct enquiry in a manner prescribed in sub-section (2) of section 70;
+provided that District Police Officer and Regional Police Officer may send such reference only to the concerned Regional Complaints Authority while Provincial Police Officer may send it to any Regional Complaints Authority;
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+48 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(c) inform the complainant of the outcome of the enquiry conducted under section 70, in writing within a period of 30 days;
+(d) in case of any frivolous, or vexatious complaint, initiate legal action against the complainant;
+(e) may recommend to Provincial Public Safety Commission disciplinary action against any member of the Regional Complaint Authority for willful neglect or mishandling of an enquiry conducted under section 70; and
+(f) prepare and send to Government, the Provincial Public Safety Commission and Provincial Police Officer an annual report on matters relating to its activities.
+
+====================================================================================================
+#86 | section 70 | 1715 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 70: Inquiry into complaints.] [(2) to (3)]
+1[70. Inquiry into complaints.---(1) On receipt of complaint, in the office of Regional Police Authority, they shall conduct an inquiry in order to inquire into the complaint made against a member of the police.
+(2) Once evidence has been collected, the officer complained against, shall be intimated of the evidence and opportunity shall be provided to him to present a defence.
+(3) Every inquiry shall result into a report, which shall set out and analiyze evidence on each allegation.
+(4) Every complaint, shall be inquired into by one of the following methods:
+(a) local inquiry;
+(b) supervised inquiry;
+(c) directed inquiry; and
+(d) independent inquiry.]
+2[70-A Method of inquiry.---When the Regional Police Complaint Authority receives a complaint from the relevant police officer, it shall decide in accordance with the provisions of this Act and the rules and the type of inquiry that shall be conducted from amongst those mentioned in sub-section (4) of section 70 of this Act.
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+2 Inserted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+49 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) 70-B Local inquiry.---(1) A local inquiry shall be conducted by an officer of the police, unrelated to the complainant and not subordinate to the offier complained against.
+(2) The relevant police officer shall determine the officer who shall conduct the local inquiry.
+(3) A local inquiry shall be conducted in such matters as may be specified in the rules.
+70-C Supervised inquiry.---(1) A supervised inquiry shall be conducted by an officer of the police, unrelated to the complainant and not subordinate to the officer complained against.
+
+====================================================================================================
+#87 | section 70 | 1183 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 70: Inquiry into complaints.] [(2) to (4)]
+1[70. Inquiry into complaints.---(1) On receipt of complaint, in the office of Regional Police Authority, they shall conduct an inquiry in order to inquire into the complaint made against a member of the police. [...]
+(2) The relevant police officer shall determine the officer who shall conduct the supervised inquiry.
+(3) A supervised inquiry shall be conducted in such matters as may be prescribed.
+(4) A copy of the supervised inquiry report shall be intimated to the Regional Police Complaint Regional Police Complaint Authority.
+(5) The Regional Police Complaint Authority may call for a new inquiry where it finds that the inquiry was not conducted properly or in violation of this Act or rules.
+70-D Directed inquiry.---(1) A directed inquiry shall be conducted by an officer of the police, unrelated to the complainant and not subordinate to the officer complained against, and whose name has been approved by the Regional Police Complaint Authority.
+(2) A directed inquiry shall be conducted in such matters as may be prescribed.
+(3) The inquiry proceedings shall be conducted on the active advice and guidance of the Regional Police Complaint Authority.
+(4) A copy of the inquiry report shall be intimated to the Regional Police Complaint Authority.
+70-E Independent inquiry.---(1) An independent inquiry shall be conducted by one or more members of the Regional Police Complaint Authority.
+
+====================================================================================================
+#88 | section 70 | 1608 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 70: Inquiry into complaints.] [(2) to (2)]
+1[70. Inquiry into complaints.---(1) On receipt of complaint, in the office of Regional Police Authority, they shall conduct an inquiry in order to inquire into the complaint made against a member of the police. [...]
+(2) An independent inquiry shall bbe conducted where,- 50 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(a) a member of the public has died, or suffered a serious injury due to contact with a police officer;
+(b) death or serious injury has occurred due to failure of the police to act;
+(c) death or serious injury has occurred to a person in police custody;
+(d) death or serious injury has occurred in a road accident involving the police;
+(e) serious torture, including physical, mental, psychological, emotional is caused to any person;
+(f) where sexual contact has taken place between a police officer and a member of the public who has come into contact with a police officer acting in discharge of his professional duties;
+(g) where a police person has been allegedly involved in property grabbing or illegally supporting a person; and
+(h) a matter is referred by the Chief Minister for the inquiry to be conducted by the Regional Police Complaint Authority.
+70-F Action on inquiries.---(1) Every inquiry report shall include suggested actions that shall be taken with regard to the misconduct of police.
+(2) For the purposes of sub-section (1), one or more of the following actions may be suggested:
+(a) creating an improvement plan for the police officer(s);
+(b) compensation to be paid to the complainant(s);
+(c) one or more service punishments; and
+(d) initiation of criminal proceedings.
+70-G Imposition of punishments.---(1). The Competent Authority shall decide the required action that should be taken in pursuance of the various inquiries to be conducted under this Act.
+
+====================================================================================================
+#89 | section 70 | 507 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 70: Inquiry into complaints.] [(2)]
+1[70. Inquiry into complaints.---(1) On receipt of complaint, in the office of Regional Police Authority, they shall conduct an inquiry in order to inquire into the complaint made against a member of the police. [...]
+(2) Where the competent authority and the Regional Police Complaint Authority fail to agree on the action to be taken against the police officer within thirty days, the matter shall be decided by Government:
+51 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+Provided that if Government disagrees with the views of the Regional Police Complaint Authority regarding the action to be taken, it shall provide an opportunity to the Regional Police Complaint Authority to present its views]
+
+====================================================================================================
+#90 | section 71 | 810 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 71: Secretariat
+71. Secretariat.---(1) Government shall establish a permanent secretariat of the Regional Police Complaint Authority at Capital City District and regional headquarters, as the case may be.
+(2) The Secretariat shall be headed by a person who shall be appointed by the Authority on contract basis on the recommendation of the concerned Scrutiny Committee for a period of three years and in the performance of his functions he shall be responsible to the Chairperson Regional Complaints Authority.
+(3) The Secretariat shall consist of such number of officers and staff as Government may in consultation with Authority determine from time to time.
+(4) The organization of the Secretariat and functions of officers and staff shall be such as may be determined by the Authority with the prior approval of Government.
+
+====================================================================================================
+#91 | section 72 | 235 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Section 72: Qualification and removal of the members
+72. Qualification and removal of the members.---The qualification of members and procedure of the removal of the Chairman and members of the Regional Police Complaints Authority shall be same as for the members of the Provincial Public
+
+====================================================================================================
+#92 | section 73 | 1038 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Safety Commission — Section 73: Dispute Resolution Council.]
+1[73. Dispute Resolution Council.---The Provincial Police Officer for out of Court amicable settlement of petty nature cases, may constitute, Dispute Resolution Councils at District, Sub-Division or Police Station level, which shall consist of such number of members and shall conduct its business in such a manner as may be prescribed:
+Provided that the Dispute Resolution Councils already constituted by the Provincial Police Officer shall be deemed to have been validly constituted and all the actions taken, decisions made or order passed by such Dispute Resolution Councils shall be deemed to have been validly taken, made or passed under this Act.
+Explanation: For the purpose of this section, petty nature case means and includes a small, minor, of less or inconsiderable importance and affected amity in the society or any cause leading towards provocation which may lead to a criminal offence.]
+1 Substituted vide Khyber Pakhtunkhwa Act No. XLVIII of 2020.
+52 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#93 | section 74 | 479 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Safety Commission — Section 74: Establishment of Criminal Justice Coordination Committee and its
+74. Establishment of Criminal Justice Coordination Committee and its composition.---(1) There shall be a Criminal Justice Coordination Committee in each District of the Province.
+(2) The Criminal Justice Coordination Committee shall consist of-
+(a) District and Sessions Judge (Chairperson)
+(b) Head of District Police
+(c) District Public Prosecutor
+(d) District Superintendent Jail
+(e) District Probation Officer
+(f) District Parole Officer
+(g) Head of Investigation (Secretary)
+
+====================================================================================================
+#94 | section 75 | 764 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Safety Commission — Section 75: Functions of the Criminal Justice Coordination Committee
+75. Functions of the Criminal Justice Coordination Committee.---The Criminal Justice Coordination Committee shall-
+(a) keep under review the operation of the criminal justice system and work towards the improvement of the system as a whole;
+(b) promote understanding, co-operation and coordination in the administration of the criminal justice system;
+(c) exchange information and give advance notice of local developments, which may affect other parts of the system;
+(d) formulate coordinated priorities and plans to give effect to locally agreed policies;
+(e) raise relevant issues with the appropriate authorities;
+(f) promote the spread of good practices; and
+(g) review the implementation of any decisions taken by the Criminal Justice Coordination Committee.
+
+====================================================================================================
+#95 | section 76 | 200 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VI: Establishment of Regional Police Complaint Authorities — Safety Commission — Section 76: Meetings of the Committee
+76. Meetings of the Committee.---The meeting of the Criminal Justice Coordination Committee shall beheld at least once a month. The secretary of the committee shall record the minutes of the meetings.
+
+====================================================================================================
+#96 | section 77 | 873 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Regulation, Control and Discipline of Police — Section 77: Punishments and inquiries
+77. Punishments and inquiries.---(1) Notwithstanding anything contained in any other law for the time being in force, the police shall have its separate disciplinary rules to regulate, control and discipline in the manner prescribed.
+53 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(2) Subject to the rules, a member of the police may at any time be suspended, dismissed, compulsorily retired, reduced in rank or pay, within a time scale, fined, censured or awarded any other punishment in the prescribed manner.
+(3) Any inquiry conducted against a police officer or official under this Act by the Provincial Public Safety Commission or Regional Police Complaints Authority or any of its Committee, shall be deemed to be an inquiry conducted and action taken by the relevant Competent Authority under the relevant efficiency and disciplinary rules.
+
+====================================================================================================
+#97 | section 78 | 680 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Regulation, Control and Discipline of Police — Section 78: Code of Conduct
+78. Code of Conduct.---(1) Provincial Police Officer shall issue Code of Conduct to regulate police practices in respect of-
+(a) the exercise by police officers of statutory powers of stop and search;
+(b) the searching of premises by police officers and the seizure of property found by police officers on persons or premises;
+(c) the detention, treatment and questioning of persons by police officers;
+(d) the identification of persons by police officers; and
+(e) any other matter relating to police operations.
+(2) Subject to rules, a police officer contravening the Code of Conduct may be awarded one or more punishments provided under sub-section (2) of section77 of this Act.
+
+====================================================================================================
+#98 | section 79 | 162 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Regulation, Control and Discipline of Police — Section 79: Police officer at any time liable to be called for duty
+79. Police officer at any time liable to be called for duty.---A police officer when off-duty, on leave or under suspension shall be liable to be called for duty.
+
+====================================================================================================
+#99 | section 80 | 738 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Regulation, Control and Discipline of Police — Section 80: Withdrawal from duty and resignation, etc
+80. Withdrawal from duty and resignation, etc.---(1) No Police officer shall withdraw from the duties of his office unless expressly allowed to do so in writing by Head of district Police or by some other officer authorized to grant such permission
+Explanation: A police officer who being absent on leave fails without reasonable cause to report for duty on the expiration of such leave shall be deemed within the meaning of this Section to withdraw himself from the duties of his office.
+(2) No police officer shall resign his office unless he has given to his superior officer notice in writing for a period of not less than two months of his intention to resign.
+54 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#100 | section 81 | 166 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Regulation, Control and Discipline of Police — Section 81: Police officer not to engage in any other employment
+81. Police officer not to engage in any other employment.---No police officer shall engage in any private employment while he is a member of the police establishment.
+
+====================================================================================================
+#101 | section 82 | 260 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 82: Power to issue orders
+82. Power to issue orders.---The Head of District Police may, in an emergency, for the maintenance of public order or preventing public nuisance, issue orders to give effect to the provisions of any Municipal law, rules or bye-laws for the time being in force.
+
+====================================================================================================
+#102 | section 83 | 705 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 83: Power to give direction to the public
+83. Power to give direction to the public.---Subject to rules, a police officer not below the rank of a Sub-Inspector may, give such directions as may be necessary to:
+(a) direct the conduct and behavior or actions of persons constituting processions or assemblies on roads or streets;
+(b) prevent obstructions-
+(i) on the occasion of processions and assemblies;
+(ii) in the neighborhood of places of worship during the time of worship; and
+(iii) when a street or public place or place of public resort may be thronged or liable to be obstructed; and
+(c) keep order on streets, mosques, churches or other places of worship and places of public resort when these may be thronged or liable to be obstructed.
+
+====================================================================================================
+#103 | section 84 | 1233 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 84: Regulation of public assemblies and processions and licensing of
+84. Regulation of public assemblies and processions and licensing of the same.---(1) The Head of District Police or Assistant or Deputy Superintendent of Police may as occasion require, direct the conduct of assemblies and processions on public roads, or in public streets or thoroughfares and prescribe the routes by which and the times at which, such processions may pass.
+(2) He may also, on being satisfied that it is intended by any persons or class of persons to convene or collect any assembly in any such road, street or thoroughfare, or to form a procession which would, in his judgment, if uncontrolled, be likely to cause a breach of the peace, require by general or special notice that the persons convening or collecting such assembly or directing or promoting such processions shall apply for a license.
+55 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(3) On such application being made, he may issue a license specifying the names of the licensees and defining the conditions on which alone such assembly or such procession is to be permitted to take place and otherwise giving effect to this section:
+Provided that no fee shall be charged on the application for, or grant of any such license.
+
+====================================================================================================
+#104 | section 85 | 588 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 85: Powers with regard to assemblies and processions violating the
+85. Powers with regard to assemblies and processions violating the conditions of license.---(1) The Head of District Police or Assistant or Deputy Superintendent of Police or Inspector of police or a Station House Officer of a police station may stop any procession which violates the conditions of a licence granted under section 84of this Act, and may order it or any assembly which violates any such conditions as aforesaid to disperse.
+(2) Any procession or assembly, which neglects or refuses to obey any order given under sub-section (1), shall be deemed to be an unlawful assembly.
+
+====================================================================================================
+#105 | section 86 | 796 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 86: Power to prohibit certain acts for prevention of disorder
+86. Power to prohibit certain acts for prevention of disorder.---(1) Head of District Police may, whenever and for such time as he may consider necessary but not exceeding two days by notification publicly promulgated or addressed to individuals prohibit in any urban or rural area, the carrying of arms, cudgels, swords, spears, bludgeons, guns, knives, sticks, lathes or any other article, which is capable of being used for causing physical violence and the carrying of any corrosive substance or explosives, the carrying, collection or preparation of stones or other missiles or instruments of means of casting or impelling missiles.
+(2) If any person goes armed with any article as is referred to in of sub- section(1), such article shall be liable to be seized from him by a police officer.
+
+====================================================================================================
+#106 | section 87 | 1166 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 87: Power to give directions against serious disorder at places of
+87. Power to give directions against serious disorder at places of amusement, etc.---(1) For the purpose of preventing serious disorder or breach of the law or imminent danger to those assembled at any place of public amusement or at any assembly or meeting to which the public are invited or which is open to the public, any police officer of the rank of Assistant Sub Inspector or above, present at such place of public amusement, or such assembly or meeting, may subject to such rules, regulations or orders as may have been lawfully made, give such reasonable directions as to the mode of admission of the public to, of the public to, and lawful conduct of the proceedings and the maintaining of the public safety, at such place of amusement or such assembly or meeting as he thinks necessary and all persons shall be bound to conform to every such reasonable direction.
+(2) Police officer while on duty shall have free access to any place of public amusement, assembly or meeting for the purpose of giving effect to the provisions of sub-section (1) and to any direction made there under.
+56 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#107 | section 88 | 358 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 88: Erecting of barriers in streets, etc
+88. Erecting of barriers in streets, etc.---Any police officer may, for a period not acceding one month, temporarily close or regulate any street or public place through erection of barriers or other means, to prohibit persons or vehicles from entering such area for security reasons:
+Provided that the period may be extended with the approval of Government.
+
+====================================================================================================
+#108 | section 89 | 709 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VII: Powers to Issue Orders — Section 89: Power to search suspected persons or vehicles in street, etc
+89. Power to search suspected persons or vehicles in street, etc.---When in a street or a place of public resort a police officer on reasonable grounds suspects a person or a vehicle to be carrying any article unlawfully obtained or possessed or likely to be used in the commission of an offence, he may search such person or vehicle; and if the account given by such person or possessor of the vehicle appears to be false or suspicious, he may detain such article after recording in writing the grounds of such action and issue a receipt in the prescribed form and report the facts to the Station House Officer of the police station for informing the court for proceeding according to law against the person.
+
+====================================================================================================
+#109 | section 90 | 932 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 90: Employment of additional police to keep peace
+90. Employment of additional police to keep peace.---(1) Head of District Police subject to approval of Provincial Police Officer may on application of any person depute any additional number of police to keep the peace, to preserve order, to enforce any provisions of this Act, or any other law, in respect of any particular class or classes of offences or to perform any other duties imposed on the police.
+(2) Subject to rules, such additional police shall be employed at the cost of the person making the application.
+(3) If the person upon whose application such additional police are employed gives one week’s notice for the withdrawal of the said police, he shall be relieved from the cost thereof at the expiration of such notice.
+(4) If there is any dispute on payment, Head of District Police on an application by the aggrieved party may refer the matter to Government through Provincial Police Officer for final decision.
+
+====================================================================================================
+#110 | section 91 | 1041 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 91: Employment of additional police at the cost of organizers, etc
+91. Employment of additional police at the cost of organizers, etc.---
+(1)Whenever it appears to Head of District Police that-
+(a) any large work which is being carried on, or any public amusement, or event at any place is likely to impede the traffic or to attract a large number of people; or 57 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(b) the behavior or a reasonable apprehension of the behavior of the persons employed on any railway, canal or other public work, or in or upon any manufactory or other commercial concern under construction or in operation at any place, necessitates the employment of additional police at such place;
+he may depute such number of additional police to the staid place for so long as the necessity to employ the additional police shall appear to be expedient.
+(2) Subject to rules, the cost of such additional police shall be borne by the organizers of such events or employers of such works or concerns, as the case may be, at rates approved by Government from time to time.
+
+====================================================================================================
+#111 | section 92 | 475 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 92: Compensation for injury caused by unlawful assembly
+92. Compensation for injury caused by unlawful assembly.---When any loss or damage is caused to any property or when death or grievous hurt is caused to any person or persons, by anything done in furtherance of the common object of an unlawful assembly, the trial court may determine the amount of compensation which, in its opinion should be paid by members of the unlawful assembly to any person or persons in respect of the loss or damage or death or grievous hurt caused.
+
+====================================================================================================
+#112 | section 93 | 186 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 93: Recovery of amount payable under sections 90 and 91
+93. Recovery of amount payable under sections 90 and 91.---Any amount payable under section 90 and section 91 shall be recovered in the same manner as if it were arrears of land revenue.
+
+====================================================================================================
+#113 | section 94 | 124 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 94: Recovered amount to go to treasury
+94. Recovered amount to go to treasury.---Amounts payable under section 90 and section 91 shall be credited to the treasury.
+
+====================================================================================================
+#114 | section 95 | 1189 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 95: Banning of use of dress resembling uniform of police or armed
+95. Banning of use of dress resembling uniform of police or armed forces.---
+(1) If Provincial Police Officer or the Head of District is satisfied that the wearing in public, by any member of any body, association or organization, of any dress or article of apparel resembling the uniform worn by police or members of the Armed Forces or any uniformed force constituted by or under any law for the time being in force, is likely to prejudice the security of the state or the maintenance of public order, he may by a special order prohibit or restrict the wearing, or display, in public of any such dress or article of apparel by any member of such body or association or organization.
+(2) Every order under sub-section (1), shall be published in the official Gazette.
+(3) No person shall sell or offer to sell or supply police uniform or articles without obtaining prior sanction from Central Police Office.
+58 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+Explanation: For the purpose of sub-section (1), a dress or article of apparel shall be deemed to have been worn or displayed in public if it is worn or displayed in any place to which the public have access.
+
+====================================================================================================
+#115 | section 96 | 378 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 96: Control of camps, parades, etc
+96. Control of camps, parades, etc.---If Head of District Police is satisfied that it is necessary in the interest of maintenance of public order, he may by a special order prohibit or restrict throughout the district or any part thereof all meetings and assemblies of persons for the purpose of training in the use of arms or taking part in any such camp, parade or procession.
+
+====================================================================================================
+#116 | section 97 | 228 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter VIII: Special Measures for Maintenance of Public Order and Security — Section 97: Authority of Head of District Police over the village police
+97. Authority of Head of District Police over the village police.---Head of District Police shall for the purpose of carrying this Act into effect, exercise authority and control over village watchmen or village police officers.
+
+====================================================================================================
+#117 | section 98 | 325 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Responsibilities of Police in Relation to Unclaimed Property — Section 98: Police to make inventory of unclaimed property, etc
+98. Police to make inventory of unclaimed property, etc.---It shall be the duty of every police officer to take charge and make inventory of any unclaimed property found by, or made over to him, and furnish a copy of the inventory to Head of District Police without delay, who shall send a copy of the same to District Public
+
+====================================================================================================
+#118 | section 99 | 1463 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Responsibilities of Police in Relation to Unclaimed Property — Safety Commission — Section 99: Procedure for disposal of unclaimed property
+99. Procedure for disposal of unclaimed property.---(1) Where any property has been taken charge of under section 98, Head of District Police shall issue a proclamation within fifteen days in the prescribed manner specifying the Sections of which such property consists and requiring that any person who may have a claim thereto shall appear before him or some other officer not below the rank of Assistant Superintendent of Police or Deputy Superintendent of Police especially authorized in this behalf and establish his claim within three months from the date of such proclamation.
+(2) If the property, or any part thereof, is subject to speedy and natural decay or if the property appears to be of the value of less than one thousand rupees, it may forthwith be disposed off in the prescribed manner under the orders of Head of District Police and the net proceeds of such sale shall be dealt with in the manner provided in sections 100 and 101 of this Act.
+(3) Where any person who has a claim to the property is required by the proclamation under clause (1) to appear before an officer authorized by the Head of District Police and establish his claim, such officer shall forward the record of the proceedings to the Head of District Police.
+59 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(4) Head of District Police shall follow the directions of the District Public Safety Commission in disposal of property under sub-section (3).
+
+====================================================================================================
+#119 | section 100 | 442 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Responsibilities of Police in Relation to Unclaimed Property — Safety Commission — Section 100: Delivery of property to person entitled
+100. Delivery of property to person entitled.---(1) Head of District Police on being satisfied of the title of any claimant to the possession or administration of the property specified in the proclamation issued under sub-section (1) of section 99 order the same to be delivered to him.
+(2) In case where there is more than one claimant to the same property the matter shall be referred by the Head of District Police to the competent court.
+
+====================================================================================================
+#120 | section 101 | 413 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter IX: Responsibilities of Police in Relation to Unclaimed Property — Safety Commission — Section 101: Disposal of property, if no claimant appears
+101. Disposal of property, if no claimant appears.---If no person establishes his claim to such property within the period specified in the proclamation, the property, or such part thereof as has not already been sold under sub-section (2) of section 99 shall, with the approval of appropriate Public Safety Commission, be disposed off in the prescribed manner and the proceeds shall be deposited in the treasury.
+
+====================================================================================================
+#121 | section 102 | 331 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 102: Causing mischief in street by animal or vehicle
+102. Causing mischief in street by animal or vehicle.---No person shall cause damage, injury, danger, alarm or mischief in any street or public place by negligent or reckless driving or by driving any vehicle or animal laden with timber, poles or other unwieldy articles through a street or public place contrary to any regulation.
+
+====================================================================================================
+#122 | section 103 | 559 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 103: Causing obstruction in a street
+103. Causing obstruction in a street.---No person shall cause obstruction in any street or public place-
+(a) by allowing any animal or vehicle, which has to be loaded or unloaded, or take up or set down passengers, to remain or stand in the street or the public place longer than may be necessary for such purpose; or
+(b) by leaving any vehicle standing or fastening any cattle in the street or the public place; or
+(c) by using any part of a street or public place as a halting place for vehicles or cattle; or
+(d) by causing obstruction in any other manner.
+
+====================================================================================================
+#123 | section 104 | 404 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 104: Willful or negligent conduct in respect of dogs
+104. Willful or negligent conduct in respect of dogs.---No person shall in any street or public place –
+60 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(a) let loose any dog willfully or negligently so as to cause danger, injury, alarm or annoyance; or
+(b) suffer a ferocious dog to be at large without a muzzle; or
+(c) set on a dog to attack any person or horse or other animal.
+
+====================================================================================================
+#124 | section 105 | 294 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 105: Penalty for offences under sections 102 to 104
+105. Penalty for offences under sections 102 to 104.---Any person who contravenes any of the provisions of sections 102 to 104shall, on conviction, be punished with fine, which may extend to ten thousand rupees, or, in default of payment, with imprisonment for a term not exceeding thirty days.
+
+====================================================================================================
+#125 | section 106 | 322 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 106: Suffering disorderly conduct
+106. Suffering disorderly conduct.---Whoever being the keeper of any place of public amusement or public entertainment, knowingly permits or suffers disorderly behavior or any gambling or any other criminal act, whatsoever, in such place, shall, on conviction be punished with fine which may extend to ten thousand rupees.
+
+====================================================================================================
+#126 | section 107 | 269 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 107: Penalty for contravening orders, etc
+107. Penalty for contravening orders, etc. under section 82.---Whoever contravenes or abets the contravention of any order made under section 82 or any of the condition of the license issued under such regulations shall on conviction be fined up to ten thousand rupees.
+
+====================================================================================================
+#127 | section 108 | 567 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 108: Penalties for contravention of order, etc. under section 83 and
+108. Penalties for contravention of order, etc. under section 83and sections 86 and 87.---(1) Whoever contravenes, disobeys, opposes or fails to conform to any order given by a police officer under section 83 and section 87shall, on conviction, be punished with fine, which may extend to ten thousand rupees.
+(2) Whoever contravenes a notification or an order made under sub- section (1) of section 86 shall be punished with imprisonment for a term which shall not be less than three months but may extend to two years and with fine up to one hundred thousand rupees.
+
+====================================================================================================
+#128 | section 109 | 286 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 109: Penalty for contravention of order under sections 95 and 96
+109. Penalty for contravention of orders under sections 95 and 96.---Whoever contravenes any order made under section 95 and section 96shall, on conviction, be punished with imprisonment for a term, which may extend to three or with fine up to one hundred thousand rupees, or with both.
+
+====================================================================================================
+#129 | section 110 | 488 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 110: Penalty for obtaining employment as a police officer through
+110. Penalty for obtaining employment as a police officer through fraudulent means.---Any person who makes a false statement or a statement which is misleading in material particulars or uses a false document for the purpose of obtaining employment as a police officer shall on conviction be punished with imprisonment for a term which may extend to one year, or with fine up to fifty thousand rupees, or with both.
+61 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#130 | section 111 | 486 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 111: Warning to first offender
+111. Warning to first offender.---It shall be lawful for Head of District Police or any other officer authorized by him not below the rank of Inspector, to request the relevant court to issue in lieu of prosecution, a warning in writing to the accused in relation to first commission of any offence mentioned in sections 102 to 104:
+Provided that for any subsequent offence mentioned in this section the offender on conviction will be awarded at least half of the prescribed punishment.
+
+====================================================================================================
+#131 | section 112 | 465 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 112: Defiling water in public wells, etc
+112. Defiling water in public wells, etc.---Whoever shall defile or cause to be defiled water in any public well, tank, reservoir, pond, pool, aqueduct or part of a river, stream, nullah or other source or means of water supply, so as to render the same unfit for the purpose for which it is set apart, shall on conviction be punished with imprisonment for a term which may extend to six months or with fine which may extend to thirty thousand rupees, or with both.
+
+====================================================================================================
+#132 | section 113 | 398 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 113: False alarm to police, fire brigade, 1122 or other emergency
+113. False alarm to police, fire brigade, 1122 or other emergency services etc.- --Whoever knowingly gives or causes to be given a false alarm or call to police, fire brigade or any other emergency services or to any officer thereof shall on conviction be punished with imprisonment for a term which may extend to three months or with fine which may extend to fifteen thousand rupees, or with both.
+
+====================================================================================================
+#133 | section 114 | 299 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 114: Penalty for contravention of orders made under section 88
+114. Penalty for contravention of orders made under section88.---Whoever contravenes, or abets the contravention of any order made under section 88 shall on conviction, be punished with imprisonment which may extend to three months, or with fine which may extend to ten thousand rupees or with both.
+
+====================================================================================================
+#134 | section 115 | 452 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 115: Penalty for unauthorized use of police uniform
+115. Penalty for unauthorized use of police uniform.---If any person not being a member of the police wears without authorization, the uniform of police or any dress having the appearance or bearing any of the distinctive marks of police uniform, or contravenes the provisions of section 95, he shall, on conviction, be punished with imprisonment for a term which may extend to three years, or with fine up to one hundred thousand rupees, or with both.
+
+====================================================================================================
+#135 | section 116 | 109 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 116: Certain offences to be cognizable
+116. Certain offences to be cognizable.---The offences falling under sections 112 to 115 shall be cognizable.
+
+====================================================================================================
+#136 | section 117 | 206 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter X: Offences and Punishments — Section 117: Power to try offences summarily
+117. Power to try offences summarily.---The court trying offences under this chapter shall have power to try such offences summarily in accordance with the procedure laid down for summary trial in the Code.
+
+====================================================================================================
+#137 | section 118 | 1502 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XI: Offences by and Punishments for Police Officers — Section 118: Penalty for certain types of misconduct by police officers
+118. Penalty for certain types of misconduct by police officers.---(1) Any police officer who- 62 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(a) makes for obtaining release from service as police officer, a false statement or a statement which is misleading in material particulars or uses a false document for the purpose;
+(b) is guilty of cowardice, or being a police officer, resigns his office or withdraws himself from duties without permission;
+(c) is guilty of any willful breach or neglect of any provision of law or of any rule or regulation or any order which he is bound to observe or obey;
+(d) is guilty of any violation of duty;
+(e) is found in a state of intoxication, while on duty;
+(f) malingers or feigns or voluntarily causes hurt to himself with the intention to render himself unfit for duty;
+(g) is grossly insubordinate to his superior officer or uses criminal force against a superior officer; or
+(h) engages himself or participates in any demonstration, procession or strike or resorts to or in any way abets any form of strike or coercion or physical duress to force any authority to concede anything shall, on conviction, for every such offence be punished with imprisonment for a term which may extend to three years and with fine.
+(2) Criminal proceedings under this section shall be initiated after approval is accorded in writing by Head of District Police, head of unit, Regional Police Officer or Provincial Police Officer, as the case may be.
+
+====================================================================================================
+#138 | section 119 | 678 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XI: Offences by and Punishments for Police Officers — Section 119: Penalty for vexatious entry, search, arrest, seizure of property, torture, etc
+119. Penalty for vexatious entry, search, arrest, seizure of property, torture, etc.---Whoever, being a police officer-
+(a) without lawful authority, or reasonable cause, enters or searches or causes to be entered or searched any building, vessel, tent or place;
+(b) vexatiously and unnecessarily seizes the property of any person;
+(c) vexatiously and unnecessarily detains, searches or arrests any person; or 63 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(d) inflicts torture or violence to any person in his custody;
+shall, for every such offence, on conviction, be punished with imprisonment for a term which may extend to five years and with fine.
+
+====================================================================================================
+#139 | section 120 | 357 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XI: Offences by and Punishments for Police Officers — Section 120: Penalty for unnecessary delay in producing arrested persons in
+120. Penalty for unnecessary delay in producing arrested persons in courts.--- Any police officer who vexatiously and unnecessarily delays the forwarding to a court or to any other authority to whom he is legally bound to forward any arrested person, shall, on conviction, be punished with imprisonment for a term which may extend to one year and with fine.
+
+====================================================================================================
+#140 | section 121 | 294 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 121: Provision of advice and assistance to International Organizations etc
+121. Provision of advice and assistance to International Organizations etc.--- The Police may provide advice and assistance to an International Organization or to any other person or body engaged in investigation of criminal cases outside Pakistan with the permission of the Federal Government.
+
+====================================================================================================
+#141 | section 122 | 785 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 122: Constitution of Promotion Boards etc
+122. Constitution of Promotion Boards etc.---Subject to rules, promotion of police officers of the provincial police shall be made on the recommendations of the Departmental Promotion Committees or Promotion Boards:
+Provided that the departmental promotion committees/promotion boards shall be headed by an officers not below the rank of-
+(a) Superintendent of Police for promotion to the rank of Head Constable;
+(b) Senior Superintendent of Police for promotion to the rank of Assistant Sub-Inspector and Sub-Inspector;
+(c) Deputy Inspector General of Police for promotion to the rank of Inspector;
+(d) Additional Inspector General of Police for promotion to the rank of Deputy Superintendent of Police; and
+(e) Inspector General for promotion to the rank of Superintendent of Police.
+
+====================================================================================================
+#142 | section 123 | 600 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 123: Maintenance or Diary at a police station
+123. Maintenance of Daily Diary at a police station.---(1) A register of Daily Diary shall be maintained at every police station in such form as shall, from time to time, be prescribed and to record therein the names of all complainants, persons 64 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) arrested, the offences charged against them, the weapons or property that shall have been taken from their possession or otherwise, and the names of the witnesses who shall have been examined.
+(2) The District and Sessions Judge of the District may call for and inspect such Diary.
+
+====================================================================================================
+#143 | section 124 | 1515 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 124: Public Safety Fund
+124. Public Safety Fund.---(1)Government may, by notification in the official Gazette, constitute Public Safety Fund at the Provincial and District levels consisting of-
+(a) grants made by the Federal Government, Government and the District Governments to the Police; and
+(b) contributions voluntarily made in cash or kind by the public for the improvement of police service delivery to be credited to District Public Safety Fund.
+(2) Government may credit one-half of the sums of the traffic fines to the Provincial Public Safety Fund.
+(3) All receipts mentioned in sub-clauses (a) and (b) of sub-section (1) and sub-section (2) may be credited to the Provincial or District Public Safety Fund as the case may be under a Head of Account in the Public Account duly authorized by the Controller General of Accounts.
+(4) The Fund shall be non-lapsable.
+(5) Accounts shall be kept of payment made into or out of this fund, which shall be audited by the Auditor General at the end of each financial year.
+(6) The Public Safety Fund at Provincial level shall be operated by the Provincial Public Safety Commission and at the District level by the District Public Safety Commission and by the City District Public Safety Commission, as the case may be, subject to any rules made under this Act.
+(7) The Public Safety Fund shall be applied for the purpose of-
+(a) improving facilities for public and service delivery at police stations;
+(b) improving traffic police; and
+(c) rewarding police officers for good performance.
+
+====================================================================================================
+#144 | section 125 | 568 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 125: Officers holding charge of or succeeding to vacancies competent to exercise powers
+125. Officers holding charge of or succeeding to vacancies competent to exercise powers.---Wherever in consequence of the office of Head of District Police 65 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) becoming vacant, any officer who holds charge of such post or succeeds either temporarily or permanently to his office under the orders of the competent appointing authority, such officer shall be competent to exercise all the powers and perform all the duties respectively conferred and imposed by this Act on the Head of District Police.
+
+====================================================================================================
+#145 | section 126 | 466 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 126: No police officer to be liable to any penalty or payment of damages on account of acts done in good faith in pursuance of duty
+126. No police officer to be liable to any penalty or payment of damages on account of acts done in good faith in pursuance of duty.---No police officer shall be liable to any penalty or to payment of damages on account of an act done in good faith in pursuance or intended pursuance of any duty imposed or any authority conferred on him by any provision of this Act or any other law for the time being in force or any rule, order or direction made or given therein.
+
+====================================================================================================
+#146 | section 127 | 589 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — Section 127: Suits or prosecutions in respect of acts done under color of duty not be entertained if not instituted within the prescribed period
+127. Suits or prosecutions in respect of acts done under color of duty not to be entertained if not instituted within the prescribed period.---In case of an alleged offence by a police officer, or a wrong alleged to have been done by him or by any act done under color of duty or in exercise of any such duty or authority of this Act or when it shall appear to the Court that the offence or wrong if Committed or done was of the character aforesaid, the prosecution or suit shall not be entertained, or shall be dismissed, if instituted after more than one year from the date of the action
+
+====================================================================================================
+#147 | section 128 | 536 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 128: Notice of suit to be given with sufficient description of wrong
+128. Notice of suit to be given with sufficient description of wrong complained of.---(1) In the case of an intended suit on account of an alleged wrong referred to in section 127 by a police officer, the person intending to sue shall give two month's notice as prescribed in section 80 of Civil Procedure Code 1908, of the intended suit with sufficient description of the wrong complained of.
+(2) The provisions of section 80 of the Civil Procedure Code, 1908, shall mutatis mutandis apply to the notice referred to in sub-section (1).
+
+====================================================================================================
+#148 | section 129 | 310 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 129: Licenses and written permissions to specify conditions, etc
+129. Licenses and written permissions to specify conditions, etc.---Any licence or written permission granted under the provisions of this Act shall specify the period, locality, conditions and restrictions subject to which the same is granted and shall be given under the signature of the competent authority.
+
+====================================================================================================
+#149 | section 130 | 396 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 130: Revocation of license or permission
+130. Revocation of licence or permission.---Any licence or written permission granted under this Act may at any time be suspended or revoked by the competent authority after due notice if any of its conditions or restrictions is infringed or evaded by the person to whom it has been granted, or if such person is convicted of any offence in any matter to which such licence or permission relates.
+
+====================================================================================================
+#150 | section 131 | 548 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 131: When license or permission is revoked, the grantee would be
+131. When licence or permission is revoked, the grantee would be deemed to be without licence.---When any such licence or written permission is suspended or revoked, or when the period for which the same was granted has expired, the person 66 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) to whom the same was granted shall, for all purposes of this Act, deemed to be without a licence or written permission, until the order for suspending or revoking the same is cancelled, or until the same is renewed, as the case may be.
+
+====================================================================================================
+#151 | section 132 | 267 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 132: Grantee to produce license and written permission when required
+132. Grantee to produce licence and written permission when required.--- Every person to whom any such licence or written permission has been granted, shall, while the same remains in force, at all reasonable time, produce the same if so required by a police officer.
+
+====================================================================================================
+#152 | section 133 | 582 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 133: Public notices how to be given
+133. Public notices how to be given.---Any public notice required to be given under any of the provisions of this Act shall be in writing under the signature of a competent authority and shall be published in the locality to be affected thereby, by affixing copies thereof in conspicuous public places, or by proclaiming the same with beat of drums, or by advertising the same in local newspapers in regional languages and English or Urdu, as the said authority may deem fit, or by electronic media, or by any two or more of these means and by any other means it may think suitable.
+
+====================================================================================================
+#153 | section 134 | 423 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 134: Consent of competent authority how to be proved
+134. Consent of competent authority how to be proved.---Whenever under this Act, the doing or the omitting to do anything or the validity of anything depends upon the consent, approval, declaration, opinion or satisfaction of a competent authority, a written document signed by the competent authority purporting to convey or set forth such consent, approval, declaration, opinion or satisfaction shall be evidence thereof.
+
+====================================================================================================
+#154 | section 135 | 369 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 135: Signature on notices may be stamped
+135. Signature on notices may be stamped.---Every licence, written permission, notice or other document, not being a summons or warrant or search warrant, required by this Act or by any rule hereunder, to bear the stamp and the signature of Head of District Police and it shall be deemed to be properly signed if it is a facsimile of the document bearing his signature.
+
+====================================================================================================
+#155 | section 136 | 652 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 136: Persons interested may apply to annul, reverse or alter any rule or order
+136. Persons interested may apply to annul, reverse or alter any rule or order.---In the case of any rule or order made under an authority conferred by this Act and requiring the public or a particular class of persons to perform some duty or act, or to conduct or order themselves or those under their control in a manner therein described, it shall be competent for any interested person to apply to the authority issuing such rule or order to annul, reverse or alter the rule or order aforesaid on the ground of its being unlawful, oppressive or unreasonable Provided that the government shall exercise jurisdiction for revision against such orders.
+
+====================================================================================================
+#156 | section 137 | 170 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 137: Notification of rules and regulations in the official Gazette
+137. Notification of rules and regulations in the official Gazette.---All rules and regulations made under this Act shall be made by notification in the official Gazette.
+
+====================================================================================================
+#157 | section 138 | 322 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 138: Power to prosecute under any other law not affected
+138. Powers to prosecute under any other law not affected.---Nothing contained in this Act shall be construed to prevent any person from being prosecuted 67 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017) under any other law for the time being in force for any offence made punishable under this Act.
+
+====================================================================================================
+#158 | section 139 | 183 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 139: Overriding effect
+139. Overriding effect.---The provisions of this Act shall have an overriding effect, notwithstanding anything contained in any other law, on the subject, for the time being in force.
+
+====================================================================================================
+#159 | section 140 | 142 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 140: Power to make rules.]
+1[140. Power to make rules.---Government, may, by notification of the official Gazette, make rules for carrying out the purposes of this Act.]
+
+====================================================================================================
+#160 | section 141 | 1540 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 141: Repeal and savings [(2) to (4)]
+141. Repeal and savings.---(1) All the provisions of the Police Order, 2002 (Chief Executive Order No. 22 of 2002), relating to the Provincial Legislative Field and in respect of which corresponding provisions are provided in this Act, in its application to the Khyber Pakhtunkhwa are hereby repealed.
+(2) Notwithstanding the repeal of the respective provisions as mentioned in sub-section (1), all the provisions of the Police Order, 2002, relating to Federal Legislative Field shall continue to remain in force.
+(3) Notwithstanding the repeal of the respective provisions in the Police Order, 2002 (Chief Executive Order No. 22 of 2002) (hereinafter referred to as the repealed Order), the Police rules made under the Police Act, 1861 (V of 1861) shall continue to remain in force until altered, repealed or amended by the appropriate Authority.
+(4) All rules prescribed, appointments made, powers conferred, orders made or passed, consent, permit, permission of licences given, summons or warrants issued or served, persons, arrested or detained or discharged on bail or bond, search warrants issued, bond forfeited, penalty incurred under the repealed Order shall, so far as they are consistent with this Act, be deemed to have been respectively prescribed, made, conferred, given, passed, served, arrested, detained, discharged, forfeited and incurred hereunder and all references made to the repealed Order or the Police Act, 1861, in any law or instrument shall be construed as references to the corresponding provisions of this Act.
+
+====================================================================================================
+#161 | section 141 | 1222 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 141: Repeal and savings [(5)]
+141. Repeal and savings.---(1) All the provisions of the Police Order, 2002 (Chief Executive Order No. 22 of 2002), relating to the Provincial Legislative Field and in respect of which corresponding provisions are provided in this Act, in its application [...]
+(5) Notwithstanding the aforesaid repeal, the repeal shall not-
+(a) affect the validity, invalidity, effect or consequence of anything duly done or suffered under the repealed Order;
+(b) affect any right, privilege, obligation or liability acquired, accrued or incurred under the repealed Order;
+1 Substituted vide Khyber Pakhtunkhwa Act No. XI of 2024.
+68 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+(c) affect any penalty, forfeiture or punishment incurred or inflicted in respect of any act or offence committed against the repealed Order;
+(d) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealed Order has not been repealed; and
+(e) affect any proceeding pending in any court or before any authority under the repealed Order, and any such proceeding and any appeal or revision arising out of such proceeding shall be continued, instituted or disposed of, as if the repealed Order had not been repealed.
+
+====================================================================================================
+#162 | section 142 | 290 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 142: Existing police deemed to e constituted under this Act
+142. Existing police deemed to be constituted under this Act.---Without prejudice to the provisions contained in section 141, the Police functioning in the Province immediately before the commencement of this Act shall on such commencement be deemed to be Police constituted under this Act.
+
+====================================================================================================
+#163 | section 143 | 392 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 143: Appointment of implementation Commissioner
+143. Appointment of Implementation Commissioner....Soon after the commencement of this Act, Government shall appoint a person as Implementation Commissioner having expertise in Policing on contract for a period of one year duly assisted by the representatives of Home, Finance and Police Departments for ensuring the establishment of various bodies under this Act within a period of one year.
+
+====================================================================================================
+#164 | section 144 | 194 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Chapter XII: Miscellaneous — complained of — Section 144: Repeal
+144. Repeal.---The Khyber Pakhtunkhwa Police Ordinance, 2016 (Khyber Pakhtunkhwa Ord. No. XI of 2016) is hereby repealed.
+69 | P age THE KHYBER PAKHTUNKHWA POLICE ACT, 2017. (ACT NO. II OF 2017)
+
+====================================================================================================
+#165 | schedule  | 722 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — First Schedule
+(Section 38) FORM OF OATH OR AFFIRMATION BY MEMBERS OF POLICE I, __________________ do hereby swear/solemnly affirm that I shall be faithful and bear true allegiance to Pakistan and to the Constitution of the Islamic Republic of Pakistan; that as member of the Police I shall honestly, impartially and truly serve the people without fear, favour or affection, malice or ill-will; that I will to the best of my ability, skill and knowledge discharge, according to law, such functions and duties as may be entrusted to me as a member of the police and in such a manner as to uphold and protect the dignity and rights of the citizens; that I shall abide by the principles contained in the Code of Conduct for Police officers.
+
+====================================================================================================
+#166 | schedule  | 464 chars
+The Khyber Pakhtunkhwa Police Act, 2017 — Second Schedule
+(Section 39) CERTIFICATE OF APPOINTMENTSEAL Certificate of appointment issued under section _______ of the Khyber Pakhtunkhwa Police Act, 2017, Mr. ______________ has been appointed ____________ and is invested with the powers, functions and privileges of a Police officer under section ___________ of Khyber Pakhtunkhwa Police Act, 2017, in the Province of Khyber Pakhtunkhwa under the charge of Provincial Police Officer, ___________on this day of _____________.

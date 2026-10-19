@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pakistan Law Assistant</title>
+<link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>Pakistan Law Assistant</h1>
+    <p class="sub">Answers from Pakistani statutes, every point cited to its section. Ask in English, Urdu or Roman Urdu.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <form id="ask" class="ask" autocomplete="off">
+    <label class="visually-hidden" for="question">Your question</label>
+    <textarea id="question" dir="auto" rows="3" maxlength="2000"
+              placeholder="e.g. What is the punishment for a cheque that bounces?  ·  Talaq ka notice kis ko dena hota hai?  ·  ضمانت کب ملتی ہے؟"></textarea>
+    <div class="row">
+      <label for="province">Law of</label>
+      <select id="province">
+        <option value="">All of Pakistan</option>
+        <option value="ict">Islamabad (federal law)</option>
+        <option value="punjab">Punjab</option>
+        <option value="sindh">Sindh</option>
+        <option value="kp">Khyber Pakhtunkhwa</option>
+        <option value="balochistan">Balochistan</option>
+      </select>
+      <button type="submit" id="go">Ask</button>
+    </div>
+    <div class="examples" id="examples"></div>
+  </form>
+
+  <section id="result" hidden>
+    <article class="answer card">
+      <div id="answer" dir="auto"></div>
+      <div class="meta" id="meta"></div>
+      <div class="feedback" id="feedback">
+        <span>Was this answer right?</span>
+        <button type="button" data-rating="1" aria-label="Helpful">👍</button>
+        <button type="button" data-rating="-1" aria-label="Not helpful">👎</button>
+        <button type="button" class="link" id="report">Report a wrong answer</button>
+        <form id="report-form" hidden>
+          <textarea id="report-text" dir="auto" rows="3" placeholder="What is wrong? (the section, the status, the explanation...)"></textarea>
+          <button type="submit">Send</button>
+        </form>
+        <span class="thanks" id="thanks" hidden>Thank you, noted.</span>
+      </div>
+    </article>
+
+    <h2>Sources</h2>
+    <ol class="sources" id="sources"></ol>
+
+    <details class="history card" id="history" hidden>
+      <summary>What the law was before</summary>
+      <p class="note">Earlier laws on this subject, no longer in force. Shown for history; the answer above uses only current law.</p>
+      <ul id="history-list"></ul>
+    </details>
+  </section>
+
+  <p class="loading" id="loading" hidden>Searching the statutes…</p>
+  <p class="error" id="error" hidden></p>
+</main>
+
+<dialog id="law">
+  <div class="law-head"><h2 id="law-title"></h2><button type="button" id="law-close" aria-label="Close">✕</button></div>
+  <p class="note" id="law-status"></p>
+  <div id="law-body"></div>
+</dialog>
+
+<footer class="wrap foot">Legal information from the statutes as published on the official codes, not legal advice. Laws marked
+  “status not confirmed” are Sindh laws whose current status the Sindh Code does not state.</footer>
+<script src="/static/app.js"></script>
+</body>
+</html>

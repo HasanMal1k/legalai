@@ -1,0 +1,19 @@
+Minimum Relief Amount
+Type of Loss
+Losses suffered by victims of terrorism.
+
+1. Death: 1,000,000/-
+2. Severance or loss of function of any limb; Severe injury: 500,000/-
+3. Inability to perform work beyond the extent of the loss; Apparent injury: 100,000/-
+4. (1) Complete construction and residence: 500,000/-
+   (2) Construction of a portion: 100,000/-
+5. (1) Complete construction and shop, garage, or business: 500,000/-
+   (2) Construction of a portion; Administrative premises: 100,000/-
+6. (a) Bus, truck, or any heavy vehicle (per unit loss): 1,000,000/-
+   (b) Car, jeep, or other four-wheelers (per unit loss): 200,000/-
+   (c) Motorcycle or scooter (per unit loss): 40,000/-
+   (d) Three-wheeler, and (per unit loss): 20,000/-
+   (e) [unclear]: 40,000/-
+7. (a) Buffalo, cow, or horse and loss of animals: 80,000/- (for each)
+   (b) Buffalo, goat, and donkey: 40,000/- (for each)
+   (c) [unclear]: 10,000/- (for each)

@@ -1,0 +1,216 @@
+{
+ "generated_at": "2026-10-18T18:28:08Z",
+ "documents": 16171,
+ "deduplication": {
+  "works": 13504,
+  "works_with_several_copies": 2489,
+  "non_primary_by_version": {
+   "as_enacted": 1865,
+   "other_version": 389,
+   "exact_copy": 296,
+   "near_copy": 113,
+   "translation": 4
+  },
+  "primary_by_version": {
+   "as_enacted": 6821,
+   "consolidated": 6683
+  },
+  "index_default": 9201,
+  "index_exclusion": {
+   "an amending instrument: its content is carried in the law it amended": 3563,
+   "an earlier or other version of an indexed law": 2254,
+   "a Gazette Part III notification (mostly administrative): out of scope": 715,
+   "another copy of the same text": 409,
+   "the same text as its copy on a provincial code, which is indexed": 18,
+   "a translation of an indexed law": 4,
+   "the text is not readable English": 2,
+   "the text is mostly symbols (a failed scan)": 2,
+   "too little text (a cover page or placeholder)": 2,
+   "a poor scan of a federal law whose clean Pakistan Code text is indexed": 1
+  },
+  "works_with_siblings": 1292,
+  "families_of_several_works": 575,
+  "index_by_authority_rank": {
+   "1": 3882,
+   "2": 4072,
+   "3": 505,
+   "4": 742
+  },
+  "pairs_for_review": 415
+ },
+ "with_second_pass": 16171,
+ "needs_review": 2250,
+ "by_source": {
+  "pakistancode": {
+   "documents": 1038,
+   "status": {
+    "in_force": 908,
+    "repealed": 91,
+    "unknown": 28,
+    "amending_instrument": 9,
+    "superseded": 2
+   },
+   "jurisdiction": {
+    "Federal": 1005,
+    "West Pakistan": 29,
+    "Sindh": 3,
+    "Punjab": 1
+   }
+  },
+  "drs": {
+   "documents": 5850,
+   "status": {
+    "unknown": 3983,
+    "in_force": 826,
+    "repealed": 485,
+    "amending_instrument": 200,
+    "superseded": 193,
+    "lapsed_presumed": 163
+   },
+   "jurisdiction": {
+    "Federal": 5686,
+    "West Pakistan": 152,
+    "Sindh": 7,
+    "Punjab": 3,
+    "Khyber Pakhtunkhwa": 2
+   }
+  },
+  "punjab": {
+   "documents": 5163,
+   "status": {
+    "amending_instrument": 2168,
+    "in_force": 1760,
+    "repealed": 685,
+    "unknown": 447,
+    "superseded": 86,
+    "lapsed_presumed": 17
+   },
+   "jurisdiction": {
+    "Punjab": 3636,
+    "Federal": 850,
+    "West Pakistan": 677
+   }
+  },
+  "kp": {
+   "documents": 569,
+   "status": {
+    "in_force": 524,
+    "repealed": 22,
+    "amending_instrument": 15,
+    "superseded": 4,
+    "unknown": 4
+   },
+   "jurisdiction": {
+    "Khyber Pakhtunkhwa": 434,
+    "West Pakistan": 91,
+    "Federal": 44
+   }
+  },
+  "balochistan": {
+   "documents": 1773,
+   "status": {
+    "in_force": 969,
+    "amending_instrument": 668,
+    "repealed": 122,
+    "unknown": 7,
+    "superseded": 7
+   },
+   "jurisdiction": {
+    "Balochistan": 1639,
+    "West Pakistan": 97,
+    "Federal": 37
+   }
+  },
+  "sindh": {
+   "documents": 1778,
+   "status": {
+    "amending_instrument": 861,
+    "unknown": 739,
+    "repealed": 94,
+    "superseded": 52,
+    "lapsed_presumed": 28,
+    "in_force": 4
+   },
+   "jurisdiction": {
+    "Sindh": 1746,
+    "Federal": 30,
+    "West Pakistan": 2
+   }
+  }
+ },
+ "status": {
+  "unknown": 5208,
+  "in_force": 4991,
+  "amending_instrument": 3921,
+  "repealed": 1499,
+  "superseded": 344,
+  "lapsed_presumed": 208
+ },
+ "status_confidence": {
+  "unknown (low)": 5208,
+  "in_force (medium)": 4977,
+  "amending_instrument (high)": 3921,
+  "repealed (high)": 1440,
+  "superseded (medium)": 344,
+  "lapsed_presumed (low)": 208,
+  "repealed (medium)": 59,
+  "in_force (low)": 14
+ },
+ "tiers": {
+  "current": 3226,
+  "historical": 1343,
+  "quarantine": 3925,
+  "unconfirmed": 707
+ },
+ "quarantine_reasons": {
+  "status: no evidence of whether it is in force": 3550,
+  "text: N of ordinary words garbled": 443,
+  "identity: title or kind of law disputed between the site and the two model readings, and the text does not settle it": 233,
+  "status: in force by inference, not listed as current": 155,
+  "status: a federal law as a provincial code lists it (the Pakistan Code does not list it as current)": 87,
+  "status: another law names it in a repeal that could not be confirmed": 11,
+  "text: most pages have no text": 6,
+  "status: made under The Punjab Local Government Act, N, which has since been repealed": 5,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The Punjab Minimum Wages Act, N (punjab), which says: \"Wages ": 2,
+  "status: made under The Punjab Privatization Board Act, N, which has since been repealed": 2,
+  "status: made under The Punjab Undesirable Cooperative Societies (Dissolution) Act, N, which has since been repealed": 2,
+  "status: made under The Dangerous Drugs Act, N, which has since been repealed": 2,
+  "status: made under The Opium Act, N, which has since been repealed": 2,
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Balochistan Public Private Partnership Act, N (baloc": 2,
+  "status: the sources conflict: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by The Cantonments Ordinance, N (pakistancode), which says: \"O": 1,
+  "status: the sources conflict: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by The Cotton Ordinance, N (drs), which says: \"The Cotton Act,": 1,
+  "status: the sources conflict: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by The Frontier Constabulary (Re-organization) Ordinance, N (d": 1,
+  "status: the sources conflict: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by The Riot and Civil Commotion Risks Insurance (Repealing) Ordin": 1,
+  "status: the sources conflict: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by The West Pakistan Usurious Loans Ordinance, N (pakistancode": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The General Statistics (Reorganization) Act, N (pakistancode)": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The West Pakistan Juvenile Smoking (Repeal) Act, N (pakistanc": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The West Pakistan Prohibition of Smoking in Cinema Houses (Repea": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The Small Claims and Minor Offences Courts Ordinance, N (paki": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The Punjab Local Government Act, N (punjab), which says: \"Rep": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The Punjab Curriculum and Textbook Board Ordinance, N (punjab": 1,
+  "status: made under The Punjab Forensic Science Agency Act, N, which has since been repealed": 1,
+  "status: the sources conflict: listed as current law on the Punjab Code; nothing found repealing it, but it may be repealed by The National Electric Power Regulatory Authority Licensing (Appl": 1,
+  "status: made under The Punjab Entertainments Duty Act, N, which has since been repealed": 1,
+  "status: made under The Juvenile Justice System Ordinance, N, which has since been repealed": 1,
+  "status: made under Punjab Aab-e-Pak Authority Act N, which has since been repealed": 1,
+  "status: made under The Apprenticeship Ordinance, N, which has since been repealed": 1,
+  "status: made under The Disabled Persons (Employment and Rehabilitation) Ordinance, N, which has since been repealed": 1,
+  "status: made under The Minimum Wages Ordinance, N, which has since been repealed": 1,
+  "status: made under The Glanders and Farcy Act, N, which has since been repealed": 1,
+  "status: made under The Punjab Public Private Partnership Ordinance, N, which has since been repealed": 1,
+  "status: made under The Epidemic Diseases Act, N, which has since been repealed": 1,
+  "status: made under The Punjab Examination Commission Act, N, which has since been repealed": 1,
+  "status: the sources conflict: same law as 'The Punjab Employees Special Allowance (Payment) Act, N' on the Punjab Code: listed as current law on the Punjab Code; nothing found repealing i": 1,
+  "status: the sources conflict: same law as 'The West Pakistan Money-Lenders Ordinance, N' on the Khyber Pakhtunkhwa Code: listed as current law on the Khyber Pakhtunkhwa Code; nothing foun": 1,
+  "status: the sources conflict: same law as 'The West Pakistan Juvenile Smoking Ordinance, N' on the Khyber Pakhtunkhwa Code: listed as current law on the Khyber Pakhtunkhwa Code; nothing f": 1,
+  "status: the sources conflict: same law as 'The Cantonments Act, N' on the Pakistan Code: listed as current law on the Pakistan Code; nothing found repealing it, but it may be repealed by ": 1,
+  "status: the sources conflict: listed as current law on the Khyber Pakhtunkhwa Code; nothing found repealing it, but it may be repealed by The Khyber Pakhtunkhwa Tibb and Homeopathic Employee": 1,
+  "status: the sources conflict: listed as current law on the Khyber Pakhtunkhwa Code; nothing found repealing it, but it may be repealed by Abolition of the Punishment of Whipping Act, N (p": 1,
+  "status: the sources conflict: listed as current law on the Khyber Pakhtunkhwa Code; nothing found repealing it, but it may be repealed by The West Pakistan Prohibition of Smoking in Cinema H": 1,
+  "status: the sources conflict: listed as current law on the Khyber Pakhtunkhwa Code; nothing found repealing it, but it may be repealed by The West Pakistan Juvenile Smoking (Repeal) Act, N": 1,
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Balochistan Kachhi Abadis Regularization and Developmen": 1,
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Baluchistan Constabulary (Repeal) Ordinance, N (drs)": 1,
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by Mir Chakar Khan Rind University, Sibi Act, N (balochista": 1,
+  "status: made under The Freedom of Information Act, N, which has since been repealed": 1
+ }
+}

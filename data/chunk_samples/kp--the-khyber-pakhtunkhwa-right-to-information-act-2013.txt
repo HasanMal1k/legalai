@@ -1,0 +1,395 @@
+The Khyber Pakhtunkhwa Right to Information Act, 2013
+{"title": "The Khyber Pakhtunkhwa Right to Information Act, 2013", "instrument_type": "Act", "text_source": "native", "chars": 34420, "method": "provisions", "contents_entries": 35, "provisions": 35, "problems": [], "chunks": 42, "largest_chunk": 2150}
+
+====================================================================================================
+#0 | card  | 1758 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Overview
+The Khyber Pakhtunkhwa Right to Information Act, 2013 (Act, 2013, Khyber Pakhtunkhwa).
+The Khyber Pakhtunkhwa Right to Information Act, 2013 establishes the right of every citizen to access information held by public bodies within the province. It creates the Khyber Pakhtunkhwa Information Commission to oversee functions related to information disclosure and handles complaints regarding denied requests. The Act outlines procedures for making requests, fees involved, exemptions for sensitive data, and penalties for non-compliance or offenses committed under the law.
+Subjects: transparency, access to information, public bodies, information commission, fees for requests, exempt information, complaints, whistleblowers.
+Provisions: 1. Short title, extent and commencement; 2. Definitions; 3. Right to information; 4. Maintenance and indexing of records; 5. Publication and availability of records; 6. Designation of official; 7. Request for information; 8. Assistance to requesters; 9. Where information is not held; 10. Procedure for disposal of requests; 11. Time line for responding; 12. Form for providing information; 13. Fees for requests; 14. Exempt information; 15. International relations and security; 16. Disclosure harmful to law enforcement; 17. Public economic affairs; 18. Policy making; 19. Privacy; 20. Legal privilege; 21. Commercial and confidential information; 22. Third parties; 23. Complaints; 24. Information Commission; 25. Functions of the Information Commission; 26. Powers of the Information Commission; 27. Funding for the Information Commission; 28. Offence; 29. Indemnity; 30. Whistleblowers; 31. Power to remove difficulties; 32. Power to make rules; 32A. Power to make regulations; 32B. Bar of jurisdiction.]; 33. Repeal
+
+====================================================================================================
+#1 | preamble  | 855 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Title and preamble
+WHEREAS Article 19A of the Constitution of the Islamic Republic of Pakistan provides that every citizen shall have the right to access to information in all matters of public importance, subject to regulation and reasonable restrictions imposed by law;
+AND WHEREAS transparency of information is vital to the functioning of democracy and also to improve governance, reduce corruption, and to hold Government, autonomous and statutory organizations and other organizations and institutions run on Government or foreign funding, more accountable to its citizens and for matters connected therewith and incidental thereto;
+AND WHEREAS it is essential that citizens shall have right to information to participate meaningfully in a democratic process and further to improve their involvement and contribution in public affairs;
+It is hereby enacted as follows:
+
+====================================================================================================
+#2 | section 1 | 233 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 1: Short title, extent and commencement
+1. Short title, extent and commencement.---(1) This Act may be called the Khyber Pakhtunkhwa Right to Information Act, 2013.
+(2) It extends to the whole of the Province of the Khyber Pakhtunkhwa.
+(3) It shall come into force at once.
+
+====================================================================================================
+#3 | section 2 | 1542 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 2: Definitions [(a) to (ii)]
+2. Definitions.---In this Act, unless there is anything repugnant in the subject or context,-
+(a) “complaint” means any allegation in writing made by or on behalf of a requester that his request for information has not been dealt with by a public body in accordance with the rules and procedures set out in this Act, including where he has been wrongfully denied access to all or part of that record;
+(b) “1[Public Information Officer]” means an officer of a public body designated under section 6 of this Act;
+(c) “employee or official” in relation to a public body means a person employed in a public body whether permanently or temporarily and includes consultants;
+(d) “Government” means the Government of the Khyber Pakhtunkhwa;
+1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+3 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(e) “information” means material which communicates meaning and which is held in recorded form;
+(f) “Information Commission” means the Khyber Pakhtunkhwa Information Commission established under section 24 of this Act;
+(g) “prescribed” means prescribed by rules made under this Act;
+(h) “Province” means the Province of the Khyber Pakhtunkhwa;
+(i) “Public body” means:
+(i) any department or attached department of the Government;
+(ii) Secretariats of Chief Minister and Governor of the Khyber Pakhtunkhwa;
+1[(iii) Secretariat of the Provincial Assembly, Khyber Pakhtunkhwa alongwith the Members of the Assembly and the Assembly itself;]
+
+====================================================================================================
+#4 | section 2 | 947 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 2: Definitions [(iv) to (m)]
+2. Definitions.---In this Act, unless there is anything repugnant in the subject or context,- [...]
+(iv) any Office, Board, Commission, Council or any other Body established by, or under, any law;
+(v) subordinate judiciary i.e. Courts of District and Sessions Judges, Courts of Additional District and Sessions Judges, Courts of Senior Civil Judges, Courts of Civil Judges and Courts of Magistrates;
+(vi) Tribunals;
+(vii) anybody which is owned, controlled or substantially funded by one of the above, including enterprises owned by the Province; and
+(viii) any other body which undertakes a public functions;
+(j) “record” means information which is recorded in any form;
+(k) “request for information” shall include a request for information and a request for a specific record;
+2[(l) “requester” means any citizen, legal person or an organization registered or incorporated in Pakistan who has made a request for information under this Act.] and
+(m) “third party” means a person other than the person making a request for information or a record.
+
+====================================================================================================
+#5 | section 3 | 881 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 3: Right to information
+3. Right to information.---(1) Every citizen shall subject to the provisions of this Act and any rules made under it, have the right to access any information or record held by a public body.
+(2) Notwithstanding anything contained in any other law for the time being in force, and subject to the provisions of this Act, no requester shall be denied access to any information or record.
+1 Deleted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015 and then revived through the Khyber Pakhtunkhwa Act No. XXXV of 2015.
+2 Substituted vide the Khyber Pakhtunkhwa Act No. XIII of 2025.
+4 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(3) This Act shall be interpreted so as,-
+(a) to advance the purposes of this Act; and
+(b) to facilitate and encourage, promptly and at the lowest reasonable cost, the disclosure of information.
+
+====================================================================================================
+#6 | section 4 | 402 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 4: Maintenance and indexing of records
+4. Maintenance and indexing of records.---Subject to the provisions of this Act and in accordance with the rules as may be prescribed, each public body shall ensure that all of the records which it holds are properly maintained, including so as to enable it to comply with its obligations under this Act, and in accordance with any relevant rules or standards established by the Information Commission.
+
+====================================================================================================
+#7 | section 5 | 2150 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 5: Publication and availability of records [part 1 of 2]
+5. Publication and availability of records.---(1) The following categories of information shall be duly published by public bodies in an up-to-date fashion and in a manner which best ensures that they are accessible to those for whom they may be relevant, including over the Internet, subject to reasonable restrictions based on limited resources:
+(a) Acts and subordinate legislation such as rules, regulations, notifications, bye-laws, manuals and orders having the force of law in the Province, including being made available at a reasonable price at an adequate number of outlets to ensure reasonable access by the public;
+(b) information about the public body, including its organization, functions, duties, powers and any services it provides to the public;
+(c) a directory of its officers and employees, including a description of their powers and functions and their respective remunerations, perks and privileges;
+(d) norms and criteria set by the public body for the discharge of its functions, including any rules, manuals or policies used by its employees to this end;
+(e) a description of its decision making processes and any opportunities for the public to provide input into or be consulted about decisions;
+(f) relevant facts and background information relating to important policies and decisions which are being formulated or have been made and which affect the public;
+(g) a detailed budge of the public body, including proposed and actual expenditures;
+(h) details about any subsidy or benefit programmes operated by the public body, including details about the amount or benefits provided and the beneficiaries;
+(i) particulars of the recipients of concessions, permits, licences or authorizations granted by the public body;
+(j) the categories of information held by the public body;
+5 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(k) a description of the manner in which requests for information may be made to the public body, including the name, title and contact details of all 1[Public Information Officers]; and
+(l) such other information as may be prescribed.
+
+====================================================================================================
+#8 | section 5 | 498 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 5: Publication and availability of records [(2) to (3)]
+5. Publication and availability of records.---(1) The following categories of information shall be duly published by public bodies in an up-to-date fashion and in a manner which best ensures that they are accessible to those for whom they may be [...]
+(2) Public body shall also publish an annual report on what they have done to implement their obligations under this Act, which shall include detailed information about the requests for information which they have received, and how they have processed these requests.
+(3) The annual report under sub-section (2) shall be formally forwarded to Speaker Provincial Assembly of Khyber Pakhtunkhwa and to the Information Commission, who shall take such action on the report as they may deem appropriate.
+
+====================================================================================================
+#9 | section 6 | 898 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 6: Designation of official
+6. Designation of official.---(1) On commencement of this Act, a public body shall within a period of one hundred and twenty (120) days, designate and notify an officer to act as 2[Public Information Officer] for the purposes of this Act, with whom request for information under this Act may be lodged.
+(2) In case no such official has been designated or in the event of the absence or non availability of the 3[Public Information Officer], the person in charge of the public body shall be the 4[Public Information Officer].
+(3) The 5[Public Information Officer] shall be responsible for ensuring that requests for information are dealt with in accordance with this Act and generally for promoting full compliance by the public body with its obligations under this Act.
+6[(4) The head of the public body shall facilitate the Public Information Officer in discharge of his functions under this Act.]
+
+====================================================================================================
+#10 | section 7 | 1614 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — Section 7: Request for information
+7. Request for information.---(1) Subject to the provisions of this Act, every citizen may lodge a request for information with a public body through the 7[Public Information Officer.]
+(2) A request for information shall be made in writing and lodged in any manner in which the public body has the facilities to receive it, including in persons, by mail, by fax or by e-mail.
+(3) Any written request for information which identifies the information or record sought in sufficient detail to enable the public body to locate it, and which includes an address for delivery of the information or record, shall be treated as a request for information.
+(4) Subject to sub-section (3), a public body may provide an optional form for making requests for information, with a view to assisting requesters to make request.
+(5) In no case shall a requester be required to provide reasons for his request.
+(6) Where a request for information is received by a public body, the requester shall be provided with a receipt acknowledging the request, including the date and name of the official responsible for processing it.
+1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+2 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+3 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+4 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+5 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+6 Added vide the Khyber Pakhtunkhwa Act No. XIII of 2025.
+7 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+6 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+
+====================================================================================================
+#11 | section 8 | 585 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 8: Assistance to requesters
+8. Assistance to requesters.---(1) A 1[Public Information Officer] shall take all reasonable steps to assist any requester who needs such assistance.
+(2) In particular, a 2[Public Information Officer] shall assist any requester who is having problems describing the information sought in sufficient detail to enable the public body to locate that information, or who needs held due to disability.
+(3) Where a requester is unable to provide a written request, a 3[Public Information Officer] shall reduce the request to writing, and provide the requester with a signed, date copy of it.
+
+====================================================================================================
+#12 | section 9 | 518 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 9: Where information is not held
+9. Where information is not held.---(1) Where a public body does not hold information or records which are responsive to a request, and it is aware of another public body which does hold the information, it shall forward the request to that public body, and it shall inform the requester of this.
+(2) Where a public body does not hold information or records which are responsive to a request, and it is not aware of any other public body which does, it shall return the request to the requester, informing him of this.
+
+====================================================================================================
+#13 | section 10 | 2114 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 10: Procedure for disposal of requests
+10. Procedure for disposal of requests.---(1) A 4[Public Information Officer] shall provide a written notice in response to a request for information.
+(2) The notice shall indicate that:
+(a) the request has been accepted and the requester is entitled to receive the information or record, subject to the payment of any applicable fee; or
+(b) the request has been rejected on the basis that it does not comply with the rules relating to such requests, but only after assistance has been offered to the requester in accordance with section 8; or
+(c) the request has been rejected on the basis that the information is already available in published form, including in the official Gazette or in another generally accessible form, such as a book, in which case the notice shall direct the requester to the place where the information may be found; or
+(d) the request has been rejected on the basis that it is vexatious, including because it relates to information which is substantially the same as information that has already been provided to the same requester; or
+(e) the request has been rejected, in whole or in part, on the basis that the information is exempt, in which case the notice shall specify the exact exception relied upon and include details regarding the right of the requester to appeal against this decision.
+(3) Where information or a record is provided in accordance with clause
+(a) of sub-section 2, it shall be accompanied by a certificate, which may be affixed to the information or record at the foot thereof, as appropriate, to the effect that the information is correct or, as the case may be, the copy is a true copy of such public 1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+2 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+3 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+4 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+7 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013) record, and such certificate shall be dated and signed by the 1[Public Information Officer.]
+
+====================================================================================================
+#14 | section 11 | 677 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 11: Time line for responding
+11. Time line for responding.---(1) Subject to the provisions of this Act, a public body shall be required to respond to a request for information in accordance with section 7 as soon as possible and in any case within ten working days of the receipt of request.
+(2) The period stipulated in sub-section (1), may be extended by a maximum of a further ten working days where this is necessary because the request requires a search through a large number of records or records located in different offices, or consultation with third parties or other public bodies.
+(3) Information needed to protect the life or liberty of any individual will be provided within two working days.
+
+====================================================================================================
+#15 | section 12 | 353 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 12: Form for providing information
+12. Form for providing information.---Where an applicant has indicated a preferred means for accessing information, such as a physical copy (attested), an electronic copy or an opportunity to inspect certain records, the public body shall provide access in that form unless to do so would unreasonably interfere with its operations or harm the document.
+
+====================================================================================================
+#16 | section 13 | 407 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 13: Fees for requests
+13. Fees for requests.---(1) It shall be free to lodge requests for information.
+(2) Fees may be charged for the actual costs of reproducing information and sending it to the requester, in accordance with any schedule of fees which may be adopted by the Information Commission.
+(3) No fee shall be charged for the first twenty pages of information provided, or where the requester is below the poverty line.
+
+====================================================================================================
+#17 | section 14 | 1827 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 14: Exempt information
+14. Exempt information.---A public body shall not be required to disclose information which falls within the scope of the exceptions provided for in sections 15 to 21 of this Act, provided that:
+(a) exceptions in other laws (secrecy provisions) may not extend the scope of the exceptions in this Act, although they may elaborate on an exception that is provided for in this Act;
+(b) the fact that information has been classified is irrelevant to the question of whether or not it falls within the scope of the exceptions provided for in this Act, which must always be accessed directly, at the time of a request, based on clear and objective considerations;
+(c) where only part of a record or the information falls within the scope of the exceptions provided for in this Act, that part shall be severed and the rest of the record or information shall be provided to the requester;
+(d) even where information falls within the scope of an exception provided for in this Act, the information shall still be provided to the requester where, on balance, the overall public interest favours disclosure of the information;
+(e) for the purposes of clause (d), there shall be a strong presumption in favour of the disclosure of information that exposes corruption, criminal wrongdoing, other serious 1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+8 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013) breaches of the law, human rights abuse, or serious harm to public safety or the environment; and
+(f) the exceptions set out in sections 15 to 18 of this Act, shall cease to apply after a period of twenty years, provided that this may be extended, in exceptional cases, for up to a maximum of another fifteen years, with the approval of the Information Commission.
+
+====================================================================================================
+#18 | section 15 | 219 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 15: International relations and security
+15. International relations and security.---A public body may refuse a request for information the disclosure of which would be likely to cause grave and significant harm to international relations or national security.
+
+====================================================================================================
+#19 | section 16 | 588 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 16: Disclosure harmful to law enforcement
+16. Disclosure harmful to law enforcement.---A public body may refuse a request for information the disclosure of which would be likely to:
+(a) result in the commission of an offence;
+(b) harm detection, prevention, investigation, inquiry or prosecution in relation to an offence, or the apprehension of an offender;
+(c) reveal the identity of a confidential source of information in relation to an investigation;
+(d) facilitate an escape from legal custody; or
+(e) harm the security of any property or system, including a building, a vehicle, a computer system or a communication system.
+
+====================================================================================================
+#20 | section 17 | 671 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 17: Public economic affairs
+17. Public economic affairs.---A public body may refuse a request for information the disclosure of which would be likely to:
+(a) cause grave and significant damage to the economy as a result of the premature disclosure of the proposed introduction, abolition or variation of any tax, duty, interest rate, exchange rate or any other instrument of economic management; or
+(b) cause significant damage to the legitimate financial interests of the public body, including by giving an unreasonable advantage to any person in relation to a contract which that person is seeking to enter into with the public body or by revealing information to a competitor of the public body.
+
+====================================================================================================
+#21 | section 18 | 357 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 18: Policy making
+18. Policy making.---A public body may refuse a request for information the disclosure of which would be likely to cause serious prejudice to the deliberative process in a public body by inhibiting the free and frank provision of advice or exchange of views, or cause serious prejudice to the success of a policy through premature disclosure of that policy.
+
+====================================================================================================
+#22 | section 19 | 790 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 19: Privacy
+19. Privacy.---(1) A public body may refuse a request for information the disclosure of which would encroach on the privacy of an identifiable third party individual, other than the requester, including an individual who has been deceased for less than twenty years.
+(2) The exception in sub-section (1) shall not apply where:
+(a) the third party has effectively consented to the disclosure of the information;
+9 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(b) the person making the request is the guardian of the third party, or the next of kin or the executor of the will of a deceased third party; or
+(c) the third party is or was an official of a public body and the information relates to his function as a public official.
+
+====================================================================================================
+#23 | section 20 | 190 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 20: Legal privilege
+20. Legal privilege.---A public body may refuse a request for information which is privileged from production in legal proceedings, unless the person entitled to the privilege has waived it.
+
+====================================================================================================
+#24 | section 21 | 432 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 21: Commercial and confidential information
+21. Commercial and confidential information.---A public body may refuse a request for information if the information:
+(a) was obtained from a third party and to communicate it would constitute an actionable breach of confidence; and
+(b) was obtained in confidence from a third party and it contains a trade secret or to communicate it would be likely to seriously prejudice the commercial or financial interests of that third party.
+
+====================================================================================================
+#25 | section 22 | 599 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 22: Third parties
+22. Third parties.---(1) Where a request for information relates to information or a record provided on a confidential basis by a third party, the public body shall endeavour to contact that third party with a view to obtaining either his consent to disclosure of the information or record or his objections to disclosure.
+(2) Where a third party objects to disclosure, his objections shall be taken into account, but the decision as to whether or not the information falls within the scope of the exceptions in this Act shall be assessed by the public body on the basis of objective considerations.
+
+====================================================================================================
+#26 | section 23 | 504 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 23: Complaints
+23. Complaints.---(1) Anyone who believes that his request has not been dealt with in accordance with the provisions of this Act has the right to lodge a complaint with the Information Commission to this effect.
+(2) Complaints under sub-section (1) shall be free of charge.
+(3) The Information Commission shall decide any complaint within a period of sixty (60) days.
+(4) In an appeal, the public body shall bear the burden of proof of showing that it acted in accordance with the provisions of this Act.
+
+====================================================================================================
+#27 | section 24 | 1585 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 24: Information Commission [(2) to (6)]
+24. Information Commission.---(1) On the commencement of this Act, Government shall within a period of one hundred and twenty (120) days, establish a Information Commission to be known as the Khyber Pakhtunkhwa Information Commission.
+(2) The Information Commission shall be an independent statutory body, which shall enjoy operational and administrative autonomy from any other person or entity, including the Government and any of its agencies, except as specifically provided for by law.
+(3) The Information Commission shall be headed by the Chief Information Commissioner, who shall be a retired Senior Government Servant not below the rank of BPS-20 and shall be appointed by Government.
+10 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(4) The Information Commission shall comprise of 1[two] other Members to be known as Commissioners, who shall be appointed in the following manner:
+(a) one Advocate of High Court or Supreme Court, who is qualified to be a Judge of High Court; and
+(b) A person from civil society having experience of not less than fifteen years in the field of mass communication, academic or right to information.
+(5) The Chief Information Commissioner and the Commissioners shall hold office for a term of three years from the date on which they assume office and shall not be eligible for re-appointment.
+(6) Notwithstanding anything contained in sub-section (5), the Chief Information Commissioner and Commissioners shall not hold office after they have attained the age of sixty-five (65) years.
+
+====================================================================================================
+#28 | section 24 | 795 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 24: Information Commission [(7) to (8)]
+24. Information Commission.---(1) On the commencement of this Act, Government shall within a period of one hundred and twenty (120) days, establish a Information Commission to be known as the Khyber Pakhtunkhwa Information [...]
+(7) A Commissioner may not hold any other public office, or be connected with any political party or be running any business or pursuing any profession at the time of or during their appointment to the Information Commission.
+(8) A Commissioner may be removed by a positive vote of not less than two of the other Commissioners on grounds of failure to attend three consecutive meetings of the Information Commission without cause, inability to perform the duties of a Commissioner, falling foul of the conditions for being a Commissioner as set out in sub-section (6), or conduct which is materially inconsistent with the status of being a Commissioner, provided that a Commissioner who has been removed pursuant to this sub-section shall have the right to appeal that removal before the courts.
+
+====================================================================================================
+#29 | section 25 | 1920 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 25: Functions of the Information Commission [(2)]
+25. Functions of the Information Commission.---(1) The Information Commission shall have a primary responsibility to receive and decide on complaints.
+(2) The Information Commission shall, in addition to its complaints function, conduct the following activities:
+(a) set rules and minimum standards regarding the manner in which public bodies are required to manage their records, in accordance with section 4 of this Act;
+(b) designate further categories of information which may be subject to proactive disclosure, in accordance with sub-section
+(l) of section 5 of this Act;
+(c) adopt a schedule of the fees that public bodies may charge for providing information to requesters, in accordance with sub- section (2) of section 13 of this Act;
+(d) approve or reject extensions to the maximum period that information may be kept confidential, in accordance with clause (f) of section 14 of this Act;
+(e) compile a user-friendly handbook, in Urdu and English, describing in easily comprehensible form the rights established by, and how to make a request for information under, this Act;
+1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+11 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(f) refer to the appropriate authorities cases which reasonably disclose evidence of criminal offences under this Act;
+(g) compile a comprehensive annual report both describing its own activities, including an overview of its audited accounts, and providing an overview of the activities undertaken by all public bodies to implement this Act, taking into account the information provided by individual public bodies pursuant to sub-section (2) of section 5 of this Act; and
+(h) have an accredited accountant conduct an audit of its accounts on an annual basis, and provide a copy of its audited accounts to the Provincial Assembly and the Department of Finance.
+
+====================================================================================================
+#30 | section 25 | 896 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 25: Functions of the Information Commission [(3)]
+25. Functions of the Information Commission.---(1) The Information Commission shall have a primary responsibility to receive and decide on complaints. [...]
+(3) The Information Commission shall have the power to:
+(a) monitor and report on the compliance by public bodies with their obligations under this Act;
+(b) make recommendations to Government for reform both of a general nature and in relation to specific public bodies;
+(c) make formal comments on any legislative or other legal proposals which affect the right to information;
+(d) co-operate with or undertake training activities for public officials on the right to information and the effective implementation of this Act; and
+(e) publicize the requirements of this Act and the rights of individuals under it.
+1[(4) While deciding a complaint 2[for disposal of its business], the Information Commission shall consist of atleast two members or one member and the Chief Information Commissioner and the decision of the Commission shall not be invalid on the ground of existence of any vacancy.]
+
+====================================================================================================
+#31 | section 26 | 2132 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 26: Powers of the Information Commission [(2) to (3)]
+26. Powers of the Information Commission.---(1) The Information Commission shall have all powers, direct or incidental, as are necessary to undertake its functions as provided for in this Act, including full legal personality, and the power to acquire, hold and dispose of property.
+(2) The Information Commission shall also have the power to conduct inquiries, in relation to either a complaint or other matters connected with the proper implementation of this Act, and when conducting such an inquiry, the Information Commission shall have the powers of a Civil Court under Code of Civil Procedure
+(CPC) 1908 in respect of the following matters:
+(a) summoning and enforcing the attendance of witnesses and compelling them to give oral or written evidence under oath;
+(b) requiring public bodies and to produce documents or things;
+(c) inspect the premises of public bodies; and
+(d) examining and inspecting information.
+1 Added vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+2 Inserted vide the Khyber Pakhtunkhwa Act No. XIII of 2025.
+12 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(3) When deciding a complaint, the Information Commission shall have the following powers:
+(a) to order a public body to disclose information to a requester or to take such other reasonable measures as it may deem necessary to compensate a requesters for any failure to respect the provisions of this Act;
+(b) to impose a daily fine of up to Rs. 250 per day, up to a maximum of Rs. 25,000, on any official who has acted wilfully to obstruct any activity which is required to be undertaken by this Act, including with a view to preventing or delaying the disclosure of information to a requester; and
+(c) to require a public body to take such general measures as may be required to address systematic failures to respect the provisions of this Act, including by appointing a 1[Public Information Officer], by conducting training for its employees, by improving its record management, by publishing information on a proactive basis and/or by preparing and publishing an annual report.
+
+====================================================================================================
+#32 | section 26 | 536 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 26: Powers of the Information Commission [(4)]
+26. Powers of the Information Commission.---(1) The Information Commission shall have all powers, direct or incidental, as are necessary to undertake its functions as provided for in this Act, including full legal personality, and the [...]
+(4) A decision of the Information Commission under sub-section (3) shall, if it has not been appealed against within 30 days, be registered with the 2[Court of the District and Sessions Judge of the concerned district] and any failure to respect the decision shall be dealt with in the same way as any contempt of court.
+3[(5) any person, aggrieved by the order issued under sub-section (3) of section 26 of this Act, may file an appeal before the Peshawar High Court, Peshawar, within forty five (45) days of the receipt of the order.]
+
+====================================================================================================
+#33 | section 27 | 681 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 27: Funding for the Information Commission
+27. Funding for the Information Commission.---(1) Government shall make such a budgetary allocation to the Information Commission as it may require to discharge its responsibilities effectively, including by establishing a secretariat and hiring the requisite staff to enable it to conduct its business properly, and shall provide the funds indicated through a reasonable schedule of payments throughout the year.
+(2) For purposes of implementing sub-section (1), the Information Commission shall present a budget proposal to Government.
+(3) The Chief Information Commissioner and Commissioners shall be entitled to such remuneration and allowances as the Government may determine.
+
+====================================================================================================
+#34 | section 28 | 1148 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 28: Offence
+28. Offence.---(1) It is a criminal offence willfully to:
+(a) obstruct access to any record with a view to preventing the exercise of a right provided for in this Act;
+(b) obstruct the performance by a public body of a duty under this Act;
+(c) interfere with the work of the Information Commission; or
+(d) destroy a record without lawful authority.
+(e) use the information obtained for malafide purposes with ulterior motives with facile, frivolous design.
+1 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+2 Substituted vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+3 Added vide the Khyber Pakhtunkhwa Act No. XIII of 2025.
+13 | Pa ge THE KHYBER PAKHTUNKHWA RIGHT TO INFORMATION ACT, 2013.
+(KHYBER PAKHTUNKHWA ACT NO. XXVII OF 2013)
+(2) Anyone who commits an offence under sub-section (1), shall be liable to a fine not exceeding rupees five thousand (5000) or imprisonment for a period not exceeding two years.
+1[(3) All the offences, mentioned in sub-section (1), shall be bailable, non- cognizable and triable by the District and Sessions Judge of the concerned district, on the complaint filed by the Information Commission.]
+
+====================================================================================================
+#35 | section 29 | 218 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 29: Indemnity
+29. Indemnity.---No one may be subject to any legal, administrative or Employment-related sanction for anything which is done in good faith or intended to be done in pursuance of this Act or any rules made there under.
+
+====================================================================================================
+#36 | section 30 | 738 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 30: Whistleblowers
+30. Whistleblowers.---(1) No one may be subject to any legal, administrative or employment-related sanction, regardless of any breach of a legal or employment obligation, for releasing information on wrongdoing, or which would disclose a serious threat to health, safety or the environment, as long as they acted in good faith and in the reasonable belief that the information was substantially true and disclosed evidence of wrongdoing or a serious threat to health, safety or the environment.
+(2) For purposes of sub-section (1), wrongdoing includes the commission of a criminal offence, failure to comply with a legal obligation, a miscarriage of justice, corruption or dishonesty, or serious maladministration regarding a public body.
+
+====================================================================================================
+#37 | section 31 | 306 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 31: Power to remove difficulties
+31. Power to remove difficulties.---If any difficulty arises in giving effect to the provisions of this Act, the Government may, by order in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty.
+
+====================================================================================================
+#38 | section 32 | 185 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 32: Power to make rules
+32. Power to make rules.---Government in consultation with the Information Commission may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.
+
+====================================================================================================
+#39 | section 32A | 148 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 32A: Power to make regulations
+2[32A. Power to make regulations.---The Information Commission may make regulations, not inconsistent with the provisions of this Act and the rules.
+
+====================================================================================================
+#40 | section 32B | 120 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 32B: Bar of jurisdiction.]
+32B. Bar of jurisdiction.---No Civil Court shall take cognizance in the matter taken up by the Information Commission. ]
+
+====================================================================================================
+#41 | section 33 | 259 chars
+The Khyber Pakhtunkhwa Right to Information Act, 2013 — (khyber Pakhtunkhwa Act No. Xxvii of 2013) — Section 33: Repeal
+33. Repeal.---The Khyber Pakhtunkhwa Right to Information Ordinance, 2013 (Khyber Pakhtunkhwa Ordinance No. VII of 2013) is hereby repealed.
+1 Added vide the Khyber Pakhtunkhwa Act No. XXIV of 2015.
+2 Inserted vide the Khyber Pakhtunkhwa Act No. XIII of 2025.

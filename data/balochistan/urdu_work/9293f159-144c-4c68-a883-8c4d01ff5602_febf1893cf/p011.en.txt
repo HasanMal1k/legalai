@@ -1,0 +1,41 @@
+Form (A)
+
+Police/DO Officer Number
+The following information is required for any submission (e.g., directly related to the Police Number)
+
+Application Form for Computerized Entry of Birth
+Normal Late Birth
+
+1. Applicant Name
+2. Applicant CNIC No.
+3. Child Name
+4. Relative's Name and Relationship
+5. Gender
+6. Religion
+7. Father's Name
+8. Father's CNIC No.
+9. Mother's Name
+10. Mother's CNIC No.
+11. District of Birth
+12. Vaccination
+13. Date of Registration
+14. Date of Birth
+15. Disability
+16. Address
+17. District
+18. Grandfather's Name
+19. Grandfather's CNIC No.
+20. Doctor / Midwife
+
+Date of use for Applicant
+Name:
+Police Number:
+Police Constable Name:
+Form Number:
+CARMS NO
+FORMS NO
+
+It is certified that this form is correct.
+Name of Verifier:
+Verifier's Police Number:
+Verifier's Address:

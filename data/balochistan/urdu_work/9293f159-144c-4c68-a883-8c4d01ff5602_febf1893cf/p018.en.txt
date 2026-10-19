@@ -1,0 +1,12 @@
+Form Number 1
+
+Register of Execution of Transfer of Immovable Property [under the] [relevant] [provisions]
+
+| Serial No. | Date of Execution of Transfer of Immovable Property | Serial No. of Events [under the] [relevant] [provisions] | Immovable Property No. in words | Immovable Property No. in words | Immovable Property No. in words | Amount Paid (Rupees) | Immovable Property No. in words | Status |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |
+| | | | | | | | | |

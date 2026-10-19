@@ -1,0 +1,149 @@
+The Companies Profits (Workers Participation) Act, 1968
+{"title": "The Companies Profits (Workers Participation) Act, 1968", "instrument_type": "Act", "text_source": "native", "chars": 15917, "method": "provisions", "contents_entries": 0, "provisions": 7, "problems": [], "read_by_model": true, "chunks": 16, "largest_chunk": 2118}
+
+====================================================================================================
+#0 | card  | 835 chars
+The Companies Profits (Workers Participation) Act, 1968 — Overview
+The Companies Profits (Workers Participation) Act, 1968 (Act, 1968, Federal).
+The Companies Profits (Workers Participation) Act, 1968 enables workers in companies across Pakistan to participate in the company's profits. It mandates the establishment of a Workers Participation Fund and a Board of Trustees comprising worker representatives, management officials, and a Central Government nominee. The Act outlines eligibility criteria for workers, fiscal concessions for companies, tax exemptions for fund income, and penalties for non-compliance with profit-sharing provisions.
+Subjects: workers participation, company profits, trusteeship, fund management, tax exemptions, central government rules, employee contributions, penalties for non-compliance.
+Provisions: 3. Establishinent of Fund; 5. Penalty; 7. Act to override other laws
+
+====================================================================================================
+#1 | preamble  | 822 chars
+The Companies Profits (Workers Participation) Act, 1968 — Title and preamble
+REGISTERED No. _S.1033 L-7646 The Gasette qa of Pakistan EXTRAORDINARY PUBLISHED BY AUTHORITY Sela RAWALPINDI. FRIDAY, ‘JULY ie 1968 a.oo = i ass NATIONAL ASSEMBLY OF PAKISTAN Rawalpind:, the 51h driv, (968 The following Act ot the National Assembly received the assent of — the President on the 4th July. 1968. and 1s hereby published tor general informa- tron :—
+ACT No. XH oF 1968 An Act to provide fo; participanen of workers in the prefity of companies WuHerras it 8 expedient 10 provide lor paruvipation af works in the profits of companies and for matters ancillary thereto;
+AND WHEREAS the national interest of Pakistan in relatina to the uchieve- ment of uniformity within the meaning ol clause (2) of Article 131 of the con- stitution requires Central legislation in the matter.
+lt is hereby enacted as follows:—
+
+====================================================================================================
+#2 | section 1 | 200 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 1
+|. Shorr netle, extent and commencement. 11) This Act may be called the Companies Prolits (Workers Participation) Act. [968
+(2) Lt extends to the whele of Pakistan {3) It shall come into force at once
+
+====================================================================================================
+#3 | section 2 | 1283 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 2
+2 Defirstons.--In this Act, unless there is anythmg repugnant in the subject or context,—
+(a} * Board “ in relation to a Fund means a Board of Trustees constiiut- ed under section 4 fog the management and adutinistration of the Fund .
+Price, Ps. 19 [317 Ex Gaz]
+(o) “company” means a company wilhmn ibe meaning of Companies Act, 1913 (VIL of 1913). and includes—
+i) a body corporaie established by or under any law lor the time being in force:
+(1) any institution. organization or association whether tncorporat- ed or not, declared by the Central Government tn the offictal Gazette lo be a company for the purpose of this Act, fc)“ Fund” means a Workers Participation Fund established under section 3:
+(d) “ profils”” in relation to a company means such of the “net profits’ cy as defined in section 87C of the Companies Act, 1913 (WH of 1923), as are attribuiable to its business, trade, undertakings or other opera- tions in Pakistan ;
+(ec) ‘scheme means the scheme set out in the Schedule.
+(f} “worker” in relation to a, company means an empioyee of the com- pany whose average monthly emoluments computed in the manner set forth in the scheme do not exceed one thousand rupees — per month and who has been m the employmen! of the company for a period of not jess than six months
+
+====================================================================================================
+#4 | section 3 | 373 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 3: Establishinent of Fund
+3. Establishinent of Fund —Every vcampany to which the scheme ” apphies shall—
+(a) establish a Worker, Participation Fund in accordence with the scheme within one month of the date on which the scheme becomes applicable to it; and
+(b) pay to the Fund annually at the close of ils avcounting year a sum equivalent to two and a half per cent of its profits during such vear-.
+
+====================================================================================================
+#5 | section 4 | 2118 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 4
+4. Management of the Fund—tl) As soon as may be, atter the establish- ment of a Fund undet section 3, thefe shall be constiluied a Bourd ot Trustees consisting of the following, namely :—
+(a) two persons elected by the workels entitled to the benefits of the Fund ;
+(b) two persons (o repicsent the management of the company of which at least one shall be wu person from the Accounts Branch of the company ;
+(c) one person to be nominated by the Central Government who shall be the chairman of the Board.
+(2) The Board shall munage and administer [he Fund in accordance with the provisions of this Act, the scheme and any rules made in this behalf.
+(3) The Board shall, in the exergise of is powers and pertormance af its functions under this Act. be subject to such directions as the Central Govern- ment may, from time to time, give THE GAZETTE OF PAKISTAN, EXTRA, JULY 5, 1968 74)
+(4) The Central Government, if if is of opmion that a Boa:id has been persistently failing in the performance of its fumcions or has generally been acting in a manner nol consistent with the interests of the workers, may, after giving the Board an opportunity of showing cause against it, by notification in the official Gazette, direct that—
+(a) the Board shall stand superseded tor such period as may be specified in the notification, which period may, by a lke notification, be extended from time to time by any further period: and (b} the powers and functions of the Board shall, durmg the period of supersession, be exercised and performed by an officer or authority specified m the notification.
+(5) Upon the supersession of a Board under sub-section (4), the persons holding office as trustees in the Board shall cease to hold office and references im this Act, the scheme and the rules to the Board shall be construcd as refer- ences to the officer or authority specified in the notification under that sub- section.
+(6) Before the expiry of the period ol supersession, the Beard shall be reconstituted in accordance with the provisions of this Act so as to enable it to yake over its functions upon the expiry of such period.
+
+====================================================================================================
+#6 | section 5 | 1210 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 5: Penalty
+5. Penalty.—{1) Where any company fails to comply with 1 provisions at section 3, the Central Government may. by order in writing, requ:re it to comply with those provisions within such time as may be specified in the order.
+(2) If the company in relation to which an order under sub-section (1) has teen made, fails to comply therewith within the time specified therein, every uector, manager or other officer responsible for the management of the affairs ef the company shall, if the Central Government, by order, so directs, pay by way of penally a sum which may extend to fen thousand rupees and, in the case of a continuing failure, a further sum which may extend te one thousand rupees for every day after the first durmg which the failure continues.
+(3) A penalty imposed by an order under soscction (2) shall, af ml is not pax within the ime specified in the order, be recoverable as un arrear of Jand revenue.
+(4) The Central Government may, upon an applicatron made in this behalf by amy person aggrieved by an order made under sub-section (1) or sub-section
+(2) within a period of six months from the dale of the order, review the order end may upon such review pass such orders as it may think fit.
+
+====================================================================================================
+#7 | section 6 | 99 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 6
+6. Power to make rufes—The Central Government may make rules to carry out the purposes of this Act.
+
+====================================================================================================
+#8 | section 7 | 233 chars
+The Companies Profits (Workers Participation) Act, 1968 — Section 7: Act to override other laws
+7. Act to override other laws.—The provisions of this Act shail have effect notwithstanding anything contained in any ofher law for the time being m force, or im any contract or the memorandum or articles of association of a company.
+
+====================================================================================================
+#9 | schedule  | 646 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 1 of 7
+[See section 2(e)]
+1. Scope af the scheme—The scheme apples to all companies primarily engaged in industrial undertakings which satisfy any Gne of the followmg con- ditions, and to such othe. companies as the Central Government may, by notification in the official Gavette, specify in this behalf, namely :--
+(i) The number of workers emploved by the company in uny shift at any time during a year is 100 or more.
+fii} The paid-up capital of the company as on the Jasi day of its account.
+ing year is Rs 20 lakhs er more.
+(iu) The value of the fixed assets of the company (ut cost) as an the last day of the accounting year 1s Rs 40 lakhs or more
+
+====================================================================================================
+#10 | schedule  | 1528 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 2 of 7
+2. dnvestinmenr of Workers’ Participation Fruad—t{l) IW the amount in the Fund does not exceed 20%, of the paid-up capital of the company. then the whole of it, and, if 1 execeds such 20%, then so much of 1 as ts eguivalent to such 20%, shall be available to the company foy its busyness operations
+(2) The company shal! pay to the Fund in respect ef the amount in the Fund available to it for its business operations as aluresaid interest at the rate of 22%, above the bank rate of 75% of the rate at which dividend is declared om ts ordinary shares, whichever is higher In case there is more than onc class of ordmary shares on which different rates of dividend have been declated, *hen the weighted avernge of ihe different rales of dividend shall be taken for the purpose of determining the rate al micrest. The tmterest to the Fund shall uecIue on and from the first day of the accounting year mexl succeeding the vear im which the Scheme becomes applicable to the company.
+(3) I, at any ume after the establishment of the Fund, the company raises any additional capital otherwise than through the issue of bonus or bonus shares or Tight shares, the Fund shall have the first option to canvert the amount available to the company under sub-paragraph (1) into erdinary equity capital up to a ceiling of 20%, of the paid-up capital of the company (prior to such euitvers,ag} oc 30%, af the addriamtal capital, whretewr is fess The allotment of coe to the Fund shall be oul ol capital earmarked for issue to the general public
+
+====================================================================================================
+#11 | schedule  | 1087 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 3 of 7
+(4) The right of conversion into equily capital shall mot be exercisable jn the event of the issuc of bonus or bogus shares or tight shares.
+($) The shares acquired in the manner stated im sub-paragraph (3) shall participate in future bonus and right issues in the satié manner as other shares
+(6) The shares acquired by the Fund shall not carry any voting rights,
+(7) The amount in the Fund in excess of 20° of the paid-up capital of the company shall, if the company's management so desires, be made zvailable to it on the same terms on which the amount not so im excess 1s available to it In case the company does not require the amount im excess of such 20%, the Beard shall forthwith invest iin the purchase of any of the following, namely :—
+(a) Shares or other securities quoted on the Stock Exchange subject to such restrictions as may be imposed by the Central Government.
+(bj) National Investment Trust (Unit} Certificates.
+(c) Government securities meluding Defence and Postal Saving Certi- ficates.
+{d) Any other securities approved for the purpose by the Central Government.
+
+====================================================================================================
+#12 | schedule  | 1532 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 4 of 7
+3. Liigibility to benefis of scheme-—A\\ workers shall be eligible to the benefits of the scheme and to participate in the Fund from the date of their taking up employment with the company 4, Distribution of benefits to workers —The share of a worker in the annual allocation to the Lund shall be expressed in units or fractions of unit; (worked out to two places of decrmal) of the face value of Rs 10 determined in the following manner as on the last day of the accounting year of the company in which the allocation is made ta the Fund, namely *—
+(a) The number of umts shall be pro rata according to his average emoluments determined as in clause (b) subjecd, to a maximum af Rs. 600 Additional units will be added to the share of each worker on account of his voluniary contribuion at the rate of 1! unis for each unit of contribution
+(b) The average monthfy emoluments shall be arrived at by dividing the emoluments drawn during the year of account by 12. Cash bonus, 4 any, shall, however, be deemed fo relate to the accountig year in which tt 1s distributed regardless of the period to which it pertains.
+‘Bonus’ not distributed in cash and ‘ perquisites* not paid in cash shalf be excluded in computing emofuments
+(c) The average monthly emoluments shall be rounded off to the nearest Rs. 16.
+(d) Any worker whose average monthly emoli ments exceed Rs 1.000 at any time shall cease to be entitled to the benefits of the scheme except in so far as these relate to a pernod when his emoluments Were not in excess of Rs. 1,000
+
+====================================================================================================
+#13 | schedule  | 1501 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 5 of 7
+5. Disbursement of benefits—The disbursement of the benefits from the Fund shal] be as under—:
+(ay J00%. of the annual imcome of the -und, including capital gaims realized, shall be distributed each year 10 workers in proportion to their units of entitlement {b) If a worker voluntaily leaves the employment of the company before the expiry of a period of 3 years from the date he becomes entitled to the benefits of the scheme, his share 1n the Fund shall stand for- feited in favour of the Fund.
+(c) If a worker voluntarily leaves the employment of the company afte he has completed 2 years of service, he shall receive the following amounts, namel: y—
+Period of participation in the Scheme Entitlement fl Three years or more but Jess than four 430%, of ihe net asset value cf . years. the units m his name.
+Four years or more but Jess than five 75% of the net asset value of years. the umis m his name.
+Five years or more. 100% of the net asset value of the units in his name.
+(d) A worker whose services are terminated otherwise than as a result of properly conducted disciplinary proceedings shal] be at par with a worker who voluntarily leaves ihe service of the company.
+(ec) The worker who is dismissed from service as a result of properly conducted disciplinaty proceeding shall forfeit his share in the Fund.
+(f) A worker who continues in the service of the company shall be eligible to receive the benefits on the same scale as im clause fc) or he may choose 10 leave his share in the Fund.
+
+====================================================================================================
+#14 | schedule  | 1628 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 6 of 7
+(g) A worker. mm the event of hus retirement or, fis nominated benefi- ciary, in the event of the workers death (from whatsoever cause} while im the employment of the company, shall receive 190% of the net asset value of ihe units standing in the worker's name irrespec- tive of the period of employment, 6G Definition of the net asset value of the nai— io determine Ure nel asset value of a unit, the total net assets of the Fund. namely, market value of the securities, cash and other assets resulting from the investment and re-investment, capital accretion thereto and all incomes ot any kind ansing therefrom shall be divided by the number of umts in the Fund Net asset value of the entire Fund shall be computed once every year and each workers umt entitlement deter- mined at the same time. Additional uniis will be given (o the workers according to the amount they voluntarily contribuie to the Fund.
+7, Employees’ own contributi—oAn worker may voluntarily choose — to contribute a part of his wages, bonus. dividend or interest to the Fund. The dividend or interest will be automatically credited to the Fund unless he opts for receiving the same in cash At any time he chooses io leave the employment of the company or on the expiry of 3 years, he may, at his option, receive the net asset value of the units representing his contribution Interest at 74% shall be payable on his contribution even when there iy no allocation to the Fund by the company because it has suffered a loss. The provisions of paragraph 5 shall not, in so far as they relate to forteiture, apply to a workers contribution under this paragraph,
+
+====================================================================================================
+#15 | schedule  | 1622 chars
+The Companies Profits (Workers Participation) Act, 1968 — Schedule: Scheme — part 7 of 7
+8. Fiscal concessions to the Companies-——All companies {to whom the scheme applies shall be allowed the allocation made to the scheme as a deduc- tion to arrive at the taxable income.
+9. Fax treatment of the wnmome of the fund—The income of the Fund neluding capital gains shall be exempt from income-tax.
+10 Fux fPeatment of the mcome to the warkes—Al] sums paid out by the Fund shall be exempt trom income-tax in the hands of the workers.
+LL. Working of the Bowed of Trustees.—The office of the Board = of Trustees shall be located at the fuctory premises but if there 1s more than one factory run by the company, then at the registered head-office of the company.
+All expenses of the Board, including the cost of travel of trustees for meetings er of the Board, shall be borne by the company The cost of mammtaining accounts shall also be borne by the company.
+12. Audit of the Fund uccounts.—The Fund accounts shall be audited annually at the company’s expense tn the same manner as the accounts of the company are audited.
+Provided that the Central Government may, at its own cost, appoint inde- pendent accountants for a special audit of the accounts of the Fund.
+13. Schente's beneftts to be in addition te other benefits—The benefits to a worker under this scheme shall be m addition to, and not in derogation or substitution of, any other benefits to which the worker may be entiled under any other law. contract, terms and conditions of employment or otherwise.
+MUZAFAR HUSAIN, Secretary.
+PRINTED BY THE MANSGLA, PATHITNG CORPORATION OF PAKISTAN PRESS, ISLAMABAD PUBLISHED BY THI MANAGER OF PLBIICATIONS, KARACHL

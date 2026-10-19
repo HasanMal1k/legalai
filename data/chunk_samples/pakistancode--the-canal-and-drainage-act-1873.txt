@@ -1,0 +1,642 @@
+The Canal and Drainage Act, 1873
+{"title": "The Canal and Drainage Act, 1873", "instrument_type": "Act", "text_source": "native", "chars": 63781, "method": "provisions", "contents_entries": 75, "provisions": 75, "problems": [], "chunks": 82, "largest_chunk": 2171}
+
+====================================================================================================
+#0 | card  | 1791 chars
+The Canal and Drainage Act, 1873 — Overview
+The Canal and Drainage Act, 1873 (Act, 1873, Federal).
+This Act regulates the use of water for public purposes, the construction and maintenance of canals, and drainage works within the Punjab. It establishes rules for water rates, compensation for interruptions in supply, and procedures for obtaining labor for canal works. The Act also defines offences related to damaging canals or obstructing water flow and outlines penalties and recovery mechanisms for dues.
+Subjects: irrigation, navigation, drainage, water supply, canal construction, water rates, compensation claims, offences and penalties.
+Provisions: 1. Short title; 2. [Repealed.]; 3. Interpretation-clause; 4. Power to appoint officers; 5. Notification to issue when water-supply is to be applied for public purposes; 6. Powers of Canal-officer; 7. Notice as to claims for compensation; 8. Damage for which compensation shall not be awarded; 9. Limitation of claims; 10. Enquiry into claims and amount of compensation; 11. Abatement of rent on interruption of water-supply; 12. Enhancement of rent on restoration of water-supply; 13. Compensation when due; 14. Power to enter and survey, etc; 15. Power to enter for repairs and to prevent accidents; 16. Application by persons desiring to use canal-water; 17. Government to provide means of crossing canals; 18. Persons using water course to construct works for passing water across roads, etc; 19. Adjustment of claims between persons jointly using water-course; 20. Supply of water through intervening water-course; 21. Application for construction of new water-course; 22. Procedure of Canal-officer thereupon; 23. Application for transfer of existing water-course; 24. Objections to construction or transfer applied for; 25. When applicant may be placed in occupation; ...
+
+====================================================================================================
+#1 | preamble  | 574 chars | pages 6-6
+The Canal and Drainage Act, 1873 — Title and preamble
+THE CANAL AND DRAINAGE ACT, 1873 *1Act No. VIII OF 1873 [11th February, 1873] An Act to regulate Irrigation, Navigation and Drainage 2* * * Preamble. WHEREAS, throughout the territories to which this Act extends, [the Provincial Government] is entitled to use and control for public purposes the water of all rivers and streams flowing in natural channels, and of all lakes and other natural collections of still water ; and whereas it is expedient to amend the law relating to irrigation, navigation and drainage in the said territories ; it is hereby enacted as follows :—
+    note: Subs. by A.O., 1937, for “the Govt.”. *This act also been amended in its application to the province of N.W.F., by N.W.F.P., Ordinance No. V of 1980.
+
+====================================================================================================
+#2 | section 1 | 232 chars | pages 6-6
+The Canal and Drainage Act, 1873 — Part I: Preliminary — Section 1: Short title
+1. Short title.—This Act may be called the 4* * Canal and Drainage Act, 1873.
+Local extent. It extends to [the Punjab]; and applies to all lands, whether permanently settled, temporarily settled, or free from revenue.
+6* * * * * * *
+    note: Subs. by the Federal Laws (Revision and Declaration) Act, 1951 (26 of 1951), s, 8, for “West Punjab” which had been subs. by A.O., 1949, Sch for “the territories [which on the 11th February, 1873, were] respectively under the Govt. of the Lieutenant Governors of the North-Western Provinces and the Punjab, and under the administration of the Chief Commissioners of Oudh and the Central Provinces”. The bracketted words were subs. by A.O., 1937, for “ for the time being”.
+
+====================================================================================================
+#3 | section 2 | 89 chars | pages 6-6
+The Canal and Drainage Act, 1873 — Part I: Preliminary — Section 2: [Repealed.]
+2. [Repeal of Acts.] Rep. by the Repealing Act, 1873 (XII of 1873), s. 1 and Sch., Pt.II.
+
+====================================================================================================
+#4 | section 3 | 1708 chars | pages 6-7
+The Canal and Drainage Act, 1873 — Part I: Preliminary — Section 3: Interpretation-clause [(1) to (3)]
+3. Interpretation-clause.—In this Act, unless there be something repugnant in the subject or context :–
+(1) “Canal”.— “Canal” includes—
+(a) all canals, channels and reservoirs constructed, maintained or controlled by [the Provincial Government] for the supply or storage of water ;
+(b) all works, embankments, structures, supply and escape channels connected with such canals, channels or reservoirs ;
+(c) all water-courses as defined in the second clause of this section ;
+(d) all parts of a river, stream, lake or natural collection of water or natural drainage-channel, to which the [Provincial Government] has applied the provisions of Part II of this Act ;
+(2) “Water-course”.—“water-course” means any channel which is supplied with water from a canal, but which is not maintained at the cost of [the Provincial Government], and all subsidiary works belonging to any such channel :
+(3) “Drainage-work”.—“drainage-work” includes escape-channels from a canal, dams, weirs, embankments, sluices, groins and other works for the protection of lands from flood or from erosion, formed or maintained by [the Provincial Government] under the provisions of Part VII of this Act, but does not include works for the removal of sewage from towns :
+4(4) “Vessel”.– “vessel” includes boats, rafts, timber and other floating bodies :
+5(5) “Commissioner”.—“Commissioner” means a Commissioner of a division, and includes any officer appointed under this Act to exercise all or any of the powers of a Commissioner :
+6(6) “Collector”.—“Collector” means the head revenue-officer of a district and includes a Deputy Commissioner or other officer appointed under this Act to exercise all or any of the powers of a Collector :
+    note: For Statement of Objects and Reasons, see Gazette of India, 1872, Pt. V., p. 651; for Reports of Select Committee, see ibid. p. 747 and ibid., Supplement, 1873, p. 223 ; for Proceedings in Council, see ibid., Supplement, pp. 919, 956 and 1081; ibid., 1873, Supplement, pp. 54,156,223,246 and 279. This Act has been extended and amended in its application to the Divisions of Quetta and Kalat by West Pakistan Ord. No. 24 of 1964, ss. 2 and 3 (with effect from the 11th April, 1964). The Act has been amended in the N.W.F.P. by N.W.F.P. Acts 3 of 1938 and 13 of 1948. It has been declared not to apply to any canal which is included for the time being under Sch. I or Sch. II to the Punjab Minor Canals Act, 1905 (Pun Act 3 of 1905), see s. 2 (3) of that Act. It has also been amended in its application to the Province of Punjab, see Punjab Act No. XIV of 1952, ss. 2 and 3. It has been applied to Phulera in the Excluded Area of Upper Tanawal to the extent the Act is applicable in the N.W.F.P., subject to certain modifications and extended to the Excluded Area of Upper Tanawal (N.W.F.P.) other than Phulera with effect from such date and subject to such modifications as may be notified; see N.W.F.P. (Upper Tanawal) (Excluded Area) Laws Regulation, 1950. The Act, as in force in the North-West Frontier Province immediately before the commencement of N.W.F.P. Regulation No. II of 1974, has been applied to the Provincially Administered Tribal Areas of Chitral, Dir, Kalam, Swat and Malakand Protected Area, by N.W.F.P. Regulation No. II of 1974, s.3 . This Act has been amended to the extent of Islamabad Capital Territory, see Ordinance No. 27 of 1981, s. 5 and Sch. IV. This Act has been repealed in its application to the Province of Balochistan, by Balochistan Ordinance No. 20 of 1980. s. 73.
+    note: The words “in Northern India” omitted by A.O., 1949, Sch.
+    note: The words “Northern India” omitted by A. O., 1937, Sch.
+    note: Commencement clause rep. by the Repealing Act, 1874 (16 of 1874), s.1 Sch.
+    note: Subs. by A. O., 1937, for “Govt.”.
+    note: Subs. ibid., for “L. G.”.
+    note: Subs. ibid. for “the Govt.”.
+
+====================================================================================================
+#5 | section 3 | 621 chars | pages 7-7
+The Canal and Drainage Act, 1873 — Part I: Preliminary — Section 3: Interpretation-clause [(7) to (8)]
+3. Interpretation-clause.—In this Act, unless there be something repugnant in the subject or context :– [...]
+(7) “Canal-officers”.—“Canal-officer” means an officer appointed under this Act to exercise control or jurisdiction over a canal or any part thereof :
+“Superintending Canal-officer”.—“Superintending Canal-officer” means an officer exercising general control over a canal or portion of a canal :
+“Divisional Canal-officer”.—“Divisional Canal-officer” means an officer exercising control over a division of a canal :
+“Sub-divisional Canal-officer”.—“Sub-Divisional Canal-officer” means an officer exercising control over a sub-division of a canal :
+(8) “District”.—“district” means a district as fixed for revenue-purposes.
+    note: Cf. definition in the General Clauses Act, 1897 (10 of 1897), s. 3 (56).
+    note: In the N.W.F.P., for “Commissioner” read “Revenue Commissioner”, see the N.W.F.P. Law and Justice Regulation, 1901 (7 of 1901), s. 6 (1)(f).
+    note: Cf. definition in the General Clauses Act, 1897 (10 of 1897), s. 3 (10).
+
+====================================================================================================
+#6 | section 4 | 455 chars | pages 8-8
+The Canal and Drainage Act, 1873 — Part I: Preliminary — Section 4: Power to appoint officers
+4. Power to appoint officers. The [Provincial Government] may from time to time declare, by notification2 in the official Gazette, the officers by whom, and the local limits within which, all or any of the owers or duties hereinafter conferred or imposed shall be exercised or performed.
+All officers mentioned in section 3, clause (7), shall be respectively subject to the orders of such officers as the [Provincial Government] from time to time directs.
+    note: Subs. by A. O.,1937, for “L. G.”.
+
+====================================================================================================
+#7 | section 5 | 634 chars | pages 8-8
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 5: Notification to issue when water-supply is to be applied for public purposes
+5. Notification to issue when water supply is to be applied for public purposes.—
+Whenever it appears expedient to the [Provincial Government] that the water of any river or stream flowing in a natural channel, or of any lake or other natural collection of still water, should be applied or used by [the Provincial Government] for the purpose of any existing or projected canal or drainage-work, the [Provincial Government] may, by notification4 in the official Gazette, declare that the said water will be so applied or used after a day to be named in the said notification, not being earlier than three months from the date thereof.
+    note: Subs. by A. O.,1937, for “L. G.”.
+    note: Subs. by A.O., 1937, for “the Govt.”.
+
+====================================================================================================
+#8 | section 6 | 312 chars | pages 8-8
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 6: Powers of Canal-officer
+6. Powers of Canal-officer.—At any time after the day so named, any Canal-officer, acting under the orders of the [Provincial Government] in this behalf, may enter on any land and remove any obstructions, and may close any channels, and do any other thing necessary for such application or use of the said water.
+    note: Subs. by A. O.,1937, for “L. G.”.
+
+====================================================================================================
+#9 | section 7 | 378 chars | pages 8-8
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 7: Notice as to claims for compensation
+7. Notice as to claims for compensation.—As soon as is practicable after the issue of such notification, the Collector shall cause public notice to be given at convenient places, stating that [the Provincial Government] intends to apply or use the said water as aforesaid, and that claims for compensation in respect of the matters mentioned in section 8 may be made before him.
+    note: Subs. by A.O., 1937, for “the Govt.”.
+
+====================================================================================================
+#10 | section 8 | 1267 chars | pages 8-9
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 8: Damage for which compensation shall not be awarded [(a) to (i)]
+8. Damage for which compensation shall not be awarded.—No compensation shall be awarded for any damage caused by—
+(a) stoppage or diminution of percolation or floods ;
+(b) deterioration of climate or soil ;
+(c) stoppage of navigation, or of the means of drifting timber or watering cattle ;
+(d) displacement of labour.
+Matters in respect of which compensation may be awarded.—But compensation may be awarded in respect of any of the following matters :—
+(e) stoppage or diminution of supply of water through any natural channel to any defined artificial channel, whether be above or under ground, in use at the date of the said notification ;
+(f) stoppage or diminution of supply of water to any work erected for purposes of profit on any channel, whether natural or artificial, in use at the date of the said notification;
+(g) stoppage or diminution of supply of water through any natural channel which has been used for purposes of irrigation within the five years next before the date of the said notification;
+(h) damage done in respect of any right to a water-course or the use of any water to which any person is entitled under the [Limitation Act, 1908, (IX of 1908)], Part IV ;
+(i) any other substantial damage, not falling under any of the above clauses (a),
+    note: For such notifications, see the Punjab R. and O.
+    note: For such notifications issued in respect of certain rivers in the Punjab, see the Punjab R. and O.
+    note: Subs by ord. XXVII of 1981. s.5 and Sch IV only to the extent of (Islamabad Capital Territory).
+
+====================================================================================================
+#11 | section 8 | 1093 chars | pages 9-9
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 8: Damage for which compensation shall not be awarded [(b)]
+8. Damage for which compensation shall not be awarded.—No compensation shall be awarded for any damage caused by— [...]
+(b), (c) or (d), and caused by the exercise of the powers conferred by this Act, which is capable of being ascertained and estimated at the time of awarding such compensation.
+In determining the amount of such compensation, regard shall be had to the diminution in the market-value, at the time of awarding compensation, of the property in respect of which compensation is claimed ; and, where such market-value is not ascertainable, the amount shall be reckoned at twelve times the amount of the diminution of the annual net profits of such property caused by the exercise of the powers conferred by this Act.
+No right to any such supply of water as is referred to in clauses (e), (f) or (g) of this section, in respect of a work or channel not in use at the date of the notification, shall be acquired as against [the Provincial Government], except by grant or under the [Limitation Act, 1908 (IX of 1908)], Part IV;
+and no right to any of the advantages referred to in clauses (a), (b) and (c) of this section shall be acquired, as against l[the Provincial Government], under the same Part.
+    note: Subs. by A. O., 1937 for “the Govt.”.
+    note: Subs. by Ordinance XXVII of 1981, s. 3 and Sch. IV (only to the extent of Islamabad Capital Territory).
+
+====================================================================================================
+#12 | section 9 | 300 chars | pages 9-9
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 9: Limitation of claims
+9. Limitation of claims.—No claim for compensation for any such stoppage, diminution or damage shall be made after the expiration of one year from such stoppage, diminution or damage unless the Collector is satisfied that the claimant had sufficient cause for not making the claim within such period.
+
+====================================================================================================
+#13 | section 10 | 744 chars | pages 9-9
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 10: Enquiry into claims and amount of compensation
+10. Enquiry into claims and amount of compensation.—The Collector shall proceed to enquire into any such claim, and to determine the amount of compensation, if any, which should be given to the claimant ; and sections [9 to 13 (inclusive), 19 to 20 (inclusive), and 22,25 to 27 (inclusive), 29 to 31 (inclusive), 45,51,52,54 and 55 of the Land Acquisition Act, 1894 (I of 1894)], shall apply to such inquiries:
+Provided that, instead of the last clause of the said section 26, the following shall be read :—
+“The provisions of this section and of section 8 of the 4* * Canal and Drainage Act, 1873, shall be read to every assessor in a language which he understands, before he gives his opinion as to the amount of compensation to be awarded” .
+    note: Subs by ord. XXVII of 1981. s.5 and Sch IV only to the extent of (Islamabad Capital Territory).
+    note: See now the Limitation Act, 1908 (9 of 1908).
+    note: The words” Northern India” rep. by the Federal Laws (Revision and Declaration) Act, 1951 (26 of 1951), s. 3 and 2nd Sch.
+
+====================================================================================================
+#14 | section 11 | 451 chars | pages 10-10
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 11: Abatement of rent on interruption of water-supply
+11. Abatement of rent on interruption of water-supply.—Every tenant holding under an unexpired lease, or having a right of occupancy, who is in occupation of any land at the time when any stoppage or diminution of water-supply, in respect of which compensation is allowed under section 8, takes place, may claim an abatement of the rent previously payable by him for the said land, on the ground that the interruption reduces the value of the holding.
+
+====================================================================================================
+#15 | section 12 | 522 chars | pages 10-10
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 12: Enhancement of rent on restoration of water-supply
+12. Enhancement of rent on restoration of water-supply.—If a water-supply increasing the value of such holding is afterwards restored to the said land, the rent of the tenant may be enhanced, in respect of the increased value of such land due to the restored water-supply, to an amount not exceeding that at which it stood immediately before the abatement.
+Such enhancement shall be on account only of the restored water-supply, and shall not affect the liability of the tenant to enhancement of rent on any other grounds.
+
+====================================================================================================
+#16 | section 13 | 494 chars | pages 10-10
+The Canal and Drainage Act, 1873 — Part II: Of the Application of Water for Public Purposes — Section 13: Compensation when due
+13. Compensation when due.—All sums of money payable for compensation under this Part shall become due three months after the claim for such compensation is made in respect of the stoppage, diminution or damage complained of, Interest. and simple interest at the rate of six per cent. per annum shall be allowed on any such sum remaining unpaid after the said three months, except where the non-payment of such sum is caused by the wilful neglect or refusal of the claimant to receive the same.
+
+====================================================================================================
+#17 | section 14 | 1894 chars | pages 10-11
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 14: Power to enter and survey, etc
+14. Power to enter and survey, etc. Any Canal officer, or other person acting under the general or special order of a Canal-officer, may enter upon any lands adjacent to any canal, or through which any canal is proposed to be made, and undertake surveys or levels thereon ;
+and dig and bore into the sub-soil ;
+and make and set up suitable land-marks, level-marks, and water-gauges ;
+and do all other acts necessary for the proper prosecution of any enquiry relating to any existing or projected canal under the charge of the said Canal-officer ;
+Power to clear land. and, where otherwise such enquiry cannot be completed, such officer or other person may cut down and clear away any part of, any standing crop, fence or jungle ;
+Power to inspect and regulate water-supply. and may also enter upon any land, building or water-course on account of which any water-rate is chargeable, for the purpose of inspecting or regulating the use of the water supplied, or of measuring the lands irrigated thereby or chargeable with a water-rate, and of doing all things necessary for the proper regulation and management of such canal :
+Notice of intended entry into houses.—Provided that, if such Canal-officer or person proposes to enter into any building or enclosed court or garden attached to a dwelling house not supplied with water flowing from any canal he shall previously give the occupier of such building, court or garden at least seven days’ notice in writing of his intention to do so.
+Compensation for damage caused by entry.—In every case of entry under this section, the Canal-officer shall, at the time of such entry, tender compensation for any damage which may be occasioned by any proceeding under this section ; and, in case of dispute as to the sufficiency of the amount so tendered, he shall forthwith refer the same for decision by the Collector, and such decision shall be final.
+
+====================================================================================================
+#18 | section 15 | 861 chars | pages 11-11
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 15: Power to enter for repairs and to prevent accidents
+15. Power to enter for repairs and to prevent accidents.—In case of any accident happening or being apprehended to a canal any Divisional Canal-officer or any person acting under his general or special orders in this behalf may enter upon any lands adjacent to such canal, and may execute all works which may be necessary for the purpose of repairing or preventing such accident.
+Compensation for damage of land. In every such case such Canal-officer or person shall tender compensation to the proprietors or occupiers of the said lands for all damage done to the same.
+If such tender is not accepted, the Canal-officer shall refer the matter to the Collector, who shall proceed to award compensation for the damage as though the l[Provincial Government] had directed the occupation of the lands under section [35 of the Land Acquisition Act, 1894 (I of 1894)].
+    note: Subs. by Ord XXVII of 1981, s.5 and Sch IV (only to the extent of Islamabad Capital Territory).
+
+====================================================================================================
+#19 | section 16 | 1324 chars | pages 11-11
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 16: Application by persons desiring to use canal-water
+16. Application by persons desiring to use canal-water. Any persons desiring to use the water of any canal may apply in writing to the Divisional or Sub-divisional Canal-officer of the division or sub-division of the canal from which the water course is to be supplied, requesting such officer to construct or improve a water-course at the cost of the applicants.
+Contents of application. The application shall state the works to be undertaken, their approximate estimated cost, or the amount which the applicants are willing to pay for the same, or whether they engage to pay the actual cost as settled by the Divisional Canal-officer, and how the payment is to be made.
+Liability of applicants for cost of works. When the assent of the Superintending Canal- officer is given to such application, all the applicants shall, after the application has been duly attested before the Collector, be jointly and severally liable for the cost of such works to the extent mentioned therein.
+Recovery of amount due. Any amount becoming due under the terms of such application, and not paid to the Divisional Canal-officer, or the person authorised by him to receive the same, on or before the date on which it becomes due, shall, on the demand of such officer, be recoverable by the Collector as if it were an arrear of land-revenue.
+
+====================================================================================================
+#20 | section 17 | 866 chars | pages 11-12
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 17: Government to provide means of crossing canals
+17. Government to provide means of crossing canals. There shall be provided, at the cost of l[the Provincial Government], suitable means of crossing canals constructed or maintained at the cost of l[the Provincial Government], at such places as the [Provincial Government] thinks necessary for the reasonable convenience of the inhabitants of the adjacent lands.
+On receiving a statement in writing, signed by not less than five of the owners of such lands, to the effect that suitable crossings have not been provided on any canal, the Collector shall cause enquiry to be made into the circumstances of the case, and if he thinks that the statement is established, he shall report his opinion thereon for the consideration of the [Provincial Government] and the [Provincial Government] shall cause such measures in reference thereto to be taken as it thinks proper.
+    note: Subs. by A. O., 1937, for “L.G.”.
+    note: Subs. by A. O., 1937, for “L.G.”. See now the Land Acquisition Act, 1894 (1 of 1894) s. 35.
+
+====================================================================================================
+#21 | section 18 | 1157 chars | pages 12-12
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 18: Persons using water course to construct works for passing water across roads, etc
+18. Persons using water course to construct works for passing water across roads, etc.
+The Divisional Canal-officer may issue an order to the persons using any water-course to construct suitable bridges, culverts or other works for the passage of the water of such watercourse across any public road, canal or drainage-channel in use before the said water-course was made, or to repair any such works.
+Such order shall specify a reasonable period within which such construction or repairs shall be completed ;
+If they fail, Canal-officer may construct. and if, after the receipt of such order, the persons to whom it is addressed do not, within the said period, construct or repair such works to the satisfaction of the said Canal-officer, he may, with the previous approval of the Superintending Canal- officer, himself construct or repair the same ;
+And recover cost. and if the said persons do not, when so required, pay the cost of such construction or repairs as declared by the Divisional Canal officer, the amount shall, on the demand of the Divisional Canal-officer, be recoverable from them by the Collector as if it were an arrear of land revenue.
+
+====================================================================================================
+#22 | section 19 | 1174 chars | pages 12-12
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 19: Adjustment of claims between persons jointly using water-course
+19. Adjustment of claims between persons jointly using water-course. If any person, jointly responsible with others for the construction or maintenance of a water-course, or jointly making of use of a water-course with others, neglects or refuses to pay his share of the cost of such construction or maintenance, or to execute his share of any work necessary for such construction or maintenance, the Divisional or Sub-divisional Canal-officer, on receiving an application in writing from any person injured by such neglect or refusal, shall serve notice on all the parties concerned that, on the expiration of a fortnight from the service, he will investigate the case ; and shall, on the expiration of that period, investigate the case accordingly, and make such order thereon as to him seems fit.
+Such order shall be appealable to the 2Commissioner, whose order thereon shall be final.
+Recovery of amount found due. Any sum directed by such order to be paid within a speci- fied period may, if not paid within such period, and if the order remains in force, be recovered by the Collector, from the person directed to pay the same, as if it were an arrear of land-revenue.
+
+====================================================================================================
+#23 | section 20 | 1411 chars | pages 12-13
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 20: Supply of water through intervening water-course
+20. Supply of water through intervening water-course. Whenever application is made to a Divisional Canal-officer for a supply of water from a canal, and it appears to him expedient that such supply should be given and that it should be conveyed through some existing water-course, he shall give notice to the persons responsible for the maintenance of such water-course to show cause, on a day not less than fourteen days from the date of such notice, why the said supply should not be so conveyed: and, after making enquiry on such day, the Divisional Canal-officer shall determine whether and on what conditions the said supply shall be conveyed through such water-course.
+When such officer determines that a supply of canal-water may be conveyed through any water-course as aforesaid, his decision shall, when confirmed or modified by the Superintending Canal-officer, be binding on the applicant and also on the persons responsible for the maintenance of the said water-course.
+Such applicant shall not be entitled to use such water-course until he has paid the expense of any alteration of such water-course necessary in order to his being supplied through it, and also such share of the first cost of such water-course as the Divisional or Superintending Canal-officer may determine.
+Such applicant shall also be liable for his share of the cost of maintenance of such water- course so long as he uses it.
+    note: In the N.W.F.P., for” Commissioner” read” Revenue Commissioner”, see the N.W.F.P. Law and Justice Regulation, 1901 (7 of 1901), s. 6(1) (f).
+
+====================================================================================================
+#24 | section 21 | 613 chars | pages 13-13
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — Section 21: Application for construction of new water-course
+21. Application for construction of new water-course. Any person desiring the construction of a new water-course may apply in writing to the Divisional Canal-officer, stating—
+(1) that he has endeavoured unsuccessfully to acquire, from the owners of the land through which he desires such water-course to pass, a right to occupy so much of the land as will be needed for such water-course ;
+(2) that he desires the said Canal-officer, in his behalf and at his cost, to do all things necessary for acquiring such right;
+(3) that he is able to defray all costs involved in acquiring such right and constructing such
+
+====================================================================================================
+#25 | section 22 | 997 chars | pages 13-13
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 22: Procedure of Canal-officer thereupon
+22. Procedure of Canal-officer thereupon.—If the Divisional Canal-officer considers—
+(1) that the construction of such water-course is expedient, and
+(2) that the statements in the application are true, he shall call upon the applicant to make such deposit as the Divisional Canal-officer considers necessary to defray the cost of the preliminary proceedings, and the amount of any compensation which he considers likely to become due under section 28 ;
+and, upon such deposit being made, he shall cause enquiry to be made into the most suitable alignment for the said water-course, and shall mark out the land which, in his opinion, it will be necessary to occupy for the construction thereof, and shall forthwith publish a notice in every village through which the water -course is proposed to be taken, that so much of such land as belongs to such village has been so marked out, and shall send a copy of such notice to the Collector of every district in which any part of such land is situate.
+
+====================================================================================================
+#26 | section 23 | 1231 chars | pages 13-14
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 23: Application for transfer of existing water-course
+23. Application for transfer of existing water-course. Any person desiring that an existing water-course should be transferred from its present owner to himself may apply in writing to the Divisional Canal-officer, stating—
+(1) that he has endeavoured unsuccessfully to procure such transfer from the owner of such water-course ;
+(2) that he desires the said Canal-officer, in his behalf and at his cost, to do all things necessary for procuring such transfer;
+(3) that he is able to defray the cost of such transfer.
+Procedure thereupon. If the Divisional Canal-officer considers—
+(a) that the said transfer is necessary for the better management of the irrigation from such water-course, and
+(b) that the statements in the application are true, he shall call upon the applicant to make such deposit as the Divisional Canal-officer considers necessary to defray the cost of the preliminary proceedings, and the amount of any compensation that may become due under the provisions of section 28 in respect of such transfer ;
+and upon such deposit being made, he shall publish a notice of the application in every village, and shall send a copy of the notice to the Collector of every district through which such water-course passes.
+
+====================================================================================================
+#27 | section 24 | 694 chars | pages 14-14
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 24: Objections to construction or transfer applied for
+24. Objections to construction or transfer applied for. Within thirty days from the publication of a notice under section 22 or section 23, as the case may be, any person interested in the land or water-course to which the notice refers may apply to the Collector by petition, stating his objection to the construction or transfer for which application has been made.
+The Collector may either reject the petition or may proceed to inquire into the validity of the objection, giving previous notice to the Divisional Canal-officer of the place and time at which such inquiry will be held.
+The Collector shall record in writing all orders passed by him under this section and the grounds thereof.
+
+====================================================================================================
+#28 | section 25 | 368 chars | pages 14-14
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 25: When applicant may be placed in occupation
+25. When applicant may be placed in occupation. If no such objection is made, or (where such objection is made) if the Collector over-rules it, he shall give notice to the Divisional Canal- officer to that effect, and shall proceed forthwith to place the said applicant in occupation of the land marked out or of the water-course to be transferred, as the case may be.
+
+====================================================================================================
+#29 | section 26 | 492 chars | pages 14-14
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 26: Procedure when objection is held valid
+26. Procedure when objection is held valid. If the Collector considers any objection made as aforesaid to be valid he shall inform the Divisional Canal-officer accordingly ; and, if such officer sees fit, he may, in the case of an application under section 21, alter the boundaries of the land so mar- ked out, and may give fresh notice under section 22; and the procedure hereinbefore provided shall be applicable to such notice, and the Collector shall thereupon proceed as before provided.
+
+====================================================================================================
+#30 | section 27 | 449 chars | pages 14-14
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 27: Procedure when Canal-officer disagrees with Collector
+27. Procedure when Canal-officer disagrees with Collector. If the Canal-officer disagrees with the Collector, the matter shall be referred for decision to the 1Commissioner.
+Such decision shall be final, and the Collector, if he is so directed by such decision, shall, subject to the provisions of section 28, cause the said applicant to be placed in occupation of the land so marked out or of the water-course to be transferred, as the case may be.
+    note: In the N.W.F.P. for “Commissioner” read “Revenue Commissioner” see the N.W.F.P. Law and Justice Regulation, 1901 (7 of 1901), s. 6(1) (f).
+
+====================================================================================================
+#31 | section 28 | 1148 chars | pages 15-15
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 28: Expenses to be paid by applicant before receiving occupation
+28. Expenses to be paid by applicant before receiving occupation. No such applicant shall be placed in occupation of such land or water-course until he has paid to the person named by the Collector such amount as the Collector determines to be due as compensation for the land or water- course so occupied or transferred, and for any damage caused by the marking out or occupation of such land, together with all expenses incidental to such occupation or transfer.
+Procedure in fixing compensation. In determining the compensation to be made under section the Collector shall proceed under the provisions of the [Land Acquisition Act, 1894 (1 of 1894)] ; but he may, if the person to be compensated desires, award such compensation in the form of a rent-charge payable in respect of the land or water-course occupied or transferred.
+Recovery of compensation and expenses. If such compensation and expenses are not paid when demanded by the person entitled to receive the same, the amount may be recovered by the Collector as if it were an arrear of land-revenue, and shall, when recovered, be paid by him to the person entitled to receive the same.
+    note: Subs. by Ord. XXVII of 1981, s. 5 and Sch. IV (only to the extent of Islamabad Capital Territory).
+
+====================================================================================================
+#32 | section 29 | 1707 chars | pages 15-15
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 29: Conditions binding on applicant placed in occupation [part 1 of 2]
+29. Conditions binding on applicant placed in occupation. When any such applicant is placed in occupation of land or of a water-course as aforesaid, the following rules and conditions shall be binding on him and his representative in interest :
+First.___ All works necessary for the passage across such water-course, or water-courses, existing previous to its construction and of the drainage intercepted by it, and for affording proper communications across it for the convenience of the neighboring lands, shall be constructed by the applicant, and be maintained by him or his representative in interest to the satisfaction of the Divisional Canal-officer.
+Second.___ Land occupied for a water-course under the provisions of section 22 shall be used only for the purpose of such water-course.
+Third.___ The proposed water-course shall be completed to the satisfaction of the Divisional Canal-officer within one year after the applicant is placed in occupation of the land.
+In cases in which land is occupied or a water-course is transferred on the terms of a rent- charge.
+Fourth.___ The applicant or his representative in interest shall, so long as he occupies such land or water-course, pay rent for the same at such rate and on such days as are determined by the Collector when the applicant is placed in occupation.
+Fifth.___ If the right to occupy the land cease owing to a breach of any of these rules, the liability to pay the said rent shall continue until the applicant or his representative in interest has restored the land to its original condition, or until he has paid, by way of compensation for any injury done to the said land, such amount and to such persons as the Collector determines.
+
+====================================================================================================
+#33 | section 29 | 856 chars | pages 15-16
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 29: Conditions binding on applicant placed in occupation [part 2 of 2]
+29. Conditions binding on applicant placed in occupation. When any such applicant is placed in occupation of land or of a water-course as aforesaid, the following rules and conditions shall be binding on him and his representative in interest : [...]
+Sixth.___ The Collector may, on the application of the person entitled to receive such rent or compensation, determine the amount of rent due or assess the amount of such compensation ; and, if any such rent or compensation be not paid by the applicant or his representative in interest, the Collector may recover the amount, with interest thereon at the rate of six per cent. per annum from the date on which it became due, as if it were an arrear of land-revenue, and shall pay the same, when recovered, to the person to whom it is due.
+If any of the rules and conditions prescribed by this section are not complied with, or if any water-course constructed or transferred under this Act is disused for three years continuously, the right of the applicant, or of his representative in interest, to occupy such land or water- course shall cease absolutely.
+
+====================================================================================================
+#34 | section 30 | 327 chars | pages 16-16
+The Canal and Drainage Act, 1873 — Part III: Of the Construction and Maintenance of Works — water-course — Section 30: Procedure applicable to occupation for extensions and alterations
+30. Procedure applicable to occupation for extensions and alterations.—The procedure hereinbefore provided for the occupation of land for the construction of a water-course shall be applicable to the occupation of land for any extension or alteration of a water-course, and for the deposit of soil from water-course clearances.
+
+====================================================================================================
+#35 | section 31 | 344 chars | pages 16-16
+The Canal and Drainage Act, 1873 — Part IV: Of the Supply of Water — Section 31: In absence of written contract, water-supply to be subject to rules
+31. In absence of written contract, water-supply to be subject to rules. In the absence of a written contract, or so far as any such contract does not extend, every supply of canal-water shall be deemed to be given at the rates and subject to the conditions prescribed by the rules to be made by the l[Provincial Government] in respect thereof.
+
+====================================================================================================
+#36 | section 32 | 616 chars | pages 16-16
+The Canal and Drainage Act, 1873 — Part IV: Of the Supply of Water — Section 32: Conditions as to [(1) to (2)]
+32. Conditions as to. Such contracts and rules must be consistent with the following conditions :—
+(a) power to stop water supply; (a) The Divisional Canal-officer may not stop the supply of water to any water-course, or to any person, except in the following cases :___
+(1) whenever and so long as it is necessary to stop such supply for the purpose of executing any work ordered by competent authority and with the previous sanction of the l[Provincial Government];
+(2) whenever and so long as any water-course is not maintained in such proper customary repair as to prevent the wasteful escape of water therefrom;
+
+====================================================================================================
+#37 | section 32 | 1702 chars | pages 16-17
+The Canal and Drainage Act, 1873 — Part IV: Of the Supply of Water — Section 32: Conditions as to [(b) to (d)]
+32. Conditions as to. Such contracts and rules must be consistent with the following conditions :— [...]
+(3) within periods fixed from time to time by the Divisional Canal-officer :
+(b) Claims to compensation in case of failure or stoppage of supply; No claim shall be made against [the Provincial Government] for compensation in respect of loss caused by the failure or stoppage of the water in a canal, by reason of any cause beyond the control of [the Provincial Government] or of any repairs, alterations or additions to the canal, or of any measures taken for regulating the proper flow of water therein, or for maintaining the established course of irrigation which the Divisional Canal-officer considers necessary; but the person suffering such loss may claim such remission of the ordinary charges payable for the use of the water as is authorised by the l[Provincial Government] :
+(c) Claims on account of interruption from other causes; If the supply of water to any land irrigated from a canal be interrupted otherwise than in the manner described in the last preceding clause, the occupier or owner of such land may present a petition for compensation to the Collector for any loss arising from such interruption, and the Collector may award to the petitioner reasonable compensation for such loss :
+(d) Duration of supply; When the water of a canal is supplied for the irrigation of a single crop, the permission to use such water shall be held to continue only until that crop comes to maturity, and to apply only to that crop ; but, if it be supplied for irrigating two or more crops to be raised on the same land within the year, such permission shall be held to continue for one year from the commencement of the irrigation, and to apply to such crops only as are matured within that year :
+    note: Subs. ibid., for “the Govt.”.
+    note: Subs. by A. O., 1937, for “L. G.”.
+
+====================================================================================================
+#38 | section 32 | 1152 chars | pages 17-17
+The Canal and Drainage Act, 1873 — Part IV: Of the Supply of Water — Section 32: Conditions as to [(e) to (f)]
+32. Conditions as to. Such contracts and rules must be consistent with the following conditions :— [...]
+(e) Sale of subletting of right to use canal water ; Unless with the permission of the Superintending Canal-officer, no person entitled to use the water of any canal, or any work, building or land appertaining to any canal, shall sell or sublet or otherwise transfer his right to such use :
+Provided that the former part of this clause shall not apply to the use by a cultivating tenant of water supplied by the owner of a water-course for the irrigation of the land held by such tenant:
+Transfer, with land, of contracts for water. But all contracts made between l[he Provincial Government] and the owner or occupier of any immoveable property, as to the supply of canal-water to such property, shall be transferable therewith, and shall be presumed to have been so transferred whenever a transfer of such property takes place :
+(f) No right acquired by user. No right to the use of the water of a canal shall be, or be deemed to have been, acquired under the 2Indian Limitation Act, 1877(XV of 1877), Part IV, nor shall [the Provincial Government] be bound to supply any person with water except in accordance with the terms of a contract in writing.
+    note: Subs. by A. O., 1937, for “Govt.”.
+
+====================================================================================================
+#39 | section 33 | 588 chars | pages 17-17
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 33: Liability when person using unauthorizedly cannot be identified
+33. Liability when person using unauthorisedly cannot be identified. If water supplied through a water-course be used in an unauthorized manner, and if the person by whose act or neglect such use has occurred cannot be identified, the person on whose land such water has flowed if such land has derived benefit therefrom, or if such person cannot be identified or if such land has not derived benefit therefrom, all the persons chargeable in respect of the water supplied through such water-course, shall be liable, or jointly liable, as the case may be, to the charges made for such use.
+
+====================================================================================================
+#40 | section 34 | 432 chars | pages 17-17
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 34: Liability when water runs to waste
+34. Liability when water runs to waste. If water supplied through a water-course be suffered to run to waste, and if, after enquiry by the Divisional Canal-officer, the person through whose act or neglect such water was suffered to run to waste cannot be discovered, all the persons chargeable in respect of the water supplied through such water-course shall be jointly liable for the charges made in respect of the water so wasted.
+
+====================================================================================================
+#41 | section 35 | 463 chars | pages 17-17
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 35: Charges recoverable in addition to penalties
+35. Charges recoverable in addition to penalties. All charges for the unauthorised use or for waste of water may be recovered in addition to any penalties incurred on account of such use or waste.
+Decision of questions under sections 33 and 34. All questions under section 33 or section 34 shall be decided by the Divisional Canal-officer, subject to an appeal to the Head Revenue-officer of the district, or such other appeal as may be provided under section 75.
+    note: See now the Limitation Act, 1908 (9 of 1908).
+
+====================================================================================================
+#42 | section 36 | 824 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 36: Charge on occupier for water, how determined
+36. Charge on occupier for water, how determined. The rates to be charged for canal-water supplied for purposes of irrigation to the occupiers of land shall be determined by the rulesl to be made by the [Provincial Government], and such occupiers as accept the water shall pay for it accordingly.
+“Occupier’s rate”. A rate so charged shall be called the “occupier’s rate”.
+[The rules1 hereinbefore referred to may prescribe and determine what persons or classes of persons are to be deemed to be occupiers for the purposes of this section, and may also determine the several liabilities, in respect of the payment of the occupier’s rate, of tenants and of persons to whom tenants may have sublet their lands or of proprietors and of persons to whom proprietors may have let the lands held by them, in cultivating occupancy.]
+    note: Subs. by A. O., 1937, for “L.G.”.
+    note: Ins. by the Northern India Canal and Drainage (Amdt.) Act, 1899 (16 of 1899), s. 2.
+
+====================================================================================================
+#43 | section 37 | 279 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 37: “Owner’s rate”
+37. “Owner’s rate”. In addition to the occupier’s rate, a rate to be called the “owner’s rate” may be imposed, according to rules4 to be made by the [Provincial Government], on the owners of canal irrigated lands, in respect of the benefit which they derive from such irrigation.
+    note: Subs. by A. O., 1937, for “L.G.”.
+
+====================================================================================================
+#44 | section 38 | 476 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 38: Amount of owner’s rate
+38. Amount of owner’s rate. The owner’s rate shall not exceed the sum which, under the rules for the time being in force for the assessment of land-revenue, might be assessed on such land on account of the increase in the annual value or produce thereof caused by the canal-irrigation. And, for the purpose of this section only, land which is permanently settled or held free of revenue shall be considered as though it were temporary settled and liable to payment of revenue.
+
+====================================================================================================
+#45 | section 39 | 216 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 39: Owner’s rate, when not chargeable
+39. Owner’s rate, when not chargeable. No owner’s rate shall be chargeable either on the owner or occupier of land temporarily assessed to pay land-revenue at irrigation-rates, during the currency of such assessment.
+
+====================================================================================================
+#46 | section 40 | 393 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 40: When occupier is to pay both owner’s rate and occupier’s rate
+40. When occupier is to pay both owner’s rate and occupier’s rate. If such land is occupied by the owner, or if it is occupied by a tenant whose rent is not liable to enhancement on the ground that the value of the produce of the land or the productive powers of the land has or have been increased by irrigation, such owner or tenant shall pay the owner’s rate as well as the occupier’s rate.
+
+====================================================================================================
+#47 | section 41 | 310 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 41: Power to make rules for apportioning owner’s rate
+41. Power to make rules for apportioning owner’s rate. In the case of a tenant with a right of occupancy, the [Provincial Government] shall have power to make rules for dividing the owner’s rate between such tenant and his landlord, proportionately to the extent of the beneficial interest of each in the Land.
+    note: Subs. by A. O., 1937, for “L.G.”.
+
+====================================================================================================
+#48 | section 42 | 379 chars | pages 18-18
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 42: When owner is to pay owner’s rate
+42. When owner is to pay owner’s rate. If the owner of the land is not the occupier, but has power to enhance the rent of the occupier on the ground that the value of the produce or the productive powers of the land has or have been increased by irrigation ;
+or if, when the amount of a rent was fixed, the land was irrigated from the canal, the owner shall pay the owner’s rate.
+    note: For instance of such notifications, see Punjab Gazette, 1903, Pt. I, pp. 223 and 224.
+    note: For rules for assessing owner’s rates, see the Punjab R. and O.
+    note: Ss. 40 to 43 have been rep. in the Punjab by the Punjab Tenancy Act, 1887 (16 of 1887), s. 3 and Sch.
+
+====================================================================================================
+#49 | section 43 | 472 chars | pages 19-19
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 43: Effect of introduction of canal irrigation on landlord’s right to enhance
+43. Effect of introduction of canal irrigation on landlord’s right to enhance. If a revision of settlement is a ground for entertaining a suit for the enhancement of rent, the introduction of canal irrigation into any land shall have the same effect on the landlord’s right to re-enhance the rent of a tenant with a right of occupancy of such land, as if a revision of settlement had taken place, under which the revenue payable in respect of such land had been increased.
+
+====================================================================================================
+#50 | section 44 | 460 chars | pages 19-19
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Section 44: Water-rate by whom payable when charged on land held by several owners
+44. Water-rate by whom payable when charged on land held by several owners. Where a water-rate is charged on land held by several joint owners, it shall be payable by the manager or other person who receives the rents or profits of such land, and may be deducted by him from such rents or profits before division, or may be recovered by him from the persons liable to such rate in the manner customary in the recovery of other charges on such rents or profits.
+
+====================================================================================================
+#51 | section 45 | 320 chars | pages 19-19
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Recovery of charges — Section 45: Certified dues recoverable as land-revenue
+45. Certified dues recoverable as land-revenue. Any sum lawfully due under this Part, and certified by the Divisional Canal-officer to be so due, which remains unpaid after the day on which it becomes due, shall be recoverable by the Collector from the person liable for the same as if it were an arrear of land-revenue.
+
+====================================================================================================
+#52 | section 46 | 896 chars | pages 19-19
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Recovery of charges — Section 46: Power to contract for collection of canal-dues
+46. Power to contract for collection of canal-dues. The Divisional Canal-officer or the Collector may enter into an agreement with any person for the collection and payment to [the Provincial Government] by such person of any sum payable under this Act by a third party.
+When such agreement has been made, such person may recover such sum by suit as though it were a debt due to him, or an arrear of rent due to him on account of the land, work or building in respect of which such sum is payable, or for or in which the canal-water shall have been supplied or used.
+If such person makes default in the payment of any sum collected by him under this section, such sum may be recovered from him by the Collector under section 45; and, if such sum or any part of it be still due by the said third party, the sum or part so due may be recovered in like manner by the Collector from such third party.
+    note: Subs. by A. O., 1937, for “the Govt.”.
+
+====================================================================================================
+#53 | section 47 | 987 chars | pages 19-20
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Recovery of charges — Section 47: Lambardars may be required to collect canal-dues
+47. Lambardars may be required to collect canal-dues. The Collector may require the lambardar, or person under engagement to pay the land-revenue of any estate, to collect and pay any sums payable under this Act by a third party, in respect of any land or water in such estate.
+Such sums shall be recoverable by the Collector as if they were arrears of land-revenue due in respect of the defaulter’s share in such estate ;
+and for the purpose of collecting such sums from the subordinate zemindars, raiyats, [tenants or sub-tenants], such lambardar or person may exercise the powers, and shall be subject to the rules, laid down in the law for the time being in force in respect to the collection by him of the rents of land or of shares of land-revenue.
+The [Provincial Government] shall provide—
+(a) for remunerating persons collecting sums under this section ; or
+(b) for indemnifying them against expenses properly incurred by them in such collection ; or
+(c) for both such purposes.
+    note: Subs. by the Northern India Canal and Drainage (Amdt.) Act, 1899 (16 of 1899), s. 3, for” or “tenants”.
+    note: Subs. by A. O., 1937, for “L. G. “.
+    note: Ss. 40 to 43 have been rep. in the Punjab by the Punjab Tenancy Act, 1887 (16 of 1887), s. 3 and Sch.
+
+====================================================================================================
+#54 | section 48 | 93 chars | pages 20-20
+The Canal and Drainage Act, 1873 — Part V: Of Water-rates — Recovery of charges — Section 48: Fines excluded from sections 45,46,47
+48. Fines excluded from sections 45,46,47. Nothing in sections 45, 46 or 47 applies to fines.
+
+====================================================================================================
+#55 | section 49 | 792 chars | pages 20-20
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 49: Detainer of vessels violating rules
+49. Detainer of vessels violating rules. Any vessel entering or navigating any canal contrary to the rules made in that behalf by the [Provincial Government], or so as to cause danger to the canal or the other vessels therein, may be removed or detained, or both removed and detained, by the Divisional Canal-officer, or by any other person duly authorised in this behalf.
+Liability of owners of vessels causing damage. The owner of any vessel causing damage to a canal, or removed or detained under this section, shall be liable to pay to [the Provincial Government] such sum as the Divisional Canal-officer, with the approval of the Superintending Canal-officer, determines to be necessary to defray the expenses of repairing such damage or of such removal or detention, as the case may be.
+    note: Subs. by A. O., 1937, for “L. G. “.
+    note: Subs. ibid., for “the Govt.”.
+
+====================================================================================================
+#56 | section 50 | 475 chars | pages 20-20
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 50: Recovery of fines for offences in navigating canals
+50. Recovery of fines for offences in navigating canals. Any fine imposed under this Act upon the owner of any vessel, or the servant or agent of such owner or other person in charge of any vessel, for any offence in respect of the navigation of such vessel, may be recovered either in the manner prescribed by the [Code of Criminal Procedure, 1898 (Act V of 1898)] or, if the Magistrate imposing the fine so directs, as though it were a charge due in respect of such vessel.
+    note: Subs. by Ord. XXVII of 1981, s.5 and Sch IV (only to the extent of Islamabad Capital Territory).
+
+====================================================================================================
+#57 | section 51 | 430 chars | pages 20-20
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 51: Power to seize and detain vessel on failure to pay charges
+51. Power to seize and detain vessel on failure to pay charges. If any charge due under the provisions of this Part in respect of any vessel is not paid on demand to the person authorized to collect the same, the Divisional Canal-officer may seize and detain such vessel and the furniture thereof, until the charge so due, together with all expenses and additional charges arising from such seizure and detention, is paid in full.
+
+====================================================================================================
+#58 | section 52 | 551 chars | pages 20-20
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 52: Power to seize cargo or goods, if charges due thereon are not paid
+52. Power to seize cargo or goods, if charges due thereon are not paid. If any charge due under the provisions of this Part in respect of any cargo or goods carried in a Government vessel on a canal, or stored on or in lands or warehouses occupied for the purposes of a canal is not paid on demand to the person authorised to collect the same, the Divisional Canal-officer may seize such cargo or goods and detain them until the charge so due, together with all expenses and additional charges arising from such seizure and detention, is paid in full.
+
+====================================================================================================
+#59 | section 53 | 1118 chars | pages 20-21
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 53: Procedure for recovery of such charges after seizure
+53. Procedure for recovery of such charges after seizure. Within a reasonable time after any seizure under section 51 or section 52, the said Canal-officer shall give notice to the owner or person in charge of the property seized that it, or such portion of it as may be necessary, will, on a day to be named in the notice, but not sooner than fifteen days from the date of the notice, be sold in satisfaction of the claim on account of which such property was seized, unless the claim be discharged before the day so named.
+And, if such claim be not so discharged, the said Canal-officer may, on such day, sell the property seized or such part thereof as may be necessary to yield the amount due, together with the expenses of such seizure and sale :
+Provided that no greater part of the furniture of any vessel or of any cargo or goods shall be so sold than shall, as nearly as may be, suffice to cover the amount due in respect of such vessel, cargo or goods.
+The residue of such furniture, cargo or goods, and of the proceeds of the sale, shall be made over to the owner or person in charge of the property seized.
+
+====================================================================================================
+#60 | section 54 | 1491 chars | pages 21-21
+The Canal and Drainage Act, 1873 — Part VI: Of Canal-navigation — Section 54: Procedure in respect of vessels abandoned and goods unclaimed
+54. Procedure in respect of vessels abandoned and goods unclaimed. If any vessel be found abandoned in a canal, or any cargo or goods carried in a Government vessel on a canal, or stored on or, in lands or warehouses occupied for the purposes of a canal, be left unclaimed for a period of two months, the Divisional Canal-officer may take possession of the same.
+The officer so taking possession may publish a notice that, if such vessel and its contents, or such cargo or goods, are not claimed previously to a day to be named in the notice, not sooner than thirty days from the date of such notice, he will sell the same ; and, if such vessel, contents, cargo or goods be not so claimed, he may, at any time after the day named in the notice, proceed to sell the same.
+Disposal of proceeds of sale. The said vessel and its contents, and the said cargo or goods if unsold, or, if a sale has taken place, the proceeds of the sale, after paying all tolls, charges and expenses incurred by the Divisional Canal-officer on account of the taking possession and sale, shall be made over to the owner of the same, when his ownership is established to the satisfaction of the Divisional Canal-officer.
+If the Divisional Canal-officer is doubtful to whom such property or proceeds should be made over, he may direct the property to be sold as aforesaid, and the proceeds to be paid into the district treasury, there to be held until the right thereto be decided by a Court of competent jurisdiction.
+
+====================================================================================================
+#61 | section 55 | 680 chars | pages 21-21
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 55: Power to prohibit obstructions or order their removal
+55. Power to prohibit obstructions or order their removal. Whenever it appears to the l[Provincial Government] that injury to any land or the public health or public convenience has arisen or may arise from the obstruction of any river, stream or drainage-channel, such Government may, by 2notification published in the official Gazette, prohibit, within limits to be defined in such notification, the formation of any obstruction, or may, within such limits, order the removal or other modification of such obstruction.
+Thereupon so much of the said river, stream or drainage channel as is comprised within such limits shall be held to be a drainage-work as defined in section 3.
+
+====================================================================================================
+#62 | section 56 | 738 chars | pages 21-22
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 56: Power to remove obstructions after prohibition
+56. Power to remove obstructions after prohibition. The Divisional Canal-officer, or other person authorised by the l[Provincial Government] in that behalf, may, after such publication issue an order to the person causing or having control over any such obstruction to remove or modify the same within a time to be fixed in the order.
+If, within the time so fixed, such person does not comply with the order, the said Canal-officer may himself remove or modify the obstruction ; and if the person to whom the order was issued does not, when called upon, pay the expenses involved in such removal or modification, such expenses shall be recoverable by the Collector from him or his representative in interest as an arrear of land- revenue.
+    note: Subs. by A. O., 1937, for” L. G. “.
+    note: For such notifications, see the Punjab R. and O.
+
+====================================================================================================
+#63 | section 57 | 682 chars | pages 22-22
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 57: Preparation of schemes for works of improvement
+57. Preparation of schemes for works of improvement. Whenever it appears to the [Provincial Government] that any drainage-works are necessary for the improvement of any lands, or for the proper cultivation or irrigation thereof, or that protection from floods or other accumulations of water, or from erosion by a river, is required for any lands, the l[Provincial Government] may cause a scheme for such drainage-works to be drawn up and published, together with an estimate of its cost and a statement of the proportion of such cost which [the Provincial Government] proposes to defray, and a schedule of the lands which it is proposed to make chargeable in respect of the scheme.
+    note: Subs. by A. O., 1937, for” L. G. “.
+    note: Subs. ibid., for “the Govt.”.
+
+====================================================================================================
+#64 | section 58 | 210 chars | pages 22-22
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 58: Powers of persons employed on such schemes
+58. Powers of persons employed on such schemes.—The persons authorised by the l[Provincial Government] to draw up such scheme may exercise all or any of the powers conferred on the Canal-officers by section 14.
+
+====================================================================================================
+#65 | section 59 | 1322 chars | pages 22-22
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 59: Rate on lands benefited by works
+59. Rate on lands benefited by works. An annual rate, in respect of such scheme, may be charged, according to rules to be made by the [Provincial Government], on the owners of all lands which shall, in the manner prescribed by such rules, be determined to be so chargeable.
+Such rate shall be fixed, as nearly as possible, so as not to exceed either of the following limits :—
+(1) six per cent. per annum on the first cost of the said works, adding thereto the estimated yearly cost of the maintenance and supervision of the same, and deducting therefrom the estimated income, if any, derived from the works, excluding the said rate :
+(2) in the case of agricultural land, the sum which under the rules then in force for the assessment of land-revenue, might be assessed on such land on account of the increase of the annual value or produce thereof caused by the drainage-work.
+Such rate may be varied from time to time, within such maximum, by the l[Provincial Government].
+So far as any defect to be remedied is due to any canal, water-course, road or other work or obstruction, constructed or caused by the l[Provincial Government] or by any person, a proportionate share of the cost of the drainage-works required for the remedy of the said defect shall be borne by such Government or such person, as the case may be.
+    note: Subs. by A. O., 1937, for” L. G. “.
+
+====================================================================================================
+#66 | section 60 | 168 chars | pages 22-22
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 60: Recovery of rate
+60. Recovery of rate. Any such drainage-rate may be collected and recovered in manner provided by sections 45, 46 and 47 for the collection and recovery of water-rates.
+
+====================================================================================================
+#67 | section 61 | 462 chars | pages 23-23
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 61: Disposal of claims to compensation
+61. Disposal of claims to compensation. Whenever, in pursuance of a notification made under section 55, any obstruction is removed or modified, or whenever any drainage-work is carried out under section 57, all claims for compensation on account of any loss consequent on the removal or modification of the said obstruction or the cons- truction of such work may be made before the Collector, and he shall deal with the same in the manner provided in section 10.
+
+====================================================================================================
+#68 | section 62 | 263 chars | pages 23-23
+The Canal and Drainage Act, 1873 — Part VII: Of Drainage — Section 62: Limitation of such claims
+62. Limitation of such claims. No such claim shall be entertained after the expiration of one year from the occurrence of the loss complained of, unless the Collector is satisfied that the claimant had sufficient cause for not making the claim within such period.
+
+====================================================================================================
+#69 | section 63 | 215 chars | pages 23-23
+The Canal and Drainage Act, 1873 — Part VIII: Of Obtaining Labour for Canals and Drainage-works — Section 63: Definition of “labourer”
+63. Definition of “labourer”.—For the purposes referred to in this Part, the word “labourer” includes persons who exercise any handicraft specified in rules to be made in that behalf by the l[Provincial Government].
+
+====================================================================================================
+#70 | section 64 | 917 chars | pages 23-23
+The Canal and Drainage Act, 1873 — Part VIII: Of Obtaining Labour for Canals and Drainage-works — Section 64: Power to prescribe number of labourers to be supplied by persons benefited by canal
+64. Power to prescribe number of labourers to be supplied by persons benefited by canal.—In any district in which a canal or drainage-work is constructed, maintained or projected by [the Provincial Government], the l[Provincial Government] may, if it thinks fit, direct the Collector___
+(a) to ascertain the proprietors, sub-proprietors or farmers whose villages or estates are or will be in the judgment of the Collector, benefited by such canal or drainage work, and
+(b) to set down in a list, having due regard to the circumstances of the districts and of the several proprietors, sub-proprietors or farmers, the number of 1abourers which shall be furnished by any of the said persons, jointly or severally, from any such village or estate, for employment on any such canal or drainage-work when required as hereinafter provided.
+The Collector may, from time to time, add to or alter such list or any part thereof.
+    note: Subs. ibid., for “Govt.”.
+
+====================================================================================================
+#71 | section 65 | 2060 chars | pages 23-24
+The Canal and Drainage Act, 1873 — Part VIII: Of Obtaining Labour for Canals and Drainage-works — Section 65: Procedure for obtaining labour for works urgently required
+65. Procedure for obtaining labour for works urgently required.—Whenever it appears to a Divisional Canal-officer duly authorised by the [Provincial Government] that, unless some work is immediately executed, such serious damage will happen to any canal or drainage-work as to cause sudden and extensive public injury, and that the labourers necessary for the proper execution thereof cannot be obtained in the ordinary manner within the time that can be allowed for the execution of such work so as to prevent such injury, the said officer may require any person named in such list to furnish as many labourers (not exceeding the number which, according to the said list he is liable to supply) as to the said officer seems necessary for the immediate execution of such work.
+Every requisition so made shall be in writing, and shall state—
+(a) the nature and locality of the work to be done ;
+(b) the number of labourers to be supplied by the person upon whom the requisition is made ; and
+(c) the approximate time for which and the day on which the labourers will be required ;
+and a copy thereof shall be immediately sent to the Superintending Canal-officer for the information of the l[Provincial Government].
+The l[Provincial Government] shall fix, and may from time to time alter the rates to be paid to any such labourers :
+Provided that such rates shall exceed the highest rates for the time being paid in the neighbourhood for similar work.
+In the case of every such labourer, the payment shall continue for the whole period during which he is, in consequence of the provisions of this Part, prevented from following his ordinary occupation.
+The l[Provincial Government] may 3* * * direct that the provisions of this Part shall apply, either permanently or temporarily (as the case may be), to any district or part of a district for the purpose of effecting necessary annual silt-clearances, or to prevent the proper operation of canal drainage-work being stopped or so much interfered with as to stop the established course of irrigation or drainage.
+    note: Subs. by A. O., 1937, for “L. G.”.
+    note: The paragraph has been repealed in the N.W.F.P. by N.W.F.P. Act, 3 of 1938.
+
+====================================================================================================
+#72 | section 66 | 291 chars | pages 24-24
+The Canal and Drainage Act, 1873 — Part VIII: Of Obtaining Labour for Canals and Drainage-works — Section 66: Liability of labourers under requisition
+66. Liability of labourers under requisition.—When any requisition has been made on any person named in the said list, every labourer ordinarily resident within the village or estate of such person shall be liable to supply, and to continue to supply, his labour, for the purposes aforesaid.
+
+====================================================================================================
+#73 | section 67 | 352 chars | pages 24-24
+The Canal and Drainage Act, 1873 — Part IX: Of Jurisdiction — Section 67: Jurisdiction under this Act of Civil Courts
+67. Jurisdiction under this Act of Civil Courts.—Except where herein otherwise provided, all claims against l[the Provincial Government] in respect of anything done under this Act may be tried by the Civil Courts ; but no such Court shall in any case pass an order as to the supply of canal- water to any crop sown or growing at the time of such order.
+
+====================================================================================================
+#74 | section 68 | 973 chars | pages 24-25
+The Canal and Drainage Act, 1873 — Part IX: Of Jurisdiction — Section 68: Settlement of differences as to mutual rights and liabilities of persons interested in water-course
+68. Settlement of differences as to mutual rights and liabilities of persons interested in water-course.—Whenever a difference arises between two or more persons in regard to their mutual rights or liabilities in respect of the use, construction or maintenance of a water-course, any such person may apply in writing to the Divisional Canal-officer stating the matter in dispute. Such officer shall thereupon give notice to the other persons interested that, on a day to be named in such notice, he will proceed to inquire into the said matter. And, after such inquiry, he shall pass his order thereon, unless he transfers (as he is hereby empowered to do) the matter to the Collector, who shall thereupon inquire into and pass his order on the said matter.
+Such order shall be final as to the use or distribution of water for any crop sown or growing at the time when such order is made, and shall thereafter remain in force until set aside by the decree of a Civil Court.
+    note: Subs. by A.O., 1937, for “L. G.”.
+    note: The words “with the previous sanction of the G.G. in C.” rep. by the Decentralization Act, 1914 (4 of 1914).
+
+====================================================================================================
+#75 | section 69 | 338 chars | pages 25-25
+The Canal and Drainage Act, 1873 — Part IX: Of Jurisdiction — Section 69: Power to summon and examine witnesses
+69. Power to summon and examine witnesses.—Any officer empowered under this Act to conduct any inquiry may exercise all such powers connected with the summoning and examining of witnesses as are conferred on Civil Courts by the [Code of Civil Procedure, 1908 (Act V of 1908)], and every such inquiry shall be deemed a judicial proceeding.
+    note: Subs. by Ord XXVII of 1981, s. 5 and Sch IV (only to the extent of Islamabad Capital Territory).
+
+====================================================================================================
+#76 | section 70 | 2171 chars | pages 25-26
+The Canal and Drainage Act, 1873 — Part X: Of Offences and Penalties — Section 70: Offences under Act
+70. Offences under Act.—Whoever, without proper authority and voluntarily, does any of the acts following, that is to say :—
+(1) damages, alters, enlarges or obstructs any canal or drainage-work ;
+(2) interferes with, increases or diminishes the supply of water in, or the flow of water from, through, over or under, any canal or drainage-work ;
+(3) interferes with or alters the flow of water in any river or stream, so as to endanger, damage or render less useful any canal or drainage-work ;
+(4) being responsible for the maintenance of a water course, or using a water-course, neglects to take proper precautions for the prevention of waste of the water thereof, or interferes with the authorised distribution of the water therefrom, or uses such water in an unauthorised manner ;
+(5) corrupts or fouls the water of any canal so as to render it less fit for the purposes for which it is ordinarily used ;
+(6) causes any vessel to enter or navigate any canal contrary to the rules for the time being prescribed by the [Provincial Government] for entering or navigating such canal ;
+(7) while navigating on any canal, neglects to take proper precautions for the safety of the canal and of vessels thereon ;
+(8) being liable to furnish labourers under Part VIII of this Act, fails without reasonable cause, to supply or to assist in supplying the labourers required of him ;
+(9) being a labourer liable to supply his labour under Part VIII of this Act, neglects, without reasonable cause, so to supply, and to continue to supply, his labour ;
+(10) destroys or moves any level-mark or water-gauge fixed by the authority of a public servant ;
+(11) passes, or causes animals or vehicles to pass, on or across any of the works, banks or channels of a canal or drainage-work contrary to rules made under this Act, after he has been desired to desist therefrom;
+(12) violates any rule made under this Act, for breach whereof a penalty may be incurred, Panalty. shall be liable, on conviction before a Magistrate of such class as the l[Provincial Government] directs 2in this behalf, to a fine not exceeding fifty rupees, or to imprisonment not exceeding one month, or to both.
+    note: Subs. by A. O., 1937, for “Govt.”.
+
+====================================================================================================
+#77 | section 71 | 249 chars | pages 26-26
+The Canal and Drainage Act, 1873 — Part X: Of Offences and Penalties — Section 71: Saving of prosecution under other laws
+71. Saving of prosecution under other laws.—Nothing herein contained shall prevent any person from being prosecuted under any other law for any offence punishable under this Act :
+Provided that no person shall be punished twice for the same offence.
+
+====================================================================================================
+#78 | section 72 | 235 chars | pages 26-26
+The Canal and Drainage Act, 1873 — Part X: Of Offences and Penalties — Section 72: Compensation to person injured
+72. Compensation to person injured.—Whenever any person is fined for an offence under this Act, the Magistrate may direct that the whole or any part of such fine may be paid by way of compensation to the person injured by such offence.
+
+====================================================================================================
+#79 | section 73 | 664 chars | pages 26-26
+The Canal and Drainage Act, 1873 — Part X: Of Offences and Penalties — Section 73: Power to arrest without warrant
+73. Power to arrest without warrant.—Any person in charge of or employed upon any canal or drainage-work may remove from the lands or buildings belonging thereto, or may take into custody without a warrant and take forthwith before a Magistrate or to the nearest police-station, to be dealt with according to law, any person who, within his view, commits any of the following offences:—
+(1) wilfully damages or obstructs any canal or drainage-work ;
+(2) without proper authority interferes with the supply or flow of water in or from any canal or drainage-work, or in any river or stream, so as to endanger, damage or render less useful any canal or drainage-work.
+
+====================================================================================================
+#80 | section 74 | 411 chars | pages 26-26
+The Canal and Drainage Act, 1873 — Part X: Of Offences and Penalties — Section 74: Definition of “canal”
+74. Definition of “canal”.—In this Part the word “canal” shall (unless there be something repugnant in the subject or context) be deemed to include also all lands occupied by [the Provincial Government] for the purposes of canals, and all buildings, machinery, fences, gates and other erections, trees, crops, plantations or other produce occupied by or belonging to [the Provincial Government] upon such lands.
+    note: Subs. by A. O., 1937, for “L. G.”.
+
+====================================================================================================
+#81 | section 75 | 1091 chars | pages 26-27
+The Canal and Drainage Act, 1873 — Part XI: Of Subsidiary Rules — Section 75: Power to make, alter and cancel rules
+75. Power to make, alter and cancel rules.—The [Provincial Government] may, from time to time 4* * * make rules5 to regulate the following matters :___
+(1) the proceedings of any officer who, under any provision of this Act, is required or empowered to take action in any matter ;
+(2) the cases in which, and the officers to whom, and the conditions subject to which, orders and decisions given under any provision of this Act, and not expressly provided for as regards appeal, shall be appealable;
+(3) the persons by whom, [and] the time, place or manner at or in which anything for the doing of which provision is made under this Act, shall be done;
+(4) the amount of any charge made under this Act; and
+(5) generally to carry out the provisions of this Act.
+The [Provincial Government] may from time to time 3* * * alter or cancel any rules so made.
+Publication of rules. Such rules, alterations and cancelments shall be published in the [official Gazette], and shall thereupon have the force of law.
+[Rep. by the Repealing Act. 1873 (XII of 1873) s. 1 and Sch., Pt. II.]
+Date: 16-09-2024
+    note: Subs. by A. O., 1937, for “L.G.”.
+    note: For notification empowering Magistrates of the second class to try offences under this section, see Punjab Local Rules and Orders.
+    note: The words “subject to the control of the G.G. in C.” rep. by the Devolution Act, 1920 (38 of 1920).
+    note: For such rules, see the Punjab R. and O.
+    note: Ins. by the Amending Act, 1891 (12 of 1891).
+    note: Subs. by A. O., 1937, for “local official Gazette”.
+    note: The words “subject to the like control” rep. by Act 38 of 1920.

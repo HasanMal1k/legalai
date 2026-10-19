@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets (keys come from the environment; never commit them)
+.env
+.env.*
+
+# Source PDFs (about 37 GB)
+data/**/raw_pdfs/
+data/raw_pdfs/
+
+# Full statute text and chunks: several files exceed GitHub's 100 MB limit; rebuild with the pipeline
+data/**/statutes.jsonl
+data/statutes.jsonl
+data/**/chunks.jsonl
+data/chunks.jsonl
+data/**/repaired_text_backup.jsonl
+data/repaired_text_backup.jsonl
+
+# Search indexes and vector stores; rebuild with app/index.py and eval/kanon_eval.py --embed
+data/qdrant/
+data/embeddings/
+data/app/
+
+# Logs
+*.log
+
+# Qdrant binary; download it separately (config.yaml is kept)
+tools/qdrant/*
+!tools/qdrant/config.yaml
+
+# Sindh High Court case corpus (out of scope for the app)
+pakistan_cases/

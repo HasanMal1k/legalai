@@ -1,0 +1,1322 @@
+The Sindh Water Management Ordinance, 2002
+{"title": "The Sindh Water Management Ordinance, 2002", "instrument_type": "Ordinance", "text_source": "native", "chars": 119533, "method": "provisions", "contents_entries": 110, "provisions": 107, "problems": [], "chunks": 135, "largest_chunk": 1942}
+
+====================================================================================================
+#0 | card  | 1759 chars
+The Sindh Water Management Ordinance, 2002 — Overview
+The Sindh Water Management Ordinance, 2002 (Ordinance, 2002, Sindh).
+This Ordinance establishes a long-term, sustainable, and participatory framework for managing irrigation water, drainage, and flood waters in the Province of Sindh. It creates new bodies including the Sindh Irrigation and Drainage Authority (SIDA), Area Water Boards (AWBs), and Flood Offices (FOs) to replace previous structures. The law outlines their composition, functions, financial management, and powers regarding water allocation and enforcement.
+Subjects: water management, irrigation, drainage, flood control, Area Water Boards, Water Users Associations, regulatory authority, financial management.
+Provisions: 1. Short Title, and Commencement; 2. Definitions; 3. Establishment of the Sida; 4. Legal Status of the Sida; 5. Composition of the Sida; 6. Removal; 7. Internal Recall; 8. Terms and Conditions of Service of Chairman and; 9. Meeting of the Sida; 10. Functions of the Sida; 11. Tasks of the Sida; 12. Board of Management; 13. Water Allocation Committee; 14. Community Advisory Committee; 15. Assignment of Functions to Awbs; 16. Staff; 17. Limited Liability; 18. Books of Account to Kept by the Sida; 19. Finance; 20. Business Plan and Financial Monitoring; 21. Implementation of the Business Plan; 22. Annual Accounts and Balance Sheet; 23. Auditors: Qualification, Appointment, Remuneration; 24. Government Returns; 25. Coordination of Awbs by Sida; 26. Coordination by Sida in Case of Calamities; 27. Non-functioning of the Sida; 28. Establishment; 29. Legal Status of an Awb; 30. Composition of the Awb Board; 31. Elections; 32. Functions of an Awb; 33. Tasks of an Awb; 34. Board of Management; 35. Water Allocation Committees; 36. Community Advisory Committees; ...
+
+====================================================================================================
+#1 | preamble  | 1183 chars
+The Sindh Water Management Ordinance, 2002 — Title and preamble
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+[26TH October, 2002.]
+AN ORDINANCE to provide for the establishment of Water Management in the Province of Sindh WHEREAS it is expedient to provide for the establishment on long Preamble.
+term, sustainable and participatory basis, of systems for the distribution and delivery of irrigation water, the removal of drainage water and the management of flood waters, which are transparent, accountable, efficient and operating to standards agreed with and acceptable to users and to provide for matters connected therewith or incidental thereto;
+AND WHEREAS the Provincial Assembly stands dissolved in pursuance of the Proclamation of the fourteenth day of October, 1999, and the Provincial Constitution Order No. 1 of 1999;
+AND WHEREAS the Governor of Sindh is satisfied that circumstances exist which render it necessary to take immediate action;
+NOW, THEREFORE, in pursuance of the aforesaid Proclamation and the Provisional Constitution Order read with Provisional Constitution (Amendment) Order No. 9 of 1999, and in exercise of all powers enabling him in that behalf, the Governor of Sindh is pleased to make and promulgate the following
+
+====================================================================================================
+#2 | section 1 | 147 chars
+The Sindh Water Management Ordinance, 2002 — Chapter I: Preliminary — Section 1: Short Title, and Commencement
+1. (1) This Ordinance may be called the Sindh Water Management Ordinance, Short title and 2002. commencement.
+(2) It shall come into force at once.
+
+====================================================================================================
+#3 | section 2 | 1580 chars
+The Sindh Water Management Ordinance, 2002 — Chapter I: Preliminary — Section 2: Definitions [(a) to (n)]
+2. In this Ordinance, unless there is any thing repugnant in the subject or Definitions.
+context –
+(a) „abiana‟ means service charge levied on farmers by a FO or, where there is no FO, by an AWB or by the SIDA for the supply of surface irrigation water and the provision of drainage;
+(b) „AWB‟ means an Area Water Board, established under this Ordinance;
+(c) „CAC‟ means any community advisory committee established under this Ordinance;
+(d) „canal‟ means a man-made waterway or artificially improved river used for irrigation and other water supply;
+(e) „Council‟ means a Council as defined in the Sindh Local Government Ordinance, 2001;
+(f) „DBG‟ means a Drainage Beneficiary Group established under this Ordinance;
+(g) „district‟ means a district as defined in the Sindh Local Government Ordinance 2001;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(h) „drain‟ means a public natural drain, surface or sub-surface drainage network provided for the evacuation of the surplus-sub soil, saline aquifer, surface and sewage water from agricultural land, built –up land, waste land and wetland;
+(i) „FO‟ means a farmers‟ Organization established under this Ordinance;
+(j) „Government‟ means the Government of Sindh;
+(k) „Managing Director‟ means the Managing Director of the SIDA
+(l) „regulations and rules‟ means regulations and rules made under this Ordinance;
+(m) „Regulatory Authority‟ means the Regulatory Authority of Irrigation, Drainage and Flood Protection established under this Ordinance;
+(n) „SIDA‟ means the Sindh Irrigation and Drainage established under this Ordinance;
+
+====================================================================================================
+#4 | section 2 | 1254 chars
+The Sindh Water Management Ordinance, 2002 — Chapter I: Preliminary — Section 2: Definitions [(o) to (w)]
+2. In this Ordinance, unless there is any thing repugnant in the subject or Definitions. context – [...]
+(o) „small farmer‟ means an owner of or registered leaseholder of less than sixteen acres;
+(p) „tail end‟ means that part of the main canal of an AWB or of the distributary or minor in case of an FO which is located at a distance more than seventy percent of the total canal, distributary or minor length from the inlet of the AWB or FO concerned;
+(q) „Tribunal‟ means a Tribunal constituted under this Ordinance;
+(r) „water‟ includes any water standing or flowing on surface in the soil at any place in the Province;
+(s) „WAC‟ means a Water Allocation Committee established under this Ordinance;
+(t) „watercourse‟ means a man made waterway used for the direct supply of water to the agricultural fields, it generally off takes from a minor or distributary but may take off directly from a main or branch canal;
+(u) „WCA‟ means a Water Course Association established under this Ordinance;
+(v) „Water users‟ means a person who enjoys facility of irrigation water from a water course or canal, for the agricultural land owned or possessed by him, and, in case more than one person jointly own or possess the land, anyone of them authorized by the others to act on their behalf;
+(w) „Zila‟ means zila as defined in the Sindh Local government Ordinance 2001.
+
+====================================================================================================
+#5 | section 3 | 316 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — Section 3: Establishment of the Sida
+3. As soon as may be, after the commencement of this Ordinance, there shall Establishment of the be established an Authority known as the SIDA, provided that the SIDA existing SIDA.
+immediately before the commencement of this Ordinance shall continue to function until the SIDA is reconstituted under this Ordinance.
+
+====================================================================================================
+#6 | section 4 | 625 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 4: Legal Status of the Sida
+4. (1) The SIDA – Legal status of the SIDA.
+a. shall be a body corporate, having perpetual succession and a common seal and shall be same name, sue and be sued;
+b. shall have power to lease, acquire, hold and dispose of property save that it shall not hold or dispose of land belonging to Government all of which shall be held in trust for Government;
+c. shall exercise independent judgment in the conduct of its own business.
+(2) The jurisdiction of the Authority shall follow hydrological boundaries and be clearly delineated by Government by notification.
+(3) The registered office of the SIDA shall be based at Hyderabad.
+
+====================================================================================================
+#7 | section 5 | 1653 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 5: Composition of the Sida [part 1 of 2]
+5. (1) The SIDA shall comprise – Composition of the SIDA.
+i. Members nominated by government:
+a. any person appointed by Government – Chairman;
+b. one independent academician with background in irrigation and drainage – Member;
+c. one prominent and relevant agriculturist preferably a member of the Chamber of Agriculture operating in Sindh – Member;
+d. one independent academician with a background in the environment – Member;
+e. one independent academician with background in social issues –
+Member;
+ii. Elected Members f. one Member to be elected from amongst the FOs receiving water from the Guddu Barrage;
+g. one member to be elected from amongst the FOs receiving water the Kotri Barrage;
+h. three Members to be elected from amongst the FOs receiving water from the Sukkur Barrage; provided that one member shall be a small farmer and one member shall be a farmer on the tail end of a FO which is situated on the tail end of an AWB command area;
+iii. EX Officio i. Additional Chief Secretary (Development) Planning and Development Department – Member;
+j. Secretary, Irrigation and Power Department –Member;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+k. Secretary, Agriculture Department - Member;
+l. Secretary, finance Department – Member;
+m. Provincial Coordinator, Sindh, of the National Drainage Program; - Member; and n. Managing Director – Advisory Member and Secretary
+Provided that the Chairman and the representatives of the FOs appointed under the repealed Act shall continue to hold their respective offices until a new Chairman has been appointed and the representatives have been replaced by the elected members under this Ordinance.
+
+====================================================================================================
+#8 | section 5 | 1112 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 5: Composition of the Sida [(2) to (9)]
+5. (1) The SIDA shall comprise – Composition of the SIDA. i. Members nominated by government: a. any person appointed by Government – Chairman; b. one independent academician with background in irrigation and [...]
+(2) The election shall be conducted in accordance with the regulations framed by the SIDA.
+(3) If a Member is abroad, a proxy may be appointed for him for the period of his absence, provided that this arrangement is notified to the Chairman one week before the first meeting is held after be has proceeded abroad.
+(4) A Member may be writing under his hand resign from his membership.
+(5) The resignation shall take effect as soon as Government has nominated a new Member in his place.
+(6) No person, who is convicted of water theft, shall be elected, nominated or appointed as Chairman or Member, unless a period of six months has lapsed from the date of his conviction.
+(7) If the Chairman or a Member after his appointment, election or nomination, is convicted of water theft, he shall be removed from his office.
+(8) The Chairman or a Member shall not hold political office. If the Chairman or a Member is elected, nominated or appointed to any political office, he office, he shall cease to be Chairman or a Member with immediate effect.
+(9) The Chairman and the Members shall not hold any office in an AWB.
+
+====================================================================================================
+#9 | section 6 | 1097 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 6: Removal
+6. Government may by notification remove the Chairman or a Member other Removal.
+than the ex-officio Chairman and ex-officio Member if he –
+a. is incapable of discharged his responsibilities under this Ordinance; or b. is an un-discharged insolvent; or c. has been declared to be disqualified for employment, or has been dismissed from the service of Government or has been convicted for an offence involving moral turpitude; or d. has been declared by a competent Court to be of unsound mind; or e. has knowingly acquired or has continued to hold without the permission, in writing, of Government, directly or indirectly or through a partner, any share or interest in any contract or employment with or on behalf of THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+the SIDA or in any land or property which, to his knowledge, is likely to benefit or has benefited as a result of the operations of the SIDA; or f. his continuance in office is against the public interest.
+Provided that no action shall be taken under this section without affording an opportunity of being heard to the person concerned.
+
+====================================================================================================
+#10 | section 7 | 723 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 7: Internal Recall
+7. (1) The SIDA may recommend to Government to remove the Chairman or a Internal Recall.
+member if, after deliberation, it is of the opinion that he falls within the purview of section 6, or that he is responsible for loss of opportunity for improvement in governance and service delivery to the people within the ambit of his responsibilities.
+(2) A motion for removal under sub-section (1) shall be moved be one Member and seconded by another member in accordance with the regulations framed by the SIDA.
+(3) The recommendation shall be finalized by majority of votes through secret ballot.
+Provided that no action shall be taken under this section without affording an opportunity of being heard to the person concerned.
+
+====================================================================================================
+#11 | section 8 | 371 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 8: Terms and Conditions of Service of Chairman and
+8. (1) The Chairman and Members shall serve the SIDA on such terms and Terms and conditions as shall be determined by Government. conditions of Service of Chairman and Members
+(2) The first tenure of the Chairman and Members shall be two years and thereafter the tenure shall be four years.
+(3) The Chairman and nominated Members may serve for two consecutive terms only.
+
+====================================================================================================
+#12 | section 9 | 1508 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 9: Meeting of the Sida [(2) to (9)]
+9. (1) There shall be at least one meeting of the SIDA every alternative month Meeting of the SIDA.
+to be convened by the Chairman.
+(2) The notice for the meeting shall reach the Members at least one week before the meeting.
+(3) The notice shall give the date, time and place of the meeting and be accompanied by an agenda with the copies of the relevant documents and the items to be discussed and decided.
+(4) If the Chairman fails to convene a meeting in accordance with sub- sections (1) or (2), the Secretary shall convene a meeting without delay.
+(5) Notwithstanding the provisions of sub-section (1), the Chairman shall convene a meeting if six or more Members so request him in writing and such meeting shall be convened after giving at least seven days notice within a period of not exceeding fifteen days from the receipt of such requisition and if the Chairman fails to convene such a meeting, sub-section (4) shall apply.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(6) The quorum for a meeting shall be half of its Members provided that at least two members shall be elected members.
+(7) If the quorum is not present at a meeting, the Chairman shall postpone the meeting and convene a new meeting in accordance with sub-section (2) and (3) within two weeks of the postponement of the meeting.
+(8) In such meeting, the decisions may be taken even if the quorum is not complete.
+(9) If the Chairman fails to convene a meeting under sub-section (7) then sub-section (4) of this section shall apply.
+
+====================================================================================================
+#13 | section 9 | 1445 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 9: Meeting of the Sida [(10) to (17)]
+9. (1) There shall be at least one meeting of the SIDA every alternative month Meeting of the SIDA. to be convened by the Chairman. [...]
+(10) The Chairman or, in his absence, a Member elected by the members present, by secret ballot, shall preside at such meeting.
+(11) The decision in the meeting will be taken by a simple majority through show of hands, provided that if one members requests for a voting through secret ballot, or if items largely dealing with a named person shall be voted, voting will be though secret ballot.
+(12) In the event of equality of votes, the Chairman or the Member presiding the meeting shall have a casting vote.
+(13) Of every meeting the minutes shall be recorded stating the members present and absent, the items discussed, the decisions taken unanimously or by majority or otherwise.
+(14) This minutes shall be approved in the next meeting and shall be signed by the person that presided the meeting and the Secretary.
+(15) The meeting may be attended by one representative of each AWB as an observe and such observer shall not speak or intervene in the meeting, otherwise he shall be removed by the person presiding the meeting.
+(16) The Chairman and the Members other than the ex-officio Chairman and Members shall receive such allowance as may be determined by the SIDA for attending a meeting.
+(17) The SIDA may be general or by special order, delegate, to a Member, the Managing Director, the Board of Management or any officer of the SIDA, any of its powers under this Ordinance, subject to such conditions or limitations as it may impose.
+
+====================================================================================================
+#14 | section 10 | 955 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 10: Functions of the Sida
+10. The functions of the SIDA shall be to – Functions of the SIDA.
+a. operate and maintain the parts of the irrigation system such as Barrages and outlets assigned to it;
+b. operate and maintain the parts of the drainage system assigned to it including spinal drains and inter-AWB drains;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+c. carry out river flood protection and maintain the infrastructure in the Province of Sindh;
+d. advise Government on any matter strategic or tactical, related to its functions and tasks or to the water management system as a whole e.g.
+irrigation or drainage contribution rates, drought management and sea water intrusion;
+e. manage the transition process, to promote the formation, growth and development of the AWBs and FOs into self-supporting and financially self-sustaining entities within a period of seven to ten years of their establishment, and f. perform any other function conferred on it under this Ordinance.
+
+====================================================================================================
+#15 | section 11 | 1640 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 11: Tasks of the Sida [part 1 of 4]
+11. In order to perform its role and functions, the SIDA shall perform the Tasks of the SIDA.
+following tasks:- Strategy –
+a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water management, flood protection, prevention of sea water intrusion, water distribution in times of drought and wetland management within its command and catchment areas setting goals objectives, formulating implementation policies and identifying priority and other actions;
+b. to formulate annually a Business Plan setting out its proposals for its own activities for the following five financial years;
+Operations and Maintenance –
+c. subject to provisions agreed with the Indus River System Authority, to receive Irrigation Water of the Barrages within the Province and/or from the inter- Provincial/link canals and deliver the same in agreed quantities to the various AWBs, FOs or, as the case may be to other agricultural users, local Councils, industries or wetlands, guaranteeing the minimum discharge below Kotri Barrage to prevent sea water intrusion, in the manner and on the terms and conditions as may be negotiated between the SIDA and the parties concerned and to receive drainage effluent at the designated points and convey the same to the sea;
+d. to maintain the irrigation, drainage and flood protection infrastructure located within its territorial jurisdiction;
+e. to levy and collect irrigation and drainage service fees, rates or cess and surcharge for late payment on such fees, rates or cess outside the areas of jurisdiction of AWBs and FOs, as prescribed by the SIDA;
+
+====================================================================================================
+#16 | section 11 | 1723 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 11: Tasks of the Sida [part 2 of 4]
+11. In order to perform its role and functions, the SIDA shall perform the Tasks of the SIDA. following tasks:- Strategy – a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water ... [...]
+f. to recover any amount payable to the SIDA under this Ordinance in accordance with prescribed terms and conditions, or as arrears of land revenue under the provisions of the Sindh Land Revenue Act, 1967;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+Capital Projects and Schemes –
+g. in consultation with the various stakeholders, to plan, design, construct improvements to the irrigation and drainage system, storage reservoirs and flood protection infrastructure including development work for irrigation of lands;
+h. to take all such steps as may reasonably be necessary for the removal and prevention of encroachments and unauthorized construction along the properties vested in the SIDA in accordance with the Sindh Public Property Removal of Encroachments Act 1975;
+i. to acquire or sell and to operate and maintain the equipment, machinery and stores of the SIDA effectively, efficiently and in a business like manner;
+Research and Development –
+j. to draft, implement and regularly update policies, studies and research programmes it considers relevant to its functions and tasks; e.g. integrated water management, control of water logging and salinity, prevention of sea intrusion, water distribution during drought;
+k. to investigate recurrent problems in the network, as referred to it by the regulatory Authority, and make proposals for their solution and/ or for their alleviation;
+l. to conduct studies into the impact of the operations and policies of the SIDA on the ecology and on the environment including protection of wetlands with a view to appraising the various available options for minimizing the adverse impact of such operations and policies and to adopt the best alternatives for further action;
+
+====================================================================================================
+#17 | section 11 | 1573 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 11: Tasks of the Sida [part 3 of 4]
+11. In order to perform its role and functions, the SIDA shall perform the Tasks of the SIDA. following tasks:- Strategy – a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water ... [...]
+m. to coordinate/regulate the measures being undertaken/required to be undertaken in the total water management system e.g. the recording/gauging of surface waters, monitoring of the ground water table and the quality of water, with compilation of data relevant thereto, flood protection and, in this regard, to establish and regularly maintain proper liaison with the relevant authorities in other Provinces;
+Public Disclosure of Information –
+n. to furnish to the Regulatory Authority with any information, concerning the SIDA‟s performance, in such form and in such manner and at such times as it may reasonably require, free of charge;
+o. to publish the planning of water distribution, the actual water distribution and the comparison between the two and to ensure that this information is easily accessible and provided at appropriate intervals;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+p. to publish such other information about its progress, policies, procedures ad people as the Regulatory Authority may require to be published, in the manner prescribed by the Regulatory Authority;
+q. to publish any additional information the SIDA may consider necessary to inform the stakeholders and the general public about its activities;
+r. to issue flood warnings and warnings to all parties likely to be affected, if it has cause to believe that damage or harm shall result from the use of any water flowing within its command area;
+Administration –
+s. to maintain records, registers and data banks as may be necessary for its effective functioning under this Ordinance;
+
+====================================================================================================
+#18 | section 11 | 256 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 11: Tasks of the Sida [part 4 of 4]
+11. In order to perform its role and functions, the SIDA shall perform the Tasks of the SIDA. following tasks:- Strategy – a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water ... [...]
+t. to administer all its business affairs efficiently in line with normal business practice;
+Other Tasks:- u. to undertake any other tasks within scope of the functions of the functions of the SIDA and contributing to the overall purpose of this Ordinance.
+
+====================================================================================================
+#19 | section 12 | 932 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 12: Board of Management
+12. (1) Subject to the overall control and guidance of the SIDA, the affairs of Board of the SIDA shall be managed by a Board of Management consisting of the Managing Management.
+Director and such number of General Managers, as may be appointed by the SIDA on the advice of a committee comprising four members of the SIDA, provided that at least one of them shall be an elected member.
+(2) The Managing Director and General Managers shall have such qualifications, technical background and practical experience as may be prescribed by the SIDA.
+(3) The Managing Director and General Managers shall be appointed on such terms and conditions as may be prescribed by the SIDA.
+(4) The Board of Management may, by general or special order, delegate to the Managing Director or any the member of the Board, or to any officer of the SIDA, any of its powers under this Ordinance, subject to such conditions of limitations as it may impose.
+
+====================================================================================================
+#20 | section 13 | 1088 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 13: Water Allocation Committee [(2) to (5)]
+13. (1) The SIDA shall at each Barrage establish and maintain a WAC. Water Allocation Committee.
+(2) The WAC shall consist of –
+a. the Managing Director or any person nominated by him;
+b. the senior engineer on the Barrage;
+c. the Director of each AWB which draws water from the barrage, or any person appointed by him;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+d. two elected farmers‟ representatives from each AWB, in such a way that from each AWB one farmer is a tail end farmer and the other is a small farmer;
+e. one representative of the District with the largest area within the jurisdiction of each AWB, provided that a District can only be represented in one WAC.
+(3) The WAC may co-opt independent specialists as advisory members who shall not have a right of vote.
+(4) No person who is convicted of water theft, shall be elected, nominated or appointed to the WAC, unless a period of six months has lapsed from the date of his conviction.
+(5) If a member of the WAC, after his election, nomination or appointment, is convicted of water theft, he shall be removed from office.
+
+====================================================================================================
+#21 | section 13 | 1569 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 13: Water Allocation Committee [(a) to (g)]
+13. (1) The SIDA shall at each Barrage establish and maintain a WAC. Water Allocation Committee. [...]
+(6) The tacks of the WAC at barrage level are –
+(a) to establish an objectified systematic basis for water rights of the various canals, guided by appointments on national level, with special attention to rights and distribution in times of drought.
+(b) to determine on basis of “normal” water availability” (e.g. on basis of the Water Appointment Accord, 1991) and on factual information on verifiable and documented data including but not limited to, cultivable command area, land use, non agricultural users and the availability of other water sources, the water share of the AWBs (or as the case may be other users from the water in barrages) on a weekly interval and these rights shall be registered by the SIDA or as the case may be the Regulatory Authority;
+(c) to inspect the register of these rights regularly (at least once each season) and ensure these rights shall be updated correctly, and in a timely and systematic way.
+(d) to plan each season the water allocation for the various canals, using the established water rights (or design discharges as the case may be), the forecasted water availability during the season and if needed special considerations for each AWB, for weekly intervals;
+(e) to adapt the planning of water distribution to real water availability in case this differs from the forecasted;
+(f) to ensure discharge measurements are carried out correctly (technically as well as with integrity), at the correct places and with appropriate intervals;
+(g) to compare the planned discharges to the actual discharges and explain differences;
+
+====================================================================================================
+#22 | section 13 | 1065 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 13: Water Allocation Committee [(h) to (l)]
+13. (1) The SIDA shall at each Barrage establish and maintain a WAC. Water Allocation Committee. [...]
+(h) to publish and make accessible to the AWBs and public via various media (water distribution planning and its adjustments. This should be done on a regular basis, however in no case no an interval no longer than one month;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(i) to suggest infrastructural and maintenance works to be carried out on Barrage level in order to enable water distribution as required;
+(j) to function as a multi-stakeholder platform for discussions on water allocation;
+ receive complaints from water users at barrage level and study these;
+ call meetings if required;
+ communicate opinions of the stakeholders at barrage level;
+ negotiate changes in allocation and or rights if needed;
+(k) to negotiate changes of priorities or the inclusion of new users if new users if needed;
+(l) to public an annual report bringing together all the published disclosures, providing information on the meetings held, and highlighting the major decisions taken and suggestions made for improvement of reliable water delivery and improved transparency.
+
+====================================================================================================
+#23 | section 13 | 219 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 13: Water Allocation Committee [(7)]
+13. (1) The SIDA shall at each Barrage establish and maintain a WAC. Water Allocation Committee. [...]
+(7) If the decisions of the WAC do not comply with the Water Appointment Accords, Government may revise the decision, order the SIDA to carry out the revised decision and supervise the execution of the revised decision.
+
+====================================================================================================
+#24 | section 14 | 1285 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 14: Community Advisory Committee
+14. (1) For the purpose of a smooth interaction with the local communities in Community Advisory which it operates, the SIDA may establish a CAC. Committee.
+(2) The CAC shall consist of –
+(a) two representatives of the SIDA;
+(b) four representatives of each of the AWBs and FOs in whose command area the issue is at stake, out of whom two representatives of each FOs shall be tail end farmers, but they shall not be members of the General Body of their FO‟s; and
+(c) the CAC may co-opt a number of independent and different specialists as advisory members for various issues under advice.
+(3) No person who is convicted of water theft, shall be elected, nominated or appointed to the CAC unless a period of six months has lapsed from the date of his conviction.
+(4) If a member of the CAC, after his election, nomination or appointment, is convicted of water theft, he shall be removed from office.
+(5) The CAC shall advise on every matter referred to it by the SIDA within reasonable time. It may also advise on any matter on its own initiative.
+(6) If the CAC is not unanimous, it shall name in its advise the different views and by whom the different views are supported.
+(7) The SIDA shall communicate to the CAC its decision within one month after receiving the advise of the CAC.
+
+====================================================================================================
+#25 | section 15 | 382 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 15: Assignment of Functions to Awbs
+15. The SIDA may, subject to such terms and conditions as may be mutually Assignment of agreed, assign any of its functions to the AWBs: functions to AWBs.
+Provided that responsibility for discharge of such functions shall continue to vest in the SIDA;
+Provided further that no function or responsibility shall be transferred without allocation of corresponding resources and funds.
+
+====================================================================================================
+#26 | section 16 | 1180 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 16: Staff
+16. (1) In order to carry out the purpose of this Ordinance, the SIDA may, from Staff time to time, employ officers, staff, experts, advisers and other employees with such qualifications and experience and on such terms and conditions as may be prescribed by the SIDA.
+(2) The staff transferred from the Irrigation and Power Department to the SIDA shall serve on such terms and conditions as may be prescribed by the SIDA;
+provided that such terms and conditions shall not be less favourable than the terms and conditions admissible to them immediately before their transfer to the SIDA.
+(3) The staff transferred from the Irrigation and Power Department shall continue to be governed by the provisions of the Civil Service Pension, Scheme, unless they opt not to be so.
+(4) The managing Director shall be responsible for the personnel management of all the SIDA staff in accordance with regulations framed by the SIDA.
+(5) In cases of dismissal, promotion, demotion, removal, termination, punishment(s) and all other matters connected with the terms and conditions of service, staff in the SIDA shall have a right of appeal, in accordance with the regulations framed by the SIDA.
+
+====================================================================================================
+#27 | section 17 | 200 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 17: Limited Liability
+17. The liability of Government to the creditors of the SIDA shall limited to the Limited liability.
+extent of grant made by government and any loan raised by the SIDA with the sanction of Government.
+
+====================================================================================================
+#28 | section 18 | 965 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 18: Books of Account to Kept by the Sida
+18. (1) The SIDA shall keep at its registered office proper books of account Books of account to with respect to – kept by the SIDA.
+(a) all sums of money received and spent by the SIDA, and the matters in respect of which the receipts and expenditure took place;
+(b) all sales and purchases of goods and services rendered by the SIDA;
+(c) all assets of the SIDA;
+(d) all liabilities of the SIDA.
+(2) The books of account shall be open to inspection by the Chairman and members of the SIDA during business hours.
+(3) The books of account relating to the SIDA‟s shall be kept in good order and be preserved for a minimum period of ten years.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(4) Where there is a difference of opinion between the General Manager, Finance, and the Managing Director on a strictly financial matter, the General Manager, Finance, shall have a right to present his views to the SIDA whose decision shall be final and binding on all concerned.
+
+====================================================================================================
+#29 | section 19 | 833 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 19: Finance
+19. (1) There shall be a fund to be known as the “SIDA Fund” vested in the Finance.
+SIDA.
+(2) The SIDA fund shall consist of –
+(a) all sums received by the SIDA in respect of water charges, sale proceeds and drainage cess;
+(b) grants made by Government;
+(c) loans obtained from Government;
+(d) grants made by Councils as required by Government;
+(e) sale proceeds of bonds or any other debt instruments issued under the authority of Government;
+(f) loans obtained by the SIDA with the sanction of Government;
+(g) foreign assistance and loans obtained from different foreign agencies with the sanction of, and on such terms and conditions as may be approved by Government in consultation with the Federal Government; and
+(h) all other sums receivable by the SIDA.
+(3) The SIDA shall make regulations for the administration of the Fund.
+
+====================================================================================================
+#30 | section 20 | 1049 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 20: Business Plan and Financial Monitoring
+20. (1) By February of each financial year, the SIDA shall prepare a business Business Plan and plan for the following five financial years, and the first year of the plan shall be the Financial Monitoring.
+budget of the coming financial year.
+(2) The business plan shall be an operational plan reflecting policies and setting out actions to be taken.
+(3) The business plan shall be expressed in an income and expenditure account, a balance sheet, a statement of sources and application of funds (cash flow) and also in explanatory notes to the accounts.
+(4) The business plan shall be approved by the SIDA before the end of February of each financial year and shall immediately after its approval be sent to the Regulatory Authority.
+(5) If the Regulatory Authority does not raise any objection within a period of two months of its receipt, the business plan shall be considered to be approved.
+(6) If the Regulatory Authority raises objections against the business plan, the SIDA shall rectify such objections within two months of such objections.
+
+====================================================================================================
+#31 | section 21 | 1025 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 21: Implementation of the Business Plan
+21. (1) For purposes of management and control, the schedules of the first year Implementation of of the business plan shall be analyzed quarterly. the Business Plan.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(2) During the implementation of the plan, the Managing Director shall present to the SIDA by the fifteen working day of the first month after every quarter, management accounts for the previous quarter, with a comparison between actual and forecast showing the variance and an explanation of significant variances and these results shall show both the details for the previous quarter and the cumulative results for the year-to-date and expected results for the end of the financial year.
+(3) The Managing Director shall also send a copy of the quarterly and annual management accounts to the Regulatory Authority which shall reply within one month of the receipt of the accounts and the Managing Director shall comply with the direction of the Regulatory Authority, if any, within fourteen days of their receipt.
+
+====================================================================================================
+#32 | section 22 | 1539 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 22: Annual Accounts and Balance Sheet [(2) to (7)]
+22. (1) The SIDA‟s financial year shall commence from 1 July 30 June of the Annual Accounts and following year. Balance Sheet.
+(2) In preparing its accounts, the SIDA shall follow International Accounting Standards and other standards as are notified for this purpose in the official Gazette by the Securities and Exchange Commission of Pakistan and shall state the accounting policies adopted.
+(3) Not later than three months after the end of each financial year, the Chairman and Members shall cause annual accounts to be prepared.
+(4) These accounts shall consist of an income and expenditure account for the year, a balance sheet as at year end, a statement of sources and applications of funds (a cash flow) for the year, and a report by the members of the SIDA on the state of SIDA‟s affairs, on the basis of the Business Plan for that year.
+(5) The balance sheet shall give a true and fair view of the state of affairs of the SIDA as at the end of its financial year and the income and expenditure account shall give a true and fair view of the surplus or deficit of income over expenditure of the SIDA for the financial year.
+(6) The balance sheet and the income and expenditure account shall be approved by the SIDA and shall be signed by the Managing Director and at least one other Member, or, in the absence of the Managing Director, by two Members.
+(7) The annual accounts shall be audited by independent auditors within six months of the close of the financial year and the auditors‟ report shall be attached to the accounts.
+
+====================================================================================================
+#33 | section 22 | 824 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 22: Annual Accounts and Balance Sheet [(8) to (11)]
+22. (1) The SIDA‟s financial year shall commence from 1 July 30 June of the Annual Accounts and following year. Balance Sheet. [...]
+(8) Within 30 days of the receipt of the auditors‟ report, the SIDA shall send a copy of the annual accounts, together with the audit report, to Government and shall file a copy with the Regulatory Authority.
+(9) In audition, the SIDA shall provide detailed information and explanations in regard to any observation, reservation, qualification or adverse remarks contained in the auditor‟s report.
+(10) The SIDA shall announce publicly the availability of its annual account and report with the audited statements through advertisements in regional and local newspapers, as well as via internet.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(11) The annual account and report will be available to the public on request against duplication costs fixed by the SIDA and can be seen in the office of the SIDA during office hours.
+
+====================================================================================================
+#34 | section 23 | 511 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 23: Auditors: Qualification, Appointment, Remuneration
+23. (1) No person shall be qualified to be appointed as auditor of the SIDA Auditors:
+unless he is a Chartered Accountant within the meaning of the Chartered qualification, appointment, Accountants Ordinance, 1961 (X of 1961).
+remuneration and removal
+(2) The SIDA shall appoint auditors at its first meeting after the commencement of this Ordinance, for a period not exceeding three financial years, under intimation to the Regulatory Authority.
+(3) The remuneration of the auditors shall be fixed by the SIDA.
+
+====================================================================================================
+#35 | section 24 | 394 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 24: Government Returns
+24. (1) Government may require the SIDA to submit the following :- Government Returns.
+(a) Any return, statement, estimate, statistics or other information regarding any matter concerning the SIDA; or
+(b) A report on any matter required by Government; or
+(c) A copy of any document in the charge of the SIDA required by Government.
+(2) The SIDA shall comply with such requisition without delay.
+
+====================================================================================================
+#36 | section 25 | 844 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 25: Coordination of Awbs by Sida
+25. (1) The SIDA may coordinate the administrative procedures of the AWBs Coordination of by setting generally applicable standards for annual and multi-annual budget plans, AWBs by SIDA.
+business plans, annual reports, accounting systems, staff regulations, IT-standards, information on water distribution to stakeholders, management transfer agreements between AWBs and FOs and the like.
+(2) Such standards shall be given only with regard to formal and procedural aspects, but they shall not in any way affect independent judgment of the AWBs.
+(3) Such standards shall only be given after consultation of the AWBs, and only after agreement by a majority of the AWBs to these standards.
+(4) The SIDA may report non compliance of a AWBs with duly set standards to the Regulatory Authority which may decide on action to be taken against the AWB.
+
+====================================================================================================
+#37 | section 26 | 906 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 26: Coordination by Sida in Case of Calamities
+26. (1) In case of calamities, such as breaches, floods or extreme weather Coordination by conditions such as cyclones, the SIDA shall have a coordinating role in taking all SIDA in case of calamities.
+necessary measures
+(2) The Managing Director shall decide whether a calamity has occurred making such a coordinating role necessary and shall communicate such decision immediately to all AWBs concerned.
+(3) The Managing Director may request all assistance or give any instructions to the AWBs to which he has sent the communication mentioned in sub-section (2) with the purpose of contravening the adverse effects of the occurring calamity.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(4) The AWB shall provide without delay all assistance request for and carry out all instructions given by the SIDA.
+(5) The Managing Director shall report to the SIDA as soon as possible the measures that he has taken.
+
+====================================================================================================
+#38 | section 27 | 535 chars
+The Sindh Water Management Ordinance, 2002 — Chapter II: The Sindh Irrigation and Drainage Authority — The Sindh Water Management Ordinance, 2002 — Section 27: Non-functioning of the Sida
+27. Where the SIDA, because of internal dissent and/ or resignation of the Non-functioning of Chairman and elected members of the SIDA, is unable to perform any of its the SIDA.
+functions set out in section 10 them, on the presentation of a petition bearing the signatures of fifty percent of the membership or more, the regulatory authority shall appoint an acting Chairman vested with the powers of the SIDA to take care of the technical water management duties of the SIDA, till a new SIDA has been constituted under this Ordinance.
+
+====================================================================================================
+#39 | section 28 | 269 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 28: Establishment
+28. Government may constitute AWBs, together with their respective territorial Establishment.
+jurisdiction, provided that the AWBs existing immediately before the commencement of this Ordinance shall continue to function until replaced by new AWBs under this Ordinance.
+
+====================================================================================================
+#40 | section 29 | 597 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 29: Legal Status of an Awb
+29. (1) An AWB : Legal status of an AWB.
+a. shall be a body corporate, having perpetual succession and a common seal and shall by the same name, sue and be sued;
+b. shall have power to lease, acquire, hold and dispose of property save that it shall not hold or dispose of land belonging to Government and such land shall be held in Trust for Government;
+c. shall exercise independent judgment in the conduct of its own business;
+(2) The appointment decision shall contain –
+a) the appointment of an acting director, until a director has been appointed by the AWB Board; and b) the base of the AWB.
+
+====================================================================================================
+#41 | section 30 | 1932 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 30: Composition of the Awb Board
+30. (1) The AWB Board shall comprise – Composition of the AWB Board.
+Members nominated:
+a. one representative of the SIDA, appointed by the SIDA- Member;
+b. one prominent and relevant agriculturist, nominated by a local Chamber of Agriculture situated within the command area of the AWB, provided that, where there are more than one Chamber of Agriculture within an AWB command area, the Chamber which has the largest geographical coverage within the command area of the AWB shall provide the member – Member;
+Elected Members:
+c. one Member to be elected from among the small farmers being supplied with water by FO situated within the command area of the AWB concerned – Member;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+d. one Member to be elected from among the tail enders being supplied with water by FOs situated within the command area of the AWB concerned – Member;
+e. in addition, two Members to be elected from among the FOs situated within the command area of the AWB concerned Member;
+Members co-opted by the elected and nominated members:
+f. one independent academic with specialist background in irrigation or another related field – Member;
+g. one prominent and relevant industrialist preferably a member of the Chamber of Commerce operating within the command area – Member;
+h. one independent academic with a specialist background in the environment – Member;
+i. one independent academic with a specialist background in social;
+mobilization issues – Member;
+Ex Officio:
+j. the Naib Nazim or his nominee of the Zila which has the largest area within the jurisdiction of the AWB concerned provided that no Naib Nazim or his nominee shall be a Member of more than one AWB –
+Member; and k. the Director of the AWB – Advisory Member and Secretary.
+(2) Sub sections (3) to (9), of section 5, shall mutatis mutandis apply to the AWB.
+(3) The Chairman and the Members of the Board shall not have any function in the SIDA.
+
+====================================================================================================
+#42 | section 31 | 258 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 31: Elections
+31. (1) The election of the members shall be conducted in accordance with the Elections.
+regulations made by the AWB.
+(2) The Chairman of the Board shall be elected by the Chairman of the WCAs and the DBGs, in accordance with the regulations made by the AWB.
+
+====================================================================================================
+#43 | section 32 | 935 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 32: Functions of an Awb
+32. The functions of an AWB shall be to – Functions of an AWB.
+a. operate and maintain the parts of the irrigation system conferred on it including but not limited to main canals and branch canals;
+b. operate and maintain the parts of the drainage system conferred on it including but not limited to drainage tube-wells drains with capacity larger than 15 cusecs but not spinal drains and inter-AWB drains;
+c. carry out flood protection and maintain infrastructure within its command area;
+d. promote the formation, development and growth of the FOs in its command area into self-supporting and financially self-sustainable entities within the period of seven to ten years;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+e. advise Provincial and or Local Government on any matter strategic or tactical, related to its functions and tasks; and f. fulfill any other function conferred on it by this Ordinance or by any subsequent enactment.
+
+====================================================================================================
+#44 | section 33 | 1502 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 33: Tasks of an Awb [part 1 of 3]
+33. In order to perform its role and functions, an AWB shall perform the Tasks of an AWB.
+following tasks:- Strategy a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water management including drinking water, water distribution in times of drought, flood protection, within its command and catchment areas setting goals and objectives, formulating implementation policies and identifying priority and other actions;
+b. to formulate annually a Business Plan setting out its proposals for its own activities for the following five financial years;
+c. to formulate and implement policies with a view to ensuring that within a period not exceeding ten years from the date of its constitution it becomes fully operative as a self supporting and financially self sustaining entity for operations and maintenance costs;
+Operations and Maintenance—
+d. to receive Irrigation Water from the SIDA and deliver the same in agreed quantities to the various FOs or, as the case may be to other agricultural users, treaters and distributors of drinking water local Council, industries or wetlands in the manner and on the terms and conditions as may be negotiated between the AWB and the parties concerned and to receive drainage effluent at the designated points and convey the same to designated outfall drains;
+e. to operate and maintain the irrigation, drainage and flood protection infrastructure located within its territorial jurisdiction;
+
+====================================================================================================
+#45 | section 33 | 1669 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 33: Tasks of an Awb [part 2 of 3]
+33. In order to perform its role and functions, an AWB shall perform the Tasks of an AWB. following tasks:- Strategy a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water management ... [...]
+f. to receive drainage effluent including sewerage from the FOs and other water users and to convey the same through collector drains to the designated nodal point of the drainage system under command of the Area Water Board or the SIDA;
+g. to operate and maintain the equipment, machinery and stores of the AWB effectively, efficiently and in a business like manner;
+h. to prescribe and receive fees or charges providing any service under this Ordinance and surcharge for late payment of such fees or charge as may be prescribed under the Regulations;
+i. to reduce irrigation water supply services to FOs upon non-payment by one or more of its water users of due water charges;
+j. to monitor and record both surface water quality and groundwater quality;
+k. to monitor groundwater withdrawals for irrigation and drainage.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+l. to keep all records necessary for its effective operation including records of the localities within which all bodies supplied with water by that AWB are normally supplied from the same source or combination of sources;
+m. to recover any amount payable to the AWB under this Ordinance in accordance with prescribed terms and conditions, or as arrears of land revenue under the provisions of the Sindh Land Revenue Act, 1967;
+n. to use prescribed processes, substances and products in accordance with their prescription;
+Capital Projects and Schemes –
+o. In consultation with the various stakeholders, to plan, design and construct improvements to the irrigation and drainage system and flood protection infrastructure and development work for irrigation of lands within its territorial jurisdiction;
+
+====================================================================================================
+#46 | section 33 | 1748 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 33: Tasks of an Awb [part 3 of 3]
+33. In order to perform its role and functions, an AWB shall perform the Tasks of an AWB. following tasks:- Strategy a. to develop, on a periodic basis, a strategy statement for improvement of irrigation and drainage services, integrated water management ... [...]
+p. to remove and prevent encroachments and unauthorized construction along the properties vested in the AWB in accordance with the Sindh Public Property Removal of Encroachments Act 1975;
+q. to acquire or sell and operate and maintain the equipment, machinery and stores of the AWB effectively, efficiently and in a business like manner;
+Public Disclosure of Information –
+r. to furnish the Regulatory Authority with any information, concerning the AWB‟s performance in such form and in such manner and at such times as it may require, free of charge;
+s. to public the planning of water distribution, the actual water distribution and the comparison between the two and to ensure that this information is easily accessible and provided at appropriate intervals;
+t. to publish information about its progress, policies, procedures and people as the Regulatory Authority may require to be published, in the manner prescribed by and to the parties identified by the Regulatory Authority;
+u. to publish any additional information the AWB may consider necessary to inform the stakeholders and the general public about its activities;
+v. to issue flood warnings and warnings to all parties likely to be affected, if it has cause to believe that damage or harm shall result from the use of any water flowing within its command area;
+Administration –
+w. to maintain records, registers and data banks as may be necessary for its effective functioning under this Ordinance;
+x. to administer al its business affairs efficiently in line with normal business practice;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+Other Tasks:- y. to undertake any other tasks within the scope of the functions of the AWB and contributing to the overall purpose of this Ordinance.
+
+====================================================================================================
+#47 | section 34 | 346 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 34: Board of Management
+34. (1) Subject to the overall control and guidance of the AWB Board of an Board of AWB, the affairs of that AWB shall be managed by a Board of Management Management.
+formed by the Director and as many Managers as that AWB may reasonably require for the purpose.
+(2) Sub-section 92) to (4) of section 12 shall mutatis mutandis apply to the Board.
+
+====================================================================================================
+#48 | section 35 | 761 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(2) to (3)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees.
+also establish and maintain WACs at branch level.
+(2) The WAC at AWB level shall consist of –
+(a) the Director AWB or anybody appointed by him;
+(b) one engineer of all branches;
+(c) two elected farmer representatives from each branch, in such a way that from each branch one farmer is a tail end farmer or a small farmer; and
+(d) two representatives of the District with the largest area within the jurisdiction of the AWB, provided that a District is not represented in more than one WAC.
+(3) Sub-section (3), (4) and (5) of section 13 shall mutatis mutandis apply to the WAC.
+
+====================================================================================================
+#49 | section 35 | 1538 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(a) to (f)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees. also establish and maintain WACs at branch level. [...]
+(4) The tasks of the WAC at AWB level are:
+(a) to establish, in close coordination with the WAC at Barrage level, a systematic basis for water rights of the various branch canals, using the design discharges, design cultivable command area and land use, historic discharges, historic cultivable command area and land use, and actual hydraulic conditions. Special attention should be given to rights and distribution in times of drought;
+(b) to determine (initially on basis of design discharges, evolving over time to negotiated water rights incorporating the limitations posed by the infrastructural conditions, historic discharges, and market principles) the water share of the branch canals under “normal water availability” for weekly intervals. A register for these water rights should be developed in the AWB;
+(c) to inspect the register on water rights periodically (minimally each season) and ensure it is correctly, timely and systematically updated;
+(d) to plan each season the water allocation for the various canals for a weekly interval, using the established water rights (or design discharges as the case may be), the forecasted water availability during the season, and special considerations for each branch canal;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(e) to adapt the planning of the water distribution if real water availability deviates from the forecasted;
+(f) to ensure discharge measurements are carried correctly (technically as well as with integrity), at the correct places and with appropriate intervals;
+
+====================================================================================================
+#50 | section 35 | 1316 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(g) to (l)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees. also establish and maintain WACs at branch level. [...]
+(g) to compare the planned discharges to the actual discharges and explain differences;
+(h) to publish and make accessible to the AWB-divisions, and specifically the farmers in the command area via various media (newspapers (Sindhi, Urdu, English), bulletin boards, television, radio and internet), the comparison mentioned under g) and all water distribution planning and its adjustments. This should be done on a regular basis, however, and in no case at an interval of more than one month;
+(i) to suggest infrastructural ad maintenance works to be carried out on Canal level in order to enable water distribution as required;
+(j) to function as a multi-stakeholder platform for discussions on water allocations;
+ receive complaints of water user at AWB level and study these;
+ call meetings if required;
+ communicate opinions of the stakeholders at AWB level and;
+ negotiate changes in allocation and or rights if needed;
+(k) to negotiate changes of priorities or the inclusion of new users if needed in close coordination with the SIDA/ Barrage WAC;
+(l) to publish an annual report bringing together all the published disclosures, providing information on the meetings held, and highlighting the major decisions taken and suggestions made for improvement of reliable water delivery and improved transparency.
+
+====================================================================================================
+#51 | section 35 | 612 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(5) to (6)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees. also establish and maintain WACs at branch level. [...]
+(5) The WAC at branch level consist of a. the senior engineer of the AWB responsible for the branch canal;
+b. two lower rank AWB staff;
+c. four elected members of FOs in the branch; two of these representatives shall be tail end farmers or small farmers;
+d. one representative of the District with the largest area within the command area of the branch canal, provided that the District is not represented at more than one WAC;
+e. one representative of other water users (drinking water company, industries forestry, or other);
+(6) Sub-section (3), (4) and (5) Section 13 shall mutatis mutandis apply to the WAC.
+
+====================================================================================================
+#52 | section 35 | 1600 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(a) to (f)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees. also establish and maintain WACs at branch level. [...]
+(7) The tasks of the WAC at branch level are:
+(a) to establish in close coordination with the WAC on AWB level, a systematic basis for water rights of the various distributaries and THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+minors or as the case may be direct off-takes and lift channels (in the following referred to as FOs), using he design discharges, design CCA, historic discharges, actual CCA, hydraulic conditions and land use. Special attention should be given to rights and distribution in times of drought;
+(b) to determine (initially on basis of design discharges, evolving over time to negotiated water rights incorporating the limitations posed by the infrastructural conditions, historic discharges, and market principles) the water share of the minors and distributaries under
+“normal water availability” for a weekly interval. A register should be developed and maintained on AWB and division level;
+(c) to inspect the register on water rights periodically (minimally each season) and ensure it is correctly, timely and systematically updated;
+(d) to plan for each season the water allocation for the various FOs for a weekly interval, using the established water rights (or design discharges as the case may be), the forecasted water availability during the season and special considerations for each branch canal;
+(e) to adapt the planned water distribution to real water availability in case this differs from the forecasted;
+(f) to ensure discharge measurements are carried correctly (technically as well as with integrity), at the correct places and with appropriate intervals;
+
+====================================================================================================
+#53 | section 35 | 1201 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 35: Water Allocation Committees [(g) to (l)]
+35. (1) Each AWB shall establish and maintain a WAC. If the AWB has branch Water Allocation canals taking off from the main canal and conveying water to FOs, the AWB shall Committees. also establish and maintain WACs at branch level. [...]
+(g) to compare the planned discharges to the actual discharges and explain differences;
+(h) to publish and make accessible to FOs via various media the comparison mentioned under g) for all changes and adaptations. This should be done at regular intervals, however, and in no case at an interval of more than one month;
+(i) to suggest infrastructural and maintenance works to be carried out on Branch Canal level in order to enable water distribution as required;
+(j) to function as a multi-stakeholder platform for discussions on water allocation;
+ receive complaints from water users at branch level and study these;
+ call meetings if required;
+ communicate opinions of the stakeholder at branch level;
+ negotiate changes in allocation and or rights if needed;
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(k) to negotiate changes of priorities or the inclusion of new users if needed in close coordination with the WAC at the AWB level;
+(l) to publish an annual report bringing together all the published disclosures, providing information on the meetings held, and highlighting the major decisions taken and suggestions made for improvement of reliable water delivery and improved transparency.
+
+====================================================================================================
+#54 | section 36 | 690 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 36: Community Advisory Committees
+36. (1) For the purpose of a smooth interaction with the local communities in Community Advisory which the AWBs operate, each AWB may establish a CAC. Committees.
+(2) The CAC shall consist of:-
+(a) two representatives of the AWB;
+(b) four representatives of the FO in whose command area the issue is at stake. Of the representatives of the FO two shall be tail end farmers who shall not be members of the General Body of their FO‟s;
+(c) the CAC may co-opt independent specialists as advisory members of the committee who may be different specialist for every issue consideration.
+(3) Subject to sub-sections (1) and (2), the provisions of section 14 shall mutatis mutandis apply to the CAC.
+
+====================================================================================================
+#55 | section 37 | 403 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 37: Duty Not to Extend to Provision of New Supply
+37. An AWB shall not be required by virtue of this section to provide a new Duty not to extend to supply to any Council, or to any agricultural, commercial or industrial body, or to provision of new supply.
+take any steps to enable it to provide such a supply, if, to do so, would entail failure to meet all its existing obligations to supply, or to incur unreasonable expenditure in carrying out works.
+
+====================================================================================================
+#56 | section 38 | 528 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 38: Awb’s Power in Respect of Toxic or Noxious Effluent
+38. Subject to anything to the contrary in an AWB‟s regulations, the AWB shall AWB’s power in have power – respect of toxic or noxious effluent
+(1) to monitor the disposal of toxic or noxious effluent safely and with minimum pollution of water resources;
+(2) to demand and recover charges as may be prescribed by the AWB from any person to whom the AWB provides service under sub-section (1); and
+(3) to notify the Regulatory Authority of offences in respect of toxic or noxious effluent committed within the AWB‟s jurisdiction.
+
+====================================================================================================
+#57 | section 39 | 156 chars
+The Sindh Water Management Ordinance, 2002 — Chapter III: Area Water Boards — Section 39: Sections Applicable to Awbs
+39. The provisions of sections 6, 7, 8, 9, 16, 17, 18, 19, 20, 21, 22, 23, 24, and Sections applicable to 27 shall, mutatis mutandis, apply to an AWB. AWBs.
+
+====================================================================================================
+#58 | section 40 | 1208 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — Section 40: Legal Status of an Fo
+40. (1) A FO constituted under this Ordinance – Legal Status of an FO.
+a. Shall be a body corporate, having perpetual succession and a common seal and shall be the same name, sue and be sued;
+b. Shall have power to rent, lease, acquire, hold and dispose of property save that it shall not hold or dispose of land belonging to Government and such land shall be held in trust for Government;
+c. Shall exercise independent judgment in the conduct of its business; and d. Shall represent the farming community of the designated area of jurisdiction of minor/distributary, including non-agricultural users.
+(2) The boundaries of the area of jurisdiction of the FO which shall be hydrological boundaries, encompassing the areas served by distributaries or minors, shall be clearly delineated on a topographic map scale sufficient for the purpose and kept in the office of the FO.
+(3) The boundaries of the area of jurisdiction of the FO may not follow contiguous hydrological boundaries if the members are non-contiguous WCAs which receive water through lift schemes or direct outlets. In the case of lift schemes and direct outles, special conditions may apply in accordance with the regulations framed by the FO.
+
+====================================================================================================
+#59 | section 41 | 1035 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — Section 41: Registration
+41. (1) An FO shall acquire its legal status through registration, for which its Registration.
+members may make application to the Regulatory Authority; which shall be subject to the condition that 2/3 of the command area of the FO is covered by WCAs.
+(2) The application for registration shall furnish the information as may be prescribed by regulations framed by the Regulatory Authority which shall include a certified copy of the Register of abiana payers including leaseholders falling, within scope of the law relating to tenancy for the time being in force.
+(3) On receiving an application under sub-section (1), the Regulatory Authority shall serve notice on the relevant AWB or, where there is no AWB, on the SIDA which within 4 weeks shall submit its comments on the application in writing.
+(4) The regulatory Authority, on receipt of the comments of the AWB, or as case may be the SIDA, shall register FOs if the AWB or the SIDA‟s objections are resolved and the FO has fulfilled the conditions laid down in the regulations.
+
+====================================================================================================
+#60 | section 42 | 238 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — Section 42: Membership of an Fo
+42. (1) Membership shall be open only to WACs and DBGs, if any, situated Membership of an within the command area of the FO; FO-
+(2) Individual membership of an FO shall not be made available;
+(3) An FO shall act through its General Body.
+
+====================================================================================================
+#61 | section 43 | 514 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 43: General Body
+43. (1) The General Body shall comprise representatives of the WCAs and General Body- DBGs within the area of command of the FO.
+(2) Each WCA and DBG shall elect one representative to the General Body in accordance with the regulations of the FO.
+(3) If the number of WCAs and DBGs together is less than 21, they shall each elect one equal number of representatives in the General Body to make it comprise at least 21 members.
+(4) A member of the General Board may be writing under his hand resign from his office.
+
+====================================================================================================
+#62 | section 44 | 280 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 44: Meetings of the General Body
+44. (1) The inaugural meeting of the General Body shall be called by the Meetings of the Regulatory Authority by giving notice in good time to all WCAs and DBGs General Body- situated within the FO‟s jurisdiction.
+(2) Section 9 shall mutatis mutandis apply to subsequent meetings.
+
+====================================================================================================
+#63 | section 45 | 1394 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 45: Functions of an Fo
+45. (1) The functions of an FO shall be to – Functions of an FO:- a. operate and maintain the parts of the irrigation system conferred on it to ensure equitable/judicious distribution of water including small and tail end farmers, to supply non-agricultural users and to guarantee minimum drinking water;
+b. operate and maintain the parts of the drainage and sewerage system conferred on it;
+c. carry out flood protection and maintain infrastructure within its command area;
+d. advise Local Council on any matter strategic or tactical, related to its role and functions;
+e. fulfill any other function conferred on it by this Ordinance or by any subsequent enactment;
+(2) In fulfilling the functions set out in sub-section (1), the FO shall promote and facilitate as much as possible its member WCAs and member DBGs. It shall delegate its tasks to these WCAs and DBGs as much as possible and act following their advice and decision.
+(3) The General Body of the FO may decide not to execute a decision of a WCA or a DBG of there are not sufficient means available within the business plan or otherwise the decisions of a WCA or DBG would have a negative effect on the system at FO or AWB level.
+(4) If the decision of the WCA or DBG is not complied with by the FO within two months after decision, the matter shall on appeal of the WCA or SBG be liable to arbitration by the Regulatory Authority.
+
+====================================================================================================
+#64 | section 46 | 1499 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 46: Tasks of an Fo [part 1 of 5]
+46. In order to perform its role and functions an FO shall perform the following Tasks tasks:- Strategy –
+a. to develop, on a periodic basis, plans for improvement of irrigation, drainage and integrated water management and flood protection within its command and THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+catchment areas setting goals and objectives, formulating implementation policies and identifying priority and other actions;
+b. to formulate annually a Business Plan setting out its proposals for its own activities for the following five financial years.
+Operations and Maintenance –
+c. to receive irrigation water from the SIDA or the AWB concerned at the head of the distributary or minor and to supply the same to the WCAs and other water users, if any, ensuring in particular that the interests of tail enders and small farmers are protected and ensuring maximum drinking water for the use of villages;
+d. to receive drainage effluent from the WCAs or DBGs and other water users, if any, and to convey the same through collector drains to the designated nodal points of the drainage system under command of the AWB or the SIDA;
+e. to operate, maintain, protect and improve the irrigation, drainage and flood protection infrastructure comprising of, as the case may be, a minor, distributary(ies) and collector drain(s) together with any public water management structures thereon through mobilization of beneficiaries (self- help), contractors or the engagement of a Government service;
+
+====================================================================================================
+#65 | section 46 | 1502 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 46: Tasks of an Fo [part 2 of 5]
+46. In order to perform its role and functions an FO shall perform the following Tasks tasks:- Strategy – a. to develop, on a periodic basis, plans for improvement of irrigation, drainage and integrated water management and flood protection within its command ... [...]
+f. to collect the water service charges approved by the General Body, and other dues, if any, from the water users and users of the drainage systems, including the costs charged for supply of irrigation water and conveyance and/or disposal of drainage effluent by the AWB and he SIDA and surcharge for late payment on such dues and other charges shall be recovered as arrears of land revenue under the Sindh Land Revenue Act, 1967;
+g. to reduce irrigation water supply services to WCA watercourses upon non- payment by one or more of its water users of due water charges;
+h. to implement and execute other water management related activities, which have been approved by the General body and are consistent with the regulations and regulations under this Ordinance;
+Capital Projects and Schemes –
+i. to plan and implement works, approved by the General Body, required for proper or improved functioning of the irrigation water distribution and drainage water removal system and, as the case may be, drinking water and sewerage systems and engage, hire or employ any consultants, advisors and employees as may be deemed necessary or be otherwise reasonably required on terms and conditions as may be prescribed;
+j. to implement emergency works on terms and conditions as may be prescribed;
+Public Disclosure of Information –
+k. to furnish the Regulatory Authority with any information, concerning the FO‟s performance, in such form and in such manner and at such times as it may require, free of charge;
+
+====================================================================================================
+#66 | section 46 | 1165 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 46: Tasks of an Fo [part 3 of 5]
+46. In order to perform its role and functions an FO shall perform the following Tasks tasks:- Strategy – a. to develop, on a periodic basis, plans for improvement of irrigation, drainage and integrated water management and flood protection within its command ... [...]
+l. to publish information about in progress, policies, procedures and people as the Regulatory Authority may require to be published, in the manner prescribed by THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+and to the parties identified by the Regulatory Authority;
+m. to publish any additional information the FO may consider necessary to inform the stakeholders and the general public about its activities;
+n. to issue warnings to all parties likely to be affected, if it has cause to believe that damage or harm shall result from the use of any water flowing within its command area;
+Administration –
+o. to maintain all records, registers and data banks as may be necessary for its effective functioning under this Ordinance, which shall include an updated list of numbers and of the water rights of individual farmers, landowners, the holders of other property rights including tenants and non agricultural users.
+p. To administer all its business affairs efficiently in line with normal business practice;
+Other Tasks:- q. To undertake any other task not being inconsistent with the functions and powers vested in the FOs under the provisions of this Ordinance.
+
+====================================================================================================
+#67 | section 46 | 1149 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 46: Tasks of an Fo [(47)]
+46. In order to perform its role and functions an FO shall perform the following Tasks tasks:- Strategy – a. to develop, on a periodic basis, plans for improvement of irrigation, drainage and integrated water management and flood protection within its command ... [...]
+47. 1) Subject to the overall control and guidance of the General Body, the day Board of to day management of the affairs of the FO shall be carried out by a Board of Management.
+Management consisting of:
+Elected Members:
+a. Chairman;
+b. Vice-Chairman;
+c. Secretary;
+d. Treasurer;
+e. two additional Members:
+Provided that all the above are elected by the General Body in accordance with the regulations framed by the FO;
+Provided further that at least three members shall be representative of WCAs or DBGs at the tail end of the distributary or minor on which the FO is situated, or small farmers;
+Ex-Officio Member:
+f. the Nazim of that Taluka which has the largest cultivable command area situated within the area of jurisdiction of the FO shall be member without vote; provided that a Nazim can only be member in one FO;
+Advisory Member:
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+g. the staff member or, if there is more than one member of staff, the more or most senior, may serve as an Advisory Member of the Board;
+Co-opted Advisory Member:
+h. A technical expert in irrigation and drainage co-opted by the Board shall be member without vote.
+
+====================================================================================================
+#68 | section 46 | 475 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 46: Tasks of an Fo [(2) to (4)]
+46. In order to perform its role and functions an FO shall perform the following Tasks tasks:- Strategy – a. to develop, on a periodic basis, plans for improvement of irrigation, drainage and integrated water management and flood protection within its command ... [...]
+(2) A Member of the Board of Management may by writing under his hand resign from his office.
+(3) The General Body may delegate, subject to conditions it may impose, by general or special order to –
+(a) the Chairman;
+(b) the Board of Management or any member of it; or
+(c) a member WCA or DBG; or
+(d) any member of the FO staff any of its powers of an indefinite (until revocation) or a specified period.
+(4) Section 5, sub-section (6) to (8) are mutatis mutandis applicable.
+
+====================================================================================================
+#69 | section 48 | 203 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 48: Recall by General Body
+48. (1) The General Body may recall the Chairman or a member of the Board of Recall by General Management in he falls within the purview of section 6 in accordance with section Body- 7 sub-section 2 & 3.
+
+====================================================================================================
+#70 | section 49 | 93 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 49: Recall by the Board Management
+49. The provision of section 48 shall mutatis mutandis apply. Recall by the Board Management-
+
+====================================================================================================
+#71 | section 50 | 311 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 50: Meetings of the Board of Management
+50. (1) The Meeting of the Board of Management shall be called in accordance Meetings of the with regulations set by the Board of Management, by the Chairman by giving Board of Management- notice in good time to all members;
+(2) Section 9 shall mutatis mutandis apply to the meetings of the Board of Management.
+
+====================================================================================================
+#72 | section 51 | 1135 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 51: Water Allocation Committees [(2) to (3)]
+51. (1) Every FO shall establish and maintain a WAC. Water Allocation Committees
+(2) the WAC at FOs‟ level consist of:
+(a) One representative of the AWB from which the FO receives its water;
+(b) Four elected FO members, from whom one farmer is a farmer in the head reach (located at less than thirty three percent of the length of the distributary/minor length from its inlet), one farmer is a farmer from the middle reach (located between thirty three and seventy percent of the length of the distributary/minor from its from inlet), one farmer is a farmer from the tail end (located between seventy percent of the length of the distributary or minor from its inlet and its end, and one farmer is a small farmer;
+(c) One representative of other water users (drinking, industry), if there are such other users receiving water from the FO;
+(d) One representative of the union Council with the largest area within the THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+jurisdiction of the FO.
+The WAC may co-opt independent specialists as advisory members without vote.
+(3) Section 13, sub-section (3), (4) and (5) shall mutatis mutandis apply.
+
+====================================================================================================
+#73 | section 51 | 1524 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 51: Water Allocation Committees [(a) to (g)]
+51. (1) Every FO shall establish and maintain a WAC. Water Allocation Committees [...]
+(4) The tasks of the WAC committee on FO level are –
+(a) to establish, in close coordination with the WAC at branch level, a systematic basis for water rights of the various Water Courses and non agricultural users, based on design CCA, historic discharges, actual CCA, hydraulic conditions and special conditions (e.g drinking water needs) with special attention to rights and distribution in times of drought;
+(b) to determine (initially on basis of design discharges, evolving over time to negotiated water rights incorporating the limitations posed by the infrastructural conditions, historic discharges, and market principles) the water share of the WCAs under “normal water availability” for a weekly interval. A register should be maintained containing those rights;
+(c) to inspect the register on water rights periodically (minimally each season) and ensure it is correctly, timely and systematically updated;
+(d) to plan each season on a weekly basis the water allocation for the various WCAs, using the establish water rights (or design discharges as the case may be), the forecasted water availability during the season and special considerations for each FO;
+(e) to adapt the planned water distribution to real water availability in case this differs from the forecasted;
+(f) to ensure discharge measurement are carried correctly (technically as well as with integrity), at the correct places and with appropriate intervals;
+(g) to compare the planned discharges to the actual discharges and explain differences;
+
+====================================================================================================
+#74 | section 51 | 983 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 51: Water Allocation Committees [(h) to (l)]
+51. (1) Every FO shall establish and maintain a WAC. Water Allocation Committees [...]
+(h) to publish and make accessible to the FO-members, WCA members as well as other users, in a way to be decided by the committee members, the comparison mentioned under f) on a monthly basis;
+(i) to suggest infrastructural and maintenance works to be carried out on distributary/minor or WCA inlets in order enable water distribution as required;
+(j) to function as a multi-stakeholder platform for discussions on water allocation;
+ receive complaints from water users at FO level and study these;
+ call meetings if required;
+ communicate opinions of the stakeholders at FO level;
+ negotiate changes in allocation and or rights if needed.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(k) to negotiate changes of priorities or the inclusion of new users if needed in close coordination with the WAC at Branch level; and
+(l) to conduct an annual meeting in which the functioning of the committee is evaluated Official minutes shall be produced and made available to all FO members.
+
+====================================================================================================
+#75 | section 52 | 907 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 52: Community Advisory Committees
+52. (1) For the purpose of a smooth interaction with and the local communities Community Advisory in which they operate, the FOs may establish a CAC. Committees-
+(2) The CAC shall consist of –
+(a) four representatives of the FO in whose command area the issue is at stake. Of the representatives of the FO two shall be tail end farmers.
+They shall not be members of the General Body of their FO;
+(b) four representatives of the local authority in which area of jurisdiction the issue at stake is situated. Of these representatives two shall not be bearer of any office within the local authority concerned;
+(c) the members under clauses (a) and (b) may co-opt a number of independent specialists as advisory members of the committee. These may be different specialist for every issue under advice.
+(3) Subject to sub-section (1) and (2), the provisions of section 14 shall mutatis mutandis apply to the CAC.
+
+====================================================================================================
+#76 | section 53 | 349 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 53: Winding Up of an Fo
+53. (1) An FO may be wound up either voluntarily or by the Court, and Winding up of an provisions based on those of the Companies Ordinance, 1984, shall apply in these FO- circumstances.
+(2) In the event of the winding up of the FO, surplus assets of the FO shall be vested in the Regulatory Authority, until such time as a replacement FO is formed.
+
+====================================================================================================
+#77 | section 54 | 153 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IV: Farmers’ Organisations — The Sindh Water Management Ordinance, 2002 — Section 54: Applicability of Other Sections to Fo
+54. The provisions of sections 8, 16, 17, 18, 19, 20, 21, 22, 23, 24 and 27 shall, Applicability of other mutatis mutandis, apply to FOs. sections to FO-
+
+====================================================================================================
+#78 | section 55 | 797 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — Section 55: Composition
+55. (1) In every local area, a group of non-elected farmers may, for energizing Composition- the farming community and improving service delivery, set up a WCA and undertake voluntary, proactive and self help initiatives.
+(2) Where not less than two third of the number of the land owners and leaseholders on a Watercourse agree to form a WCA, they shall make such application to the FO.
+Provided that if no FO is in place, then the application shall be considered to be an application to form an FO. The application shall be sent to the Regulatory Authority which will then register the WCA.
+(3) The boundaries of the area of a WCA shall coincide with the command area of the watercourse giving it its name and shall be clearly delineated on a topographic map of scale sufficient for the purpose.
+
+====================================================================================================
+#79 | section 56 | 1151 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — The Sindh Water Management Ordinance, 2002 — Section 56: Registration
+56. (1) Member of the WCA are the listed land owners and leaseholders Registration- benefiting from the water flowing in the watercourse. The list of members is deposited at the FO, which shall issue a certificate of registration to the WCA and such certificate shall be the proof of the WCA‟s membership of the FO.
+(2) the FO shall, within sixty days of the receipt of the application under the previous section, call a meeting of all the users of the Watercourse and, if not less than two third number, thereof consent to the formation of the WCA by a resolution in the meeting, all users of the Watercourse shall become members of the WCA notwithstanding the want of consent of the formation of the WCA by a resolution in the meting, all users of the Watercourse shall become members of the WCA, notwithstanding the want of consent of the remaining users.
+(3) The FO shall register the WCA in the name of the watercourse by entering it in the register to be maintained for this purpose, including particulars as may be specified by the FO.
+(4) The list of members of the WCA shall, in the prescribed manner, be revised annually and kept up-to-date.
+
+====================================================================================================
+#80 | section 57 | 555 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — The Sindh Water Management Ordinance, 2002 — Section 57: Organisation
+57. (1) The Board of the WCA shall consist of not less than three and not more Organization than five members elected from amongst the members of the WCA according to regulations set by the FO.
+(2) The members of the WCA may agree that one or more officials be appointed to the Board as members without vote.
+(3) Section 5, sub-section (6) to (8) are mutatis mutandis applicable.
+(4) A matter shall be deemed to have been approved by the Board, if it is supported by not less than two-third number of the total membership of the listed members of the WCA.
+
+====================================================================================================
+#81 | section 58 | 1350 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — The Sindh Water Management Ordinance, 2002 — Section 58: Terms and Conditions of Service of Chairman Members
+58. (1) The first tenure after the coming into effect of this Ordinance shall be Terms and two years and tenure thereafter shall be four years. Conditions of Service of Chairman
+(2) The Board shall elect its Chairman, Secretary and Treasurer from Members- amongst its elected members; provided that the same member may be elected both as Secretary and Treasurer.
+(3) No elected member of the Board shall serve for more than tow consecutive terms on the Board.
+(4) The Chairman of the Board shall call and preside over the meetings of the Board; provided that in his absence an elected member of the Board nominated by the Chairman shall preside over the meeting.
+(5) The Secretary shall be responsible for recording minutes of the meetings of the Board and of the WCA and for maintaining the records in good order at safe place.
+(6) The Treasurer shall maintain the accounts of the WCA.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(7) All withdrawals of money from the account of WCA shall be signed by the Chairman and the Treasurer.
+(8) All other written matter shall be signed by the Chairman and the Secretary save that all contracts and other similar obligations of the WCA shall, on its behalf, be signed by the FO.
+(9) The Chairman and elected members of the Board shall receive remuneration and allowance as decided by the members of the WCA.
+
+====================================================================================================
+#82 | section 59 | 1380 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — The Sindh Water Management Ordinance, 2002 — Section 59: Functions of a Watercourse Association
+59. The functions of a WCA shall, in addition to those delegated to it by an FO, Functions of a include – Watercourse Association- a. Operating, maintaining, improving and rehabilitating the watercourse and ancillary structures;
+b. improving the water supply from surface or sub-soil water-sources;
+c. sanctioning upgrading and maintenance of field outlets;
+d. locating, owning, operating and maintaining tube-wells and lift pumps;
+e. establishing schedules of water delivery and supervising water allocation and distribution, and ensuring that each member gets his entitled share of water at appropriate times;
+f. locating, constructing, maintaining and improving field drains;
+g. removing obstructions in the watercourse during realignment, operation and maintenance;
+h. organising labour for general or emergency repairs of the water course and allied purposes;
+i. assisting in the determination and collection of general and special assessment;
+j. ensuring that all members of the WCA contribute in the agreed manner their share of labour of money to the improvement, maintenance and operation of the watercourse; and k. participating in programme to improve water use and drainage practices at field and watercourse command area level;
+Provided that the Board of the WCA shall exercise management and supervision of the activities of the WCA in accordance with best practice.
+
+====================================================================================================
+#83 | section 60 | 494 chars
+The Sindh Water Management Ordinance, 2002 — Chapter V: Watercourse Associations — The Sindh Water Management Ordinance, 2002 — Section 60: Non-functioning of a Watercourse Association
+60. (1) If the Board of a WCA because of internal dissent and/or resignation of Non-functioning of a the Chairman and elected members is no longer able to care for the distribution of Watercourse Association- the irrigation water it receives from the FO, the members of the WCA may ask the FO to make available a caretaker to fulfill the WCA‟s functions, until a new Board has been elected.
+(2) Before being considered by the FO, such request shall have won the support of third of the members.
+
+====================================================================================================
+#84 | section 61 | 786 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — Section 61: Composition
+61. (1) In every local, area, a group of non-elected farmers, who are interested, Composition- may undertake voluntary, proactive and self help initiatives in connection with the drainage system;
+(2) Where not less than two third of the number of the users of the drainage system, whether land owners or leaseholders, agrees to form a DBG, they may apply to the FO;
+Provided that no FO is in place, then the application shall be considered to be an application to form an FO. The application shall be sent to the Regulatory Authority which will register the application.
+(3) the boundaries of the area of a DBG shall coincide with the catchment area of the drainage system giving the DBG its name and shall be clearly delineated on a topographic map of scale sufficient for the purpose;
+
+====================================================================================================
+#85 | section 62 | 1165 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — Section 62: Registration of a Dbg
+62. (1) A DBG shall be constituted by its members. Registration of a DBG-
+(2) Member of the DBG are the listed agricultural beneficiaries of the drainage system. The list of members is deposited at the FO, which shall issue a certificate of registration to the DBG and such certificate shall be the proof of the DBG‟s memberships of the FO.
+(3) the FO shall, within sixty days of the receipt of the application under sub-section (2), call a meeting of all the beneficiaries of the drainage system and, if not less than two third number, thereof consent to the formation of the DBG by a resolution in the meeting, all drainage beneficiaries shall become members of the DBG, notwithstanding the want of consent of the remaining beneficiaries.
+(4) The FO shall register the DBG in the name of the drainage system by entering in the register to be maintained for this purpose, including particulars as may be specified by the FO.
+(5) Appeal against the decision of the FO in respect of the FO in respect of registration may be made to the Regulatory Authority.
+(6) The list of members of the DBG shall, in the prescribed manner, be revised annually and kept up-to-date.
+
+====================================================================================================
+#86 | section 63 | 567 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — Section 63: Organisation of a Dbg
+63. (1) The Board of the DBG shall consist of not less than three and not more Organization of a than five members elected from amongst the members of the DBG according to DBG regulations set by the FO.
+(2) The members of the DBG may agree that one or more officials be appointed to the Board as members without vote.
+(3) Section 5, sub-section (6) to (8) is mutatis mutandis applicable.
+(4) A matter shall ne deemed to have been approved by the Board, if it is supported by not less than two-thirds in number of the total membership of the listed members of the DBG.
+
+====================================================================================================
+#87 | section 64 | 1322 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — The Sindh Water Management Ordinance, 2002 — Section 64: Terms and Conditions of Service of Chairman and
+64. (1) The first period of tenure after the coming into effect of this Ordinance Terms and shall be two years. The periods thereafter shall be four years. Conditions of Service of Chairman and
+(2) The Board shall elect its Chairman, Secretary and Treasurer from Members- amongst its members; provided that the same member may be elected both as Secretary and Treasurer.
+(3) No. elected member of the Board shall serve for more than two consecutive terms on the Board.
+(4) The Chairman of the Board shall call and preside over the meetings of the Board provided that in this absence an elected member of the Board nominated by the Chairman shall preside over the meeting.
+(5) The Secretary shall be responsible for recording minutes of the meetings of the Board and of the DBG and for maintaining records in good order at a safe place.
+(6) The Treasurer shall maintain the accounts of the DBG.
+(7) All other written matter shall be signed by the Chairman and the Secretary save that all contracts and other similar obligations of the DBG shall, on its behalf, be signed by the FO.
+(8) All withdrawals of money from the account of the DBG shall be signed by the Chairman and the Treasurer.
+(9) The Chairman and elected members of the Board shall receive such remuneration and allowance as decided by the members of the DBG.
+
+====================================================================================================
+#88 | section 65 | 803 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — The Sindh Water Management Ordinance, 2002 — Section 65: Functions of a Drainage Beneficiaries’ Group
+65. (1) the functions of DBG are those delegated to it by an FO and may Functions of a include- Drainage Beneficiaries’ Group- a. operating, maintaining, improving and rehabilitating drainage and ancillary structures;
+b. locating, owning, operating and maintaining tube-wells and lift pumps;
+c. locating, constructing, maintaining and improving field drains;
+d. removing obstructions in the drains during realignment, operation and maintenance;
+e. organizing labour for general or emergency repairs of the drains and allied purposes;
+f. assisting in the determination and collection of general and special assessment; and g. entering into contracts for obtaining loans and grants and setting a repayment schedule.
+h. A DBG may, from time to time, employ labour on the terms and conditions as deemed fit.
+
+====================================================================================================
+#89 | section 66 | 578 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VI: Drainage Beneficiaries’ Groups — The Sindh Water Management Ordinance, 2002 — Section 66: Non-functioning of a Drainage Beneficiaries’ Group
+66. (1) If the Board of a DBG because of internal dissent and/or dissent and/or Non-functioning of a resignation of the Chairman and elected members is no longer able to take care for Drainage Beneficiaries’ Group- the collection and disposal of drainage water from its catchment area, then the THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+members of the DBG may ask the FO to make available a caretaker to fulfill the DBG‟s functions, until a new Board has been elected.
+(2) Before being considered by the FO, such a request shall have won the support of a third of the members.
+
+====================================================================================================
+#90 | section 67 | 170 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 67: Establishment
+67. As soon as may be after the commencement of this Ordinance, the Governor Establishment- of Sindh shall, establish an Regulatory Authority of Irrigation and Drainage..
+
+====================================================================================================
+#91 | section 68 | 592 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 68: Legal Status of the Regulatory Authority
+68. (1) Under this Ordinance, the Regulatory Authority – Legal status of the Regulatory Authority of Irrigation, a. shall be a body corporate, having perpetual succession and a common Drainage and Flood seal and shall by the same name, sue and be sued;
+Protection- b. shall have power to lease, acquire, hold and dispose of property save that it shall not hold or dispose of land belonging to Government all of which shall be held in Trust for Government; and c. shall exercise independent judgment in the conduct of its own business.
+(2) The Regulatory Authority shall be based at Hyderabad.
+
+====================================================================================================
+#92 | section 69 | 1551 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 69: Composition of the Nomination Panel
+69. (1) The members of the Regulatory Authority shall be nominated by the Composition of the Governor. In making these nominations, the Governor may follow the advice given Nomination Panel- by a nomination panel, comprising –
+(a) the Chairman of the SIDA;
+(b) the Chairman of the two AWBs, having the largest cultivable command area;
+(c) the Chairman of the two FOs, having the largest cultivable command area;
+(d) two eminent academics specialized in the field of water management;
+and
+(e) two outstanding lawyers of twenty years standing.
+(2) The members of the panel under clauses (d) and (e) shall be nominated by the members under clauses (a), (b) and (c).
+(3) If the Governor disagrees with the advice of the nomination panel, he may request the nomination panel to revise its advice, which will them be final.
+70. 1. The Regulatory Authority shall comprise a Chairman and Members who Composition of the shall all be eminent professionals of known integrity and competence and, in Regulatory Authority- particular –
+(a) an independent person – Chairman;
+(b) two Members shall be Advocates of the High Court –
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(c) two Members shall be prominent academics with special backgrounds in irrigation and drainage;
+(d) two Members shall be prominent academics with special background in finance and business;
+(2) Section 5, sub-sections (2) to (8) shall mutatis mutandis apply.
+(3) Chairman and Members of the Regulatory Authority shall not hold any office in any other body established under this Ordinance.
+
+====================================================================================================
+#93 | section 71 | 1112 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 71: Removal
+71. The Governor may by notification remove the Chairman or a member other Removal- than the ex-officio Chairman and ex-officio member if he- a. is incapable of discharging his responsibilities under this Ordinance; or b. is an un-discharged insolvent; or a. has been declared to be disqualified for employment; or has been dismissed from the service of Government or has been convicted for an offence involving moral turpitude; or b. has been declared by a competent court to be of unsound mind;
+c. has knowingly acquired or has continued to hold without the permission, in writing, of Government, directly or indirectly or through a partner, any share or interest in any contract or employment with or on behalf of the Irrigation, Drainage and Flood Protection network as a whole or in any land or property which, to his knowledge, is likely to benefit or has benefited as a result of the operation of the network; and d. his continuance in office is against the public interest.
+Provided that no action shall be taken under this section without affording an opportunity of being heard to the person concerned;
+
+====================================================================================================
+#94 | section 72 | 542 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 72: Internal Recall
+72. (1) the Regulatory Authority may recommend to the Governor to remove Internal Recall- the Chairman or a Member if, after deliberation, it is of the opinion that he falls within the purview of section 71, or that he is responsible for loss of opportunity for improvement in governance and service delivery to the people within the ambit of his responsibilities.
+(2) A motion for removal under sub-section (1) shall be moved by one Member and seconded by another Member in accordance with the regulations framed by the Regulatory Authority.
+
+====================================================================================================
+#95 | section 73 | 420 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Section 73: Terms and Conditions of Service of Chairman and
+73. (1) The Chairman and Members of the Regulatory Authority shall serve the Terms and Office on such terms and conditions as shall be determined by the Governor. conditions of Service of Chairman and
+(2) The first tenure after the coming into effect of this Ordinance shall be Members- two years and subsequent tenure shall be four years.
+(3) The Chairman and nominated members may serve for two consecutive terms only.
+
+====================================================================================================
+#96 | section 74 | 475 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 74: Functions of the Regulatory Authority
+74. (1) The main responsibility of the regulatory Authority shall be to ensure Functions of the compliance with the statutory provisions laid down in this Ordinance. Regulatory Authority-
+(2) In addition, the Regulatory Authority shall promote effective interaction and collaboration between the SIDA, the AWBs, the FOs and their various support bodies as well as fair dealing between FOs WCAs, DBGs and their members. It shall, when invited to do so, arbitrate between them.
+
+====================================================================================================
+#97 | section 75 | 1535 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 75: Tasks of the Regulatory Authority [(a) to (h)]
+75. The Regulatory Authority shall have the following tasks:- Tasks of the Regulatory
+(a) to approve all regulations set by SIDA, AWB‟s or FO‟s, unless stated otherwise, Authority- such as regulations for election and regulations concerning fines, penalties, reduction or cutting off of water supply; The Regulatory Authority shall whenever necessary, have the regulations vetted by Government of Sindh;
+(b) to approve, tacitly or explicitly, or to object to all and any business plans and annual reports with the adjoined audited financial statements. In raising objections the Regulatory Authority shall limit itself to objections connected with the sustainability of the institution concerned. In raising objections to the annual report and the adjoined financial statement the regulatory Authority shall limit itself to objections based on, or concerning the sustainability of the body concerned;
+(c) appointing acting Chairman in case of non-functioning of any institution under this Ordinance mentioned in Chapters II, III and IV;
+(d) registering FOs;
+(e) setting regulations or provisional regulations under this Ordinance;
+(f) receiving and safeguarding surplus assets in case of winding up of FOs;
+(g) to bring to the notice of the SIDA problems of a recurrent nature within the operation, maintenance and administration of the network and arrange, with the SIDA, for their investigation;
+(h) to establish standards of performance for each of the AWBs; and to formally communicate the standard specified to each AWB concerned;
+
+====================================================================================================
+#98 | section 75 | 817 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 75: Tasks of the Regulatory Authority [(i) to (k)]
+75. The Regulatory Authority shall have the following tasks:- Tasks of the Regulatory [...]
+(i) to provide the SIDA, AWBs and FOs with all such information as is in the possession of the Regulatory Authority and is reasonably requested by the authority for purposes connected with the carrying out of its functions; and information provided to the SIDA, AWBs and FOs under this sub-section shall be provided in such form and in such manner and at such times as the SIDA may reasonably require;
+(j) to maintain a register setting out records of all transactions with the AWBs and FOs and to make this register available for examination by the Minister, the SIDA, the AWB concerned and the FOs situated within its command area; and
+(k) to act in the capacity of Registrar of FOs, maintaining a central registry of FOs and issuing each FO duly registered with a certificate authenticating its existence as an FO.
+
+====================================================================================================
+#99 | section 76 | 355 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 76: Board of Management
+76. (1) Subject to the overall control and guidance of the General Board, the Board of affairs of the Regulatory Authority shall be managed by a Board of Management Management- consisting of the Managing Director and General Managers as may be determined by the Regulatory Authority.
+(2) Section 12 shall mutatis mutandis apply to the Board of Management.
+
+====================================================================================================
+#100 | section 77 | 1444 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 77: Powers If Respect of Charges
+77. (1) The Regulatory Authority may from time to time by order fix maximum Powers in respect of charges which SIDA, an AWB or a Farmer‟s Organisation may recover from a charges- customer in respect of water supplies and drainage services provided by SIDA, that AWB or that FO.
+THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+(2) It shall be sufficient grounds for the Regulatory Authority to make such an order if the charges to which its order refers as fixed by the SIDA, an AWB or a FO are not in the interests of the financial viability of the irrigation network as a whole or not in the interest of customers in general.
+(3) It shall be the duty of the Regulatory Authority to publish any order under this section in such manner as it considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by it.
+(4) An order under this section may make different provision for different cases, including different provision in relation to different persons, circumstances or localities, and may fix a maximum charge either by specifying the maximum amount of the charge or by specifying a method of calculating that amount.
+(5) Where a person pays a charge in respect of anything to which an order under this section relates and the amount paid exceeds the maximum charge fixed by the order the amount of the excess shall be recoverable by that person from SIDA, the AWB, or the FO to whom he paid the charge.
+
+====================================================================================================
+#101 | section 78 | 1746 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 78: Powers in Respect of Drought
+78. (1) The Regulatory Authority, after consulting the SIDA, or the AWB(s) or Powers in respect of FOs concerned, may make an order prohibiting or limiting the taking by any body drought- (including an AWB) of water from a source specified in the order if the Regulatory Authority is satisfied that the taking of water from that source shall affect seriously the volume or quality of water available to any other AWB.
+(2) The Regulatory Authority may expressly specify in their order a. persons authorized to take water from any source specified in the order subject to any conditions or restrictions so specified; and b. persons authorized to discharge water to any place specified in the order subject to any conditions or restrictions so specified.
+(3) An order made under this section on the application of SIDA or an AWB or a FO may contain any of the following provisions:- a. a provision authorizing the SIDA, AWB or FO to take water from any source specified in the order subject to any conditions or restrictions so specified;
+b. a provision authorizing the SIDA, AWB or FO to prohibit or limit the use of water For any purpose specified in the order;
+c. a provision authorizing the SIDA, AWB or FO to discharge water to any place specified in the order subject to any conditions to restrictions so specified;
+d. a provision prohibiting or limiting the taking by any person of water from a source specified in the order if the Regulator is satisfied that the taking of water from that source seriously affects the supplies available to the SIDA, AWB or FO; and e. a provision suspending or modifying, subject to any conditions specified in the order, any restriction or obligation to which the SIDA, AWB or FO or other person is subject.
+
+====================================================================================================
+#102 | section 79 | 770 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 79: Powers in Respect of Waste, Undue Consumption and
+79. (1) The Regulatory Authority may prescribe circumstances in which SIDA, Powers in respect of an AWB or FO may – waste, undue consumption and a. enter any premises for the purpose of carrying out works and taking misuse of water- other steps, for remedying that waste, undue consumption and misuse;
+b. carry out said works and other steps; and c. recover expenses so incurred.
+(2) Any person aggrieved by an order passed or decision taken by the Regulatory Authority either in it‟s original jurisdiction or an appellate Authority under the provision of this Ordinance or Regulations may prefer appeal to the Governor of Sindh within 30 days of the passing of the order and the decision in appeal shall be final and shall not be called in question in any Court of law.
+
+====================================================================================================
+#103 | section 80 | 1942 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 80: Powers to Enforce Regulations
+80. (1) Where the Regulatory Authority has cause to believe that the SIDA, an Powers to enforce AWB or an FO is contravening any provision of its own regulations, it may serve a regulations- show cause notice and after hearing if he is satisfied that there is violation of any of the provisions of this Ordinance or regulations may serve a provisional enforcement notice on the SIDA, the AWB or FO concerned to secure compliance with the said provisions.
+(2) Where a provisional enforcement notice has been served on the SIDA, an AWB or an FO and the said SIDA, AWB or FO has failed to comply with the provisional enforcement notice by the deadline contained in the provisional enforcement notice, the Regulatory Authority shall serve a final notice, confirming the provisional notice with or without modifications.
+(3) Where the said SIDA, AWB or FO fails to comply with a final enforcement notice the Regulatory Authority may –
+a. quash the proceedings;
+b. suspend the execution of any resolution passed or order made by the SIDA, AWB or FO;
+prohibit the doing of any thing proposed to be done;
+c. require SIDA, AWB or FO to take such action as may be specified in the final notice d. order reasonable compensation to be paid to any third party which has sustained loss consequential on the branch of duty; and e. order remedial action without cost to the third party sustaining loss.
+(4) Where, the SIDA, AWB or FO has complied with the final enforcement notice to the satisfaction of the Regulatory Authority, it shall vacate the notice.
+(5) where the SIDA, an AWB or a FO are in dispute in respect of division of revenues and no mutually acceptable resolution is forthcoming, the Regulatory Authority may arbitrate between them if invited to do so by one or both of the parties.
+(6) As soon as is practicable the Regulatory Authority shall establish arbitration proceedings in accordance with the provisions of the Arbitration Act, 1940.
+
+====================================================================================================
+#104 | section 81 | 1333 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 81: Powers to Enforce Compliance
+81. (1) Where, in the case of the SIDA, any AWB or any FO holding an Powers to enforce appointment under this Ordinance, the Regulatory Authority has reason to believe compliance- that that SIDA, AWB or FO is contravening any condition of that appointment, it may serve either a provisional or a final enforcement notice on that SIDA, AWB or FO to secure compliance with the said condition.
+(2) Where a provisional enforcement notice has been served on that SIDA, AWB or FO notice by the deadline contained in the provisional enforcement notice, the Regulatory Authority shall serve a final notice, confirming the provisional notice with or without modifications.
+(3) Where the SIDA, AWB or FO fails to comply with the final enforcement notice the Regulatory Authority may –
+a. quash the proceedings;
+b. suspend the execution of any resolution passed or order made by SIDA, AWB or FO;
+c. prohibit the doing of any thing proposed to be done;
+d. require SIDA, AWB or FO to take such action as may be specified e. pay reasonable compensation to be paid to any third party which has sustained loss consequential on the breach of duty by the SIDA, AWB or FO; and f. take remedial action without cost to the third sustaining loss.
+(4) Where, the SIDA, AWB or O has complied with the notice the Regulatory Authority shall vacate the notice.
+
+====================================================================================================
+#105 | section 82 | 215 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 82: Appeals
+82. An appeal against an order of the SIDA, an AWB or a FO shall lie to the Appeals- Regulatory Authority within such period and in such manner as may be prescribed by regulations framed by the Regulatory Authority.
+
+====================================================================================================
+#106 | section 83 | 404 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 83: Tribunals
+83. (1) The Regulatory Authority, from amongst its professional staff, may Tribunals- establish Tribunals for resolving contractual disputes between the authorities and institutions managing the irrigation and drainage network as listed in this Chapter or such other matters as the regulatory Authority may assign.
+(2) The Regulatory Authority shall frame regulations for the operation of such Tribunals.
+
+====================================================================================================
+#107 | section 84 | 308 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 84: Enforcement of Orders of the Regulatory Authority
+84. The Tribunal shall for the purpose of implementation of its decisions be Enforcement of deemed to a Civil Court under the Code of Civil Procedure, 1908 (Act V of 1908) orders of the Regulatory and its decisions shall be executed as a decree of the Civil Court under the Authority- provisions of the Code.
+
+====================================================================================================
+#108 | section 85 | 1593 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 85: Customer Service Committees [(2) to (8)]
+85. (1) The Regulatory Authority shall from its own staff and from third parties Customer service establish Customers Service Committees. committees
+(2) A customer service committee shall consist of –
+a. a chairman appointed by the Regulatory Authority from its own staff;
+b. two members from either SIDA or AWBs; and c. two member from FOs.
+(3) In appointing persons to be members of a customers service committee the Regulator shall have regard to the desirability of the persons appointed being persons who have experience of and have shown capacity in some matter relevant to the functions of water distribution being allocated to that committee.
+(4) The members from the FOs shall be replaced by other members for the handing of those cases in which they are personally involved in cases.
+(5) An appointment of a person to hold office as the chairman of a customer service committee shall be for a term not exceeding four years.
+(6) The chairman and other members of a customer service committee shall hold and vacated office in accordance with the terms of their appointments and, notwithstanding that sub-section, shall on ceasing to hold office be eligible for re- appointment.
+(7) The regulatory Authority may remove the chairman and the members if the performance does not meet the professional and juridical standards required.
+(8) There shall be customer service committees for each AWB Command Area. In AWBs with more than 100 FOs there may be more than one Customer Service Committee. In that case the Regulatory Authority shall adjudicate FOs to each Customer Service Committee.
+
+====================================================================================================
+#109 | section 85 | 1704 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 85: Customer Service Committees [(9) to (10)]
+85. (1) The Regulatory Authority shall from its own staff and from third parties Customer service establish Customers Service Committees. committees [...]
+(9) It shall be the duty of a customer service committee –
+(a) to keep under review all matters appearing to the committee to affect the interests of the persons who are customers or potential customers of the FOs allocated to the committee, to consult each Farmers‟ Organisation so allocated about such of those matters as appear to affect the interests of the customers or potential customers of that Farmers‟ Organisation and to make to a FO so allocated all such representations about any such matter as the committee considers appropriate;
+(b) subject to paragraph (c) below, to investigate any complaint which –
+(i) is made to the committee by any person who is a customer or potential customer of a FO so allocated;
+(ii) does not appear to the committee to be vexatious or frivolous; and
+(iii)relates to the carrying out by that FO of any of the functions of a water distributor;
+(c) where the committee considers it appropriate to do so in connection with any such complaint as is mentioned in paragraph (b), to make representations on behalf of the complainant to the FO in question about THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+any matter to which the complaint relates or which appears to the committee to be relevant to the subject-matter of the complaint; and
+(d) to refer to the Regulatory Authority any such complaint as is so mentioned which the committee is unable to resolve.
+(10) It shall be the duty of the Regulatory Authority to make such arrangements as it considers appropriate for facilitating the provision by one customer service committee to another of any such information as that other committee may require for any purpose relating to the carrying out of its functions.
+
+====================================================================================================
+#110 | section 86 | 172 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — The Sindh Water Management Ordinance, 2002 — Section 86: The Official Seal of the Regulatory Authority
+86. The Regulatory Authority shall have an official seal for the authentication The official seal of of documents required for the purposes of his functions. the Regulatory
+
+====================================================================================================
+#111 | section 87 | 951 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 87: Remuneration of Chairman an Members
+87. (1) The Chairman and members shall be paid such emoluments as may be Remuneration of determined by the Governor which shall not be varied to their disadvantage during Chairman and Members.
+their term of office.
+(2) The Chairman and Members shall not, during their term of office, engage themselves in any other service, business, vocation or employment and before the expiration of two years thereof enter into the employment of, or accept any advisory or consultancy relationship with, any person engaged in the distribution and delivery of irrigation water, the removal of drainage water and the control of flood waters in the Province of Sindh.
+(3) The Chairman and Members shall not have any direct or indirect financial interest, or have any connection with any business connected with the provision of or prospective provision of services, capital equipment or any other items to any of the authorities and institutions managing the network.
+
+====================================================================================================
+#112 | section 88 | 265 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 88: Funds
+88. The operations of the Regulatory Authority shall be funded from grants Funds.
+from the Government, including an initial start-up grant to cover establishment of office premises, office equipment, the appointment of necessary staff and all other necessary costs.
+
+====================================================================================================
+#113 | section 89 | 541 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 89: Business Plan and Financial Monitoring
+89. (1) By February of each financial year, the Regulatory Authority shall Business Plan and prepare a business plan for the following five financial years, and the first year of Financial Monitoring- the plan shall be the budget of the coming financial year.
+(2) The business plan shall consist of an income and expenditure account, a balance sheet, a statement of sources and application of funds (cash flow) and explanatory notes. It shall be considered by the Board, and on approval, shall be sent to the Governor by the end of February.
+
+====================================================================================================
+#114 | section 90 | 904 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 90: Implementation of the Business Pland
+90. (1) For purposes of management and control, the schedules of the first year Implementation of of the business plan shall be analyzed quarterly. the Business Pland
+(2) During the implementation of the plan, the Chairman shall present to the Regulatory Authority by the fifteenth working day of the month after the quarter management accounts for the previous quarter, with a comparison between actual and forecast showing the variance, and an explanation of significant variances.
+These results shall show both the details for the previous quarter and the cumulative THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+results for the year-to-date-.
+(3) He shall also send a copy of the quarterly and annual management accounts to the Governor. The Governor shall reply within one month of date of receipt and the Chairman shall reply within fourteen days to any recommendations which the Governor might make.
+
+====================================================================================================
+#115 | section 91 | 1625 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 91: Annual Accounts and Balance Sheet [(2) to (7)]
+91. (1) The financial year shall commence from 1 July to 30 June of the Annual accounts and following year. balance sheet
+(2) In preparing its accounts, the Regulatory Authority shall follow International Accounting Standards and other standards as are notified for this purpose in the office Gazette by the Securities and Exchange Commission of Pakistan and shall state the accounting policies adopted.
+(3) Not later than three months after the end of each financial year, the Regulatory Authority shall cause annual accounts to be prepared.
+(4) These accounts shall consist of an income and expenditure account for the year, a balance sheet as at year end, a statement of sources and applications of funds (a cash flow) for the year, and a report by the Regulatory Authority on the state of its affairs, on the basis of the Business Plan for that year shall be submitted to Government.
+(5) The balance sheet shall give a true and fair view of the state of affairs of the Regulatory Authority as at the end of its financial year and the income and expenditure accounts hall give a true and fair view of the surplus or deficit of income over expenditure of the Regulatory Authority for the financial year.
+(6) The balance sheet and the income and expenditure account shall be approved by the members of the Regulatory Authority, and shall be signed by the chairman and at least one other member, or, in the absence of the Chairman, by two members.
+(7) The annual accounts shall be audited by independent auditors within six months of the close of the financial year and the auditors‟ report shall be attached to the accounts.
+
+====================================================================================================
+#116 | section 91 | 803 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 91: Annual Accounts and Balance Sheet [(8) to (9)]
+91. (1) The financial year shall commence from 1 July to 30 June of the Annual accounts and following year. balance sheet [...]
+(8) Within thirty days of the receipt of the auditors‟ report, the Regulatory Authority shall send a copy of the annual accounts, together with the audit report, to Government and shall file a copy with the Governor. In addition the Regulatory Authority shall provide detailed information and explanations in regard to any observation, reservation, qualification or adverse remarks contained in the auditor‟s report.
+(9) The Regulatory Authority shall announce publicly the availability of its annual account and report with the audited statements through advertisements in regional and local newspapers, as well as via internet. The annual account and report are available to the public on request against duplication costs and can be seen in the office of the Regulatory Authority during office hours.
+
+====================================================================================================
+#117 | section 92 | 676 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 92: Auditor: Qualification, Appointment, Remuneration
+92. (1) Subject to section 254 of the Companies Ordinance 1984, a person shall Auditor:
+not be qualified to be appointed as auditor of the Regulatory Authority unless he is qualification, appointment, a chartered Accountant within the meaning of the Chartered Accountants remuneration and Ordinance, 1961 (X of 1961).
+removal-
+(2) The Regulatory Authority shall appoint auditors at its first meeting after the establishment of the regulatory Authority, for a period not exceeding three THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+financial years, under intimation of the Governor.
+(3) The remuneration of the auditors shall be fixed by the Members of the Regulatory Authority.
+
+====================================================================================================
+#118 | section 93 | 646 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 93: Annual Report
+93. (1) The Regulatory Authority shall submit to Government as soon as Annual Report- possible after the end of every financial year, but before the expiry of a period of seven months of such financial year, a report on the conduct of the affairs of the various bodies under this ordinance for that year including audited financial statement for the year in question.
+(2) The Regulatory Authority shall publish a summary of its annual report in newspapers of repute and standing in the Province published in English, Urdu and Sindhi each.
+(3) The Regulatory Authority shall furnish a summary of its annual report to the SIDA, to all AWBs and FOs.
+
+====================================================================================================
+#119 | section 94 | 164 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VII: Regulatory Authority of Irrigation, Drainage and Flood Protection — Authority — Section 94: Applicability of Other Sections to the Regulatory
+94. The provisions of sections 8, 9, 16, 17, 19 and 24 shall, mutatis mutandis, Applicability of other apply to the Regulatory Authority. sections to the Regulatory
+
+====================================================================================================
+#120 | section 95 | 328 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Section 95: Succession of the Properties, Assets, Liabilities and
+95. (1) Government shall complete appointment of the AWBs in the Province Succession of the before 30 June 2005. properties, assets, liabilities and staff-
+(2) Government shall transfer to an AWB irrigation, drainage and flood protection infrastructure, office premises, stores, plant and machinery situated in its command area.
+
+====================================================================================================
+#121 | section 96 | 287 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Section 96: Administrative Transition
+96. On the coming into force of this Ordinance, any office, authority or body Administrative set up or controlled by Government shall continue providing services without any Transition- interruption during the decentralization process or its entrustment to any body under this Ordinance.
+
+====================================================================================================
+#122 | section 97 | 493 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Section 97: Transfer of Barrages and Other Assets
+97. (1) The Irrigation and Power Department shall transfer its barrages, outlets, Transfer of Barrages existing spinal drains and flood protection infrastructure including staff, budgets and other assets and assets to the SIDA before 30 June 2005.
+(2) Government shall vest in the barrages the irrigation, drainage and flood protection infrastructure, office premises, stores, plant and machinery related to them so that the barrage division can carry out their functions under this Ordinance.
+
+====================================================================================================
+#123 | section 98 | 203 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Section 98: Continuity Until Vesting in Awb
+98. The Irrigation and Power Department shall continue to manage the Continuity until irrigation drainage and flood protection infrastructure in the where no AWBs have vesting in AWB- yet been appointed.
+
+====================================================================================================
+#124 | section 99 | 193 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Section 99: Continuity Until Vesting in Fo
+99. An AWB shall manage the irrigation, drainage and flood protection system Continuity until in those areas where no Management Transfer Agreement with an FO as yet been vesting in FO- signed.
+
+====================================================================================================
+#125 | section 100 | 173 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — The Sindh Water Management Ordinance, 2002 — Section 100: Provisional Role for Sida as Regulatory Authority
+100. Until Regulatory Authority is established the SIDA shall perform the Provisional role for functions of the Regulatory Authority under this ordinance. SIDA as Regulatory
+
+====================================================================================================
+#126 | section 101 | 204 chars
+The Sindh Water Management Ordinance, 2002 — Chapter VIII: The Transition — Authority — Section 101: Transitional Timeframe
+101. All actions require for giving effect to the establishment of all the Area Transitional Water Boards to be established under this Ordinance shall be completed by the 30th timeframe- day of June 2005.
+
+====================================================================================================
+#127 | section 102 | 1471 chars
+The Sindh Water Management Ordinance, 2002 — Chapter IX: Councils — Section 102: Councils Powers and Duties
+102. Any arrangement entered into between the SIDA, an AWB or an FO and a Councils powers and council whereby that Council exercises its rights under the Sindh Local duties:- Government Ordinance 2001, to distribute and deliver water and remove and treat sewage and drainage water shall be notified by the SIDA, AWB or FO concerned to the Regulatory Authority.
+(2) Arrangements entered into for the purposes of this section may contain any such provision as may be agreed between the relevant Council and the SIDA, AWB or FO but shall not affect the availability to any person, other than the relevant Council, of any remedy against that SIDA, AWB or FO in respect of the carrying out of its functions or of any failure to carry them out.
+(3) It is hereby declared that, if arrangements entered into for the purposes of this section so provide, a relevant Council shall be entitled to exercise on behalf of the SIDA, an AWB or an FO any power which by or under any enactment is exercisable by the SIDA, that AWB or that FO for the purposes of, or in connection with, the carrying out of the SIDA, that AWB or that FO‟s functions in this regard.
+(4) The Council shall notify the AWB or the FO from which it receives supplies, about any material deterioration in water quality and, if it is not satisfied, within a reasonable period of time, that all such remedial action as is appropriate has been taken by that AWB, it shall report the matter to the Regulatory Authority.
+
+====================================================================================================
+#128 | section 103 | 1257 chars
+The Sindh Water Management Ordinance, 2002 — Chapter X: Offences and Penalties — Section 103: Offences and Penalties
+103. (1) Whosoever: Offences and Penalties- a. obstructs or willfully obstructs the flow of, diverts or takes water from any watercourse or any other source of water belonging to the SIDA, the AWBs or the FOs or their functionaries or unlawfully breaks or damages the watercourse or other equipments, machineries; or b. obstructs in the performance of official duties of any of the officer(s) or servant(s) of the SIDA, the AWBs or the FOs or willfully neglects to allow him for making inspection, examination or enquiry in respect of any source of water;
+c. permits the watering of cattle or of animals or bathing or washing at or THE SINDH WATER MANAGEMENT ORDINANCE, 2002.
+near the water course or other source of water belonging to SIDA, AWB and FO;
+d. permits steeping, hemp, jute or any other dangerous material at, near or in any water course or other source of water;
+shall be punished with imprisonment of any description for term not more than six months or with fine which may extend to a hundred thousand rupees or both per offence.
+(2) No offence punishable under this ordinance shall be bail able.
+(3) Whoever abates the commission of an offence under the provisions of this Ordinance shall punished as if he has committed the offence himself.
+
+====================================================================================================
+#129 | section 104 | 448 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — Section 104: Rules
+104. (1) Government may make rules for carrying out the purposes of this Rules- Ordinance following the advice of the Regulatory Authority.
+(2) Subject to this Ordinance and the rules, the Regulatory Authority, the SIDA, AWBs and FOs may make regulations in their respective fields for carrying out the purposes of this Ordinance, provided that the regulations made by the SIDA, AWB and FO shall subject to the approval of the Regulatory Authority.
+
+====================================================================================================
+#130 | section 105 | 314 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — Section 105: Transfer of Powers
+105. The powers conferred on Canal Officers under the Sindh Irrigation Act Transfer of Powers- 1879 and the Financial Delegation of Powers Rules 1962, relating to infrastructure, Water Management, Flood Protection and Finances, shall be exercised by the SIDA and the AWBs in their respective areas of jurisdiction.
+
+====================================================================================================
+#131 | section 106 | 406 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — Section 106: Status of Officers and Staff of Bodies Under This
+106. The Chairman, Members of the Board, officers and employees of the Status of Officers Regulating Authority, SIDA, AWB, FO and other bodies constituted under this and staff of Bodies under this ordinance shall, when acting or purporting to act in pursuance of any of the Ordinance- provisions of this Ordinance be deemed to be public servants within the meaning of Section 21 of the Pakistan Penal Code.
+
+====================================================================================================
+#132 | section 107 | 259 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — Section 107: Conflicts and Inconsistencies
+107. In case of any conflict or inconsistency between any provision(s) of this Conflicts and Ordinance and any other law (s), the provisions of this Ordinance to the extent of Inconsistencies- such conflict or inconsistency, as the case may be, shall prevail.
+
+====================================================================================================
+#133 | section 108 | 543 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — Section 108: Bar of Jurisdiction
+108. Save as expressly provided in this Ordinance, no Civil or Revenue Court or Bar of jurisdiction any other Authority shall have jurisdiction –
+i. to question the legality of anything done under this Ordinance by the Regulating Authority, the SIDA, the AWBs or the FOs; or ii. in respect of any matter which the SIDA, the AWBs or the FOs is empowered by or under this Ordinance to determine; or iii. to grant an injunction or any order in relation to any proceeding or anything done or intended to be done in good faith under this Ordinance.
+
+====================================================================================================
+#134 | section 109 | 455 chars
+The Sindh Water Management Ordinance, 2002 — Chapter XI: Miscellaneous — The Sindh Water Management Ordinance, 2002 — Section 109: Validity of Proceedings
+109. No act, proceeding, resolution or decision of any Body under this Ordinance Validity of shall be invalid by reason only of any vacancy or defect in the constitution of, or proceedings- the appointment or nomination or election of any member of that Body.
+The Sindh Irrigation and Drainage Authority Act, 1997, and the Sindh Repeal of Sindh Irrigation Water Users‟ Association Ordinance, 1982, are hereby repealed. Irrigation and Drainage Act 1997- 50

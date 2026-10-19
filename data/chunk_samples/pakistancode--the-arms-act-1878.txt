@@ -1,0 +1,287 @@
+The Arms Act, 1878
+{"title": "The Arms Act, 1878", "instrument_type": "Act", "text_source": "native", "chars": 18478, "method": "provisions", "contents_entries": 33, "provisions": 33, "problems": [], "chunks": 36, "largest_chunk": 1648}
+
+====================================================================================================
+#0 | card  | 1493 chars
+The Arms Act, 1878 — Overview
+The Arms Act, 1878 (Act, 1878, Federal).
+This Act consolidates and amends the law relating to arms, ammunition, and military stores in Pakistan. It regulates the manufacture, conversion, sale, import, export, transport, possession, and carrying of these items, requiring licenses for most activities. The Act establishes powers for the Federal Government to create searching stations and imposes penalties for breaches of its provisions.
+Subjects: arms, ammunition, military stores, licensing, import export, penalties, searching stations, confiscation.
+Provisions: 1. Short title; 2. Commencement; 3. [Repealed.]; 4. Interpretation-clause; 5. Unlicensed manufacture or conversion prohibited; 6. Unlicensed importation and exportation prohibited; 7. Sanction of Federal Government required to warehousing of arms, etc; 8. [Repealed.]; 9. [Repealed.]; 10. [Omitted.]; 11. Power to establish searching stations; 12. [Omitted.]; 13. [Omitted.]; 14. [Omitted.]; 15. [Omitted.]; 16. [Omitted.]; 17. Power to make rules as to licenses; 18. Cancelling and suspension of license; 19. For breach of sections 5, 6, 10, 13 to 17; 20. For secret breaches of sections 5 and 6; 21. For breach of license; 22. [Omitted.]; 23. Penalty for breach of rule; 24. Power to confiscate; 25. [Omitted.]; 26. [Omitted.]; 27. Power to exempt; 28. Information to be given regarding offences; 29. [Omitted.]; 30. [Omitted.]; 31. Operation of other laws not barred; 32. [Omitted.]; 33. Notice and limitation of proceedings
+
+====================================================================================================
+#1 | preamble  | 383 chars | pages 3-4
+The Arms Act, 1878 — Title and preamble
+THE FIRST SCHEDULE. - [Repealed.]
+THE SECOND SCHEDULE. - [Repealed.]
+THE ARMS ACT, 1878 1ACT No. XI OF 1878 [15th March, 1878] An Act to consolidate and amend the law relating to Arms, Ammunition and Military Stores.
+Preamble.
+WHEREAS it is expedient to consolidate and amend the law relating to arms, ammunition and military stores; It is hereby enacted as follows:__ I.-PRELIMINARY
+
+====================================================================================================
+#2 | section 1 | 1582 chars | pages 4-4
+The Arms Act, 1878 — Section 1: Short title [(a) to (ii)]
+1. Short title Local extent. __This Act may be called the 2* Arms Act, 1878; and it extends to [the whole of Pakistan].
+Savings. But nothing herein contained shall apply to−
+(a) arms, ammunition or military stores on board any seagoing vessel and forming part of her ordinary armament or equipment, or
+(b) the manufacture, conversion, [import or export] of arms, ammunition or military stores by order of [the [Federal Government] or any Provincial Government], or by a public servant or [a member of the forces constituted by the Pakistan Territorial Force Act, 1950 (L of 1950)] in the course of his duty as such public servant or [member].
+1For the Statement of Objects and Reasons, see Gazette of India, 1877, Pt. V, p. 650; for discussions in Council, see ibid., 1877, Supplement, pp. 3016 and 3030; ibid., 1878, Supplement, pp. 435 and 453.
+The functions of the Central Government under certain provisions of this Act, subject to certain conditions, were entrusted to-
+(a) Provincial Governments with their consent, for a period of three years (with effect from the 1st April, 1951), see Gaz. of P., 1951, Pt. I, p. 181; and
+(b) The Chief Commissioner of Karachi, for the period 28th April, 1952 to 31st March, 1957, see Gaz. of P., 1954, Pt. I, p.136.
+The Act has been applied to___
+(i) Balochistan by Regulation III of 1940 with certain restrictions and modifications.
+(ii) Phulera in the Excluded Area of Upper Tanawal to the extent the Act is applicable in the N.W.F.P., subject to certain modifications; see N.W.F.P. (Upper Tanawal) (Excluded Area) Laws Regulation, 1950.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3 and 2nd Sch. (with effect from the 14th October, 1955), for “all the Provinces and the Capital of the Federation” which had been subs. by A. O., 1949, Arts. 3(2) and 4, for “the whole of British India”.
+    note: Subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s.3 and IInd Sch., for” sale, import, export, transport, bearing or possession”.
+    note: Subs. by A.O., 1949, Sch., for “any Govt. in British India”, which had been subs. by A. O., 1937, for “the Govt.”.
+    note: Subs. by F.A.O., 1975, Art. 2 and Table, for “Central Government”.
+    note: Subs. by the Federal Laws (Revision and Declaration) Act, 1951 (26 of 1951), s. 4 and III Sch., for “a member of either of the forces constituted” by the Indian Territorial Force Act, 1920 or the Auxiliary Force Act, 1920”, which had been subs. for “a Volunteer enrolled under the Indian Volunteers Act, 1869” by the Auxiliary Force Act, 1920 (49 of 1920), s. 35.
+    note: Subs. ibid., for “Volunteer”.
+
+====================================================================================================
+#3 | section 1 | 1550 chars | pages 4-4
+The Arms Act, 1878 — Section 1: Short title [(iii) to (iv)]
+1. Short title Local extent. __This Act may be called the 2* Arms Act, 1878; and it extends to [the whole of Pakistan]. Savings. But nothing herein contained shall apply to− [...]
+(iii) Excluded Area of Upper Tanawal other than Phulera by the N.W.F.P. (Upper Tanawal) (Excluded Area) Laws Regulation, 1950 and declared to be in force in that area with effect from 1st June, 1951; see N.W.F.P. Gazette, Ext., dated 1st June, 1951; and
+(iv) The Leased Areas of Balochistan, see the Leased Areas (Laws) Order, 1950, (G.G.O. 3 of 1950); and applied in the Federated Areas of Balochistan ; see Gazette of India, 1937, Pt. I, p. 1499.
+It has been extended to the Balochistan States Union by the Balochistan States Union (Federal Laws) (Extension) Order, 1953 (G.G.O. 4 of 1953), as amended.
+The Act has been and shall be deemed to has been brought into force in Gwadur with effect from the 8th September, 1958, by the Gwadur (Application of Central Laws) Ordinance, 1960 (37 of 1960), s. 2.
+A license granted under the Explosives Act, 1884 (4 of 1884), for the manufacture, possession, sale, transport or importation of an explosive may be given the effect of a like license granted under the Arms Act. 1878 (11 of 1878), see Act 4 of 1884, s. 15.
+As to further law relating to unlawful manufacture and possession of explosive substances, see the Explosive Substances Act, 1908 (6 of 1908), ss. 4 (b) and 5.
+This Act bas been repealed in its application to the Province of West Pakistan except certain provisions by West Pakistan Ordinance 20 of 1965, s. 29 (with effect from the 8th June, 1965).
+The Act has been amended in the N..W.F.P. by the Indian Arms (N.W.F.P. Amdt.) Act, 1934 (N.W.F.P. 1 of 1934) and Sind Act 10 of 1953, s.12.
+    note: The word “Indian” omitted by A. O., 1949, Sch.
+
+====================================================================================================
+#4 | section 2 | 140 chars | pages 5-5
+The Arms Act, 1878 — Section 2: Commencement
+2. Commencement. This Act shall come into force on such day 1as the [Federal Government] by notification in the [official Gazette] appoints.
+    note: Subs. by F.A.O., 1975, Art. 2, and Table, for “Central Government” which was subs. by A. O., 1937, for “G.G. in C”.
+    note: Subs. by A. O., 1937, for “Gazette of India”.
+
+====================================================================================================
+#5 | section 3 | 85 chars | pages 5-5
+The Arms Act, 1878 — Section 3: [Repealed.]
+3. [Repeal of enactments.] Rep. by the Repealing Act, 1938 (I of 1938), s. 2 and Sch.
+
+====================================================================================================
+#6 | section 4 | 1589 chars | pages 5-5
+The Arms Act, 1878 — Section 4: Interpretation-clause
+4. Interpretation clause. __In this Act, unless there be something repugnant in the subject or context, __
+“cannon” includes also all howitzers, mortars, wall-pieces, mitrailleuses and other ordnance and machine-guns, all parts of the same, and all carriages, platforms and appliances for mounting, transporting and serving the same:
+[“appropriate Government” means__
+(a) in relation to military stores; and import, export and inter-provincial trade or transport, the Federal Government ; and
+(b) in relation to other matters, the Provincial Government:]
+“arms” includes fire-arms, bayonets, swords, daggers, spears, spearheads and bows and arrows, also cannon and parts of arms, and machinery for manufacturing arms :
+“ammunition” includes also all articles especially designed for torpedo service and submarine mining, rockets, gun-cotton, dynamite, lithofracteur and other explosive or fulminating material, gun-flint, gun-wads, percussion-caps, fuses and friction-tubes, all parts of ammunition and all machinery for manufacturing ammunition, but does not include lead, sulphur or saltpetre:
+“military stores”, in any section of this Act as applied to any part of [Pakistan], means any military stores to which the [Federal Government] may from time to time, by notification in the [official Gazette], specially extend such section in such part, and includes also all lead, sulphur, saltpetre and other material to which the [Federal Government] may from time to time so extend such section:
+“license” means a license granted under this Act, and “ licensed” means holding such license.
+    note: Subs. by F.A.O., 1975, Art. 2 and Sch. for the definition. This definition was ins. by A. O., 1964, Art 2 and Sch.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960) s.3 and 2nd Sch. (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation” which had been subs. by A. O., 1949, Arts. 3(2) and 4, for “British India.”
+    note: Subs. by F.A.O., 1975, Art. 2, and Table, for “Central Government” which was subs. by A. O., 1937, for “G.G. in C”.
+    note: Subs. by A. O., 1937, for “Gazette of India”.
+
+====================================================================================================
+#7 | section 5 | 213 chars | pages 5-5
+The Arms Act, 1878 — Ii.- Manufacture, Conversion and Sale — Section 5: Unlicensed manufacture or conversion prohibited
+[5. Unlicensed manufacture or conversion prohibited.__ No person shall manufacture or convert any arms, ammunition or military stores except under a license and in the manner and to the extent permitted thereby.].
+    note: Subs. by the Federal Laws (Revision and Declaration) Ordinance 1981 (27 of 1981), s. 3 and 2nd Sch. for the original section 5.
+    note: Ist October 1878-see Gazette of India, 1878, Pt., I, p. 389.
+
+====================================================================================================
+#8 | section 6 | 1052 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 6: Unlicensed importation and exportation prohibited
+6. Unlicensed importation and exportation prohibited. No person shall bring or take by [air, sea or land] into or out of [Pakistan] any arms, ammunition or military stores except under a license and in the manner and to the extent permitted by such license.
+Importation and exportation of arms and ammunition for private use. Nothing in the first clause of this section extends to arms (other than cannon) or ammunition imported or exported in reasonable quantities for his own private use by any person lawfully entitled to possess such arms or ammunition; but the Collector of Customs or any other officer empowered by the [Federal Government] in this behalf by name or in virtue of his office may at any time detain such arms or ammunition until he receives the orders of the [Federal Government] thereon.
+Explanation.–Arms, ammunition and military stores taken from one part of [Pakistan] to another by sea or across intervening territory not being part of [Pakistan] are taken out of and brought into [Pakistan] within the meaning of this section.
+    note: Subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s. 3 and 2nd Sch., for “sea or by land”.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s.3 and 2nd Sch. (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation” which had been subs. by A. O., 1949, Arts. 3(2) and 4, for “British India.”
+    note: Subs. by F.A.O., 1975, Art. 2 and Table, for “Central Government” which was subs. by A. O., 1937, for “L. G.”.
+
+====================================================================================================
+#9 | section 7 | 312 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 7: Sanction of Federal Government required to warehousing of arms, etc
+7. Sanction of Federal Government required to warehousing of arms, etc.
+Notwithstanding anything contained in the [Customs Act, 1969 (IV of 1969)], no arms, ammunition or military stores shall be deposited in any warehouse licensed under section [13] of that Act without the sanction of the [Federal Government].
+    note: Subs. by Ord. 27 of 1981, s. 3 and 2nd Sch., for “Sea Customs Act, 1878”.
+    note: Subs. ibid., for “16”.
+    note: Subs. by F.A.O., 1975, Art. 2 and Table, for “Central Government” which was subs. by A. O., 1937, for “L. G.”.
+
+====================================================================================================
+#10 | section 8 | 97 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 8: [Repealed.]
+8. [Levy of duties on arms, etc., imported by sea.] Rep. by the Amending Act, 1891 (XII of 1891).
+
+====================================================================================================
+#11 | section 9 | 90 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 9: [Repealed.]
+9. [Power to impose duty on import by land.] Rep. by the Amending Act, 1891 (XII of 1891).
+
+====================================================================================================
+#12 | section 10 | 163 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 10: [Omitted.]
+10. [Power to prohibit transport, Transhipment of arms.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#13 | section 11 | 522 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 11: Power to establish searching stations
+11. Power to establish searching stations. The [Federa1 Government] 6* * * may, at any places along the boundary-line between [Pakistan] and foreign territory 7* * *, and at such distance within such line as it deems expedient, establish, searching-posts at which all vessels, carts and baggage-animals, and all boxes, bales and packages in transit, may be stopped and searched for arms, ammunition and military stores by any officer empowered by [the Federal Government] in this behalf by name or in virtue of his office.
+    note: Subs. by F.A.O., 1975, Art. 2 and Table, for “Central Government” which was subs. by A. O., 1937, for “L. G.”.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s.3 and 2nd Sch. (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation” which had been subs. by A. O., 1949, Arts. 3(2) and 4, for “British India.”
+    note: The original words “such Govt.” as amended by A. O., 1937, has been subs. by F. A. O., 1975, Art. 2 and Table, to read as above.
+
+====================================================================================================
+#14 | section 12 | 256 chars | pages 6-6
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 12: [Omitted.]
+12. [Arrest of persons conveying arms, etc., under suspicious circumstances. Procedure where arrest made by person not Magistrate or Police officer.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+    note: The words “with the previous sanction of the Governor General in Council” rep., by F.A.O., 1975, Art. 2 and Table for “Central Govt.” which was subs. by A.O., 1973, for “C.G.”.
+    note: The words “or between a Province and an Acceding State”, which were ins. by A.O., 1949, Sch., have been omitted by A.O., 1964, Art. 2 and Sch.
+
+====================================================================================================
+#15 | section 13 | 156 chars | pages 7-7
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 13: [Omitted.]
+13. [Prohibition of going armed without license.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#16 | section 14 | 154 chars | pages 7-7
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 14: [Omitted.]
+14. [Un-licensed possession of fire-arms, etc.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#17 | section 15 | 195 chars | pages 7-7
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 15: [Omitted.]
+15. [Possession of arms of any description without license prohibited in certain places.]
+Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s.3 and IInd Sch.
+
+====================================================================================================
+#18 | section 16 | 206 chars | pages 7-7
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 16: [Omitted.]
+16. [In Certain cases arms to be deposited at police station or with licensed dealers.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+V.-LICENCES
+
+====================================================================================================
+#19 | section 17 | 1648 chars | pages 7-7
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 17: Power to make rules as to licenses
+17. Power to make rule as to licenses. The [appropriate Government] may from time to time, by notification in the [official Gazette], make rules to determine the officers by whom the form in which, and the terms and conditions on and subject to which, any license shall be granted3;
+and may by such rules among other matters–
+(a) fix the period for which such license shall continue in force;
+(b) fix a fee payable by stamp or otherwise in respect of any such license granted in a place to which section 32, clause 2, of Act No. XXXI of 18604 applies at the time this Act comes into force or in respect of any such license other than a license for possession granted in any other place;
+(c) direct that the holder of any such license other than a license for possession shall keep a record or account, in such form as the [appropriate Government] may prescribe, of anything done under such license, and exhibit such record or account when called upon by an officer of Government to do so ;
+(d) empower any officer of Government to enter and inspect any premises in which arms, ammunition or military stores are manufactured or kept by any person holding a license of the description referred to in section 5 or section 6 ;
+(e) direct that any such person shall exhibit the entire stock of arms, ammunition and military stores in his possession or under his control to any officer of Government so empowered; and
+(f) require the person holding any license or acting under any license to produce the same, and to produce or account for the arms, ammunition or military stores covered by the same when called upon by an officer of Government so to do.
+    note: Subs. by A. O., 1964, Art. 2 and Sch., for “Central Government” which had been subs. by A.O., 1937, for “G. G. in C.”.
+    note: Subs. by A. O., 1937, for “Gazette of India”.
+    note: For Rules as to licenses, see the Indian Arms Rules, 1924, Genl. R. & O., Vol-II.
+    note: Act 31 of 1860 was rep. by s. 3 of this Act.
+
+====================================================================================================
+#20 | section 18 | 847 chars | pages 8-8
+The Arms Act, 1878 — Iii-import, Export and Transport — Section 18: Cancelling and suspension of license
+18. Cancelling and suspension of license. Any license may be cancelled or suspended–
+(a) by the officer by whom the same was granted, or by any authority to which he may be subordinate, or by any [District Coordination Officer], 2* * *, within the local limits of whose jurisdiction the holder of such license may be, when, for reasons to be recorded in writing, such officer [or authority] 3* * * deems it necessary for the security of the public peace to cancel or suspend such license; or
+(b) by any Judge or Magistrate before whom the holder of such license is convicted of an offence against this Act, or against the rules made under this Act; and [the [appropriate Government] may by a notification in the official Gazette cancel or suspend all or any licenses throughout [Pakistan or the Province, as the case may be, or any part thereof]].
+    note: Subs. by Ord. 66 of 2001, S.1 and sch
+    note: Subs. by A. O., 1937, for “the L. G. may at its discretion, by a notification in the local official Gazette, cancel or suspend all or any licences throughout the whole or any portion of the territories under its administration.”
+    note: Subs. by A.O., 1964, Art. 2 and Sch., for “Central Government”.
+    note: The original words “the whole or any portion of British India” were first subs. by A. O., 1949, Sch. and then amended by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960), s. 3 and 2nd Sch. (with effect from the 14th October, 1955) and A. O., 1964, Art. 2 and Sch., to read as above.
+
+====================================================================================================
+#21 | section 19 | 785 chars | pages 8-8
+The Arms Act, 1878 — Vi.-penalties — Section 19: For breach of sections 5, 6, 10, 13 to 17
+19. For breach of sections 5, 6, 10, 13 to 17. Whoever commits any of the following offences (namely) :–
+[(a) manufactures or converts any arms, ammunition or military stores in contravention of the provisions of section 5;]
+9* * * * * * *
+(c) imports or exports any arms ammunition or military stores in contravention of the provisions of section 6;
+9* * * * * * * 9* * * * * * * 9* * * * * * *
+(g) intentionally makes any false entry in a record or account which, by a rule made under section 17, clause (c), he is required to keep;
+(h) intentionally fails to exhibit anything which, by a rule made under section 17, clause (e), he is required to exhibit ; or 10* * * * * * * shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.
+    note: Clause (a) subs. by the Federal Laws (Revision and Declaration) Ordinance, 1981 (27 of 1981), s. 3 and 2nd Sch., for the original clause (a).
+
+====================================================================================================
+#22 | section 20 | 455 chars | pages 8-9
+The Arms Act, 1878 — Vi.-penalties — Section 20: For secret breaches of sections 5 and 6
+[20. For secret breaches of sections 5 and 6. Whoever does any act mentioned in clause (a) or (c) of section 19, in such manner as to indicate an intention that such act may not be known to any public servant as defined in the Pakistan Penal Code (Act XLV of 1860), or to any person employed upon a railway or to the servant of any public carrier shall be punished with imprisonment for a term which may extend to seven years or with fine, or with both.].
+    note: Subs. ibid., for the original section 20.
+    note: The words “or Commissioner of Police in a presidency-town” omitted by A. O., 1949, Sch.
+    note: The words “or Commissioner” omitted, ibid.
+    note: Offences under this section are bailable, see Code of Criminal Procedure, 1898 (Act 5 of 1898), Sch., II.
+    note: Clauses (b), (d), (e) and (f) omitted ibid.
+    note: Clause (i) omitted ibid.
+
+====================================================================================================
+#23 | section 21 | 376 chars | pages 9-9
+The Arms Act, 1878 — Vi.-penalties — Section 21: For breach of license
+21. For breach of license. Whoever, in violation of a condition subject to which a license has been granted, does or omits to do any act shall, when the doing or omitting to do such act is not punishable under section 19 or section 20, be punished with imprisonment for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.
+
+====================================================================================================
+#24 | section 22 | 242 chars | pages 9-9
+The Arms Act, 1878 — Vi.-penalties — Section 22: [Omitted.]
+22. [For knowingly purchasing arms, etc., from un-licensed person. For delivering arms, etc., to person not authorised to possess them.] Omitted by the Federal Laws (Revision and Declaration) Ordinance 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#25 | section 23 | 294 chars | pages 9-9
+The Arms Act, 1878 — Vi.-penalties — Section 23: Penalty for breach of rule
+23. Penalty for breach of rule. Any person violating any rule made under this Act, and for the violation of which no penalty is provided by this Act, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.
+
+====================================================================================================
+#26 | section 24 | 548 chars | pages 9-9
+The Arms Act, 1878 — Vi.-penalties — Section 24: Power to confiscate
+24. Power to confiscate. When any person is convicted of an offence punishable under this Act, committed by him in respect of any arms, ammunition or military stores, it shall be in the discretion of the convicting Court or Magistrate further to direct that the whole or any portion of such arms, ammunition or military stores, and any vessel, cart or baggage-animal used to convey the same, and any box, package or bale in which the same may have been concealed, together with the other contents of such box, package or bale, shall be confiscated.
+
+====================================================================================================
+#27 | section 25 | 146 chars | pages 9-9
+The Arms Act, 1878 — VII.-Miscellaneous — Section 25: [Omitted.]
+25. [Search and seizure by Magistrate.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#28 | section 26 | 161 chars | pages 9-9
+The Arms Act, 1878 — VII.-Miscellaneous — Section 26: [Omitted.]
+26. [Seizure and detention by appropriate Government.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#29 | section 27 | 600 chars | pages 9-9
+The Arms Act, 1878 — VII.-Miscellaneous — Section 27: Power to exempt
+27. Power to exempt. The [appropriate Government] may from time to time by notification2 published in the [official Gazette],–
+4(a) exempt any person by name or in virtue of his office, or any class of persons, or exclude any description of arms or ammunition, or withdraw any part of [Pakistan], [or of the Province, as the case may be,] from the operation of any prohibition or direction contained in this Act; and
+(b) cancel any such notification, and again subject the persons or things or the part of [Pakistan] [or Province] comprised therein to the operation of such prohibition or direction7.
+    note: Subs. by A. O., 1964, Art. 2 and Sch., for “Central Government” which had been subs. by A.O., 1937, for “G. G. in C.”.
+    note: Subs. by A. O., 1937, for “Gazette of India”.
+    note: Subs. by the Central Laws (Statute Reform) Ordinance, 1960 (21 of 1960) s.3 and 2nd Sch. (with effect from the 14th October, 1955), for “the Provinces and the Capital of the Federation” which had been subs. by A. O., 1949, Arts. 3(2) and 4, for “British India.”
+    note: Ins. by A.O., 1964 Art. 2 and Sch.
+    note: For exemptions and withdrawals under s. 27(a) see rule 3 and Schedules I to IV of the Indian Arms Rules, 1924.
+    note: For notifn. under this clause, see Gaz. of P., 1953, Pt. I, p. 188 ; and ibid., 1961, Pt. I, p. 247.
+    note: For notification declaring arms, etc., brought into a Pakistan port and declared under manifest to be consignments without transhipment to any port on the sea board of the Persian Gulf, to be liable to the prohibitions and directions contained in s. 6, see No. 902-P., dated 27th April, 1904, Gazette of India, 1904, Pt. I, p. 296. As to exemption of small parcels under certain conditions or of arms, etc., exported under license and in transit at an intermediate port, see ibid.
+
+====================================================================================================
+#30 | section 28 | 721 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 28: Information to be given regarding offences
+28. Information to be given regarding offences. Every person aware of the commission of any offence punishable under this Act shall, in the absence of reasonable excuse, the burden of proving which shall lie upon such person, give information of the same to the nearest Police-officer or Magistrate, and every person employed upon any railway or by any public carrier shall, in the absence of reasonable excuse, the burden of proving which shall lie upon such person, give information to the nearest Police officer regarding any box, package or bale in transit which he may have reason to suspect contains arms, ammunition or military stores in respect of which an offence against this Act has been or is being committed.
+
+====================================================================================================
+#31 | section 29 | 183 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 29: [Omitted.]
+29. [Sanction required to certain proceedings under section 19, clause (f).] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#32 | section 30 | 192 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 30: [Omitted.]
+30. [Searches in the case of offences against section 19, clause (f), how conducted.] Omitted by the Federal Laws (Revision and Declaration) Ordinance, 1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#33 | section 31 | 417 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 31: Operation of other laws not barred
+31. Operation of other laws not barred. Nothing in this Act shall be deemed to prevent any person from being prosecuted under any other law for any act or omission which constitutes an offence against this Act or the rules made under it, or from being liable under such other law to any higher punishment or penalty than that provided by this Act: Provided that no person shall be punished twice for the same offence.
+
+====================================================================================================
+#34 | section 32 | 146 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 32: [Omitted.]
+32. [Power to take census of fire arms.] Omitted by the Federal Laws (Revision and Declaration )Ordinance,1981 (XXVII of 1981), s. 3 and IInd Sch.
+
+====================================================================================================
+#35 | section 33 | 558 chars | pages 10-10
+The Arms Act, 1878 — VII.-Miscellaneous — Section 33: Notice and limitation of proceedings
+33. Notice and limitation of proceedings. No proceeding other than a suit shall be commenced against any person for anything done in pursuance of this Act, without having given him at least one month’s previous notice in writing of the intended proceeding and of the cause thereof, nor after the expiration of three months from the accrual of such cause.
+THE FIRST SCHEDULE. __ [Enactments repealed.] Rep. by the Repealing Act, 1938 (I of 1938), s.2 and Sch.
+THE SECOND SCHEDULE. __ [Arms, etc., liable to Duty.] Rep. by the Amending Act, 1891 (XII of 1891).

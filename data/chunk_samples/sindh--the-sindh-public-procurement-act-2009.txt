@@ -1,0 +1,1708 @@
+The Sindh Public Procurement Act, 2009
+{"title": "The Sindh Public Procurement Act, 2009", "instrument_type": "Act", "text_source": "native", "chars": 145807, "method": "provisions", "contents_entries": 0, "provisions": 123, "problems": [], "read_by_model": true, "chunks": 161, "largest_chunk": 2194}
+
+====================================================================================================
+#0 | card  | 726 chars
+The Sindh Public Procurement Act, 2009 — Overview
+The Sindh Public Procurement Act, 2009 (Act, 2009, Sindh).
+This Act establishes the Sindh Public Procurement Regulatory Authority as a body corporate to regulate public procurement. It defines key terms such as goods, services, and works, and outlines the financial provisions including the establishment of a fund. The Act also empowers the Government to issue directives and grants exemptions, while repealing previous rules from 2004.
+Subjects: public procurement, goods, services, works, regulatory authority, financial provisions, audit, integrity pact.
+Provisions: 24. Common Seal; 25. Winding Up; 26. Government may, by notification in the official Gazette make rules Powers of for carrying out the purposes of this Act
+
+====================================================================================================
+#1 | preamble  | 529 chars
+The Sindh Public Procurement Act, 2009 — Title and preamble
+THE SINDH PUBLIC PROCUREMENT ACT, 2009.
+SINDH ACT NO. IV OF 2009.
+25th May,2009 An Act to provide for establishment of Public Procurement Regulatory Authority for regulating public procurement of goods, services and works in the public sector.
+WHEREAS it is expedient to provide for the establishment of Preamble Public Procurement Regulatory Authority for regulating procurement of goods, services and work in the public sector and for matter connected therewith or ancillary thereto;
+It is hereby enacted as follows:- Chapter 1
+
+====================================================================================================
+#2 | section 1 | 254 chars
+The Sindh Public Procurement Act, 2009 — Section 1
+1. (1) This act may be called the Sindh Public Procurement Act, Short Title, Extent 2009. and Commencement.
+(2) It extends to the whole of Sindh.
+(3) It shall come into force at once and shall be deemed to have taken effect on and from 22nd August, 2007.
+
+====================================================================================================
+#3 | section 2 | 1558 chars
+The Sindh Public Procurement Act, 2009 — Section 2 [(a) to (j)]
+2. In this Act, unless there is anything repugnant in the subject or Definitions.
+context-
+(a) “Authority” means the Sindh Public Procurement Regulatory Authority established under section (3);
+(b) “Board” means the Board of Directors of the Authority constituted under section (6);
+(c) “Chairman” mean the Chairman of the Board;
+(d) “Fund” means the fund established under section (9);
+1["( d-i) "disposal" means auction, rental, lease, donation, destruction and/or recycling of public assets or any combination thereof; provided that the method of such 1 Inserted clause (d-i) by Sindh Act no XX of 2025, dated 18th august,2025.
+3 disposal shall be such as may be prescribed under the rules;";]
+(e) “Goods” means articles and object of every kind and description including raw materials, products, equipment’s, machinery, spares and commodities in any form (including solid, liquid and gaseous form), and includes services incidental to installation, transport, maintenance and similar obligations related to the supply of goods if the value of these services does not exceed the value of such goods;
+(f) “Government” means the Government of Sindh;
+(g) “Managing Director” means the Managing Director appointed under section (8);
+(h) “Member” means a member of the Board;
+(i) “Mis-procurement” means public procurement in contravention of any provision of this Act, any rule, regulation, order or instruction made there under or any other law in respect of, or relating to, public procurement;
+(j) “Prescribe” means prescribed by rules made under this act;
+
+====================================================================================================
+#4 | section 2 | 1790 chars
+The Sindh Public Procurement Act, 2009 — Section 2 [(k) to (q)]
+2. In this Act, unless there is anything repugnant in the subject or Definitions. context- [...]
+(k) “Procuring Agency” means- 1[“ (k-i) "public asset" means all types of goods owned and possessed by procuring agency;";]
+i. Any Department or office of Government; or ii. District Government; or iii. Any authority, corporation body or organization established by law or which is owned or controlled by Government;
+(l) “Public Fund” means the Provincial Consolidated fund and the Public Account of the Province and included funds 1 Inserted clause (k-i) by Sindh Act no XX of 2025, dated 18th august,2025.
+4 of enterprises, which are owned or controlled by Government;
+(m) “Public Procurement” means acquisition of goods, services or construction of any works financed wholly or partly out of the Public Fund, including 1[“disposal of public asset and"] projects of public-private partnership, unless excluded otherwise by Government;
+(n) “Regulations” means regulations made under this Act;
+(o) “Rules” means rules made under this Act;
+(p) 2[“Services” includes physical, maintenance, professional, intellectual, consultancy or advisory services but does not include appointment of an individual to a post or office, advertisement, arbitration, conciliation or mediation services, services of an advocate in a court case or any other services specifically excluded under the rules;]
+(q) “Works” means any construction work (including electrical and mechanical work) consisting of erection, assembly, repair, renovation, or demolition of a building or structure or part thereof, such as site preparation, excavation, installation of equipment or materials and decoration, finishing and includes incidental services such as drilling, mapping, satellite photography, seismic investigations and similar activities, if the value of those services does not exceed that of the works themselves.
+
+====================================================================================================
+#5 | section 3 | 790 chars
+The Sindh Public Procurement Act, 2009 — Chapter ll: Establishment of the Authority — Section 3
+3. (1) There shall be established an Authority to be called the Sindh Establishment of the Public Procurement Regulatory Authority for carrying out the Authority.
+purposes of this Act.
+(2) The Authority shall be a body corporate, having perpetual succession and a common seal with powers subject to the provisions of this Act, to acquire and hold property, both movable 1 Inserted word by Sindh Act no XX of 2025, dated 18th august,2025.
+2 Substituted vide SGA&CD Notification No. PAS/LEGIS-B-01/2018 dated 31st January, 2018.
+5 and immovable, and, sue and be sued by the name assigned to it by sub-section (1).
+(3) The headquarters of the Authority shall be at Karachi and it may establish its offices at such other place or places in the Province of Sindh, as it may consider appropriate.
+
+====================================================================================================
+#6 | section 4 | 206 chars
+The Sindh Public Procurement Act, 2009 — Chapter ll: Establishment of the Authority — Section 4
+4. Government may, as and when it considers necessary, issue Power of directives to the Authority on matters of policy, and such Government to directives shall be binding on the Authority. Issue Directives.
+
+====================================================================================================
+#7 | section 5 | 2049 chars
+The Sindh Public Procurement Act, 2009 — Chapter ll: Establishment of the Authority — Section 5
+5. (1) Subject to other provisions of this Act, the Authority may take Functions and such measures and exercise such powers as may be necessary for Powers of the improving governance, management, transparency, accountability Authority.
+and quality of public procurement of goods, services and works in the public sector, as well as in collaboration with the private sector.
+(2) Without prejudice to the generality of the powers conferred by sub-section (1), the Authority may-
+(a) examine, evaluate, assess the application of laws, rules, regulations, policies and procedures in respect of or relating to, procurement and also make recommendations thereof;
+(b) conduct research and recommend to Government formulation of new laws, rules and policies, in respect of or related to public procurement and revisions therein;
+(c) make regulations and lay down codes of ethics and procedure relating to public procurement, inspection of standards and quality of goods, services and works;
+(d) provide and coordinate assistance to procuring agencies for developing and improving their institutional framework and public procurement activities;
+(e) study and report to Government on overall performance of procuring agencies and make recommendations for improvement in their institutional set up and practices;
+6
+(f) call any functionary of procuring agencies to provide assistance in its functions and call for any information from such agencies in pursuance of its objectives and functions;
+(g) to provide guidance to procuring agencies regarding implementation of laws, rules, procedures relating to public procurement;
+(h) organize and manage capacity building activities for the personnel of the procuring agencies;
+(i) provide for dispute resolution mechanism in line with the best international practices; and
+(j) perform any other function and exercise such powers as may be prescribed through the rules framed in pursuance of this Act and may be assigned to it by Government or that is incidental or consequential to any of the aforesaid functions.
+
+====================================================================================================
+#8 | section 6 | 2168 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 6
+6. (1) General directions and administration of the Authority and its Board.
+affairs shall vest in a Board which may exercise all powers, perform all functions and do all acts and things which may be exercised, performed or done by the Authority.
+(2) The Board shall consist of-
+(i) Minister for Law, Parliamentary Chairman Affairs and Criminal Prosecution Services;
+(ii) Chief Secretary; Vice Chairman
+(iii) Two Members of Provincial Members Assembly to be nominated by Speaker;
+(iv) Additional Chief Secretary Member (Development) Planning & 7 Development Department;
+(v) Secretary, Finance Department Member
+(vi) Secretary Law, parliamentary Affairs, Member Human Rights and Criminal Prosecution Service Department
+(vii) Secretary, Irrigation and Member power Department;
+(viii) Secretary, works & Member Services Department;
+(ix) Secretary, 1["Science & Information Technology"] Department; Member
+(x) Secretary (General Administration) Member Services, General Administration and Coordination Department;
+(xi) President of Karachi Chambers of Member Commerce & Industry or his nominee;
+(xii) Nominee of Pakistan Member Engineering Council;
+(xiii) A renowned professional Member in information Technology to be nominated by Government;
+(xiv) A renowned professional in Member management and financial sectors to be nominated by Government;
+(xv) A representative of Transparency Member International Pakistan, Karachi;
+(xvi) Two members from Civil Society Members to be nominated by Government;
+1 Substituted word by Sindh Act no XX of 2025, dated 18th august,2025.
+8
+(xvii) 1[****] (xviii) Managing Director Member
+(3) The Managing Director shall also act as a Secretary of the Board.
+(4) A member appointed from the private sector shall hold office for a period of three years and shall be entitled to such terms and conditions as the Board may determine.
+(5) A member from the private sector may, by writing in his hand addressed to the Chairman of the Board, resign his office.
+(6) A casual vacancy in the office of a private sector member shall be filled by appointment of another member from the private sector for the residue of the terms of his predecessor.
+
+====================================================================================================
+#9 | section 7 | 792 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 7
+7. (1) The meeting of the Board shall be presided over by the Meeting of the Chairman or, in his absence the Vice Chairman shall preside the Board.
+meeting of the Board.
+(2) Seven members shall constitute a quorum for a meeting of the Board requiring a decision by the Board.
+(3) The meeting of the Board shall be held at such times, places and in such manner as may be prescribed by regulation.
+(4) The members shall have reasonable notice of the time and place of the meeting and matters on which a decision by the Board shall be taken in such meeting.
+(5) The decision of the Board shall be taken by the majority of its members present and in case of a tie, the member presiding a meeting shall have a casting vote.
+1 Omitted Clause XVII by Sindh act no: XI of 2022, dated 23, august 2022.
+
+====================================================================================================
+#10 | section 9 | 1555 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 9
+9
+(6) All orders, determination and decision of the Board shall be taken in writing and shall be signed by the Managing Director.
+8. (1) Government shall select and appoint a full-time Managing Managing Director.
+Director to serve as member of the Board and shall be responsible for day to day administration of the Authority for such period and on such terms and conditions as determined by the Government on the recommendation of the Board.
+(2) The Managing Director Shall be appointed for three years and he shall be eligible for re-appointment but his total tenure shall in no case exceed six years.
+(3) No person shall be appointed or continue as Managing Director, if he-
+(a) has not been in public administration in BPS-20;
+(b) has been from private sector, not having less than 15 years of experience and rich exposure in public procurement;
+(c) has been convicted of an offence involving moral turpitude;
+(d) has been removed from service for misconduct;
+(e) has been adjudicated as insolvent;
+(f) is incapable of discharging his duties by reasons of physical or mental incapacity and has been so declared by a Medical Board appointed by Government; or
+(g) fail to disclose any conflict of interest at or withing the time provided for such disclosure by or under this Act or Contravene any of the provisions of this Act.
+(4) The Managing Director may, at any time, resign his office by writing under his hand addressed to Government.
+(5) The Managing Director shall be paid such salary and allowances as the Board may determine but his salary and
+
+====================================================================================================
+#11 | section 10 | 1523 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 10
+10 allowances shall not be varied to his disadvantage during his term of office.
+(6) The Managing director shall not, during the term of his office, engage himself to any other service, business, vocation or employment nor shall he before the expiration of one year thereof enter into employment or accept any advisory or consult relationship with any person engaged in public procurement activity: Provided that where the Managing Director is a Government servant there shall be no such restrictions on his employment after he has retired or transferred from the post of Managing Director; and where he Is from private sector he shall not have any direct or indirect financial interest or have any connection with any company engaged in public procurement activity for so long as he holds office and for a period of one year thereafter.
+(7) The Managing Director shall have power and responsibility to-
+(a) exercise administrative control over the personnel of the Authority;
+(b) exercise, in respect of the Authority, such other management administrative and financial powers as deemed appropriate by the Authority;
+(c) submit the annual budget proposals of the Authority to the Board;
+(d) prepare the annual report of the Authority for the Board and Government;
+(e) exercise such powers as the Board may delegate to him;
+and
+(f) act on behalf of the Authority, in any emergency, subject to the obligation to report such action to the Board at its next meeting and to seek the Board’s ratification of any action so taken.
+
+====================================================================================================
+#12 | section 11 | 1726 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 11
+11 Chapter IV Financial Provisions
+9. (1) There shall be established a Fund to be known as the Sindh Fund.
+Public Procurement Regulatory Authority Fund which shall vest in the Authority and shall be utilized by the Authority to meet the charges in connection with its functions under this Act.
+(2) To the credit of the Sindh Public Procurement Regularity Authority, a fund shall be placed comprising;
+(a) such sums as Government may, from time to time, allocate to it in the annual budget;
+(b) grants;
+(c) income from investment by the Authority; and
+(d) all other sums or properties which may in any manner become payable to, or vest in, the Authority in respect of any matter.
+(3) The Authority, while performing its functions and exercising its powers under the Act, shall exercise highest sense of prudence as far as expenditures are concerned.
+10. (1) The Fund shall be expended for the purpose of- Expenditure to be charged on the Fund.
+(a) Paying any expenditure lawfully incurred by the Authority, relating to remuneration of its members, employees, advisers, and consultants of the Authority, including provident fund contributions, superannuating allowances or gratuities, legal fees and costs as well as other fees and costs;
+(b) paying any other expenses, costs or expenditure properly incurred or accepted by the Authority in the performance of its functions or the exercise of its powers under this Act;
+(c) purchasing or hiring equipment, machinery and any other work and undertakings in the performance of its functions or the exercise of its powers under this Act;
+12
+(d) repaying any financial accommodation received; and
+(e) generally paying any expenses for carrying into effect the provisions of this Act.
+
+====================================================================================================
+#13 | section 12 | 399 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 12
+11. The authority may, from time to time and with the approval of Power to Obtain Government, accept grants from entities both domestic and Finances and international, including multilateral agencies for meeting any of its Receive Grants.
+obligations or performing of any of its functions.
+12. The Authority may invest its surplus funds in accordance with the Investment.
+instructions of Government.
+
+====================================================================================================
+#14 | section 13 | 368 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 13
+13. The Authority shall cause its accounts to be maintained properly Budget and and in respect of each financial year submit for approval of Accounts.
+Government by such date and in such form as may be specified by Government a statement showing the estimated receipts and current expenditure and the sums to be required from Government during the next financial year.
+
+====================================================================================================
+#15 | section 14 | 293 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 14
+14. The Authority shall cause proper accounts to be kept and shall Maintenance of after the end of each financial year cause to be prepared for that Accounts.
+financial year a statement of accounts of the Authority which shall include a balance sheet and an account of receipt and expenditure.
+
+====================================================================================================
+#16 | section 15 | 109 chars
+The Sindh Public Procurement Act, 2009 — Chapter III: Management and Administration of the Authority — Section 15
+15. The accounts of the Authority shall be audited every year through Audit.
+the Auditor General of Pakistan.
+
+====================================================================================================
+#17 | section 16 | 538 chars
+The Sindh Public Procurement Act, 2009 — Chapter V: Regulatory and Other Provision — Section 16
+16. (1) The Authority may call for any information required by it for Information.
+carrying out the purposes of this Act, from any person or any institution in public procurement activities; and any such person or institution shall provide the required information called by the Authority.
+(2) The Authority shall furnish to Government such information with respect to the policies and procedures it is pursuing or proposes to pursue in the performance of any of its functions under this Act as Government may, from time to time, require.
+
+====================================================================================================
+#18 | section 17 | 314 chars
+The Sindh Public Procurement Act, 2009 — Chapter V: Regulatory and Other Provision — Section 17
+13
+17. Within three months from the end of each financial year, the Annual Report.
+Authority shall cause a report to be prepared on its activities including inquiries and investigations made by the Authority under this Act during that financial year and release to the public after it has been seen by the Cabinet.
+
+====================================================================================================
+#19 | section 18 | 424 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 18
+18. (1) The Authority may, from time to time and with its resources, Appointment of appoint such officers, servants, advisers, consultants and experts Officers and Staff as it may consider necessary for performance of its functions. etc.
+(2) The Authority shall by regulations prescribe the procedure for appointment of its officers, servants, advisers, consultants and experts and the terms and conditions of their service.
+
+====================================================================================================
+#20 | section 19 | 392 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 19
+19. The Chairman, members, Managing Director, officers, servants, Members, Officers, advisers, consultants and experts of the Authority shall, when etc. to be Public acting or purporting to act in pursuance of any of the provisions of Servant.
+this Act or the rules and regulations made there under, be deemed to be public servants within the meaning of section 21 of the Pakistan Penal Code.
+
+====================================================================================================
+#21 | section 20 | 359 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 20
+20. The Authority may, by such conditions and limitations as it may Delegation.
+deem fit to impose, delegate any of its functions or powers to the Managing Director, or one or more members or any of its officers except the power to-
+(a) approve audited accounts;
+(b) recommend exemption under section 21; and
+(c) make or repeal regulation made under this Act.
+
+====================================================================================================
+#22 | section 21 | 927 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 21
+21. (1) 1[Notwithstanding anything contained in this Act or any other Power to Exempt.
+law and rules or regulations made thereunder, for the time being in force, Government shall have the power to grant exemption to procurement of an object or class of objects in the national interest from the operations of this Act or any other law or rules or regulations made thereunder regulating public procurement.
+1 Substituted section 21 by Sindh act no IV of 2013, dated 1st march 2013.
+14
+(2) The Authority may also, for reasons to be recorded in writing, recommend to Government that the procurement of an object or class of object in the national interest be exempted from the operation of this Act or any other law regulating public procurement and Governments on such recommendations may, if it deems fit, exempt the aforesaid object or class of object from the operation of such laws and rules and regulations made thereunder.]
+
+====================================================================================================
+#23 | section 22 | 208 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 22
+22. No act or proceedings of the Authority or the Board shall be Validity of invalid by reason only of the existence of a vacancy in, or defect in Proceedings.
+the constitution of, the Authority or the Board.
+
+====================================================================================================
+#24 | section 23 | 320 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 23
+23. No suit, prosecution, or other legal proceedings shall lie against Indemnity.
+the Authority, the Board, the Chairman or any member, officer, servants, adviser or consultant of the Authority in respect of anything in good faith done or intended to be done under this Act or the rules and regulations made there under.
+
+====================================================================================================
+#25 | section 24 | 400 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 24: Common Seal
+24. (1) The Authority shall have a common seal and such seal shall be Common Seal.
+kept by the Managing Director or such other person as the Chairman may authorize.
+(2) The seal shall be authenticated in the same manner as may be prescribed by Regulation and any document purported to be sealed with the seal so authenticated shall be receivable as evidence of the particulars stated in the document.
+
+====================================================================================================
+#26 | section 25 | 227 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 25: Winding Up
+25. NO provision of law relating to winding up of bodies corporate Winding Up.
+shall apply to the Authority and the Authority shall not be wound up except by the orders of Government in the same manner as Government may direct.
+
+====================================================================================================
+#27 | section 26 | 149 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 26: Government may, by notification in the official Gazette make rules Powers of for carrying out the purposes of this Act
+26. Government may, by notification in the official Gazette make rules Powers of for carrying out the purposes of this Act. Government to Make Rules.
+
+====================================================================================================
+#28 | section 27 | 367 chars
+The Sindh Public Procurement Act, 2009 — Chapter VI: Miscellaneous — Section 27
+27. The Authority may make regulations, not inconsistent with the Powers of the provisions of this Act and the rules made there under, for carrying Authority to Make out the purposes of this Act. Regulations.
+15 THE SINDH PUBLIC PROCUREMENT RULES, 2010 16 THE SINDH PUBLIC PROCUREMENT RULES, 2010 TABLE OF CONTENTS Rule no. PAGE NO.
+1. Short Title and Commencement 23
+
+====================================================================================================
+#29 | passage  | 367 chars
+The Sindh Public Procurement Act, 2009 — Part I: General Provisions
+2. Definitions 23
+3. Scope and Applicability 29
+4. Principles of procurements 29
+5. Conflict with International and Inter-Governmental 29 Agreements
+6. Language 29
+7. Constitution of a Procurement Committee and Quorum 29
+8. Functions and Responsibilities of Procurement Committee(s) 30 MAINTENANCE OF RECORD
+9. Record of Procurement Proceedings 30
+10. Transparency 30
+
+====================================================================================================
+#30 | passage  | 1526 chars
+The Sindh Public Procurement Act, 2009 — Part II: Procurement of Goods, Works and Related Services Procurement Planning — part 1 of 2
+11. Procurement Plan 31
+12. Limitation on Splitting or Regrouping of Proposed 31 Procurement
+13. Specifications 32
+14. Approval Mechanism 32 17 THE SINDH PUBLIC PROCUREMENT RULES, 2010 Rule No Page No.
+METHODS OF PROCUREMENTS
+15. Types of Bidding 32 15-A. Unsolicited Proposal 34 15-B. Entering into Framework Contract 35
+16. Alternate Methods of Procurement 35 NOTIFICATION AND ADVERTISEMENTS
+17. Methods of Notification and Advertisement 38
+18. Response Time 40
+19. Exceptions 40
+20. Provision of Bidding Documents 40
+21. Contents of Bidding Documents 41 21(A) Evaluation Criteria 42
+22. Extension of Time Period for Submission of Bids 42
+23. Clarification and Modification of Bidding Documents 43
+24. Submission of Bids 43
+25. Cancellation of Bidding Process 43
+26. Re-issuance of Tenders 44 PRE-QUALIFICATION AND DIS-QUALIFICATION OF SUPPLIERS AND CONTRACTORS
+27. Pre-qualification of Suppliers and Contractors 44 18 THE SINDH PUBLIC PROCUREMENT RULES, 2010 Rule No. Page No.
+28. Process of Pre-qualification 45
+29. Eligibility 47
+30. Disqualification of Suppliers, Contractors and Consultants 48 REDRESSAL OF GRIEVANCES AND SETTLEMENT OF DISPUTES
+31. Mechanism for Redressal of Grievances 48
+32. Appeal to the Review Committee 50 32(A). Declaration of Mis-Procurement and Its Consequences 53
+33. Matters not Subject to Appeal or Review 53
+34. Arbitration 53
+35. Blacklisting of Suppliers, Contractors and Consultants 54
+36. Reservation and Preference 55
+37. Bid Security 55
+38. Bid Validity 56
+39. Performance Security 57
+
+====================================================================================================
+#31 | passage  | 707 chars
+The Sindh Public Procurement Act, 2009 — Part II: Procurement of Goods, Works and Related Services Procurement Planning — part 2 of 2
+40. Force Majeure 58 OPENING, EVALUATION AND REJECTION OF BIDS
+41. Opening of Bids 58
+42. Evaluation of Bids 59
+43. Clarification of Bids 59 19 THE SINDH PUBLIC PROCUREMENT RULES, 2010
+44. Discriminatory and Difficult Conditions 60
+45. Announcement of Evaluation Reports 60
+46. Procedures of Open Competitive Bidding 60
+47. Conditions for Use of Various Procedures 65 ACCEPTANCE OF BIDS AND AWARD OF PROCUREMENT CONTRACTS
+48. Acceptance of Bids 65
+49. Award of Contract 65
+50. Publication of the Award of Contract 66
+51. Debriefing 66
+52. Bar on Negotiations 66
+53. Confidentiality 66
+54. On Account Payments 66
+55. Entry into Force of the Procurement Contract 67
+56. [Deleted] 67
+57. Closing of Contract 67
+
+====================================================================================================
+#32 | passage  | 1021 chars
+The Sindh Public Procurement Act, 2009 — Part III: Procuring Consulting Services General Provision
+58. Applicability 67
+59. [Deleted] 68
+60. [Deleted] 68
+61. Selection of Consultancy Services 68 20 THE SINDH PUBLIC PROCUREMENT RULES, 2010
+62. Bar on Hiring in Cases of Conflict of Interest 68
+63. Hiring of Government Officials and Academics 68
+64. Equal Access to Information 69
+65. Rights and Obligations of the Procurement Agency and 69 Consultants
+66. Steps in the Selection Process 69
+67. Consultant Selection Committee 69
+68. Quorum 70
+69. [Deleted] 71
+70. Decision by Simple Majority 71
+71. Functions and Responsibilities of the Committee 71
+72. Methods for Selection of Consultants 71
+73. Request for Expression of Interest or Request for Proposal 74
+74. Criteria for Shortlisting of Consultants 75
+75. Request for Proposals 75
+76. Criteria for Evaluation of Quality of Consulting Services 77
+77. Association Between Consultants 77
+78. Intellectual Property Rights 77
+79. Extent of Contract Negotiation 77
+80. Professional Liability of Consultants 78 21 THE SINDH PUBLIC PROCUREMENT RULES, 2010 Rule No. Page No.
+
+====================================================================================================
+#33 | passage  | 368 chars
+The Sindh Public Procurement Act, 2009 — Part IV: Public Private Partnership Projects
+81. Public Private Partnership Projects 78
+82. Procurement Process under Public Private Partnership 79 82-A Constitution of Complaint Redressal Committee 82-B Fixation of Bid Security
+83. Negotiations 82
+84. Bid Evaluation 83
+85. Award of Contract 84
+86. Hiring of International Financial Institutions 87
+87. Power to Frame Procedures 88
+88. Removal of Difficulties 88
+
+====================================================================================================
+#34 | passage  | 87 chars
+The Sindh Public Procurement Act, 2009 — Part V: General
+89. Integrity Pact 88
+90. Overriding Effect 88
+91. Repeal and Saving 88 22 NOTIFICATION
+
+====================================================================================================
+#35 | rule 1 | 198 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Rule 1
+1. (1) These rules shall be called the Sindh Public Procurement Rules, Short Title and 2010. Commencement
+(2) They shall come into force at once
+(3) They shall be applicable throughout the province.
+
+====================================================================================================
+#36 | rule 2 | 1546 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(a) to (j)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context;
+(a) “Act” means Sindh Public Procurement Act, 2009;
+(b) “Authority” means the Sindh Public Procurement Regulatory Authority established under Section 3 of Sindh Public Procurement Act, 2009;
+(c) “Best evaluated Bid” means in case of Public Private Partnership Projects, a bid, which attains the highest score under criteria laid down in Rule 84, read with respective bidding documents;
+(d) “Bid” means a tender, or an offer by a person, consultant, firm, company or an organization expressing willingness to undertake a specified task at a price, in response to an invitation by a procuring agency;
+(e) 1[XXX]
+(f) 2[“Bidder” means a person or entity;
+(i) Submitting a bid; or
+(ii) who intends to submit a bid and is able to substantially prove such intension;]
+1 Omitted vide SGA&CD Notification No.SORI(SGA&CD)2-30/2010 dated 8th October,2013 2 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 23
+(g) 1[“Bidding Documents” means the documents notified by the Authority for preparation of bids in uniform manner;]
+(h) “Bidding Process” means the procurement procedure under which sealed bids are invited, received, opened, examined and evaluated for the purpose of awarding a contract;
+(i) “Blacklisting” means barring 2[or debarring] a bidder, contractor, consultant or supplier from participating in any future procurement proceedings by the procuring agency;
+(j) “Calendar Days” means days including all holidays;
+
+====================================================================================================
+#37 | rule 2 | 1777 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(k) to (m)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context; [...]
+(k) “Competent Authority” means an officer of the procuring agency empowered to exercise financial powers and approve the award of contract for procurement of goods, works or services, as the case may be;
+(l) “Conflict of Interest” means-
+(i) Where a contractor, supplier or consultant provides, or could provide, or could be perceived as providing biased professional advice to a procuring agency to obtain an undue benefit for himself or those affiliated with him;
+(ii) receiving or giving any remuneration directly or indirectly in connection with the assignment except as provided in the contract;
+(iii) any engagement in consulting or other procurement activities of a contractor, consultant or service provider that conflicts with his role or relationship with the procuring agency under the contract;
+(iv) where an official of the procuring agency engaged in the procurement process has a financial or economic interest in the outcome of the process of procurement, in a direct or an indirect manner;
+(m) “Consultant” means a professional who can study, design, organize evaluate and manage projects or assess, evaluate and 1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated dated 15th March,2019 24 provide specialist advice or give technical assistance for making or drafting policies, institutional reforms and includes private entities, consulting firms, legal advisors, engineering firms, construction managers, management firms, procurement agents, inspection agents, auditors, international and multinational organizations, investment and merchant banks, universities, research institutions, government agencies, non- governmental organizations and individuals;
+
+====================================================================================================
+#38 | rule 2 | 1617 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(n) to (ii)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context; [...]
+(n) “Consulting Services” means services of an advisory and intellectual nature provided by consultants using their professional skills to study, design, organize and manage projects, encompassing multiple activities and disciplines, including the crafting of sector policies and institutional reforms, specialist advice legal advice and integrated solutions, change management and financial advisory services, planning and engineering studies and architectural design services, supervision, social and environmental assessments, technical assistance, and programme implementation;
+(o) “Contract” means an agreement enforceable by law and includes general and special conditions, specifications, drawings and bill of quantities;
+(p) “Contractor” means a person, firm, company or organization that undertakes to execute works including services related thereto, other than consulting services, incidental to or required for the contract being undertaken for the works;
+(q) “Corrupt and Fraudulent Practices” means either one or any combination of the practices given below;
+(i) “Coercive Practice” means any impairing or harming, or threatening to impair or harm, directly or indirectly, any party or the property of the party to influence the actions of a party to achieve a wrongful gain or to cause a wrongful loss to another party;
+(ii) “Collusive Practice” means any arrangement between two or more parties to the procurement process or contract execution, designed to achieve with or without the knowledge of the procuring agency to establish prices at artificial, noncompetitive levels for any wrongful gain;
+25
+
+====================================================================================================
+#39 | rule 2 | 2088 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(iii) to (r)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context; [...]
+(iii) “Corrupt Practice” means the offering, giving, receiving or soliciting, directly or indirectly, of anything of value to influence the acts of another party for wrongful gain;
+(iv) “Fraudulent Practice” means any act or omission, including a misrepresentation, that knowingly or recklessly misleads, or attempts to mislead, a party to obtain a financial or other benefit or to avoid an obligation;
+(v) “Obstructive Practice” means harming or threatening to harm, directly or indirectly, persons or their property to influence their participation in a procurement process, or affect the execution of a contract or deliberately destroying, falsifying, altering or concealing of evidence material to the investigation or making false statements before investigation or making false statements before investigators in order to materially impede an investigation into allegations of a corrupt, fraudulent, coercive or collusive practice; or threatening, harassing or intimidating any party to prevent it from disclosing its knowledge of matters relevant to the investigation or from pursuing the investigation, or acts intended to materially impede the exercise of inspection and audit rights provided for under the Rules;
+(r) “Emergency” means natural calamities, disasters, accidents, war and breakdown of operational equipment, plant, machinery or engineering infrastructures, which may give rise to abnormal situation requiring prompt and immediate action to limit or avoid damage to person(s), property or the environment;
+(r-i) 1[“e-Procurment” means use of information and communication technologies or digital or electronic means for procurement process;]
+(r-ii) 2[“Framework Contract” means a contract whereby the procurement is made for a certain volume or quantity of a particular good, a set of goods or services and works over a 1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 29th September,2023.
+2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March,2019 26 specific period against an agreed sum or rate (lump sum or per item);]
+
+====================================================================================================
+#40 | rule 2 | 1645 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(s) to (cc)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context; [...]
+(s) 1[XXX]
+(t) “Government” means the Government of Sindh;
+(u) “Head of the Department” means the administrative head of the department or the organization;
+(v) 2[*] 3[****]
+(w) “Lowest Submitted Price” means the lowest price quoted in a bid, which is otherwise not substantially responsive;
+(x) 4[XXX]
+(y) “National company or Firm” means any enterprise, firm or company set up or incorporated in Pakistan;
+(z) “Notice Inviting Tender” means the notice issued by a procuring agency through publication in the newspapers or through electronic means for the purpose of inviting bids or applications for prequalifications or expression of interests, which may include Tender Notice, Invitation for Bids, Notice for Pre-qualifications or Request for Expression of Interests;
+(aa) “Open Competitive Bidding” means a fair and transparent specified procedure defined under these Rules, advertised in the prescribed manner, leading to the award of a contract whereby all interested persons, firms, companies or organizations may bid for the contract and includes both National and International competitive Biddings;
+(bb) 5[XXX]
+(cc) 6[XXX] 1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October,2013 2 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 3 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 (P-I) dated 11th Aug,2021.
+4 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October,2013 5 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October,2013 6 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October,2013 27
+
+====================================================================================================
+#41 | rule 2 | 1161 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 2: Definitions [(dd) to (kk)]
+2. (1) In these rules, unless there is anything repugnant in the subject or Definitions context; [...]
+(dd) “Public Private Partnership” means a contractual arrangement between the public and private sectors, built on the expertise and resources of each partner that best meets clearly defined public needs through appropriate allocation of resources, risks and rewards;
+(ee) “Public Private Partnership Unit Sindh” or “Unit” means the entity established within the Finance Department, Government of Sindh under the Public Private Partnership institutional framework;
+1[(eee) 2[“*] [omitted]
+(ff) 3[XXX]
+(gg) [XXX]
+(hh) 4[XXX]
+(ii) “Supplier” means a person, firm, company or an organization that undertakes to supply goods and services related thereto, other than consulting services, required for the contract;
+(jj) “Value of Money” means best returns for each rupee spent in terms of quality, timeliness, reliability, after sales service, upgradeability, price, source and the combination of whole-life cost and quality to meet the procuring agency’s requirements.
+(kk) 5[XXX]
+(2) The expressions used but not defined in these rules shall have the same meanings as are assigned to them in the Act and, if not defined there, as in the ordinary usage of language.
+
+====================================================================================================
+#42 | rule 3 | 663 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 3: Scope and Applicability
+3. Scope and Applicability- Save as otherwise provided, these rules shall apply to all procurements for goods, works, services including 1 Omitted by SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 25thaugust,2025 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October,2013 4 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 5 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 28 consultancy services and public private partnership projects, carried out by all procuring agencies.
+
+====================================================================================================
+#43 | rule 4 | 293 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 4: Principles of Procurements
+4. Principles of Procurements- While procuring goods, works or services, procuring agencies shall ensure that procurements are conducted in a fair and transparent manner and the object of procurement brings value for money to the agency and the procurement process is efficient and economical.
+
+====================================================================================================
+#44 | rule 5 | 488 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 5: Conflict with International and Inter-Governmental Agreements
+5. Conflict with International and Inter-Governmental Agreements – In the event that these rules are inconsistent with, or in conflict with, any obligation or commitment of Government arising out of an international treaty or an agreement with a foreign country or countries or any international financial institution, the provisions of such international treaty or agreement shall override the provisions of these rules to the extent of that inconsistency or conflict as the case may be.
+
+====================================================================================================
+#45 | rule 6 | 465 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 6: Language
+6. Language
+(1) All communications and documentation related to procurements of Government shall be in English, Urdu or Sindhi;
+Provided that notice inviting tenders, notices for pre- qualifications and request for expressions of interest shall be issued in aforementioned three languages.
+(2) In case of any dispute, reference shall be made to the original documentation retained on record and decision shall be made in accordance with such original documentation.
+
+====================================================================================================
+#46 | rule 7 | 992 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 7: Constitution of a Procurement Committee and Quorum
+7. 1[Constitution of a Procurement Committee and Quorum-
+(1) The procuring agency shall, with the approval of its Head of the Department, constitute as many procurement committees, as it deems fit, each comprising odd number of persons and headed by a gazetted officer not below the rank of Bs-18 or if not available, the officer of the highest grade, and shall ensure that at least one of the members of the procurement committee is from the agencies or departments other than the procuring agency.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 29
+(2) The Procurement Committees comprising three members: all members shall form quorum;
+(3) The Procurement Committees comprising more than three members: two-third of the members shall form the quorum and presence of at least one outside member shall be mandatory.
+(4) The decision of the Procurement Committee shall be taken on the basis of majority of votes of the total strength of the committee.]
+
+====================================================================================================
+#47 | rule 8 | 471 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 8: Functions and Responsibilities of Procurement Committee(s)
+8. Functions and Responsibilities of Procurement Committee(s)- Procurement Committee(s) shall be responsible for;
+(1) 1[Preparing and/or Reviewing bidding documents;]
+(2) Carrying out technical as well as financial evaluation of the bids;
+(3) Preparing evaluation report as provided in Rule 45;
+(4) Making recommendations for the award of contract to the competent authority; and
+(5) Perform any other function ancillary and incidental to the above.
+MAINTENANCE OF RECORD
+
+====================================================================================================
+#48 | rule 9 | 315 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 9: Record of Procurement Proceedings
+9. Record of Procurement Proceedings
+(1) All procuring agencies shall maintain a record of their respective procurement proceedings along with all associated documentation for a minimum period of five years;
+(2) Such maintenance of record shall be subject to the regulations framed in this regard from time to time.
+
+====================================================================================================
+#49 | rule 10 | 686 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part I: General Provisions — Rule 10: Transparency
+10. Transparency- The procuring agency shall, immediately upon award of contract, make the evaluation report of the bid, and the contract agreement public through hoisting on the Authority’s website as well as on procuring agency’s website, if the procuring agency has such a website;
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 30
+Provided where the procuring agency is convinced that disclosure of any information related to the award of a contract shall be against the public interest or may jeopardize national security, it can withhold only such information from public disclosure, subject to the prior approval of the 1[Chief Minister.]
+
+====================================================================================================
+#50 | rule 11 | 1101 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 11: Procurement Plan (1) Mandatory Provision of Procurement Plan
+11. Procurement Plan
+(1) Mandatory Provision of Procurement Plan – All procuring agencies shall devise a mechanism for planning in detail for all proposed procurements, determining the requirement of the procuring agency, within its available resources, and prepare an annual or a longer term rolling plane, detailing the procurement methods applicable for specific procurements.
+(2) Review and Update – The procurement plan prepared for any project shall be reviewed and updated throughout the life of the project, such as estimates of time requirements, availability of funds, assumptions about institutional capacity, changing priorities and other factors that require plan adjustments for the success of the project. Such required adjustments will not invalidate the plan if made for improving the plan in the interests of the successful and timely completion of the project.
+(3) 2[The annual or longer rolling plan, as the case may be, thus prepared, shall be posted in advance on the Authority’s website as well as on website of the procuring agency, if the procuring agency has its own website]
+
+====================================================================================================
+#51 | rule 12 | 1099 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 12: Limitation on Splitting or Regrouping of Proposed Procurement
+12. 3[Limitation on Splitting or Regrouping of Proposed Procurement The procuring agency shall not split or package a procurement plan with the intention to shorten or facilitate the procurement process and approval mechanism, unless the procuring agency is satisfied that –
+(a) block acquisition of goods, services or works will unnecessarily hold up available resources;
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 31
+(b) technical reasons indicate that splitting or packaging will improve the quality;
+(c) the impact of weather, geographical spread on certain procurement particularly in case of works contract will affect its execution with regard to quality and delivery schedule:
+Provided that any splitting or packing shall be made part of the revised procurement plan and uploaded on the Authority’s website as well as on the website of the procuring agency, if functional.]
+
+====================================================================================================
+#52 | rule 13 | 677 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 13: Specifications
+13. Specifications
+(1) Specifications shall allow the widest possible competition and shall not favour any single contractor or supplier nor put others at a disadvantage. Specifications shall be generic and shall not include references to brand names, model numbers, catalogue numbers or similar classifications. However; if the procuring agency is convinced that the use of a reference to a brand name or a catalogue number is essential to complete an otherwise incomplete specification, such use or reference shall be qualified with the words ‘’or equivalent’’.
+(2) Procurement of used or reconditioned equipment, plant or machinery is not permissible in any case whatsoever.
+
+====================================================================================================
+#53 | rule 14 | 277 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 14: Approval Mechanism
+14. Approval Mechanism- All procuring agencies shall provide clear authorization and delegation of powers for different categories of procurement and shall only initiate procurements once approval of the competent authorities concerned has been accorded.
+METHODS OF PROCUREMENT
+
+====================================================================================================
+#54 | rule 15 | 2132 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 15: Types of Bidding (1) Open Competitive Bidding
+15. Types of Bidding
+(1) Open Competitive Bidding – Open competitive bidding shall be the principal method of procurement, save as otherwise provided;
+(2) There shall be two types of open competitive bidding, International Competitive Bidding and National Competitive Bidding.
+32
+(a) International Competitive Bidding
+(i) International Competitive Bidding is open to all interested parties, firms or individuals, whether national or international, but subject to Rule 29;
+(ii) International Competitive Bidding shall be the default method of procurement for all procurements with an estimated cost equivalent to US $ 10 million or above;
+(iii) A procuring agency may opt for International Competitive Bidding for procurements below the estimated cost equivalent to US $ 10 million if it is convinced that technological sophistication, technical expertise or professional capability of the satisfactory level is not available within the country and the best value for money cannot be obtained, if competition is restricted to the domestic companies, firms or parties;
+Provided that provisions of Rules 15 (2) (a) (iii) may be invoked only with prior approval of the Head of the Department.
+(b) National Competitive Bidding
+(i) National Competitive Bidding shall be the procedure wherein bidding is open only to interested national firms, companies or parties and international firms, companies or parties are not invited for the bidding.
+(ii) National Competitive Bidding shall be the principal method of procurement with an estimated cost below US $ 10 million or equivalent in local currency.
+(iii) A procuring agency may opt for National Competitive Bidding for procurements with an estimated cost equivalent to US $ 10 million or above, where the procuring agency is convinced that it is the most economical and timely way of procuring goods works or services which, by their nature or scope are unlikely to attract foreign competition;
+Provided that the Head of the Department of the procuring agency, while making decision to opt for the National 33 Competitive Bidding shall record reasons and justifications for his decision.
+
+====================================================================================================
+#55 | rule 15A | 1502 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 15A: Unsolicited Proposal
+1[*] 2[“15(A). Unsolicited Proposal.
+(1) In case of unsolicited proposal received for any engineering, procurement and construction project involving cost of one thousand million rupees and above, the procuring agency shall process the proposal through its Technical Committee to ascertain its viability and after such process if the proposal is found viable, the procuring agency-
+(a) shall advertise the proposal for open competition without disclosing the name of the initiator of unsolicited proposal;
+(b) shall conduct prequalification process;
+(c) shall exempt the initiator of the unsolicited proposal from the prequalification;
+(d) may, if no other bindder in response to the advertisement submits bid, award the contract to the initiator of the proposal;
+(e) shall, in case of bidding competition, give the first right of refusal to the initiator of the proposal, if the initiator does not emerge as the (Lowest Bidder); and
+(f) shall award five percent additional weightage to the initiator of the proposal from the combined score of technical and financial evaluation.
+(2) This rule shall apply to all projects other then the Public Private Partnership Projects to which the rule contained in Part-IV shall be applicable.”] 3[*] 1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 30th January, 2017 2 Substituted by SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 25th august,2025 3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 13th October, 2017 34
+
+====================================================================================================
+#56 | rule 15B | 507 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 15B: Entering into Framework Contract
+1[15(B). Entering into Framework Contract
+(1) Where the procuring agency has to make similar procurements at different intervals in a defined period of time and it excepts better price because of economies of scale, it may enter into a framework contract at specified prices during that define period.
+(2) Framework Contracts shall be concluded following open competitive bidding with one or more bidders to provide a range of goods, works and services over a defined period of time not exceeding one year.]
+
+====================================================================================================
+#57 | rule 16 | 1873 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 16: Alternate Methods of Procurements (1) A procuring agency may utilize following alternative methods or procurement of goods, services and works, namely [(a) to (ii)]
+16. Alternate Methods of Procurements
+(1) A procuring agency may utilize following alternative methods or procurement of goods, services and works, namely:-
+(a) Request for Quotations
+(i) request for quotation is the method based on comparing price quotations obtained from at least three suppliers, contractors and service providers, in the case of services other than consulting services, to assure competitive prices;
+(ii) a procuring agency shall engage in this method of procurement only if the following conditions exist;
+(A) the cost of object of procurement is below the prescribed limit of 2[*] 3[*] 4[*] 5[“one million rupees”] and above the financial limit prescribed for petty purchases as provided in clause (d);
+(B) the object of procurement has standard specifications;
+(C) the object of the procurement is purchased from the supplier offering the lowest price;
+(D) requests for quotations shall indicate the description and quantity of the goods or specifications of works, as well as 1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March,2019.
+2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March,2019 3 Substituted word by notification No. SORI (SGA&CD) 2-30/2010 dated 4th October 2024 4 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 29th September, 2023 5 Substituted words by SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 25th august 2025 35 desired delivery, or completion time and place. Quotations may be submitted by letter, facsimile or by electronic means;
+(E) the evaluation of quotations shall follow the same principles as applicable to open competitive bidding 1[and such evaluation may either be done by authorized officer(s) of the procuring agency or the procurement committee constituted in terms of Rule-7, as deemed appropriate by the procuring agency.]
+
+====================================================================================================
+#58 | rule 16 | 1674 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 16: Alternate Methods of Procurements (1) A procuring agency may utilize following alternative methods or procurement of goods, services and works, namely [(b) to (vi)]
+16. Alternate Methods of Procurements [...]
+(b) Direct Contracting- This method means procurement from a single source without competition and shall only be applicable under any of the following conditions:
+(i) standardization of equipment or spare parts, to be compatible with the existing equipment;
+Provided that the competent authority certifies in writing the compatibility of the equipment or spare part(s) to be procured;
+(ii) the required item(s) is of proprietary nature and obtainable only from one source;
+Provided that the Head of the Department certifies in writing the proprietary nature of the item(s) to be procured;
+(iii) the contractor responsible for a process design requires the purchase of critical items from a particular supplier as a condition of a performance guarantee;
+(iv) where civil works are to be contracted and are a natural extension of an earlier or ongoing job and it can be ascertained that the engagement of the same contractor will be more economical and will ensure compatibility of results in terms of quality of work subject to clause
+(e) below;
+(v) where a change of supplier would oblige the procuring agency to acquire material having different technical specifications or characteristics and would result in incompatibility or disproportionate technical difficulties in operation and maintenance;
+1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 36
+Provided that the competent authority certifies in writing the compatibility of the materials to be procured;
+(vi) when the price of goods, works and service related thereto, is fixed by Government or any other authority, agency or body duly authorized by the Government, on its behalf;
+
+====================================================================================================
+#59 | rule 16 | 1506 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 16: Alternate Methods of Procurements (1) A procuring agency may utilize following alternative methods or procurement of goods, services and works, namely [(vii) to (d)]
+16. Alternate Methods of Procurements [...]
+(vii) for purchase of locally manufactured motor vehicle from local manufacturers or their authorized agents at manufacturer’s price;
+(viii) in cases of emergency;
+Provided that the Head of the Department or any other officer not below BS-20 to whom such powers have been delegated by the Head of the Department, declares that a situation of emergency has arisen and reason for making such a declaration shall be recorded in writing.
+(c) Force Account- means construction by the use of the procuring agency’s own personnel and equipment and shall only be used for the works under the following conditions;
+(i) quantities of work to be done cannot be defined in advance;
+(ii) works are small and scattered or in remote locations for which qualified construction firm(s) is unlikely to bid at reasonable prices;
+(iii) works are required to be carried out without disrupting ongoing operations;
+(iv) in case of emergencies;
+Provided that the competent authority declares that a situation of emergency has arisen and reasons for making such a declaration shall be recorded in writing.
+(d) Petty Purchases- Procuring agencies may provide for petty purchases, where the object of the procurement is below the 37 financial limit of 1[one hundred] thousand rupees. Such procurement shall be exempt from the requirements of bidding or quotation of prices;
+Provided that procuring agencies shall ensure that the procurement of petty purchases is in conformity with the principles of procurement prescribed in Rule 4.
+
+====================================================================================================
+#60 | rule 16 | 839 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 16: Alternate Methods of Procurements (1) A procuring agency may utilize following alternative methods or procurement of goods, services and works, namely [(e) to (iii)]
+16. Alternate Methods of Procurements [...]
+(e) Repeat Orders- means procurement of additional quantities of the item(s) from the original contractor or supplier, where, after the items originally envisaged for the project or scheme have been procured through open competitive bidding, and such additional quantities of the same item(s) of goods or works are needed to meet the requirements of the project or scheme;
+Provided that;
+(i) the cost of additional quantities of item(s) shall not exceed 15% of the original contract amount;
+(ii) the original supplier and contractor are willing to supply goods or carry out additional work on the same prices as agreed in the original contract; and
+(iii) in case of goods, it shall be permissible only within the same financial year, and in case of works, during the currency of the project(s) or scheme(s).
+NOTIFICATION AND ADVERTISEMENTS
+
+====================================================================================================
+#61 | rule 17 | 1502 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 17: Methods of Notification and Advertisement [(1) to (3)]
+17. Methods of Notification and Advertisement
+(1) Procurements over 2[**3[*] 4[one million rupees] and up to two million] rupees shall be advertised by timely notifications on the Authority’s website and may in print media in the manner and format prescribed in these rules.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Substituted word by notification No. SORI (SGA&CD) 2-30/2010 dated 4th October,2024.
+4 Substituted word by notification No. SORI (SGA&CD) 2-30/2010 dated 25th august 2025.
+38 1[(1A) All procurement opportunities over 2[*] 3[three] million rupees shall be advertised on the Authority’s website as well as in the newspapers as prescribed.]
+(2) The advertisement in the newspapers shall appear in at least three widely circulated leading dailies of English, Urdu and Sindhi languages.
+(3) The notice inviting tender shall contain the following information:
+(a) name, postal address, telephone number(s), fax number, e-mail address (if available) of the procuring agency;
+(b) purpose and scope of the project;
+(c) schedule of availability of bidding documents, submission and opening of bids mentioning place from where bidding documents would be issued, submitted and would be opened;
+(d) amount and manner of payment of tender fee and bid security;
+(e) any other information that the procuring agency may deem appropriate to disseminate at this stage;
+
+====================================================================================================
+#62 | rule 17 | 969 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 17: Methods of Notification and Advertisement [(4) to (6)]
+17. Methods of Notification and Advertisement [...]
+(4) In case, the procuring agency has its own website; it shall also post all advertisements concerning procurement on that website as well;
+(5) A procuring agency utilizing electronic media shall ensure that the information posted on the website contains all the information mentioned in sub-rule (3) above;
+(6) In the case of international competitive bidding, the notice shall be advertised in two widely circulated local English language newspapers in accordance with sub-rules (1) (3) (4) and (5) above, and shall also be posted in English language on an internationally known website dedicated for the particular goods, works or services, or any widely circulated English international newspaper.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 3 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 29th October, 2023 39
+
+====================================================================================================
+#63 | rule 18 | 608 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 18
+18. 1[Response Time – The procuring agency shall give due consideration to the scope, magnitude and nature of procurement, while deciding the response time, which shall not be less than fifteen calendar days in case of National Competitive Bidding, and thirty calendar days in case of International Competitive Bidding; 2[XXX]
+Provided 3[xxx] that the Notice Inviting Tender (NIT) shall be hoisted on Authority’s website in case of procurements upto rupees 4[*] 5[three] million and published in newspapers in case of over rupees 6[*] 7[three] million on or before the date of issuance of bidding documents.]
+
+====================================================================================================
+#64 | rule 19 | 972 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 19: Exceptions- Under following circumstances deviation from the requirements under Rules 17 and 18 is permissible
+19. Exceptions- Under following circumstances deviation from the requirements under Rules 17 and 18 is permissible –
+(1) In cases of emergency, minimum time periods, specified in Rule 18 may be reduced subject to the prior approval with reasons to be recorded by the Head of Department or an officer not below BS-20 who has been delegated such powers.
+(2) In cases of procurement related to national security, the requirement of advertisements and publication under Rule 17 may be waived, provided the Head of Department declares beforehand that such a publication could jeopardize national security objectives.
+(3) The requirement of advertisement and publication under Rule 17 may be waived in a case of procurement, if it relates to disclosure of information, which is proprietary in nature or falls within the definition of intellectual property, which is available from a single source provided that, the approval of the Head of Department has been sought beforehand.
+
+====================================================================================================
+#65 | rule 20 | 950 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 20: Provision of Bidding Documents
+20. Provision of Bidding Documents
+(1) The procuring agency shall provide the bidding documents to all interested bidders in accordance with the procedures and requirements specified in the Notice Inviting Tender.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March,2019 3 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 4 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 5 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2023 6 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 7 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2023 40
+(2) The procuring agency may charge a fee for bidding documents, which shall not exceed the cost of preparation and printing.
+
+====================================================================================================
+#66 | rule 21 | 2157 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 21: Contents of Bidding Documents (1) The Bidding Documents shall include the following information
+21. Contents of Bidding Documents
+(1) The Bidding Documents shall include the following information –
+(a) letter of invitation for bid;
+(b) data sheet containing information about the assignment;
+(c) instructions for preparing bids;
+(d) amount and manner of payment of bid security and performance guarantee (where applicable);
+(e) manner and place, date and time for submission of bidding documents;
+(f) manner, place, date and time of opening of bids;
+(g) method of procurement used;
+(h) a detailed and unambiguous evaluation criteria;
+(i) terms and conditions of the contract agreements, as far as already known by the procuring agency;
+(j) terms of references and technical specifications of goods, works or services to be procured, subject to Rule 13;
+(k) manner in which tender price is to be assessed and computed, including information about tax liability;
+(l) currency in which tender price is to be formulated and expressed;
+(m) bid validity period;
+(n) a copy of integrity pact to be signed by the parties;
+(o) any other information which is specified in regulations to be issued by the Authority.
+41
+(2) Any information, that becomes necessary for bidding or for bid evaluation, after the invitation to bid or issue of the bidding documents to the interested bidders, shall be provided in a timely manner and on equal opportunity basis. Where notification of such change, addition, modification or deletion becomes essential, such notification shall be made in a manner similar to the original advertisement.
+(3) Procuring agencies shall use standard bidding documents as and when notified by the Authority:
+Provided that bidding documents already in use of procuring agencies may be retained in their respective usage to the extent they are not inconsistent with these rules and till such time that the standard bidding documents are notified.
+(4) 1[All procuring agencies shall hoist the bidding documents or prequalification documents or shortlisting documents, as the case may be, on or before the first date of issuance of such documents on Authority’s website as well as on the website of procuring agency, in case it has its own website.]
+
+====================================================================================================
+#67 | rule 21A | 393 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 21A: Evaluation Criteria
+21-A. 2[Evaluation Criteria - The procuring agencies shall formulate an appropriate evaluation criterion, listing all the relevant information against which a bid is to be evaluated and criteria of such evaluation shall form an integral part of the bidding documents. The failure to provide a clear and unambiguous evaluation criteria in the bidding documents shall amount to mis-procurement.]
+
+====================================================================================================
+#68 | rule 22 | 899 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 22: Extension of Time Period for Submission of Bids
+22. Extension of Time Period for Submission of Bids - The procuring agency may extend the deadline for submission of bids only, if one or all of the following conditions exist –
+(1) Fewer than three bids have been submitted and procurement committee is unanimous in its view that wider competition can be ensured by extending the deadline. In such case, the bids submitted shall be returned to the bidders un-opened.
+(2) If the procuring agency is convinced that such extraordinary circumstances have arisen owing to law and order situation or a natural calamity that the deadline should be extended:
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March,2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 42
+Provided that the advertisement of such extension in time shall be made in a manner similar to the original advertisement.
+
+====================================================================================================
+#69 | rule 23 | 793 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 23: Clarification and Modification of Bidding Documents
+23. Clarification and Modification of Bidding Documents
+(1) An interested bidder, who has obtained bidding documents, may request for clarification of contents of the bidding document in writing, and procuring agency shall respond to such queries in writing within three calendar days, provided they are received at least five calendar days prior to the date of opening of bid:
+Provided that any clarification in response to a query by any bidder shall be communicated to all parties who have obtained bidding documents.
+(2) Procuring Agency shall re-issue the Notice Inviting Tenders, in accordance with Rules 17 and 18, if it is convinced that there is a material infirmity or ambiguity in the bidding documents, which cannot be addressed without modifying the contents of bidding documents.
+
+====================================================================================================
+#70 | rule 24 | 568 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 24: Submission of Bids
+24. Submission of Bids
+(1) Bids shall be submitted on the place, date and time and in the manner specified in the tender notice and bidding documents and any bid submitted late due to any reason whatsoever, shall not be considered by the procurement committee.
+(2) 1[The Bidders may submit bids on the bidding documents issued by the procuring agency or downloaded from the Authority’s website along with tender fee if any by mail or by hand.]
+2[Provided that in case of e-procurement, the bids shall be submitted through designated e-procurement system of Authority.]
+
+====================================================================================================
+#71 | rule 25 | 821 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 25: Cancellation of Bidding Process
+25. Cancellation of Bidding Process
+(1) A procuring agency may cancel the bidding process at any time prior to the acceptance of a bid or proposal.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 29th October, 2023 43
+(2) The procuring agency shall incur no liability towards the bidders, solely by virtue of its invoking sub-rule (1).
+(3) 1[Intimation of the cancellation of bidding process shall be immediately hoisted on the Authority’s website and procuring agency’s website followed by prompt return of bid security;]
+(4) The procuring agency shall, upon request by any of the bidders, communicate to such bidder, grounds for the cancellation of bidding process, but is not required to justify such grounds.
+
+====================================================================================================
+#72 | rule 26 | 451 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 26: Re-issuance of Tenders
+26. Re-issuance of Tenders - The procuring agency may re-issue tenders in case, the bidding process has been cancelled, as provided in Rule 25 or one of the following conditions exist –
+(1) Such an infirmity in the bidding documents has surfaced that the procurement committee recommends to the competent authority that the bids have to be invited afresh.
+(2) The case has been declared as one of mis-procurement, in pursuance of 2[Rule 32 and 32- A:]
+
+====================================================================================================
+#73 | rule 27 | 1719 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 27: Prequalification of Suppliers and Contractors
+PREQUALIFICATION AND DISQUALIFICATION OF SUPPLIERS AND CONTRACTORS
+27. Prequalification of Suppliers and Contractors –
+(1) A procuring agency, may engage in prequalification of bidders 3[XXXX] in the following cases –
+(a) in case of contracts for large and complex works and services related to, in which there are high costs of preparing detailed bids;
+(b) in the contracts to be let under turnkey, design and build, or management contract;
+(c) in case of expensive and technically complex equipment and works with a view to ensuring that invitations to bid are 1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 3 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 9th October, 2013 44 extended only to those who have adequate capabilities, competence and resources;
+1[(d) in case of drugs and services of complex nature.]
+(2) Prequalification of bidders shall be based entirely upon the capability, competence and resources of the bidders relevant to performance in the particular assignment, taking into account the following –
+(a) experience and past performance on similar assignments;
+(b) capabilities with respect to construction or manufacturing facilities,
+(c) financial capability;
+(d) capabilities with respect to personnel, equipment, and plant;
+(e) appropriate managerial capability; and
+(f) any other factor that is relevant to the capability, competence and resources required for accomplishment of the assignment:
+Provided that prequalification may be carried out only for specific procurement contract and shall be applicable only to that particular assignment.
+
+====================================================================================================
+#74 | rule 28 | 1773 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 28: Process of Prequalification [(a) to (d)]
+28. Process of Prequalification –
+(1) To pre-qualify for bidding on a specific contract or package –
+(a) Invitation to prequalify on specific contract or package shall be advertised and notified as per Rules 17 and 18;
+(b) Procuring agency shall provide a set of pre-qualification documents containing scope of contract, a clear set of requirements for qualification and evaluation criteria to any supplier or contractor, subject to payment of price, if any, which shall not exceed the limit, as prescribed in these Rules, and shall indicate the time and place where the documents can be obtained. 2[The procuring agency shall also hoist 1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 45 prequalification documents along with list of all components of schemes on the Authority’s website and on its own website, if such website exists, along with pre-qualification notice;]
+Alternatively, if the procuring agency does not wish to issue prequalification documents, it shall include the scope of work and a clear set of requirements for pre-qualification and the evaluation criteria in the notice for prequalification;
+(c) All applicants found capable of carrying out the assignments in accordance with the approved pre-qualification criteria shall be pre-qualified and invited to submit bids;
+(d) Verification of the information provided by the shortlisted applicants in the submissions for pre-qualification may be made. In case the information is found to be wrong or incorrect in any material way or the applicant is found to be lacking in the capability or resources to successfully perform the contract, the application shall not be prequalified;
+
+====================================================================================================
+#75 | rule 28 | 656 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 28: Process of Prequalification [(e) to (g)]
+28. Process of Prequalification – [...]
+(e) 1[Procuring agency shall announce the result of prequalification evaluation in a form of a report. The report shall be hoisted on the website of the Authority and that of the procuring agency if its website exists and intimated to each and every applicant at least seven days prior to issuance of invitation of bids.;]
+(f) Procuring agency shall, on written request of the applicant(s) communicate to the applicant(s) the reasons for not pre- qualifying them, though it shall not be obliged to justify these reasons;
+(g) Only suppliers or contractors, who have been pre-qualified shall be entitled to participate further in the procurement proceedings.
+
+====================================================================================================
+#76 | rule 28 | 674 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 28: Process of Prequalification [(2) to (3)]
+28. Process of Prequalification – [...]
+(2) The procuring agency, shall mention, in the pre-qualification documents –
+(a) all information required for pre-qualification, pertaining to the factors mentioned at Rule 27 (2);
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 46
+(b) instructions for preparation and submission of the pre- qualification documents;
+(c) evaluation criteria;
+(d) list of documentary evidence required from the applicants to demonstrate their respective qualifications;
+(e) any other information that the procuring agency deems necessary for prequalification.
+(3) In case of pre-qualification of consultants, provisions of Rules 73 and 74 shall apply.
+
+====================================================================================================
+#77 | rule 29 | 1550 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 29
+29. Eligibility - All interested bidders, national or international, firms and individuals, shall be allowed to bid for any project where international competitive bidding is adopted;
+(1) Competition may be restricted only in the following cases;
+(a) as a matter of law or official regulations, commercial relations are prohibited with the bidder’s country by the federal government; or
+(b) a firm is blacklisted or debarred by the procuring agency, and the matter has been reported to the Authority, subject to Rule 35.
+(2) Government owned enterprises or institutions may participate only if they can establish that they are –
+(a) legally and financially autonomous; and
+(b) operate under commercial law:
+Provided that where government owned universities or research centers in the country are of a unique and exceptional nature, and their participation is critical to project implementation, they may be allowed to participate;
+(3) For the purposes of Part II of the Rules, bidders shall include all those contractors or suppliers and providers of services related thereto or consultants that are registered or incorporated in Pakistan, irrespective of the nationality of their owners and of their professional staff.
+47
+(4) There shall be no enlistment or registration of contractors, suppliers and consultants by any procuring agency, and bidding shall not be restricted in any manner, except as otherwise provided in these Rules:
+Provided that registration with professional institutions in respective fields shall apply as required by the law.
+
+====================================================================================================
+#78 | rule 30 | 739 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 30: Disqualification of Suppliers, Contractors and Consultants
+30. Disqualification of Suppliers, Contractors and Consultants
+(1) The procuring agency shall disqualify a supplier, consultant or contractor, whether already pre-qualified or not, if it finds at any time, that the information submitted by him concerning his qualification and professional, technical, financial, legal or managerial competence as supplier, consultant or contractor, was false and materially inaccurate or incomplete; or
+(2) At any stage has indulged in corrupt and fraudulent practices, as defined in these rules.
+(3) A supplier, contractor or consultant being aggrieved by the decision of the procuring agency regarding disqualification may seek relief through the mechanism of grievance redressal, as provided under Rule
+
+====================================================================================================
+#79 | rule 31 | 2143 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 31: REDRESSAL OF GRIEVANCES AND SETTLEMENT OF DISPUTES 31 [(1) to (4)]
+31.
+REDRESSAL OF GRIEVANCES AND SETTLEMENT OF DISPUTES
+31. Mechanism for Redressal of Grievances
+(1) The procuring agency shall constitute a committee for complaint redressal comprising odd number of persons, with appropriate powers and authorizations, to address the complaints of bidders that may occur during the procurement proceedings 1[prior to award of contract.]
+(2) The committee shall be headed by head of the procuring agency or an official of the procuring agency, at least one rank senior to the head of the procurement committee and shall include the following –
+(a) District Accounts Officer, or his representative, in case of the local governments or provincial line departments at district level, or a representative of the Accountant General, Sindh in case of Government departments at the provincial level;
+1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 48
+(b) An independent professional from the relevant field concerning the procurement process in question, to be nominated by the head of procuring agency;
+1[(3) Any bidder being aggrieved by any act or decision of the procuring agency after the issuance of notice inviting tender may lodge a written complaint;]
+(4) The complaint redressal committee upon receiving a complaint from an aggrieved bidder may, if satisfied;
+(a) prohibit the procurement committee from acting or deciding in a manner, inconsistent with these rules and regulations;
+(b) annul in whole or in part, any unauthorized act or decision of the procurement committee; and
+Provided while re-issuing tenders, the procuring agency may change the specifications and other contents of bidding documents, as deemed appropriate.
+(bb) 2[recommend to the Head of Department that the case be declared a mis-procurement if material violation of Act, Rules, Regulations, Orders, Instructions or any other law relating to public procurement, has been established; and.]
+(c) reverse any decision of the procurement committee or substitute its own decision for such a decision:
+Provided that the complaint redressal committee shall not make any decision to award the contract.
+
+====================================================================================================
+#80 | rule 31 | 1356 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 31: REDRESSAL OF GRIEVANCES AND SETTLEMENT OF DISPUTES 31 [(5) to (15)]
+31. REDRESSAL OF GRIEVANCES AND SETTLEMENT OF DISPUTES 31. Mechanism for Redressal of Grievances [...]
+(5) 3[The complaint redressal committee shall announce its decision within seven days and intimate the same to the bidder and the Authority within three working days. If the committee fails to arrive at the decision within seven days, the complaint shall stand transferred to the Review Committee which shall dispose of the complaint in accordance with the procedure laid down in rule 32,] 4[if the aggrieved bidder files the review appeal within ten (10) days of such transfer;]
+1 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 3 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 4 Added vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 49
+(6) The Procuring Agency shall award the contract after the decision of the complaint redressal committee.
+(7) Mere fact of lodging of a complaint shall not warrant suspension of the procurement proceedings;
+Provided that in case of failure of the Complaint Redressal Committee to decide the complaint; the procuring agency shall not award the contract. 1[until the expiry of appeal period or the final adjudication by the Review Committee.]
+(8) 2[XXX]
+(9) *[XXX]
+(10) *[XXX]
+(11) *[XXX]
+(12) *[XXX]
+(13) *[XXX]
+(14) *[XXX]
+(15) *[XXX]
+
+====================================================================================================
+#81 | rule 32 | 1516 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 32: Appeal to the Review Committee [(1) to (4)]
+32. Appeal to the Review Committee
+(1) A bidder not satisfied with decision of the procuring agency's complaints redressal committee may lodge an appeal to the Review Committee 3[within ten (10) days of announcement of the decision] provided that he has not withdrawn the bid security. if any, deposited by him.
+(2) The Review Committee shall comprise the following –
+(a) Managing Director;
+1 Added vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 50
+(b) 1[“Representative of Planning and Development Board, Sindh, Planning and Development Department, Government of Sindh, not below the rank of BPS – 19.”]
+(c) Two private members represented on the SPPRA Board;
+(d) An independent professional having expertise of relevant field concerning the procurement in question.
+(3) The Managing Director shall be the Chairperson of the Review Committee and the private members shall be selected by the SPPRA Board for a period not exceeding two years.
+2[“(3-A)- The Quorum of the Review Committee shall be fifty percent of the total membership of the Committee including at least one private member of Board”]
+(4) The independent professional shall be nominated by the Managing Director for each reference and paid remuneration for attending the meeting of Review Committee at a rate prescribed by the Authority from time to time;
+
+====================================================================================================
+#82 | rule 32 | 2144 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 32: Appeal to the Review Committee [(5) to (7)]
+32. Appeal to the Review Committee [...]
+(5) The bidder shall submit following documents to the Review Committee:-
+(a) a letter stating his wish to appeal to the Review Committee and the nature of complaint;
+(b) a copy of the complaint earlier submitted to the complaint redressal committee of the Department and all supporting documents;
+(c) copy of the decision of Procuring Agency / Complaint Redressal Committee. 3[, if any.]
+(6) On receipt of appeal, 4[along with all requisite information & documents] the Chairperson shall convene a meeting of the Review Committee within seven working days;
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 (5-13/P-II) dated 19th November,2021.
+2 Inserted sub-rule (3-A) by SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 4th October 2024.
+3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 4 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 51
+(7) Unless the Review Committee recommends dismissal of an appeal being frivolous, in which case the bidder may lose the bid security deposited with the procuring agency, the Review Committee may –
+(a) reject the reference, stating its reason; 1[ and vacate the bar provided for in the proviso of sub-rule (7) of Rule – 31;]
+(b) state the rules or principles that govern the subject matter of the reference;
+(c) point out the infirmities and breach of rules and regulations by the procuring agency;
+(d) annul in whole or in part of a non-compliant act or decision of a procuring agency, other than any act or decision bringing the procurement contract into force;
+(e) if the procuring agency is in breach of its obligations under the Act, Rules or Regulations, order the payment of compensation by the officer(s) responsible for mis-procurement for cost incurred by the bidder on preparation of bid; or
+(f) direct that the procurement proceedings may be terminated, in case the procurement contract has not been signed;
+(g) declare the case to be one of mis-procurement if material violation of Act, Rules, Regulations, Orders, Instructions or any other law relating to public procurement, has been established.
+
+====================================================================================================
+#83 | rule 32 | 1653 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 32: Appeal to the Review Committee [(8) to (1)]
+32. Appeal to the Review Committee [...]
+(8) It shall be mandatory for the appellant and the head of procuring agency or his nominee not below the rank of BS-I9 to appear before the Review Committee as and when called and produce documents. if required.
+(9) In case the appellant fails to appear twice despite the service of notice of appearance, the appeal may be decided ex-parte.
+(10) The Review Committee shall hear the parties and announce its decision within ten working days of submission of appeal. 2[However, in case of delay, reasons thereof shall be recorded in writing.]
+1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Added vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 52
+(11) 1[The decision of Review Committee shall be final and binding upon the procuring agency. After the decision has been announced, the appeal and the decision thereof shall be hoisted by the Authority on its website.]
+2[32(A). Declaration of Mis-Procurement and Its Consequences
+(1) Notwithstanding anything contained in Rule-32 (7) (g) –
+(a) the Head of the Department on his own initiation or on recommendation of the Complaint Redressal Committee of the Department may declare the case to be of mis-procurement, if any material violation of provisions of the Act, Rules, Regulations, Orders, Instructions or any other law relating to public procurement, has been established.
+(b) The Authority may take notice of any material violation of provisions of the Act. Rules, Regulations, Orders, Instructions or any other law relating to public procurement and declare the case to be of mis-procurement if such violation has been established.
+
+====================================================================================================
+#84 | rule 32 | 414 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 32: Appeal to the Review Committee [(2)]
+32. Appeal to the Review Committee [...]
+(2) On declaration of mis-procurement; the head of the procuring agency, the Authority or the Review Committee shall refer the case to the Competent Authority for initiation of disciplinary proceedings against the officials of the procuring agency responsible for mis- procurement and may also refer the matter to the Sindh Enquiries and Anti-Corruption Establishment for initiating action against such officials.]
+
+====================================================================================================
+#85 | rule 33 | 278 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 33: Matters Not Subject to Appeal or Review
+33. Matters Not Subject to Appeal or Review - The following actions of the procuring agency shall not be subject to the appeal or review:
+(1) Selection method adopted by the procurement committee;
+(2) Decision by the procuring agency under Rule 25 to cancel the bidding process.
+
+====================================================================================================
+#86 | rule 34 | 496 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 34: Arbitration
+34. Arbitration- (1) After coming into force of the procurement contracts, disputes between the parties to the contract shall be settled by arbitration.
+1 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 53
+(2) The procuring agencies shall provide for a method of arbitration in the procurement contract, not inconsistent with the laws for the time being in force in Pakistan.
+
+====================================================================================================
+#87 | rule 35 | 2111 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 35: Blacklisting of Suppliers, Contractors And Consultants
+35. Blacklisting of Suppliers, Contractors And Consultants –
+(1) The following shall result in blacklisting of suppliers, contractors, or consultants, individually or collectively as part of consortium:
+(a) conviction for fraud, corruption, criminal misappropriation, theft, forgery, bribery or any other criminal offence;
+(b) involvement in corrupt and fraudulent practices while obtaining or attempting to obtain a procurement contract;
+(c) final decision by a court or tribunal of competent jurisdiction that the contractor or supplier is guilty of tax evasion;
+(d) willful failure to perform in accordance with the terms of one or more than one contract;
+(e) failure to remedy underperforming contracts, as identified by the procuring agency, where underperforming is due to the fault of the contractor, supplier or consultant;
+(2) Procuring agency may, on its own motion, or information provided by any party, carry out an investigation to determine, whether there is sufficient cause for blacklisting a contractor, consultant or supplier. If the procuring agency is satisfied that such a cause exists, it shall initiate the process of blacklisting in accordance with the procedure laid down in regulations to be issued by the Authority.
+(3) As a result of the scrutiny process, as mentioned above in sub-rule
+(2), the procuring agency may take one of the following decisions ;
+(a) contractor or consultant or supplier may be blacklisted;
+(b) contractor or consultant or supplier may be debarred temporarily, specifying the time period;
+(c) contractor or consultant or supplier may be blacklisted if he fails to take the specified remedial actions within a specified time period:
+54
+Provided that the procuring agency shall duly publicize and communicate its decision to the Authority, other Government departments, and also hoist on its own website.
+1[(4) Any party being aggrieved by the decision of the procuring agency may submit an appeal to the Authority, which shall refer the matter to the Review Committee. which shall decide the matter as provided in sub-rules (5) to (11) of rule 32.]
+(5) 2[XXX]
+
+====================================================================================================
+#88 | rule 36 | 694 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 36: Reservations And Preference
+36. Reservations And Preference
+(1) Procuring agencies shall allow all interested bidders to participate in procuring procedure without regard to nationality, except in cases in which any procuring agency decides to limit such participation to national bidders only or prohibit participation of bidders of some nationalities, in accordance with these rules or policy of the Federal Government.
+(2) Procuring agencies shall allow for a preference to domestic or national suppliers, contractors or consultants in accordance with the policies of the Government. The magnitude of price preference to be accorded shall be clearly mentioned in the bidding documents under the bid evaluation criteria.
+
+====================================================================================================
+#89 | rule 37 | 1845 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 37: Bid Security
+37. 3[Bid Security 4[“(1) The procuring agency shall require the bidders to furnish a fixed amount of bid security not exceeding five percent of the estimated value of procurement determined by the procuring agency.”];
+(2) The bid security shall be called in the form of Deposit at Call or Pay Order or Demand Draft or a Bank Guarantee issued by a scheduled bank in Pakistan or from a foreign bank duly counter guaranteed by a scheduled bank in Pakistan in favour of the procuring agency valid for a period of 28 days beyond the Bid Validity date.
+1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th March, 2013 3 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 4 Substituted word by notification No. SORI (SGA&CD) 2-30/2010 dated 25th august 2025.
+55 1[(3) The procuring agency shall get the bid security verified by the issuing authority.”]
+(4) In case of cancellation of bidding process in terms of Rule 25, the bid security shall be returned to the bidders, not later than fifteen (15) days from the date of cancellation notice.
+(5) Bid security shall be forfeited in following circumstances if –
+(a) a bidder requests to withdraw his or its bid after opening but within the bid validity period;
+(b) successful bidder fails to furnish performance security;
+(c) successful bidder fails to sign the contract;
+(d) a bidder does not accept the correction of the quoted amount following the correction of arithmetic errors.
+(e) a bidder has been found black listed by any agency of Federal or Provincial Government.]
+2[“(6) The bid security shall be released to the unsuccessful bidders within seven day, once the contract has been signed with the successful binder or the validity period has expired.”]
+
+====================================================================================================
+#90 | rule 38 | 2091 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 38: Bid Validity
+38. Bid Validity
+(1) A procuring agency, keeping in view nature of procurement, shall subject the bid to a validity period, which shall be specified in the bidding document and shall not be more than 90 days in case of National Competitive Bidding and 120 days in case of International Competitive Bidding.
+(A) 3[The bid validity period shall start from the date of opening of technical or financial bids, whichever is earlier;]
+(2) Extension of bid validity may be allowed subject to approval by the competent authority of the procuring agency, and with reasons to be recorded in writing:
+1 Substituted word by notification No. SORI (SGA&CD) 2-30/2010 dated 25th august 2025 2 Added sub rule (6) vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010, dated 4th October,2024.
+3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 56
+Provided that if validity period has to be extended due to some slackness on the part of procuring agency, the competent authority shall fix responsibility and take appropriate disciplinary action;
+(3) After obtaining such approval, the procuring agency, shall request in writing all bidders to extend the bid validity period. Such a request shall be made before the date of expiry of the original bid validity period.
+(4) Such an extension shall not be for more than 1[XXX] of the original period of bid validity.
+(5) In case the procuring agency fails to finalize the bid evaluation within the extended time, the bids shall stand cancelled and a fresh bidding process shall be initiated.
+(6) Whenever an extension of bid validity period is requested, a bidder shall have the right to refuse to grant such an extension and withdraw his bid and bid security shall be returned forthwith.
+(7) Bidders who –
+(a) agree to extension of the bid validity period shall also extend validity of the bid security for the agreed extended period of the bid validity;
+(b) agree to the procuring agency’s request for extension of bid validity period shall neither be requested nor permitted to change the price or other conditions of their bids.
+
+====================================================================================================
+#91 | rule 39 | 1330 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 39: Performance Security
+39. Performance Security 2[(1) The procuring agency shall, in all procurement of goods, works and services, carried out through open competitive bidding, require performance security in the form of Deposit at Call or pay Order or Demand Draft or a Bank Guarantee issued by a scheduled bank in Pakistan or from a foreign bank duly counter guaranteed by a scheduled bank in Pakistan in favour of the procuring agency, which shall not be more than 10% of contract price;]
+(2) The security shall be provided in an appropriate form and amount, as provided in the bidding documents;
+1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 57
+(3) 1[Validity of performance security shall extend to cover defects liability period or maintenance period, if any, and subject to final acceptance by the procuring agency;]
+(4) 2[The procuring agency shall get the performance security verified in the following form or manner:
+(a) All performance securities of contracts with estimated cost upto Rs.50.00 million (Rupees fifty million) shall be verified by the issuing agency;]
+(b) All performance securities of contracts with estimated cost above Rs.50.00 million shall be verified by the Head Office of the issuing agency;]
+
+====================================================================================================
+#92 | rule 40 | 325 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 40: Force Majeure
+40. Force Majeure- The conditions of contract shall stipulate that failure on the part of the parties to perform their obligations under the contract will not be considered a default if such failure is the result of an event of force majeure as defined in the conditions of contract.
+OPENING, EVALUATION AND REJECTION OF BIDS
+
+====================================================================================================
+#93 | rule 41 | 1558 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 41: Opening of Bids
+41. Opening of Bids
+(1) The date for opening of bids and the last date for the submission of bids shall be the same, as given in the bidding documents and in the Notice Inviting Tender.
+(2) Subject to provisions of Rule 18, in case, the two dates are different, the date and time, given in the bidding documents shall apply.
+(3) The bids shall be opened within one hour of the deadline for submission of bids.
+(4) All bids shall be opened publicly in the presence of all the bidders, or their representatives, who may choose to be present in person, at the time and place announced in the invitation to bid.
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 58
+(5) The procuring agency shall read aloud the name of the bidder and total amount of each bid, and of any alternative bids if they have been permitted, shall be read aloud and recorded when opened.
+(6) All bidders in attendance shall sign an attendance sheet.
+(7) All bids submitted after the time prescribed as well as those not opened and read out at bid opening, due to any procedural flaw, shall not be considered, and shall be returned without being opened.
+(8) The official chairing procurement committee shall encircle the rates and all the members of procurement committee shall sign each and every page of financial proposal.
+(9) The procurement committee shall issue the minutes of the opening of the tenders and shall also mention over writing or cutting, if any.
+
+====================================================================================================
+#94 | rule 42 | 722 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 42: Evaluation of Bids
+42. Evaluation of Bids
+(1) All bids shall be evaluated in accordance with the evaluation criteria and other terms and conditions set forth in the bidding documents.
+(2) For the purpose of comparison of bids quoted in different currencies, price shall be converted into a single currency specified in the bidding documents. The rate of exchange shall be the selling rate prevailing seven working days before the date of opening of the bids specified in the bidding documents, as notified by the State Bank of Pakistan.
+(3) A bid once opened in accordance with the prescribed procedure shall be subject to only those rules, regulations and policies that are in force at the time of issuance of notice for invitation of bids.
+
+====================================================================================================
+#95 | rule 43 | 489 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 43: Clarification of bids
+43. Clarification of bids (1) No bidder shall be allowed to alter or modify his bid(s) after the expiry of deadline for the receipt of the bids:
+Provided that the procuring agency may ask the bidders for clarifications needed to evaluate the bids but shall not permit any bidder to change the substance or price of the bid.
+(2) Any request for clarification in the bid, made by the procuring agency, shall invariably be in writing. The response to such request shall also be in writing.
+59
+
+====================================================================================================
+#96 | rule 44 | 379 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 44: Discriminatory and Difficult Conditions
+44. Discriminatory and Difficult Conditions – Save as otherwise provided, no procuring agency shall introduce any condition which discriminates among bidders. In ascertaining the discriminatory nature of any condition reference shall be made to the ordinary practices of that trade, manufacturing, construction business or service to which that particular procurement is related.
+
+====================================================================================================
+#97 | rule 45 | 393 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 45: Announcement of Evaluation Reports
+45. 1[Announcement of Evaluation Reports- Procuring agencies shall announce the results of bid evaluation in the form of a report giving reasons for acceptance or rejection of bids. The report shall be hoisted on website of the Authority and that of the procuring agency if its website exists and intimated to all the bidders at least 2[three (3) working days] prior to the award of contract.]
+
+====================================================================================================
+#98 | rule 46 | 1628 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 46: Procedures of Open Competitive Bidding [(1)]
+46. Procedures of Open Competitive Bidding - Save as otherwise provided in these rules, the following procedures shall be permissible for open competitive bidding.
+(1) Single Stage – One Envelope Procedure
+(a) Notice Inviting Tenders and bidding documents of this method shall contain the following eligibility criteria;
+(i) relevant experience;
+(ii) turn-over of at least last three years;
+(iii) 3[registration with Federal Board of Revenue (FBR), for Income Tax, Sales Tax in case of procurement of goods, Registration with the Sindh Revenue Board
+(SRB) in case of procurement of works and services and registration with Pakistan Engineering Council (where applicable]:
+4[“Provided that the bidder shall be on Active Tax payer List (ATL) of Federal Board of Revenue (FBR) or Sindh Revenue Board (SRB), as the case may be, failing to which the bidder shall not be eligible to take part in bid; and”.]
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 5th December, 2016 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 24th April, 2017 3 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 23rd October, 2014 4 Added proviso vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010, dated 4th October,2024.
+60
+(iv) any other factor deemed to be relevant by the procuring agency subject to provision of Rule 44;
+(b) each bid shall comprise one single envelope containing the financial proposal and required information mentioned at clause (a) above;
+(c) all bids received shall be opened and evaluated in the manner prescribed in the Notice Inviting Tenders or bidding document.
+
+====================================================================================================
+#99 | rule 46 | 1423 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 46: Procedures of Open Competitive Bidding [(2)]
+46. Procedures of Open Competitive Bidding - Save as otherwise provided in these rules, the following procedures shall be permissible for open competitive bidding. [...]
+(2) Single Stage – Two Envelope Procedure
+(a) bid shall comprise a single package containing two separate envelopes. Each envelope shall contain separately the financial proposal and the technical proposal;
+(b) envelopes shall be marked as “FINANCIAL PROPOSAL” and
+“TECHNICAL PROPOSAL” in bold and legible letters to avoid confusion;
+(c) initially, only the envelope marked “TECHNICAL PROPOSAL” shall be opened;
+(d) envelope marked as “FINANCIAL PROPOSAL” shall be retained in the custody of the procuring agency without being opened;
+(e) procuring agency shall evaluate the technical proposal in a manner prescribed in advance, without reference to the price and reject any proposal which does not conform to the specified requirements,1[“ and technical evaluation report shall be communicated to the bidders at least seven days prior to opening the financial bid”];
+(f) no amendments in the technical proposal shall be permitted during the technical evaluation;
+(g) financial proposals of technically qualified bids shall be opened publicly at a time, date and venue announced and communicated to the bidders in advance;
+(h) financial proposal of bids found technically non-responsive shall be returned un-opened to the respective bidders; and 1 inserted words by notification No. SORI (SGA&CD) 2-30/2010 dated 25th august 2025 61
+(i) bid found to be the 1[Most Advantageous Bid], or best evaluated bid shall be accepted.
+
+====================================================================================================
+#100 | rule 46 | 1682 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 46: Procedures of Open Competitive Bidding [(a) to (v)]
+46. Procedures of Open Competitive Bidding - Save as otherwise provided in these rules, the following procedures shall be permissible for open competitive bidding. [...]
+(3) Two Stage Bidding Procedure
+(a) First Stage;
+(i) bidders are invited to submit, according to the required specifications, a technical proposal without price, which shall be subject to technical as well as commercial clarifications and adjustments;
+(ii) technical proposal shall be evaluated in accordance with the specified evaluation criteria and may be discussed with all the bidders together regarding any technical features that may require technical as well as commercial clarifications and adjustments;
+(iii) after such discussions, all the bidders shall be permitted to revise their respective technical proposals to meet the requirements of the procuring agency;
+(iv) procuring agency may revise, delete, modify or add any aspect of the technical requirements or evaluation criteria, or it may add new requirements or criteria not inconsistent with these rules:
+Provided that such revisions, deletions, modifications or additions are communicated to all the bidders equally at the time of invitation to submit final bids, and that sufficient time is allowed to the bidders to prepare their revised bids:
+Provided further that such allowance of time shall not be less than fifteen days in the case of National Competitive Bidding and 2[thirty] days in the case of International Competitive Bidding;
+(v) The bidders not willing to conform their respective bids to the procuring agency’s technical requirements may 1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 (P-I) dated 11th Aug, 2021.
+2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 62 be allowed to withdraw from the bidding without imposition of any penalty.
+
+====================================================================================================
+#101 | rule 46 | 973 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 46: Procedures of Open Competitive Bidding [(b) to (iv)]
+46. Procedures of Open Competitive Bidding - Save as otherwise provided in these rules, the following procedures shall be permissible for open competitive bidding. [...]
+(b) Second Stage
+(i) bidders shall be allowed to amend their technical proposals in order to ensure conformance to the same technical standards;
+(ii) bidders submit the revised technical proposals along with financial proposals;
+(iii) the financial proposals of only those bidders whose original or revised technical proposals are found to be conforming to the agreed technical standards and requirements, shall be opened at a time, date and venue announced and communicated to the bidders in advance;
+(iv) the revised technical proposals and the financial proposals shall be evaluated in the manner prescribed above. The bid found to be the 1[Most Advantageous Bid] shall be accepted:
+Provided that in setting the date for the submission of the revised technical proposal and financial proposal a procuring agency shall allow sufficient time to the bidders to incorporate the agreed upon changes in the technical proposal and prepare their financial proposals accordingly.
+
+====================================================================================================
+#102 | rule 46 | 2150 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 46: Procedures of Open Competitive Bidding [(4)]
+46. Procedures of Open Competitive Bidding - Save as otherwise provided in these rules, the following procedures shall be permissible for open competitive bidding. [...]
+(4) Two Stage – Two Envelope Bidding Procedure
+(a) First Stage
+(i) Big shall comprise a single package containing two separate envelopes. Each envelope shall contain separately the financial proposal and the technical proposal;
+(ii) envelopes shall be marked as “FINANCIAL PROPOSAL” and
+“TECHNICAL PROPOSAL” in bold and legible letters to avoid confusion;
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 (P-I) dated 11th Aug, 2021.
+63
+(iii) initially, only the envelope marked “TECHNICAL PROPOSAL” shall be opened;
+(iv) envelope marked as “FINANCIAL PROPOSAL” shall be retained in the custody of the procuring agency without being opened;
+(v) technical proposal shall be discussed with all the bidders or their representatives present together with reference to the procuring agency’s technical requirements;
+(vi) the bidders willing to meet the requirements of the procuring agency shall be allowed to revise their technical proposals following these discussions;
+(vii) bidders not willing to conform their technical proposal to the revised requirements of the procuring agency shall be allowed to withdraw their respective bids without forfeiture of their bid security.
+(b) Second Stage
+(i) bidders who are willing to conform to the revised technical specifications and whose bids have not already been rejected shall submit a revised technical proposal and supplementary financial proposal, according to the revised technical requirement;
+(ii) revised technical proposal along with the original financial proposal and supplementary financial proposal shall be opened at a date, time and venue announced in advance by the procuring agency:
+Provided that in setting the date for the submission of the revised technical proposal and supplementary financial proposal a procuring agency shall allow sufficient time to the bidders to incorporate the agreed upon changes in the technical proposal and to prepare the required supplementary financial proposal; and
+(iii) procuring agency shall evaluate the whole proposal in accordance with the evaluation criteria and the bid 64 found to be the 1[Most Advantageous Bid] shall be accepted.
+
+====================================================================================================
+#103 | rule 47 | 1157 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 47: Conditions for Use of Various Procedures
+47. Conditions for Use of Various Procedures –
+(1) Single Stage One Envelope Bidding Procedure shall be used as the standard bidding procedure for procurement of goods, works and services of simple and routine nature and where no technical complexity or innovation is involved.
+(2) Single Stage Two Envelope Bidding Procedure shall be used for goods 2[works] and services where the bids are to be evaluated on technical grounds and price is taken into account after technical evaluation;
+(3) Two Stage Bidding Procedure shall be adopted in large and complex contracts where technically unequal proposals are likely to be encountered or where the procuring agency is aware of its options in the market but, for a given set of performance requirements, there are two or more equally acceptable 3[technical solutions of machinery or equipment or manufacturing plant available to the procuring agency]; and
+(4) 4[Two Stage Two Envelope Bidding procedure shall be used for procurement where alternative technical proposals are possible, such as certain type of machinery or equipment or manufacturing plant.]
+ACCEPTANCE OF BIDS AND AWARD OF PROCUREMENT CONTRACTS
+
+====================================================================================================
+#104 | rule 48 | 296 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 48: Acceptance of Bids
+48. Acceptance of Bids- Even when only one bid is submitted, the bidding process may be considered valid, if the bid was advertised in accordance with rules, and prices are comparable to 5[PC-1 cost or financial estimates or] the prices or rates of the last awarded contract or the market prices.
+
+====================================================================================================
+#105 | rule 49 | 745 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 49: Award of Contract
+49. Award of Contract- The bidder with the 6[Most Advantageous Bid], but not necessarily the lowest submitted price, shall be awarded the 1 Submitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 P-I dated 11th August, 2021 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 19th March, 2018 3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 4 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 5 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 6 Submitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 P-I dated 11th August, 2021 65 procurement contract, within the original or extended period of bid validity.
+
+====================================================================================================
+#106 | rule 50 | 470 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 50: Publication of the Award of Contract
+50. Publication of the Award of Contract- 1[Within fifteen (15) days of signing of contract,] procuring agency shall publish on the website of the Authority and on its own website, if such a website exists, the results of the bidding process, identifying the bid through procurement identifying number, if any, and the following information –
+(1) 2[Contract] Evaluation Report;
+(2) Form of Contract and Letter of Award;
+(3) Bill of Quantities or Schedule of Requirement.
+
+====================================================================================================
+#107 | rule 51 | 370 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 51: Debriefing
+51. Debriefing-
+(1) A bidder may ask the procuring agency for reasons for non- acceptance of his bid and may request for a debriefing meeting and procuring agency shall give him the reasons for such non-acceptance, either in writing or by holding a debriefing meeting with such a bidder.
+(2) The requesting bidder shall bear all the costs of attending such a debriefing.
+
+====================================================================================================
+#108 | rule 52 | 171 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 52: Bar on Negotiations
+52. Bar on Negotiations - Save as otherwise provided there shall be no negotiations with the bidder having submitted the 3[Most Advantageous Bid] or with any other bidder.
+
+====================================================================================================
+#109 | rule 53 | 211 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 53: Confidentiality
+53. Confidentiality - The procuring agency shall keep all information regarding the bid evaluation confidential until the time of announcement of evaluation report in accordance with the requirements of Rule 45.
+
+====================================================================================================
+#110 | rule 54 | 207 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 54: On Account Payments
+54. On Account Payments - All procuring agencies shall make payments to suppliers, consultants and contractors against their invoices or running bills within the time given in the conditions of the contract,
+
+====================================================================================================
+#111 | rule 55 | 816 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 55: Entry into Force of the Procurement Contract
+55. Entry into Force of the Procurement Contract- A procurement contract shall come into force when the procuring agency signs a contract, the date on which the signatures of both the procuring agency 1 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Submitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 P-I dated 11th August, 2021 66 and the successful bidder are affixed to the written contract. Such affixing of signatures shall take place within the time prescribed in the bidding documents:
+Provided that where coming into force of a contract is contingent upon fulfilment of a certain condition(s), the contract shall take effect from the date whereon such fulfilment takes place.
+
+====================================================================================================
+#112 | rule 56 | 10 chars | table
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 56
+56. 1[XXX]
+
+====================================================================================================
+#113 | rule 57 | 1044 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part II: Procurement of Goods, Works and Related Services Procurement Planning — Rule 57: Closing of Contract
+57. Closing of Contract -
+(1) Except for defect liability or maintenance by the supplier, consultant or contractor, as specified in the conditions of contract, performance of the contract shall be deemed close on the issue of overall delivery certificate, certificate of completion of deliverables, or taking over certificate which shall be issued within thirty days of final taking over of goods or receiving the deliverables or completion of works enabling the supplier or contractor to submit final bill and the procuring agency to carry out any inspection of goods, works or services related thereto, as provided in the contract agreement and auditors to do substantial audit.
+(2) In case of defect liability or maintenance periods, defect liability certificate shall be issued within thirty days of the expiry of the said period enabling the supplier or contractor to submit the final bill.
+(3) Except for unsettled claims, which shall be resolved through arbitration, and shall be paid within the time given in the conditions of contract.
+
+====================================================================================================
+#114 | rule 58 | 380 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 58: Applicability
+58. Applicability-
+(1) Subject to provisions of Part I and II, Part III shall apply only to consulting services;
+(2) In case of any conflict in provisions or their interpretation within the rules, for consulting services, rules under this part shall take precedence over rules in other parts.
+1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 67
+
+====================================================================================================
+#115 | rule 59 | 11 chars | table
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 59
+59. 1[XXXX]
+
+====================================================================================================
+#116 | rule 60 | 11 chars | table
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 60
+60. 2[XXXX]
+
+====================================================================================================
+#117 | rule 61 | 380 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 61: Selection of Consultancy Services - The selection shall be guided by the following considerations
+61. Selection of Consultancy Services - The selection shall be guided by the following considerations –
+(1) Best quality of services available;
+(2) Need for economy and efficiency;
+(3) Need to give all qualified consultants an equal opportunity to compete;
+(4) Encouragement of local consultants without any unfair competitive advantage;
+(5) Transparency in the selection process.
+
+====================================================================================================
+#118 | rule 62 | 202 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 62: Bar on Hiring in Cases of Conflict of Interest
+62. Bar on Hiring in Cases of Conflict of Interest - Without limitations on the generality of the foregoing, consultants shall not be hired if there is a conflict of interest, as defined in these rules.
+
+====================================================================================================
+#119 | rule 63 | 349 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 63: Hiring of Government Officials and Academics
+63. Hiring of Government Officials and Academics - Government officials and civil servants may be hired as consultants only if:
+(1) They are on leave of absence without pay;
+(2) They are not being hired by the agency they were working for, six months prior to going on leave; and
+(3) Their employment would not give rise to any conflict of interest.
+
+====================================================================================================
+#120 | rule 64 | 160 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 64: Equal Access to Information
+64. Equal Access to Information- The procuring agency shall make available information to all the bidders for consulting services on an equal opportunity basis.
+
+====================================================================================================
+#121 | rule 65 | 427 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 65: Rights and Obligations of the Procuring Agency and Consultants
+65. Rights and Obligations of the Procuring Agency and Consultants - Rights and obligations of the procuring agency and the consultant 1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 68 shall be governed by General and Special conditions of contract signed between the procuring agency and the consultant.
+
+====================================================================================================
+#122 | rule 66 | 893 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 66: Steps in the Selection Process
+66. Steps in the Selection Process - Depending on the selection method adopted, the procuring agency shall undertake the following steps but not limited to:
+(1) Preparation of the Terms of Reference of the assignment;
+(2) Preparation of the cost estimate or budget of the assignment;
+(3) Public advertisement of Request for Expressions of Interest;
+(4) 1[Short-listing of consultants, if deemed necessary;]
+(5) Preparation and issuance of the Request for Proposal to the 2[XXXX] consultants;
+(6) Preparation and submission of proposals by consultants;
+(7) Evaluation of technical proposals as per criteria given in the Request for Proposal;
+(8) Opening and evaluation of financial proposals as per criteria given in the Request for Proposal;
+(9) Contract negotiations, as provided in the selection method;
+(10) Award and signing of the contract between the procuring agency and the consultant.
+
+====================================================================================================
+#123 | rule 67 | 1592 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 67: Consultant Selection Committee
+67. Consultant Selection Committee - Every procuring agency, for the selection of consultant(s), shall set up a Consultant Selection Committee, which shall consist of the following:
+(1) Consultant Selection Committee shall be headed by a gazetted officer not below the rank of BS-19 and, if not available, the officer of the highest grade available in case of administrative departments, autonomous and semi-autonomous bodies.
+1 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 69
+(2) Project or Programme Directors, Coordinators or Managers shall head Consultant Selection Committees of the respective projects or programmes;
+(3) Members:
+(a) nominee of the Planning & Development Department not below the rank of BS-18;
+(b) nominee of the Finance Department not below the rank of BS- 18;
+(c) a representative of the procuring agency not below the rank of BS-18 to act as member and secretary;
+(d) 1[one technical member from the agencies or departments other than the procuring agency having adequate experience in the relevant field not below the rank of BS-18 or equivalent;]
+(e) Co-opted Member(s): The Consultants Selection Committee, with the approval of its Chairperson, can co-opt up to two members, having adequate technical knowledge and experience in the relevant field, for providing technical input to the committee. The co-opted members shall have no voting rights. Provided that co-opted members shall have no conflict of interest in the procurement process.
+
+====================================================================================================
+#124 | rule 68 | 867 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 68: Quorum
+68. Quorum
+(1) 2[For hiring of Individual Consultants costing over Rs.2.00 million (Rupees Two Million) and for hiring the Consulting Firm costing over Rs. 5.00 million (Rupees Five Million), the quorum shall be the Chairman and the representatives of Planning & Development and Finance Departments.
+(2) For hiring of Individual Consultants costing up to Rs.2.00 million (Rupees Two Million (Rupees Two Million) and for hiring of Consulting Firms costing up to Rs. 5.00 million (Rupees Five Million), the Chairman, Technical Member and any one member of Consultants Selection Committee shall form the quorum for conducting the business of the Consultants Selection Committee.]
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 70
+69. 1[XXXX]
+
+====================================================================================================
+#125 | rule 70 | 117 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 70: Decision by Simple Majority
+70. Decision by Simple Majority- All decision of the Consultant Selection Committee shall be made by simple majority.
+
+====================================================================================================
+#126 | rule 71 | 611 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 71: Functions and Responsibilities of the Committee
+71. Functions and Responsibilities of the Committee - The Consultants Selection Committee shall perform the following functions :
+(1) Approval of Request For Proposal before issuance;
+(2) Shortlisting of consultants, responding to the Request for Expression of Interest, where applicable, in accordance with the criteria mentioned in Request for Expression of Interest;
+(3) Evaluation of technical and financial proposals, according to the selection method and evaluation criteria, mentioned in the Request for Proposal;
+(4) Finalization of recommendation based on evaluation as mentioned at sub-rule (3) above.
+
+====================================================================================================
+#127 | rule 72 | 1750 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 72: Methods for Selection of Consultants [(1) to (3)]
+72. Methods for Selection of Consultants - The selection system shall be determined by the procuring agency prior to issuance of the Request for Proposals from interested consultants. A procuring agency may adopt one of the following methods for selection of consultants, keeping in view nature of the assignment:
+(1) Least Cost Selection Method-
+(a) this method shall be adopted for assignments of standard or routine nature where well-established practices and standards exist;
+(b) financial proposals of only technically qualified firms shall be opened. The firm with the lowest quoted cost or bid shall be selected;
+(c) procuring agency may adopt any other method as deemed fit with reason to be recorded in writing by the competent authority.
+(2) Quality Based Selection Method- 1 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 71
+(a) this method shall be used only in case of highly specialized, innovative and complex assignments, where quality is the only factor taken into consideration;
+(b) in Quality Based Selection method the technical proposal which attains the highest score according to the criteria mentioned in the bidding documents shall be selected without any consideration for cost;
+(c) the selected firm shall be asked to submit its financial proposal and invited to negotiate the financial proposal and the contract.
+(3) Quality and Cost Based Selection Method - This method shall be used only where;
+(a) the Terms of Reference are well-defined and Quality is of prime consideration, while cost is a secondary consideration;
+(b) the firm which attains the highest combined weighted technical and financial score according to the criteria mentioned in the bidding documents shall be selected.
+
+====================================================================================================
+#128 | rule 72 | 1726 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 72: Methods for Selection of Consultants [(4) to (6)]
+72. Methods for Selection of Consultants - The selection system shall be determined by the procuring agency prior to issuance of the Request for Proposals from interested consultants. A procuring agency may [...]
+(4) Direct Selection Method - This method shall be used only if all or any of the following conditions exists:
+(a) for tasks which are natural continuation of previous assignment and where continuity of technical services is required 1[:]
+2[Provided that the cost of additional assignment does not exceed fifteen percent of the cost of previous assignment.]
+(b) for assignments worth less than rupees 3[three] hundred thousand;
+(c) in cases of emergency 4[with the approval competent authority and for reasons to be recorded in writing;]
+(d) where only one consultant is qualified or has experience of exceptional worth.
+1 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 3 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 4 Amended vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 72
+(5) Fixed Budget
+(a) this method shall be used only when all of the following conditions exist:
+(i) assignment is simple;
+(ii) can be precisely defined;
+(iii) budget is fixed.
+(b) The Request for Proposal shall indicate the available budget.
+Proposals that exceed the indicated budget shall be rejected;
+(c) The ranking shall be based only on evaluation of technical proposals of the qualified bidders.
+(6) Design Contest- This method shall be used only for projects where aesthetic component is of prime consideration. The procuring agency shall invite consultants to submit a financial proposal and present a plan or design for the project based on a concept or criteria provided by it. The financial proposal of the top-ranked consultant shall only be opened.
+
+====================================================================================================
+#129 | rule 72 | 1166 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 72: Methods for Selection of Consultants [(7) to (8)]
+72. Methods for Selection of Consultants - The selection system shall be determined by the procuring agency prior to issuance of the Request for Proposals from interested consultants. A procuring agency may [...]
+(7) Consultant’s Qualifications Selection Method
+(a) This method shall apply only 1[to consultancies having value under Rs. 2.00 Million (Rupees Two Million)] for which the cost of a full-fledged selection process would not be justified.
+(b) consulting firm is selected at the stage of Expression of Interest on the basis of criteria mentioned in the Request for Expression of Interest. The selected firm is asked to submit a technical and financial proposal, in single envelope, and then invited to negotiate the contract.
+(8) Selection Process of Individual Consultant
+(a) This method shall be adopted only if all or any of the following conditions exist:
+(i) the scope of work is such that teams of personnel are not required;
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 73
+(ii) no additional professional support is required;
+(iii) the experience and qualifications of the individual are the paramount requirement.
+(b) Individual consultants may not be required to submit proposals, and may be selected on the basis of the evaluation of their curriculum vitae. Interviews may be set up for selection under this method.
+
+====================================================================================================
+#130 | rule 73 | 1482 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 73: Request for Expression of Interest
+73. Request for Expression of Interest 1[ or Request for Proposal]
+(1) Request for Expression of Interest 2[or Request for Proposal] shall be advertised or announced in accordance with the provisions of Rule 17 and 18 above.
+(2) Request for Expression of Interest 3[or Request for Proposal ] shall contain the following information –
+(a) name and address of procuring agency;
+(b) appropriate description of the assignment providing scope of the intellectual and professional services required;
+(bb) 4[schedule of issuance of shortlisting documents, if deemed necessary, or Request for Proposal, as the case may be;]
+(c) 5[deadline and place of the submission and opening of Request for Expression of Interests or Request for Proposal, as the case may be;]
+(d) 6[criteria for short listing or evaluation criteria for Request For Proposal, as the case may be; and ]
+(e) any other information that the procuring agency may deem appropriate to disseminate at this stage.
+1 Added vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 3 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 4 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 5 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 6 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 74
+
+====================================================================================================
+#131 | rule 74 | 477 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 74: Criteria for Shortlisting of Consultants
+74. Criteria for Shortlisting of Consultants
+(1) Procuring agency 1[may] short list the applicants according to a pre-determined criteria mentioned in the Request for Expression of Interest.
+(2) The procuring agency while engaged in short listing of consultants shall take into consideration the following factors:
+(a) qualification;
+(b) experience;
+(c) financial capability; and
+(d) any other factor that a procuring agency may deem relevant not inconsistent with these Rules.
+
+====================================================================================================
+#132 | rule 75 | 2194 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 75: Request for Proposals [(1)]
+75. Request for Proposals
+(1) The procuring agency shall use Request for Proposal for seeking proposals from the shortlisted 2[or otherwise] consultants, which shall include the following:
+(a) Letter of Invitation- It shall mention the name and address of the procuring agency and shall also state the intention of the procuring agency to enter into a contract for provision of consulting services and contain names of all the short listed firms;
+(b) Instruction to Consultants- The instructions to consultants shall contain all necessary information that would help them prepare responsive proposals and shall bring as much transparency as possible to the selection system;
+(c) Terms of Reference- It shall define the objectives, goals and scope of the assignment unambiguously and list the deliverables, services and surveys necessary to carry out the assignment and expected outputs. Terms of Reference are to be 1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Inserted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 75 read along with the conditions mentioned in the Form of Contract;
+(d) Form of Contract- Form of contract is a draft contract agreement which includes all general and special conditions of contract;
+(e) Evaluation Criteria- Except as otherwise provided, the evaluation of proposals shall be carried out giving due consideration to quality and cost;
+(f) Types of Contract- The procuring agency may use one of the following types of contract –
+(i) lump sum contract shall be used mainly for assignments in which the contents, duration of the services and the required output are unambiguously defined;
+(ii) time based contract shall be used when it is difficult to define the scope and the length of services;
+(iii) hourly or daily rates contract shall be used for small projects, especially when the assignment is for less than a month; and
+(iv) any other contract, based on combination of the above types of contracts, including out of pocket expenses, where required.
+(g) Special provisions - The procuring agency may specify any other requirement related to the assignment or contract, where required.
+
+====================================================================================================
+#133 | rule 75 | 412 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 75: Request for Proposals [(2)]
+75. Request for Proposals [...]
+(2) The procuring agency shall invite the interested consultants to submit their technical and financial proposals in separate sealed envelopes. The procuring agency shall give deadline for submission of proposals. Consultants shall be given adequate time in which to prepare their proposals which shall not be less than 15 days for National Competitive Bidding and 45 days for International Competitive Bidding.
+
+====================================================================================================
+#134 | rule 76 | 972 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 76: Criteria for Evaluation of Quality of Consulting Services
+76. Criteria for Evaluation of Quality of Consulting Services - Evaluation criteria shall include, but shall not be limited to the following;
+76
+(1) Specialization: Consultants’ specialized skills and access to particular technologies related to the assignment;
+(2) Experience: Consultants’ experience and past performance on similar contracts or assignments and in similar geographical conditions;
+(3) Financial Capability: Financial capability of the consulting firms may be evaluated with a view to ensuring that they can complete the assigned task in a timely manner;
+(4) Understanding of the Assignment: Consultant’s understanding of the assignment is a very important consideration for evaluation;
+(5) Proposed Methodology: Methodology proposed by the consultants shall be evaluated for its innovativeness and soundness;
+(6) Quality Management: Availability of a well-established Quality Management system may be taken into account for large and complex assignments.
+
+====================================================================================================
+#135 | rule 77 | 701 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 77: Association between Consultants
+77. Association between Consultants
+(1) An association of consultants may take either the form of a consortium or a sub-consultancy.
+(2) Under a consortium arrangement only one entity, either through the lead consultant or by forming a legal juridical person, shall be responsible to the Government for execution of the entire assignment.
+(3) Under sub-consultancy, the main consultant may engage another consultant for performing part of an assignment, only if expressly provided in the contract agreement and expressly agreed to by the procuring agency. The main consultant shall, however, bear all responsibility for quality of the output and in all other respects as provided in the main contract.
+
+====================================================================================================
+#136 | rule 78 | 339 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 78: Intellectual Property Rights
+78. Intellectual Property Rights
+(1) All documents, reports, designs, research work and all deliverables prepared by the consultant shall become and remain the property of the procuring agency.
+77
+(2) Any restrictions on the future use of these documents and software by the consultant shall be specified in the conditions of the contract.
+
+====================================================================================================
+#137 | rule 79 | 552 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 79: Extent of Contract Negotiation
+79. Extent of Contract Negotiation - Procuring agency may negotiate with the highest ranked bidder regarding methodology, work plan, staffing and special conditions of the contract. The procuring agency shall not permit substitution of key staff, unless both parties agree that undue delay in selection process makes such substitution unavoidable.
+Similarly, negotiations shall not seek changes in the rates quoted by the bidder. In case of failure of negotiations, the procuring agency may invite the second ranked bidder as per the evaluation report.
+
+====================================================================================================
+#138 | rule 80 | 750 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part III: Procuring Consulting Services General Provisions — Rule 80: Professional Liability of Consultants
+80. Professional Liability of Consultants
+(1) The consultant selected and awarded a contract shall be liable for consequence of omissions or commissions on his or their part. The extent of liability of consultant shall be incorporated in the contract, and in no case, shall be less than the remuneration, excluding out of pocket expenses, nor shall the liability exceed twice the amount of remunerations.
+(2) The procuring agency may demand insurance on part of the consultant to cover its liability as stated above, and necessary costs shall be borne by the consultant;
+(3) The consultant shall be liable for all losses or damages suffered by the procuring agency on account of any misconduct by the consultant in performing the consulting services.
+
+====================================================================================================
+#139 | rule 81 | 1169 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 81: Public Private Partnership Projects
+81. Public Private Partnership Projects
+(1) The rules under this part shall be applicable for procurement of goods, works and services through Public Private Partnership.
+(2) The rules for procurement of goods, works and services in Parts II and III shall mutatis mutandis apply to the projects in which the design, financing and operations and maintenance will be undertaken under any of the following mode of procurement;
+(a) Service Contract
+(b) Management Contract 78
+(c) Lease Contract
+(d) Build, Operate and Transfer
+(e) Build, Own and Operate
+(f) Design, Build, Finance and Operate and Transfer
+(g) Build, Own, Operate, Transfer
+(h) Build, Lease and Transfer
+(i) Build and Transfer
+(j) Rehabilitate, Operate and Transfer
+(k) any combination or variation of the above modes or any other arrangement under PPP mode approved by the Authority.
+(3) The competent authority to approve PPP Projects and related processes for all sectors shall rest with the Public Private Partnership Policy Board;
+(4) In case of any conflict in provisions or their interpretation within the rules, for PPP projects rules under this part shall take precedence over rules in other parts.
+
+====================================================================================================
+#140 | rule 82 | 1602 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 82: Procurement Process Under Public Private Partnership [(1) to (5)]
+82. Procurement Process Under Public Private Partnership
+(1) Some or all the functions and responsibilities of procurement planning and execution may be performed by the professional transaction advisers and consultants subject to approval by the Public Private Partnership Policy Board.
+(2) 1[The Chief Secretary shall constitute a technical and financial evaluation committee comprising odd number of person for each Public Private Partnership Project for, inter alia, technical and financial evaluation of the Project and bids. The Terms of Reference of each such committee shall be approved by the Chief Secretary:
+1 Subs in rule 82, for sub rule (2), by Notification (SGA&CD) 2-30/2010 (5-13/p-11) dated 22-may-2023 79
+Provided that the technical and financial evaluation committee fort all Public Private Partnership Projects, other then management and services projects, shall be headed by the Chairperson, Planning and Development Board’.]
+(3) Except otherwise provided in these rules all the Public Private Partnership contracts and concessions shall be granted through national or international open competitive bidding, as the case may be.
+(4) The procuring agency may levy a reasonable fee for submitting requests for proposals. Such fee shall not exceed Rs. 100,000/-;
+(5) Bidding documents shall be prepared according to Rule 21 and shall also include the following;
+(a) minimum design and performance standards and specifications, land and economic parameters;
+(b) draft concession or management contract;
+(c) other documents as may be deemed necessary by the procuring agency concerned;
+
+====================================================================================================
+#141 | rule 82 | 1192 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 82: Procurement Process Under Public Private Partnership [(6)]
+82. Procurement Process Under Public Private Partnership [...]
+(6) The instructions to bidders shall be unambiguous, comprehensive and fair to all bidders and shall, as far as necessary and practicable, include but not be limited to the following information;
+(a) general description and objectives of the project;
+(b) bid submission procedures and requirements, which shall include information on the manner of bid submission, the number of copies of bid proposal to be submitted, where the bids are to be submitted, the deadline for the submission of bids and permissible mode of transmission of bid proposals;
+(c) Government undertaking such incentives to be provided, subsidies debt financing, if any, and equity by government or other government guarantees;
+(d) bid security and bid validity period;
+(e) milestone bonding;
+(f) method and criteria, including the minimum amount and form of equity, for the evaluation of the bids;
+80
+(g) formulas and indices to be used in the adjustments of tolls, fees, rentals, royalties and charges, where applicable;
+(h) requirements of concerned regulatory bodies, if any;
+(i) monetary rules and regulation governing foreign exchange remittances;
+(j) revenue sharing arrangements;
+(k) expected commissioning date.
+
+====================================================================================================
+#142 | rule 82 | 1047 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 82: Procurement Process Under Public Private Partnership [(7)]
+82. Procurement Process Under Public Private Partnership [...]
+(7) Minimum design and performance standards or specifications, including applicable environmental standards shall be clearly defined and shall refer more to the desired quantity and quality of the outputs of the facility and shall state that non-conformity with any of these minimum requirements shall render the bids as non-responsive.
+Likewise, the following economic and financial parameters, among others, shall be prescribed:
+(a) discount rate and foreign exchange rate as prescribed by the government, where applicable;
+(b) maximum period of project construction;
+(c) fixed term or variable term for project operation and collection of tolls, fees, rentals and charges authorized or approved by the government;
+(d) formula and price indices to be used for adjustments in tolls, fees, rentals and charges, in the case of Build Operate Transfer, Build Operate Own and other variations thereof authorized or approved by the government;
+(e) other financial features embedded in the Public Private Partnership project to enhance Value for Money.
+
+====================================================================================================
+#143 | rule 82A | 1345 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 82A: Constitution of Complaint Redressal Committee
+1[“82-A. Constitution of Complaint Redressal Committee
+(1) The Chief Secretary shall constitute a committee for complaint redressal in relation to Public Private Partnership Projects, comprising odd number of person, with appropriate powers and authorization, to 1 New Rule 82.A inserted by the vide Notification NO-SORI (SGA&CD) 2-30\2010 (5-13\p-11) Dated 22nd May 2023 81 address the complaints of bidders that may occur during the procuring proceedings prior to award of contract.
+(2) The complaint redressal committee shall be headed by any officer of BPS-21 serving in Government. The complaint redressal committee shall include the following: -
+(i) District Accounts Officer or his representative, in case of the local government or provincial line department at district or a representative of the Account General Sindh, in case of Government departments at provincial level;
+(ii) An independent professional from the relevant field concerning the procurement process in questions, to be nominated by the Head of the Procuring Agency;
+(3) Notwithstanding anything contained in rule 32 or any other provisions of these rules, the decision of the complaint redressal committee for Public Private Partnership Projects shall have precedence over the decision of the Review Committee and shall be final and binding upon the Procuring Agency.]
+
+====================================================================================================
+#144 | rule 82B | 364 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 82B
+1[82.B. Fixation or Bid Security.
+For each Public Private Partnership Project, the Procuring Agency shall fix the bid security in absolute number whose value shall range between one percent and five percent of the estimated price of the project as determined by the Procuring Agency or its consultants before initiation of the process of procurement for project’.]
+
+====================================================================================================
+#145 | rule 83 | 1400 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 83
+83. Negotiations
+(1) Notwithstanding the provisions of Rule 52, negotiations may be permissible after the financial bids have been opened. In case the procuring agency has valid reasons, which must be recorded in writing, that the financial offers are not providing best value for money or need changes, the procuring agency may invite sealed revised financial bids from all qualified bidders or through open bidding. The procuring agency shall keep complete minutes of the negotiation process.
+1 New Rule 82.B inserted by the vide Notification NO-SORI (SGA&CD) 2-30\2010 (5-13\p-11) Dated 22nd May 2023.
+82
+(2) 1[In case there is only one complying bidder left as defined hereunder, direct negotiation shall be restored to as per the letter of intent issued by the procuring agency:]
+(a) If, in response to advertisement, only one interested bidder responds for prequalification, and it meets the pre-qualification criteria;
+(b) If after advertisement, more than one interested bidders respond for pre-qualification, if any but only one of them meets the pre-qualification criteria;
+(c) After pre-qualification, if any, more than one interested bidders respond, and only one of them submits a bid, which is found by procuring agency to be complying;
+(d) After pre-qualification, if any, more than one interested bidders submits the bid, but only one is found by the procuring agency to be complying.
+
+====================================================================================================
+#146 | rule 84 | 709 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 84
+84. Bid Evaluation-The best evaluated bid shall be determined on the basis of the following criteria;
+(1) Lowest bid in terms of user fees if the concession period is fixed.
+(2) Highest return or profit for the government if the concession period is fixed and the user fees is the same or lower than other bidder.
+(3) Shortest concession period if the user fee is fixed.
+(4) Lowest Net Present Value of return to the bidder if user fee, concession period and subsidy element is same as those of other bidders, if government equity is not involved.
+(5) Lowest amount of subsidy if the other considerations are almost same.
+(6) Any other factor deemed relevant to the particular project by the procuring agency.
+
+====================================================================================================
+#147 | rule 85 | 880 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85
+85. Award of Contract 1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 83
+(1) Notwithstanding anything contained in these rules, award of contract under Public Private Partnership shall be based on the criteria of evaluation prepared by the procuring agency, and published along with the Request for Proposal. Subsequently, if procuring agency deems it necessary to change the evaluation criteria after the Request for Proposal has been issued, it shall issue fresh Request for Proposal to afford equal opportunity to all the interested bidders;
+(2) In so far as applicable, the same rules provided for the evaluation of the technical and financial aspects of bid proposals in Part II shall be applied in the evaluation of single bid;
+(3) The procuring agency concerned shall have the right to cancel bidding process, as provided in Rule 25.
+
+====================================================================================================
+#148 | rule 85A | 1648 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85A [(1) to (6)]
+1[“85(A) Unsolicited proposal for Public-Private Partnership Projects.
+(1) This rule shall Govern unsolicited proposal under section 20 of the Sindh Public-Private Partnership Act, 2010.
+(2) The unsolicited proposal submitted prior to the coming into force of this rule, which have not yet reached the requalification stage under rule 15 (A), shall continue to be Governed by rule 15 (A) but only to the extent of matters not related to procurement, while matters related to procurement shall be Governed by sub-rule (12) to the extent provided thereunder.
+(3) The unsolicited proposals submitted prior to coming into force of this rule, which are in the requalification stage, or have proceeded beyond such stage under rule15(A), shall, for any remining matters, the governed by sub-rule (12) to the extent provided there under.
+(4) The initiator of an unsolicited proposal may be a single entity or a consortium or joint venture.
+(5) The initiator of an unsolicited proposal shall, at the time of submission of the proposal to a procuring agency, comply with all the requirements set out in the procedures and guidelines notified by the Public Private Partnership Unit from time to time under rule 85(B).
+(6) For proposes of evaluating an unsolicited proposal, the procuring agency shall appoint its internal technical committee with 1 Inserted 85(A) and 85(B) by notification No. SORI (SGA&CD) 2-30/2010 dated 25th august 2025 84 the approval of the administrative head of the procuring agency, The composition and terms of reference of the technical committee shall be in accordance with the procedures and guidelines notified under rule 85(B).
+
+====================================================================================================
+#149 | rule 85A | 1618 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85A [(7) to (10)]
+1[“85(A) Unsolicited proposal for Public-Private Partnership Projects. [...]
+(7) The technical committee shall review the documents submitted by the initiator to ensure that the submissions are as per the procedures and guidelines notified under rule 85(B). in case of incomplete submission, or where further clarity is required, the committee may require the initiator to submit such documents.
+(8) If the technical committee determines that the submission requirements have been fully met and the initiator meets the minimum eligibility requirements, the technical committee shall proceed to evaluate the unsolicited proposal in accordance with its terms of reference. The procuring agency may request the initiator of the unsolicited proposal for any clarification or further information, as it may deem necessary, during the evaluation of the unsolicited proposal.
+(9) Following the evaluation, the procuring agency shall either determine that the unsolicited proposal shall proceed forward and undergo further development under sub-rule (10); or reject the proposal if the procuring agency does not consider the project sufficiently viable in light of sectoral priorities and the evaluation criteria notified under rule 85(B), or for any other reason. In either case, the procuring agency shall inform the initiator of its decision in writing but shall not be obligated to justify its decision.
+(10) If the procuring agency, based on the review of its technical committee, determines that the unsolicited proposal shall undergo further processing and development, the procuring agency shall proceed to undertake project development activities under the Public- Private Partnership Act 2010.
+
+====================================================================================================
+#150 | rule 85A | 299 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85A [(11)]
+1[“85(A) Unsolicited proposal for Public-Private Partnership Projects. [...]
+(11) If a project proposed under an unsolicited proposal is approved by the Public Private Partnership Policy Board for bidding, the procuring agency shall, subject to sub-rule (12), advertise the project for open competition without disclosing the name of the initiator of the unsolicited proposal.
+
+====================================================================================================
+#151 | rule 85A | 1642 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85A [(a) to (c)]
+1[“85(A) Unsolicited proposal for Public-Private Partnership Projects. [...]
+(12) The rules for procurement as applicable to Public Private Partnership Projects mutatis mutandis, apply to the procurement process for the selection of the private party for project initiate through unsolicited proposals; provided however, the following additional 85 procedures shall be applicable, and to the extent of any conflict, the procedures set forth in this sub-rule prevail if-
+(a) procuring agency, in its discretion, decides to undertake a prequalification process, the initiator shall be exempt from such requalification process; provided that the initiator meets the prequalification criteria against which potential prequalified applicants shall be evaluated;
+(b) during the bidding process, no bidder other than the initiator responds or is found to be a compliant bidder, the procuring agency shall be at liability to either negotiate with the initiator to reduce the bid value if it is higher than the estimated bid value of the procuring agency by a percentage specified in the procedures and guidelines notified under rule 85(B), or re- advertise the project. In case of re-advertisement, the initiator shall have the same rights as in the previous bidding process;
+(c) the initiator does not emerge as the best-evaluate bidder and its bid value does not exceed the winning bidders bid value by more than the percentage specified in the procedures and guidelines notified under rule 85(B), the initiator shall be given the opportunity to match the bid value of the winning bidder.
+No such opportunity shall be given to the initiator if its bid value exceeds the winning bidders bid value by more than such percentage,
+
+====================================================================================================
+#152 | rule 85A | 1035 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85A [(d) to (c)]
+1[“85(A) Unsolicited proposal for Public-Private Partnership Projects. [...]
+(d) the initiator agrees in writing to match the bid value of the winning bidder and submits the documents required by the procuring agency to its satisfaction with in a time specified by the procuring agency, the project may be awarded to the initiator;
+(e) the initiator fails to communicate its written consent does not submit the required documents with in the specified time, including any extension thereof, the procuring agency may proceed to award the project to the winning bidder;
+(f) in the event during the bidding process, changes are made to the bidding documents as per applicable laws and rules, including scope of work, structure, risk allocation, as a result of comments, observations, or concerns of a bidder (S) other than the initiator, and the initiator accepts such changes by submitting its bid, than in the situation specified under sub-rule
+(c), the initiator shall be given the opportunity to match the bid 86 value of the winning bidder and the procedures specified in sub-rule (c), (d) and (e) shall apply.
+
+====================================================================================================
+#153 | rule 85B | 551 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 85B
+85(B) Procedures and Guidelines.
+(1) The Public Private Partnership Policy Board shall device and approved additional procedures and guidelines in relation to unsolicited proposals and the matters stated in rule 85(A) to provide clarity, guidance, or procedures for the purposes of effective and efficient processing of unsolicited proposal, including minimum eligibility criteria, submission, evaluation, and project development.
+Following such approval, such procedures and guidelines shall be notified by the PPP Unit and uploaded on its website.”]
+
+====================================================================================================
+#154 | rule 86 | 1090 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 86: Hiring of International Financial Institutions
+86. 1[*] 2[Hiring of International Financial Institutions
+(1) Notwithstanding anything contained in these rules, including Part-III (Procuring Consulting Services), a procuring agency may engage Internation Financial Institutions or Multilateral Development Banks on a direct contract basis for provision of consultancy or transaction advisory service in relation to Public-Private Partnership projects, subject to the approval of the Public Private Partnership Policy Board or such contract, including financial terms thereof, such as the amount of retainer of milestone fee and the percentage or amount of success fee, as applicable regardless or whether such fee is payable by the procuring agency or by winning bidder;
+(2) The procuring agency while seeking approval under sub-rule
+(1) shall submit a written confirmation of the interested international Financial Institution or Multilateral Development Bank to the Public Private Partnership Policy Board, to the effect that such Institution or Bank, as the case may be, is generally recognized with Pakistan being its member country.]
+
+====================================================================================================
+#155 | rule 87 | 557 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 87: Power to Frame Procedures - Public Private Partnership Unit, Finance Department, Govt of Sindh empowered to devise
+87. Power to Frame Procedures - Public Private Partnership Unit, Finance Department, Govt of Sindh empowered to devise 3[XXXX] procedures for effective, efficient and transparent procurement process for Public Private Partnership Projects, subject to concurrence by the Authority.
+1 Deleted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 13th October, 2017 2 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 (5-13/P-11) dated 27th September, 2023 3 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 87
+
+====================================================================================================
+#156 | rule 88 | 358 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part IV: Public Private Partnership Projects — Rule 88: Removal of Difficulties
+88. Removal of Difficulties - To remove the difficulties with respect to any procurement related issues, not expressly covered in these rules, the procuring agencies or the Unit shall refer the matter to the Authority for resolution. The Authority shall co-opt a representative of Public Private Partnership Unit in committee, formed to resolves such issues.
+
+====================================================================================================
+#157 | rule 89 | 139 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part V: General — Rule 89: Integrity Pact
+89. Integrity Pact - 1[All contract agreements of goods, works and services shall include integrity pact, as specified by the regulations.]
+
+====================================================================================================
+#158 | rule 90 | 269 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part V: General — Rule 90: Overriding Effect
+90. Overriding Effect - Provisions of these rules shall have overriding effect notwithstanding anything to the contrary contained in any other Rules, Regulations, Manuals, Instructions or Orders issued by the Government from time to time concerning public procurements.
+
+====================================================================================================
+#159 | rule 91 | 315 chars
+The Sindh Public Procurement Act, 2009 — Schedule — Part V: General — Rule 91: Repeal And Savings
+91. Repeal And Savings - Public Procurement Rules, 2004 as adopted by the Government of Sindh shall stand repealed on coming into force of these rules. However, procurement processes already initiated shall be completed according to the statutory framework applicable at the time of initiation of such procurements.
+
+====================================================================================================
+#160 | schedule  | 175 chars
+The Sindh Public Procurement Act, 2009 — Appendix A: 2[xxx]
+1 Substituted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 15th March, 2019 2 Omitted vide SGA&CD Notification No SORI(SGA&CD) 2-30/2010 dated 8th October, 2013 88

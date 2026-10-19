@@ -1,0 +1,568 @@
+The North-West Border Military Police Act, 1904
+{"title": "The North-West Border Military Police Act, 1904", "instrument_type": "Act", "text_source": "ocr", "chars": 19395, "method": "provisions", "contents_entries": 0, "provisions": 102, "problems": [], "read_by_model": true, "chunks": 109, "largest_chunk": 1976}
+
+====================================================================================================
+#0 | card  | 678 chars
+The North-West Border Military Police Act, 1904 — Overview
+The North-West Border Military Police Act, 1904 (Act, 1904, Federal).
+This Act regulates the Border Military Police Force in the North-West Frontier Province. It defines the force's constitution, appointment of officers and men, superintendence, and conditions of service. The legislation also outlines various offences committed by members of the force and prescribes punishments ranging from fines to transportation for life.
+Subjects: military police, North-West Frontier Province, officer appointment, service conditions, offences, punishment, resignation, discharge.
+Provisions: 4. Constitution of Force, I; 12. Powers and duties of Military conferrable'and Police-officers
+
+====================================================================================================
+#1 | preamble  | 155 chars
+The North-West Border Military Police Act, 1904 — Title and preamble
+The Bazette of Endia.
+CALCUTTA, SATURDAY, MARCH 5, 1904.
+ar Separate paging is given to this Part in order that it may be filed as a: separate compilation.
+
+====================================================================================================
+#2 | passage  | 816 chars
+The North-West Border Military Police Act, 1904 — Part IV
+Acts of the Governor General's Council assented to by the Governor General, GOVERNMENT OF INDIA. 16. Authority to confer exclusive powers of Sessions Court on Deputy Commis- LEGISLATIVE DEPARTMENT. sioner.
+17. Criminal poreres conferred within British Thef following Act of the Governor General India, India to exerciseable beyond British Governor dfindiai in General Council on received the 4th the March, assent 1904, of the 18. Application of Act to other bodies en- andist tion:- hereby promulgated for general informa- 19. Power rolled to for make service rules. on frontier, ACT No. IV OF 1904. THE SCHEDULE.
+THE NORTH-WEST BORDER CONDITIONS OF SERVICE.
+MILITARY POLICE BILL, 1904.
+CONTENTS. An Act to provide for the Regulation of the SECTIONS, Border Military Police Forcein the North West-Frontier Province.
+
+====================================================================================================
+#3 | section 1 | 87 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 1
+1, Short title, extent, application and com- WHEREAS it is expedient to provide for the
+
+====================================================================================================
+#4 | section 2 | 117 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 2
+2. Definitions. mencement. in regulation the North-West of the Border Frontier Military Province Police : Force It is
+
+====================================================================================================
+#5 | section 3 | 78 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 3
+3. Power Force, to maintain Border Military Police hereby enacted as follows :
+
+====================================================================================================
+#6 | section 4 | 87 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 4: Constitution of Force, I
+4. Constitution of Force, I. (1) This Act may West be Border called the Military North-
+
+====================================================================================================
+#7 | section 5 | 106 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 5
+5. Appointment officers. and powers of superior application Short title, and extent, com- PoliceAct, 1904.
+
+====================================================================================================
+#8 | section 6 | 100 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 6
+6, Appointment men. of subordinate officers and mencement. (2) It extends to the whole of the North-
+
+====================================================================================================
+#9 | section 7 | 120 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 7
+7 Seperintendence, tion of control and administra- West member Frontier of Province, the Border and Ridor also Police to
+
+====================================================================================================
+#10 | section 8 | 83 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 8
+9.1 8. Morel heinous Force, offences. every Force, wherever he may be serving ; and
+
+====================================================================================================
+#11 | section 9 | 92 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 9
+10, Minor Less heinous offences. (3) It shall come into force on notification such day as in
+
+====================================================================================================
+#12 | section 10 | 117 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 10
+11, 12. Place of punishments. imprisonment the thel Local official Government Gazette, appoint may, laa thisl behalf.
+
+====================================================================================================
+#13 | section 11 | 118 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 11
+13. Generald Resicnation duties and withdrawal from Force. 2. In this Act, unless there in the is subject anything tor
+
+====================================================================================================
+#14 | section 12 | 99 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 12: Powers and duties of Military conferrable'and Police-officers
+14. Powers and duties of Military conferrable'and Police-officers. Definitions. context,- repugnant
+
+====================================================================================================
+#15 | section 13 | 129 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 13
+15. Pretectional able on Military for Police-officers. impos- (a) a Military Police-officer" commencement means of MarserL a Act,
+
+====================================================================================================
+#16 | section 14 | 85 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 14
+olicersn acts of Military Police. is who, serving atthe in the Border Military Police
+
+====================================================================================================
+#17 | section 15 | 8 chars | table
+The North-West Border Military Police Act, 1904 — Part IV — Section 15
+13 ] IVA
+
+====================================================================================================
+#18 | section 16 | 46 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 16
+THE GAZETTE OF INDIA, MARCH 5, 1904. [PART IV.
+
+====================================================================================================
+#19 | section 17 | 100 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 17
+Force, or. who, after ecs commence. at use any his mutiny utmost endeavours or, sedition, to does mt
+
+====================================================================================================
+#20 | section 18 | 112 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 18
+ment to the of Border this Act, Military has AEE Force believe it, or knowing, in, the or existence having Em of
+
+====================================================================================================
+#21 | section 19 | 103 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 19
+under this rollon Act whichthe and has conditions signed a mutiny, or oadet of intention to mutiny, any
+
+====================================================================================================
+#22 | section 20 | 111 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 20
+ofservice recruiting contained in the schedule ation does not, thereof to his delay, commanding give informs or
+
+====================================================================================================
+#23 | section 21 | 125 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 21
+() "Commandant" are set forth: means Aburmom.it a tto (6) uses, other or attempts superior officer; to use, or criminal force
+
+====================================================================================================
+#24 | section 22 | 115 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 22
+CC Commandant by the Local of the Border Mili- to, superior or commits officer, an whether assault on on, or his od
+
+====================================================================================================
+#25 | section 23 | 127 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 23
+() "active tary Police service' Force means under service this Act: against (c) shamefully duty; or abandons or delivers up any
+
+====================================================================================================
+#26 | section 24 | 140 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 24
+hostile other persons tribes in or the raiders field: or and against iscommitted garrison, fortress, to Saras charge org guard'whic or which
+
+====================================================================================================
+#27 | section 25 | 112 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 25
+(d) the force", expressions "traudulently" " assault", 1 - reason "criminal to itis his duty to defend: holds or
+
+====================================================================================================
+#28 | section 26 | 142 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 26
+believe" hurt" have and the meanings "voluntarily assigned causing to (d) directly encé or with, indirectly or assists or correspond. relieves
+
+====================================================================================================
+#29 | section 27 | 109 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 27
+them, respectively, in the Indian any or omits person stodiscoveri in arms immediatelytobi against the State,
+
+====================================================================================================
+#30 | section 28 | 123 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 28
+XLVeli8 3.The Penal Local Code. Government may maintain a commanding such correspondence or other superior comingto officer
+
+====================================================================================================
+#31 | section 29 | 84 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 29
+Lmr to maintain Police force, Border to Military called Poliçe the AEY knowledge; or
+
+====================================================================================================
+#32 | section 30 | 63 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 30
+Porce Force, for the better pro- who, while on active service,-
+
+====================================================================================================
+#33 | section 31 | 152 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 31
+frontier tection of and British administration India within of the the limits external of or (e) disobeys superior the officer; lawful or command of hir
+
+====================================================================================================
+#34 | section 32 | 83 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 32
+adjoining thereof. the North-West Frontier Province or (/) deserts the service; or,
+
+====================================================================================================
+#35 | section 33 | 114 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 33
+any 4. part The Border Military Police Force shall being quits a it sentry, without sleeps being upon mhbhn: his :
+
+====================================================================================================
+#36 | section 34 | 143 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 34
+Constitution of Force. consist officers and of such men, number and shali of (k) without lieved or authority, without leaves leave; Oie command
+
+====================================================================================================
+#37 | section 35 | 139 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 35
+be members constituted of such in Force such shall manner, receive such and the ing insearch officer, of or plunder; his post or or party,t
+
+====================================================================================================
+#38 | section 36 | 171 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 36
+time pension to and time, other with remuneration, the previous sanction as shall, of poz the () MUE without his guard, being picquet, regularly partyor relieved patrei at
+
+====================================================================================================
+#39 | section 37 | 122 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 37
+Governor Local Government. General in Council, be ordered by the () uses without criminal leave; force or to, or commits :
+
+====================================================================================================
+#40 | section 38 | 138 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 38
+Appointment 5 () The Local any Government person to may be appoint Com- assault visions on, or other any person necessaries bringing to LE
+
+====================================================================================================
+#41 | section 39 | 130 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 39
+mi of superior and other mandant superior and may officers appoint of or without quarters, authority, or forces breaks a arr asj o
+
+====================================================================================================
+#42 | section 40 | 157 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 40
+thereof, the Border constituted Military Police in any Force,or one or of more any part or houser plunders, or any other destroys place or for damaga plandec
+
+====================================================================================================
+#43 | section 41 | 76 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 41
+tricts, (A) intentionally any property causes of any kind; spreads or a fale
+
+====================================================================================================
+#44 | section 42 | 124 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 42
+so (2) appointed The Commandant shall possege. and every and may other exercise, officer alarm in action or i camp, garrismn
+
+====================================================================================================
+#45 | section 43 | 146 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 43
+officers such power and andauthorityover members of the Force the at subordinate any time () displays or quarters; cowardice or in the exccution d
+
+====================================================================================================
+#46 | section 44 | 107 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 44
+under this Act. bis command as is provided byor under shall be his punishable duty; with transportation fal
+
+====================================================================================================
+#47 | section 45 | 154 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 45
+6. The appointment and of men subordinate of the officers Border or life with or for imprisonment a term of not for less a than term seven which years mil
+
+====================================================================================================
+#48 | section 46 | 146 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 46
+Appistradomes men. o Military rest with Police the Force shall may extend extend to fourteen to three years, months' or with pay, fine or whid wit
+
+====================================================================================================
+#49 | section 47 | 102 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 47
+missioner and the Commandant, Degviy shall Com- re- fine to that extent in addition imprisctenr to sud
+
+====================================================================================================
+#50 | section 48 | 160 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 48
+asmay spectively be exercise prescribed such by powers,in rules made such under manner, this as sentence the case of may transportation be, asmay be passed uper
+
+====================================================================================================
+#51 | section 49 | 113 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 49
+Act. 7. The superintendence and control him (2) under If any this Military section. Police-officer, while lima of
+
+====================================================================================================
+#52 | section 50 | 150 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 50
+1 administration con Force the radin shall Military Police over, active of British service India, with is charged a force with beyond committinger the
+
+====================================================================================================
+#53 | section 51 | 142 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 51
+said Force shall be Local Government; vest in andthe the clause offence (f), described of sub-section in clause (), or clause the offencer (6,
+
+====================================================================================================
+#54 | section 52 | 110 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 52
+Commissioner and administered the Commandant, by the Deputy culpable homicide Te to offence murder, by heme th
+
+====================================================================================================
+#55 | section 53 | 155 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 53
+tively, Act and in of accordance any rules made with thereunder, the provisions - Political be summarily Officer accompanying tried for such the force, LAE
+
+====================================================================================================
+#56 | section 54 | 112 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 54
+8. () Every Military Police-officer who- cal with Officer two other for this officers purpose. appointed by thel
+
+====================================================================================================
+#57 | section 55 | 69 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 55
+ces. More heinous offen- (3) Every officer appointed under subsectéel
+
+====================================================================================================
+#58 | section 56 | 133 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 56
+(a) begins, mutiny excites, or sedition, causes or joins in any (2) (a) shall a be British either- officer, as defined in the Indiany
+
+====================================================================================================
+#59 | section 57 | 36 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 57
+or being present Articles of War, or
+
+====================================================================================================
+#60 | section 58 | 47 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 58
+PaeriVi THE GAZETTE OF INDIA, MARCH 5, 1904- 15
+
+====================================================================================================
+#61 | section 59 | 146 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 59
+() a civil officer Police-oflicer of gazetted appointed rank, or under sion, to him, as such or in Military his custody Police-officer; or posses-
+
+====================================================================================================
+#62 | section 60 | 27 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 60
+Wal Military section 5:. or
+
+====================================================================================================
+#63 | section 61 | 120 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 61
+Provided than one that, such if officer circumstances shall be permit, a Military not who, while not on active.service,-
+
+====================================================================================================
+#64 | section 62 | 135 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 62
+Palice-officer Ir Heerdd oft the under officers section sitting 5. with the (m) disobeys superior the officer; lawful or command of his
+
+====================================================================================================
+#65 | section 63 | 104 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 63
+Palitical (A Ifone Officer orl concur with him in finding the (H) plunders, destroys or damages any pro-
+
+====================================================================================================
+#66 | section 64 | 160 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 64
+accused accused guiltyand shall be the forthwith Political shot Officer to so death. directs, (0) being perty a sentry, of any sleeps kind; or, upon his post or
+
+====================================================================================================
+#67 | section 65 | 104 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 65
+the 9 Erery Military Police-officer who- lieved quits it or without without being leave;or regularly re-
+
+====================================================================================================
+#68 | section 66 | 46 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 66
+Leb beinous offences. (P) deserts the service;
+
+====================================================================================================
+#69 | section 67 | 125 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 67
+(4) is in for a state any duty, of intoxication or on parade when or on on the or shall be punishable with imprisonment for a
+
+====================================================================================================
+#70 | section 68 | 107 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 68
+line of march; or fine term which which may may extend extend to to three one months' year, or pay, with or
+
+====================================================================================================
+#71 | section 69 | 56 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 69
+(6) strikes or attempts to force any sentry i with both.
+
+====================================================================================================
+#72 | section 70 | 85 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 70
+() being or, in command of a guard, picquet or Io. () The Deputy Commissioner and the
+
+====================================================================================================
+#73 | section 71 | 143 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 71
+patrol, duly committed refuses to receive to his any charge, prisoner or, Minor punishments. Commandant, may, subject to respectively, wd rules
+
+====================================================================================================
+#74 | section 72 | 161 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 72
+prisoner, without proper or negligently authority, releases suffers any any addition made under to, this suspension Act, award, or dismissal, in lieu any orin of
+
+====================================================================================================
+#75 | section 73 | 142 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 73
+(4) prisoner under to arrest escape; or or, in confinement, Police-officer the following punishments who is, in to the any opinion Military of
+
+====================================================================================================
+#76 | section 74 | 81 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 74
+gE his arrest or confinement the Deputy Commissioner or Commandant, disobedience,
+
+====================================================================================================
+#77 | section 75 | 125 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 75
+before authority; he is or set at liberty by proper as neglect the case of duty may or be, remissness guilty in the discharge
+
+====================================================================================================
+#78 | section 76 | 177 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 76
+() is grossly his superior insubordinate officer in or the insolent execution to ofany charge duty, his duty, or of or rendering of other himself misconduct unfit in to dis- his
+
+====================================================================================================
+#79 | section 77 | 67 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 77
+ofl his office;or capacity as such Military Police-officer, that is
+
+====================================================================================================
+#80 | section 78 | 123 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 78
+() refuses making to superintend of any field-work or assist or in other the tos say, (a) reduction in rank and emoluments;
+
+====================================================================================================
+#81 | section 79 | 137 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 79
+be work made of any either description in quarters ordered or in the to (6) fine month's to any amount and allowances not exceeding ; one
+
+====================================================================================================
+#82 | section 80 | 102 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 80
+() strikes field; or or otherwise ill-uses any Military (c) confinement pay to quarters for a term not
+
+====================================================================================================
+#83 | section 81 | 107 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 81
+Police-officer rank subordinate to him in (d) confinement exceeding in one the month; quarter-guard for not
+
+====================================================================================================
+#84 | section 82 | 130 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 82
+(A) being in or command position; at or, any post or on the more punishment-drill than fifteen days, or with extra or guard, with-
+
+====================================================================================================
+#85 | section 83 | 118 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 83
+march that any and one receiving under his command a complaint has fatigue out or other duty; office of distinction or
+
+====================================================================================================
+#86 | section 84 | 86 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 84
+beaten or otherwise maltreated or (e) removal special from emolument any in the Force.
+
+====================================================================================================
+#87 | section 85 | 113 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 85
+cersed any 1ofs person, or trespass, or has fails, com- on (2) The Deputy Commissioner, below or the therank Com-
+
+====================================================================================================
+#88 | section 86 | 136 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 86
+tol proof have of due the truth of the made complaint, far of mandant, subadar, or commandinga an officer, not separate being detachment
+
+====================================================================================================
+#89 | section 87 | 140 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 87
+as to possible to trenmen injured Esempro as and head-quarters or an outpost or of in a temporary district during command the absence at the
+
+====================================================================================================
+#90 | section 88 | 91 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 88
+authority; report or the casé to proper of the Deputy Commissioner and award Commandant, to
+
+====================================================================================================
+#91 | section 89 | 125 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 89
+() designedly loses, or through neglect injures or Military may, without Police-officer a formal who trial, is subject to a2z
+
+====================================================================================================
+#92 | section 90 | 121 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 90
+arms, or clothes, fraudulently tools, disposes equipments, of, his authority any of the following punishments offence for
+
+====================================================================================================
+#93 | section 91 | 115 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 91
+ammunition, tary Police accoutrements or Mili- discipline, the commission which of is not any Vatetvn provided arim
+
+====================================================================================================
+#94 | section 92 | 142 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 92
+articles entrusted necessaries, to him or or belonging any such in this Act, or call which for is a prosecution not of a sufficiently before a
+
+====================================================================================================
+#95 | section 93 | 128 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 93
+G) malingers, to any other or person or ; produces or disease serious Criminal nature Court, to that is to say,- more than seven
+
+====================================================================================================
+#96 | section 94 | 104 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 94
+orintrmity delays his ssr in ori intentionally (a) confinement days in the for quarter-guard not or such
+
+====================================================================================================
+#97 | section 95 | 117 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 95
+() with disease or infirmity; cure, or or, aggravates his other place with as forfeiture may be of all considered and
+
+====================================================================================================
+#98 | section 96 | 112 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 96
+other intent person to render unfit for himself service, or volun- any allowances suitable, during its vresdaiss
+
+====================================================================================================
+#99 | section 97 | 119 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 97
+tarily other causes hurt to himself or any (6) punishment-drill, or other duty, for or extra not more guard, than Paser
+
+====================================================================================================
+#100 | section 98 | 75 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 98
+() does not, person;or when called by his days, with or without confinement
+
+====================================================================================================
+#101 | section 99 | 131 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 99
+E saperior tol officer be a Military so to upon Police-officer, or upon (3) Any to one quarters. of the punishments described be in
+
+====================================================================================================
+#102 | section 100 | 120 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 100
+for, all or deliver up, or duly account sub-section awarded separately (r) or or sub-section in combination (2) ERY, any
+
+====================================================================================================
+#103 | section 101 | 105 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 101
+or stores, accoutrements, any arms, appointments ammunition, one or more of the said- punishments respec-
+
+====================================================================================================
+#104 | section 102 | 1645 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 102 [part 1 of 5]
+other property issued or supplied tively. IVA2 16 THE GAZETTE OF INDIA, MARCH 5 1904- PART IV II. Every person sentenced under for this a Act period to in was writing committed, of such and not suit otherwise or proceeding ; and and notice of ment. Place of imprison- imprisonment not exceeding he is also three dismissed months ant the or cause his superior thereof shall officer be given one month to the at defend- least from the Border Military shall,if Police Forcc, be before the commencement of the suit or pro- imprisoned as the in Local the Government nearest prison may, or by such general other ceeding. 16. Notwithstanding anything contained in F TTCH from order, the direct; said : Force, but, if he he may, not ifthe also exclusive Authority to confer of dure, the Code 1898, ofCriminal the Local Proce- Goy- Court be confined or the in Dxgny quarter-guard Commissioner or so such directs, other Deputy Sessions Commissioner. Courn on ernment the Court may of any declare that place as the: Court or the Deputy Commissioner Commissioner, and no other Court, Rarz may consider suitable. deemed to be the Court of Session for thedis
+12. No Military Police-officer shall be at posal of cases, or of any class of cases, arising ductpetiovendetd liberty to-- under this Act.
+(a) resign Force. his appointment during the term Criminal 17. Any person con- invested under the with Code cay Torerea of expiration his engagement, of the first except three before months the India ferred eEE to be exercise. British Procedure, disposal of any 1898, case for under the) ofhis service, or able India. beyond British this Act within the limitsaf
+
+====================================================================================================
+#105 | section 102 | 1534 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 102 [(13)]
+other property issued or supplied tively. IVA2 16 THE GAZETTE OF INDIA, MARCH 5 1904- PART IV II. Every person sentenced under for this a Act period to in was writing committed, of such and not suit otherwise or proceeding ; and and notice of [...]
+(6) withdraw duties of himself his appointment, from all or any of the tion to any case arising British under India, this shall, Act in beyond rela viously without obtained) the permission of the in Deputy writing Commissioner (to be pre. ject such limits, to the have same the conditions same powers as to and be sub or or Commandant or other officer authorised by limits. otherwise as if such case had arisen MaseN such mission. the Deputy Commissioner to grant such per- 18. The Local Government, with the previons
+13. (r)It shall be Police-officer the duty of every Military Application other bodies enrolled of Act sanction General in of Council, the Governor Military Genetal Police-officers. duties of obey and to promptly execute all to tze tier. service on fron- by notification in the LES fully issued to him by orders any competent and warrants authority, law- modifications (if any) Gazette, as it may apply, think with fit, anyof such to apprehend detect and all bring persons offenders. whom to justice, he is legally and to the under provisions to the Border of this Militia Act and or the to any rules persons there- hension authorised sufficient to apprehend grounds and exist. for whose appre- on for the the external time being frontier enrolled of British for similar India, service to (p) serve Every without Military and Police-officer beyond, as well shalll as beliable within, 19. The Local Government tion in the may, official by Gazette, notifica- the limits of British-India. Powerto make rules, make rules-
+
+====================================================================================================
+#106 | section 102 | 440 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 102 [(14)]
+other property issued or supplied tively. IVA2 16 THE GAZETTE OF INDIA, MARCH 5 1904- PART IV II. Every person sentenced under for this a Act period to in was writing committed, of such and not suit otherwise or proceeding ; and and notice of [...]
+14. The Local Government or special may, by general (a) regulating the the functions and meroe of EeeL able on Military and L RE order, any confer Military or mandant, Deputy respectively, Commissioner under and this or Micers. imposed on a Police-officer powersor duties any conferred of the (6) regulating Act; the classes and grades Frede by any enactment for the of time any being class in or officers the remuneration to be paid de the
+
+====================================================================================================
+#107 | section 102 | 1335 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 102 [(15)]
+other property issued or supplied tively. IVA2 16 THE GAZETTE OF INDIA, MARCH 5 1904- PART IV II. Every person sentenced under for this a Act period to in was writing committed, of such and not suit otherwise or proceeding ; and and notice of [...]
+15. (1) In any suit or tions of and service men in, of, the and' Border the condi Mili- Military Protection Fralmseast for of Military any proceeding act done Police-officer against any for (c) fixing tary the Police period Force; of service for Military order ofa competent authorily, pursuance of a CZRE him or in area; Polite-officers in any district orl local him ful for under him to topleak that suchact it was shall done be law- by (d) regulating the award of minor punisks order. authority of such warrant or ments under the to Military Police-oficon tion (2) of Such the warrant plea may or be proved by the produc- from, tion 1o, and powers providing conferred for NOCE bysce and, officer if shall it is so perte order such directing Military the Police- act, that section or the ; revision and, of, orders withstanding bility in respect LE actso discharged done by from him, lia- (e) generally, into effect for the purpose of carryine the authority any which defect issued in the jurisdiction not- of the provisions of fthis Act order, such warrant or or (3). criminal) All suits and proceedings (whether THE SCHEDULE, tended lawfully to bet brought be against for any nything person done which may civil CONDITIONS OF SERVICE.
+bzier or in pursuance done of, under any thepovets conferred or in- [See section 2, clause (a).]
+
+====================================================================================================
+#108 | section 102 | 1976 chars
+The North-West Border Military Police Act, 1904 — Part IV — Section 102 [(15)]
+other property issued or supplied tively. IVA2 16 THE GAZETTE OF INDIA, MARCH 5 1904- PART IV II. Every person sentenced under for this a Act period to in was writing committed, of such and not suit otherwise or proceeding ; and and notice of [...]
+within thiree rules months thereunder after psriton the be commenced of this Act the AFTER Local Goverament you have served for (suck period a m act complained of maintained this behalf) int the Border may Military/Police have presried Force under the North-West Border! ivj THE GAZETTE OF INDIA, MARCH 5, 1904. 17 PART Military Police active Act, service, 1904, you apply may for at any your time, dis- before the said the Force, you of may the resign first three at any months time when not through on the officer to whom you may of your Mevrernter but not afterwards until the C sihordinate, to the Commandant of the district or in to which the completion said: of the period prescribed as afore- Deputy may! Commissioner be serving, three and you months will from be Scone date Provided, also, that the Commandant or the = discharge application, after unless YNT discharge would Deputy allow you Commissioner to resign at any may, time if on he your thinks giving fit, cause vacancies sanctioned in the strength, Force in to exceed which three months' notice of your wish to do so.
+one-tenth casey you shall of the be bound to remain untifthis authority ob- or Signature cer in acknoteledgment of Military Police-off-) of the A. B.
+removed. jection is waived But when by on competent active service you shall above having been read to him.
+have no to claim remain to to a discharge do your dee and you until shall the ne- be Signed in my presence after 1 had! Deputy C.D., bound cessity for retaining make you in your application said Force in ascertained stood the purport that A. of B. what under. he sioner Commis- or ceases, the manner when hereinbefore you may prescribed. In the signed. Command- event of your re-enlistment shall have no after claim you have to reckon been ant.
+discharged.you for pension or other purposes your service pre- J. M. MACPHERSON, vious Provided to your that, discharge: ifyou wish to withdraw from Secretary tot the Government of India.

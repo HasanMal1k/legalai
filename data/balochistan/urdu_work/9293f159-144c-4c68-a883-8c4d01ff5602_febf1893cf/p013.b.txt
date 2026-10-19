@@ -1,0 +1,42 @@
+(ب) فارم
+یہ بین کاپی / وارڈ
+کسی بھی ادارے کے حصول کیسے درج ہے ہیں گھر کے مگر (منفی کوئی نہیں) سے رہنے میں براحت دیا کرین
+اور اسٹیم پر ہر ایک کے لیے یہاں سے کہیں گئے ہیں
+درخواست فارم برائے کمپیوٹر انڈراج باعث موت
+Normal Late Death Entry
+1 Applicant Name 1 درخواست کنندہ کا نام
+2 Applicant CNIC 2 درخواست کنندہ کی شناختی کار نمبر
+3 Deceased's Name 3 متوفی کا نام
+4 Deceased's CNIC No 4 متوفی کی شناختی کار نمبر
+5 Relation 5 متعلقہ کا تعلق سے ثابت
+6 Religion 6 مذہب
+7 Gender 7 جنس
+8 Father's Name 8 والد کا نام
+9 Father's CNIC 9 والد کی شناختی کار نمبر
+10 Husband's Name 10 شوہر کا نام
+11 Husband's CNIC 11 شوہر کی شناختی کار نمبر
+12 Place of Birth 12 جگہ ہے پیدائش
+13 Name of Graveyard 13 قبرستان کا نام
+14 Date of Birth 14 تاریخ پیدائش
+15 Date of Death 15 تاریخ وفات
+16 Date of Burial 16 تاریخ دفن
+17 No of Pervious Stillbirths by the Moniter 17 گزشتہ پیدائش اکثر "موت
+18 Total period of Intra-uterine exisence 18 حمل کا دورانیہ
+19 Cause of Death 19 وجہ وفات
+20 Sickness Period 20 مدت عمارت
+21 Address 21 پتہ
+22 Person Name Causing disposal of Body 22 شخص کی نام کدہ
+23 CNIC 23 شخص کی شناختی کار نمبر
+24 Doctor 24 ڈاکٹر کا نام: م
+25 درخواست و ختم سے نمبرو
+تاریخ
+نام پیدائش
+پتہ
+بین کاپی / وارڈ
+لیٹ
+نمبر
+CARMS NO
+FORMS NO
+تصدیق کاپی اس آفس نمبر
+شناسی کار نمبر
+مقابلہ کیلئے نمبر
