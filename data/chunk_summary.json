@@ -2,66 +2,98 @@
  "by_source": {
   "pakistancode": {
    "laws": 1020,
-   "chunks": 43468
+   "chunks": 43475
   },
   "drs": {
-   "laws": 3840,
-   "chunks": 87206
+   "laws": 3841,
+   "chunks": 87577
   },
   "punjab": {
    "laws": 2058,
-   "chunks": 69710
+   "chunks": 69634
   },
   "kp": {
    "laws": 551,
-   "chunks": 15079
+   "chunks": 15099
   },
   "balochistan": {
    "laws": 860,
-   "chunks": 24686
+   "chunks": 24690
   },
   "sindh": {
    "laws": 872,
-   "chunks": 30124
+   "chunks": 29920
   }
  },
- "generated_at": "2026-10-18T22:44:00Z",
- "laws": 9201,
- "chunks": 270273,
+ "generated_at": "2026-10-20T16:26:05Z",
+ "laws": 9202,
+ "chunks": 270395,
  "laws_by_method": {
-  "provisions": 6097,
+  "provisions": 6135,
   "whole": 1850,
-  "passages": 1254
+  "passages": 1217
  },
- "laws_structured_with_the_model": 316,
+ "laws_structured_with_the_model": 287,
  "chunks_by_unit": {
-  "section": 137616,
-  "passage": 43872,
-  "rule": 33267,
-  "schedule": 20898,
-  "regulation": 9403,
-  "card": 9201,
-  "preamble": 6470,
-  "article": 4410,
-  "paragraph": 3028,
+  "section": 138046,
+  "passage": 42023,
+  "rule": 33716,
+  "schedule": 21818,
+  "regulation": 9535,
+  "card": 9202,
+  "preamble": 6479,
+  "article": 4577,
+  "paragraph": 2893,
   "document": 1850,
-  "contents": 130,
+  "contents": 128,
   "notes": 128
  },
  "chunk_chars": {
-  "median": 881,
-  "p10": 218,
-  "p90": 1814,
-  "p99": 2165,
+  "median": 880,
+  "p10": 219,
+  "p90": 1812,
+  "p99": 2164,
   "largest": 2999,
-  "under_200": 21199,
+  "under_200": 20852,
   "over_2600": 256
  },
  "laws_with_problems": {
-  "no numbered provisions found": 678,
-  "N numbers are missing between provisions N and N": 487,
-  "the contents list N provisions; N were found": 174,
-  "the table of contents could not be followed; provisions found by counting": 34,
+  "no numbered provisions found": 642,
+  "N numbers are missing between provisions N and N": 543,
+  "the contents list N provisions; N were found": 153,
+  "the table of contents could not be followed; provisions found by counting": 29,
   "over a third of the text was read as footnotes": 4
- }
+ },
+ "stale_copies_not_served": [
+  {
+   "source": "punjab",
+   "title": "The Constitution of the Islamic Republic of Pakistan",
+   "instead": "The Constitution of the Islamic Republic of Pakistan",
+   "why": "the Constitution is amended by Parliament alone"
+  },
+  {
+   "source": "punjab",
+   "title": "The Control of Narcotic Substances Act, 1997",
+   "instead": "The Control of Narcotic Substances Act, 1997",
+   "why": "the Pakistan Code's text gives 3 provisions in force that this copy lacks or prints as repealed (0 the other way round), and this copy shows no amendment by its province"
+  },
+  {
+   "source": "punjab",
+   "title": "Pakistan Penal Code",
+   "instead": "The Pakistan Penal Code",
+   "why": "the Pakistan Code's text gives 40 provisions in force that this copy lacks or prints as repealed (4 the other way round), and this copy shows no amendment by its province"
+  },
+  {
+   "source": "punjab",
+   "title": "The Regulation of Generation, Transmission and Distribution of Electric Power Act, 1997",
+   "instead": "The Regulation of Generation, Transmission and Distribution of Electric Power Act, 1997",
+   "why": "the Pakistan Code's text gives 37 provisions in force that this copy lacks or prints as repealed (2 the other way round), and this copy shows no amendment by its province"
+  },
+  {
+   "source": "balochistan",
+   "title": "The Provincial Insolvency Act, 1920",
+   "instead": "The Provincial Insolvency Act, 1920",
+   "why": "the Pakistan Code's text gives 85 provisions in force that this copy lacks or prints as repealed (0 the other way round), and this copy shows no amendment by its province"
+  }
+ ]
 }

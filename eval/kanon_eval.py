@@ -19,8 +19,9 @@ Quarantined laws and stubs are not embedded at all.
 
 Chunk vectors are kept in data/embeddings/kanon-2-embedder/ as float16 shards, each with its chunks' ids and a
 hash of the text embedded. --embed sends only chunks whose (id, text) is not stored yet, so it resumes after an
-interruption and, after a re-cut or a text repair, pays only for the chunks that changed; vectors of chunks that
-no longer exist are ignored. The runs written (answers collection) are:
+interruption and, after a re-cut or a text repair, pays only for the chunks that changed; a chunk whose text was
+embedded before under another id (a re-cut renumbers the chunks after a change in their law) gets that vector again
+without a request; vectors of chunks that no longer exist are ignored. The runs written (answers collection) are:
   kanon2_raw          the questions as written
   kanon2_translated   Urdu and Roman Urdu questions translated to English first (eval/translate.py)
   hybrid_translated   kanon2_translated fused with keyword search (reciprocal rank fusion)
@@ -132,14 +133,42 @@ def estimate():
     return by_collection, len(todo), tokens
 
 
+def reuse_known(todo: list[tuple[str, str, str]], number: int) -> tuple[list[tuple[str, str, str]], int]:
+    """Chunks whose text was embedded before under another id (a re-cut renumbers every chunk after a change in its
+    law) get that vector again, without a request: the same text gives the same vector. Returns what is left to embed."""
+    where = {}
+    for path in sorted(STORE.glob("part_*.ids.json")):
+        for row, (cid, h) in enumerate(json.loads(path.read_text(encoding="utf-8"))):
+            where.setdefault(h, (path, row))
+    known = [item for item in todo if item[1] in where]
+    by_file = {}
+    for item in known:
+        by_file.setdefault(where[item[1]][0], []).append(item)
+    pairs, blocks = [], []
+    for path, items in by_file.items():
+        vectors = np.load(str(path).replace(".ids.json", ".npy"))
+        blocks.append(vectors[[where[h][1] for _, h, _ in items]])
+        pairs += [[cid, h] for cid, h, _ in items]
+    if pairs:
+        vectors = np.concatenate(blocks).astype(np.float16)
+        for first in range(0, len(pairs), SHARD):
+            name = STORE / f"part_{number:05d}"
+            np.save(name.with_suffix(".npy"), vectors[first:first + SHARD])
+            name.with_suffix(".ids.json").write_text(json.dumps(pairs[first:first + SHARD]), encoding="utf-8")
+            number += 1
+    print(f"{len(known):,} chunks reuse the vector of the same text embedded before")
+    return [item for item in todo if item[1] not in where], number
+
+
 def embed_corpus(price: float | None):
     api = client()
     STORE.mkdir(parents=True, exist_ok=True)
     todo = pending()
-    print(f"{len(todo):,} chunks to embed")
-    spent_tokens, started = 0, time.time()
     taken = {int(p.stem.split("_")[-1].split(".")[0]) for p in STORE.glob("part_*.npy")}
     number = max(taken, default=-1) + 1
+    todo, number = reuse_known(todo, number)
+    print(f"{len(todo):,} chunks to embed")
+    spent_tokens, started = 0, time.time()
     for first in range(0, len(todo), SHARD):
         part = todo[first:first + SHARD]
         batches = [part[i:i + BATCH] for i in range(0, len(part), BATCH)]

@@ -77,7 +77,7 @@ def sync(corpus: Corpus) -> dict:
     for name, serves in COLLECTIONS.items():
         ensure(db, name)
         have = stored_points(db, name)
-        wanted = {cid: c for cid, c in corpus.chunks.items() if c["serve"] in serves}
+        wanted = {cid: c for cid, c in corpus.chunks.items() if c["serve"] in serves and not c.get("stub")}   # (omitted ones: no vector)
         stale = [cid for cid, (h, _) in have.items() if cid not in wanted or wanted[cid]["hash"] != h]
         if stale:
             db.delete(name, points_selector=models.PointIdsList(points=[point_id(cid) for cid in stale]))

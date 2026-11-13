@@ -32,6 +32,8 @@ The rules, applied after the relations are read:
   R5 parent     rules or regulations made under an Act that is repealed -> recorded; they live on
                 only through the repealing law's savings clause.
   R6 order      a law is never repealed by one made before it.
+  R10 everywhere repealed for every territory, one by one (the Trusts Act, 1882: by the Islamabad Capital
+                Territory and each province in 2020) -> repealed; verified when every one of those repeals is.
   R7 leads      repeal leads left by finalize_metadata (a law the metadata pass said repeals this
                 one, but whose words could not be matched) are settled by what that law's text says:
                 a repeal (R1-R4), or only a partial repeal, a mention, an amendment or an override.
@@ -53,6 +55,13 @@ KG_DIR = Path(__file__).parent / "data" / "kg"
 FEDERAL_SOURCES = ("pakistancode", "drs")
 CURRENT_CODES = ("pakistancode", "punjab", "kp", "balochistan")
 PROVINCE_OF = {"punjab": "Punjab", "sindh": "Sindh", "kp": "Khyber Pakhtunkhwa", "balochistan": "Balochistan"}
+EVERY_TERRITORY = {"Islamabad Capital Territory", *PROVINCE_OF.values()}     # where a federal law runs (rule R10)
+# a word that makes another law of a name ("the X (Amendment) Rules" are not "the X Rules"): never the one word a clause
+# may add to a law's name (Graph.resolve)
+NEAR_NAME_QUALIFIERS = {"amendment", "amending", "second", "third", "fourth", "additional", "supplementary", "special", "deputy",
+                        "chief", "interim", "temporary", "transitional", "west", "east", "federal", "provincial", "repeal", "validation",
+                        "no", "part", "procedure", "general", "revised", "new", "former", "senior", "junior", "assistant",
+                        "punjab", "sindh", "khyber", "pakhtunkhwa", "balochistan", "islamabad", "pakistan", "national", "district"}
 YEAR = r"(?:1[89]\d{2}|20\d{2})"
 
 # ---- reading the text ---------------------------------------------------------------------------
@@ -78,7 +87,7 @@ ABBREVIATIONS = {"no", "nos", "ord", "sind", "art", "arts", "sec", "secs", "ss",
                  "st", "viz", "ibid", "pres", "reg", "regs", "notfn", "notif"}
 
 PARTIAL_BEFORE = re.compile(r"\b(?:sub-?\s?sections?|sections?|ss?\.|clauses?|sub-?clauses?|articles?|rules?|regulations?|paragraphs?|"
-                            r"chapters?|parts?|schedules?|entries|entry|provisos?|explanations?|provisions|the\s+words|items?)\b"
+                            r"chapters?|parts?|schedules?|entries|entry|provisos?|explanations?|provisions(?!\s+of\s+(?:the\s+)?$)|the\s+words|items?)\b"
                             r"[^;]{0,220}?\bof\s+(?:the\s+)?$|\bIn\s+the\s+$"
                             # "the following enactments and the amendments made thereby in the Land Acquisition Act are hereby repealed"
                             r"|\bamendments?\s+(?:\w+\s+){0,3}?(?:made|effected)\s+(?:\w+\s+){0,2}?(?:in|to)\s+(?:the\s+)?$", re.I)
@@ -89,7 +98,7 @@ TERRITORY = re.compile(r"(?:to\s+the\s+extent\s+of|in\s+(?:its|their)\s+applicat
                        r"(Islamabad(?:\s+Capital\s+Territory)?|Federal\s+Capital(?:\s+Area)?|Province(?:\s+of\s+(?:the\s+)?[A-Z][\w\-]+(?:\s+[A-Z][\w\-]+)?)?|"
                        r"Punjab|Sindh?|Bal[ou]chistan|Khyber\s+Pakhtunkhwa|North-West\s+Frontier\s+Province|West\s+Pakistan|"
                        r"(?:Provincially\s+Administered\s+)?Tribal\s+Areas|Karachi)", re.I)
-LIMITS = re.compile(r"to\s+the\s+extent|so\s+f[ao]r\s+as|in\s+so\s+f[ao]r|insofar|in\s+(?:its|their)\s+application|\bexcept\b|other\s+than|"
+LIMITS = re.compile(r"to\s+the\s+extent|to\s+(?:that|such)\s+extent|so\s+f[ao]r\s+as|in\s+so\s+f[ao]r|insofar|in\s+(?:its|their)\s+application|\bexcept\b|other\s+than|"
                     r"as\s+applicable\s+to|in\s+relation\s+to|with\s+respect\s+to|cease\s+to\s+have\s+application|as\s+relates\s+to", re.I)
 CONDITION = re.compile(r"immediately\s+after\s+the|(?:after|upon|on)\s+(?:the\s+)?dissolution|on\s+such\s+date\s+as|from\s+such\s+date\s+as|"
                        r"in\s+an\s+area\s+in\s+which|as\s+and\s+when|with\s+effect\s+from\s+such|on\s+the\s+date\s+notified", re.I)
@@ -369,6 +378,22 @@ class Graph:
                 if candidate["year"] == ref["year"] and kind_matches(ref["kind"], candidate["instrument_type"]) \
                         and name_covered(candidate["_norm"], wanted) >= 0.7 and prefix_fits(ref.get("prefix"), candidate, repealer):
                     found[id(candidate)] = (candidate, "number")
+        if not found and reach:
+            # one ordinary word more in the clause than in the law's own name ("The Balochistan Civil Service (Executive
+            # Branch) Service Rules, 1984" for "... (Executive Branch) Rules, 1984"): the only law of that kind and year the
+            # repealer can reach whose name it is but for that word -- read, never verified (standing)
+            # (words counted, not just seen: here the added word is one the name already has)
+            mine = Counter(re.findall(r"[a-z]+|\d+", wanted))
+            near = []
+            for candidate_norm, candidate in self.by_year.get(ref["year"], []):
+                theirs = Counter(re.findall(r"[a-z]+|\d+", candidate_norm))
+                extra = mine - theirs
+                if len(theirs) >= 4 and not theirs - mine and sum(extra.values()) == 1 and not set(extra) & NEAR_NAME_QUALIFIERS \
+                        and candidate is not repealer and kind_matches(ref["kind"], candidate["instrument_type"]) \
+                        and self.reachable(repealer, candidate):
+                    near.append(candidate)
+            if len({c.get("work_id") or id(c) for c in near}) == 1:
+                found.update({id(c): (c, "near_name") for c in near})
         if not reach:
             return [(c, how) for c, how in found.values() if c is not repealer and c.get("work_id") != repealer.get("work_id")]
         return [(c, how) for c, how in found.values() if self.reachable(repealer, c) or self.named_in_its_book(ref, c, repealer)]
@@ -723,6 +748,8 @@ def standing(e: dict) -> tuple[str, str | None]:
         return "probable", "named only by its number and part of its name"
     if e["how"] == "said":
         return "probable", "named only as 'the said Act'"
+    if e["how"] == "near_name":
+        return "probable", "named with one word more than the law's own name"
     if e["how"] == "federal_to_province":
         return "probable", "a federal law repealing a province's copy of a federal law, which survives if the subject is the province's"
     why = unsettled(e["from"])
@@ -765,6 +792,38 @@ def apply_rules(graph: Graph) -> dict:
             record["related"] = record["related"] + [{"relation": "repealed_in", "territory": x["territory"], "title": x["by"],
                                                       "source": x["source"], "words": x["words"][-200:]} for x in exceptions[:3]]
             changes["R2 repealed for a territory only"] += 1
+        # R10: repealed for the Islamabad Capital Territory and for each province, one by one -- nothing of it is left
+        if record["jurisdiction"] == "Federal" and EVERY_TERRITORY <= {x["territory"] for x in exceptions} \
+                and record["status"] not in ("repealed", "amending_instrument"):
+            best = {}
+            for e in repeals:
+                if e["extent"] == "territory" and e["how"] != "federal_to_province" and e["territory"] in EVERY_TERRITORY:
+                    if e["territory"] not in best or (standing(e)[0] == "verified" and standing(best[e["territory"]])[0] != "verified"):
+                        best[e["territory"]] = e
+            weak = [(place, standing(e)[1]) for place, e in best.items() if standing(e)[0] != "verified"]
+            line = "repealed in every part of Pakistan, territory by territory: " + "; ".join(
+                f"for {place} by {e['from']['title']} (\"{e['words'][-110:]}\")" for place, e in sorted(best.items()))
+            record["_before_kg"] = {"status": record["status"], "basis": record["status_basis"][:1]}
+            latest = max(best.values(), key=lambda e: e["from"]["year"] or 0)
+            if not weak:
+                record["status_basis"] = [line] + ([f"(the {record['source']} site still lists it: {record['status_basis'][0]})"]
+                                                   if listed_current(record) else [])
+                record.update(status="repealed", status_confidence="high")
+                changes["R10 repealed in every territory (verified)"] += 1
+            elif listed_current(record):
+                graph.conflicts.append({"rule": "R10", "law": record["title"], "source": record["source"], "listed": record["status_basis"][0],
+                                        "against": line, "why_unconfirmed": "; ".join(f"{p}: {w}" for p, w in weak)})
+                record["status_basis"] = [f"conflict: {record['status_basis'][0]}, but it may be {line} (not confirmed for "
+                                          + "; ".join(f"{p}: {w}" for p, w in weak) + ")"]
+                record.update(status="unknown", status_confidence="low")
+                changes["R10 conflict with an official listing"] += 1
+            else:
+                record["status_basis"] = [f"probably {line}"]
+                record.update(status="repealed", status_confidence="medium")
+                changes["R10 repealed in every territory (probable)"] += 1
+            if record["status"] == "repealed":
+                record["related"] = [{"relation": "repealed_by", "title": latest["from"]["title"], "source": latest["from"]["source"],
+                                      "words": latest["words"][-200:]}] + record["related"]
         partial = [e for e in repeals if e["extent"] in ("part", "conditional")]
         if partial:
             record["related"] = record["related"] + [{"relation": "partly_repealed_by" if e["extent"] == "part" else "conditionally_repealed_by",

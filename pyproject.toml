@@ -1,18 +1,26 @@
 [project]
-name = "scrapper"
+name = "pakistan-law-assistant"
 version = "0.1.0"
-description = "Add your description here"
+description = "Question answering over Pakistani legislation: scrapers, metadata pipeline, knowledge graph, chunking, retrieval eval and a cited-answer web app"
 readme = "README.md"
 requires-python = ">=3.12"
+# the same list, pinned, is in requirements.txt; GPU OCR (torch, python-doctr) is installed separately, see README.md
 dependencies = [
     "beautifulsoup4>=4.15.0",
+    "fastapi>=0.146.0",
+    "isaacus>=0.22.1",
+    "numpy>=2.5.2",
+    "openai>=3.35.1",
+    "pdfplumber>=0.11.10",
+    "pillow>=12.3.0",
+    "pydantic>=2.14.1",
     "pypdf>=6.19.0",
+    "pypdfium2>=5.13.0",
+    "qdrant-client>=1.19.1",
+    "rapidfuzz>=3.14.6",
     "requests>=2.34.2",
+    "scipy>=1.18.1",
+    "tenacity>=9.1.4",
+    "tqdm>=4.70.1",
+    "uvicorn>=0.54.0",
 ]
-
-[project.scripts]
-scrapper = "scrapper:main"
-
-[build-system]
-requires = ["uv_build>=0.12.21,<0.13.0"]
-build-backend = "uv_build"

@@ -26,6 +26,11 @@ How a law is cut:
      characters is cut at its sub-sections, then clauses, then sentences.
      A law of WHOLE_BELOW characters or less stays in one piece. A longer
      law with no numbering the rules can follow is cut into passages.
+  5. Copies. A provincial code's copy of a federal law is not served where
+     the Pakistan Code's text is plainly later and the copy carries no
+     amendment of its province (the Punjab Code's Penal Code still has
+     section 375 "repealed by the Zina Ordinance"), nor ever a provincial
+     copy of the Constitution.
 
 The words of a chunk are always the law's own: lines are joined and cut,
 never rewritten. The only generated chunk is the one "card" per law
@@ -84,12 +89,32 @@ LEADING_MARKER = re.compile(r"^(\d{1,3})(?=[A-Z][a-z])")         # the "1" of "1
 # what never appears inside a block of footnotes
 BODY_LINE = re.compile(r"^\[?\s*(?:\d{1,3}\s?[A-Z]{0,3}\.\s+[“\"]?[A-Z][a-z]{2,}|\(\d{1,3}[A-Z]{0,2}\)\s|\([a-z]{1,3}\)\s|CHAPTER\b|PART\s+[IVX\d])")
 
-# "12. ", "12A. ", "365 A. ", "Section 12. ", and with what the printers put in front: "7[121A. ", "[4. ", "*273. "
+# "12. ", "12A. ", "365 A. ", "Section 12. ", and with what the printers put in front: "7[121A. ", "[4. ", "*273. ",
+# or behind: "14. 2[(1) Notwithstanding ..." (the note mark of an amendment)
 PROVISION = re.compile(r"^(?:\d{1,4}\s*\[|[\[*†])?\s*(?:(?:Section|Sec\.|Article|Art\.|Rule|Regulation|Para(?:graph)?)\s+)?"
-                       r"(\d{1,3})\s?-?\s?([A-Z]{0,3})\s?[.:]\s*(?=$|[^\d\s.])(.*)$")
+                       r"(\d{1,3})\s?-?\s?([A-Z]{0,3})\s?[.:]\s*(?=$|[^\d\s.]|\d{1,3}\[)(.*)$")
 # a number in any dress -- "(2E) ", "[26A, ", "4*[294B. ", "1272. " (note 1, Article 272) -- which
 # counts only when the heading the contents give that number follows it
 LOOSE_NUMBER = re.compile(r"(\d{1,6})\s?-?\s?([A-Z]{0,3})[\])]?\s*[.,:]?\s*")
+# never a provision of the law itself: quoted text -- the old wording a note gives ("“74. Tax year ..." after the section
+# that replaced it), a section an amending law inserts -- and a note about one ("Section 93 omitted by the Finance Act")
+QUOTED = re.compile(r"^[\s\[\d]{0,4}[“\"‘]")
+NOTE_ABOUT = re.compile(r"^\W*\d{0,3}\s*(?:sections?|clauses?|rules?|articles?|sub-sections?)\s+\d{1,4}\s?-?[A-Z]{0,3}\b(?!\s?[.:])", re.I)
+# nor a line of a list: dot leaders ("1. First Schedule ………. Forms."), or an amendment note standing alone where a
+# provision would ("3. Subs vide the Khyber Pakhtunkhwa Act IV of 2011.")
+LEADERS = re.compile(r"(?:\.\s?){5,}|…\s?…|(?:…\s?\.){2,}")
+# the law's number as the KP Code prints it under the title, "(KHYBER PAKHTUNKHWA ACT NO. XXXVII OF 2014)",
+# "2[KHYBER PAKHTUNKHWA] ACT NO. I OF 1985.", and its publication note "(First published after having received ...)"
+LAW_NUMBER = re.compile(r"^\W{0,3}(?:\d{1,2}\[)?\s*(?:[A-Za-z.\]]+\s+){0,3}(?:ACT|ORDINANCE|REGULATION)\s+N[Oo]\.?\s|^\W{0,3}First\s+published\b", re.I)
+ENACTING = re.compile(r"\b(?:is|are)\s+hereby\s+enacted\b|^\W*(?:Preamble\.?\s*)?WHEREAS\b|\bBe\s+it\s+enacted\b|\bNOW,?\s+THEREFORE\b", re.I)
+# the title above a second list after the contents: "THE FIRST STATUTES (See Section 54)", "SCHEDULES", "LIST OF FORMS"
+LIST_TITLE = re.compile(r"^\W*(?:THE\s+)?(?:(?:FIRST|SECOND|THIRD)\s+)?(?:SCHEDULES?|STATUTES|CONTENTS|LIST\s+OF|FORMS)\b", re.I)
+AMENDMENT_ONLY = re.compile(r"^\W*(?:Subs(?:tituted)?|Ins(?:erted)?|Added|Renumbered)\.?\s+(?:vide|by)\b", re.I)
+# what reads as an amendment note wherever it stands ("Cl. 7th ins. By ...", "The words ... subs. by ...")
+FOOTNOTE_LIKE = re.compile(r"\b(?:subs|ins|add|omitted|rep|cl)\.?\s+(?:by|vide|ibid)\b|\b(?:substituted|inserted|added|omitted|repealed)\s+(?:by|vide)\b"
+                           r"|^For\s+Statement\s+of\s+Objects", re.I)
+# (a number without its full stop in front of an omission note is a footnote too, not an entry of a contents table)
+FOOTNOTE_TEXT = re.compile(r"^\W*(?:Subs(?:tituted)?|Ins(?:erted)?|Added|Renumbered|Omitted|Deleted|Rep(?:ealed)?)\.?\s+(?:vide|by)\b", re.I)
 GAZETTE = re.compile(r"GA[ZS]E[IT]{1,3}E", re.I)                 # as scanned: "Gasette", "GAZEITE"
 # the Gazette's own part titles, printed above every law it carries
 MASTHEAD = re.compile(r"(?:PART\s*[-–]?\s*[IVX1l]+\s*)?(?:Acts,\s*Ordinances,\s*President|Statutory\s+Notifications|"
@@ -98,6 +123,8 @@ MARGIN = re.compile(r"^(?!.*\b(?:sections?|rules?|clauses?|articles?|paragraphs?
                     r"[A-Za-z][A-Za-z,.'\- ]{0,28}\s(\d{1,3})\s?([A-Z]{0,2})\.\s+(?=[(\[A-Z“\"])(.*)$")
 TABLE_ENTRY = re.compile(r"^(\d{1,3})\s?([A-Z]{0,3})\.?\s+([A-Z\[*“\"].*?)(?:\s+\d{1,4}(?:\s?-\s?\d{1,4})?)?$")
 RUNNING_TEXT = re.compile(r"\bshall\b|^\[?\((?:\d{1,2}|[a-z])\)\s")   # what a table of contents never holds
+# ... except a lettered sub-heading of its own: "(a) Possession of Immoveable Property" (the Specific Relief Act)
+CONTENTS_SUBHEAD = re.compile(r"^\[?\((?:[a-z]{1,3}|\d{1,2})\)\s+[A-Z][^;:,]{2,70}$")
 END_NOTES = re.compile(r"^LEGAL REFERENCES?\.?$")                # the Customs Act lists its amendment notes under this
 SYMBOL_FONT = str.maketrans({"": "-", "": "*", "": "•", "": "o", "": "…", "": "↔",
                              "": "§", "": "•", "": "→", "": " ", "": "•", "": "•"})
@@ -109,7 +136,7 @@ SHAPED = re.compile(r"^[\[“\"]?[A-Z][^.]{1,160}\.\s?[—–\-_─:]|^[—–\-
 HEADING_END = re.compile(r"\.\s?[—–\-_─‒―\xad]{1,4}|:\s?[—–\-_]{1,4}|\s[—–]{1,2}\s?(?=\(|[A-Z])|\.\s*(?=\[?\(1\))")
 # a contents entry's dot leaders and page number, however printed: "Definitions…………..7-28", "Omitted...... …..… .45"
 LEADER_TAIL = re.compile(r"(?:\s*[.…·„]){2,}[\s.…·„]*(?:\d{1,4}(?:\s?[-–]\s?\d{1,4})?)?\s*$")
-BODY_WORDS = re.compile(r"\b(?:shall|must|followings?|hereby|namely|as under)\b", re.I)    # a sentence, not a heading
+BODY_WORDS = re.compile(r"\b(?:shall|must|should|followings?|hereby|namely|as under)\b", re.I)    # a sentence, not a heading
 # a lettered sub-heading of a contents list ("B.__ Arrest without warrant", "E.—Special rules"): never part of an entry
 SUBHEAD = re.compile(r"^[A-Z]\s?\.\s?[_—–-]+\s*\S")
 # the note that inserted a provision, printed after it ("Sec.489-F ins by Ordinance LXXII of 95")
@@ -129,6 +156,10 @@ CONTENTS = re.compile(r"^(?:TABLE\s+OF\s+)?C\s?O\s?N\s?T\s?E\s?N\s?T\s?S\.?$|^AR
 OPENING = re.compile(r"^\[?\d{0,2}\s*(?:(?:ACT|ORDINANCE|REGULATION|PRESIDENT[’']S\s+ORDER|P\.\s?O\.)\s+N[Oo]\.?|"
                      r"AN?\s+(?:ACT|ORDINANCE|ORDER|REGULATION)\b|WHEREAS\b|Preamble\b|NOTIFICATION\b|"
                      r"\[\s*\d{1,2}(?:st|nd|rd|th)?\s+[A-Z][a-z]+,?\s+\d{4}|\(\s*[IVXLC]+\s+of\s+\d{4}\s*\))", re.I)
+
+# the law's own first words, which no contents list prints ("Preamble." and "(IV of 1879)" it may)
+OPENS_LAW = re.compile(r"^\[?\d{0,2}\s*(?:(?:ACT|ORDINANCE|REGULATION|PRESIDENT[’']S\s+ORDER|P\.\s?O\.)\s+N[Oo]\.?|"
+                       r"AN?\s+(?:ACT|ORDINANCE|ORDER|REGULATION)\s+(?:to|for|further)\b|WHEREAS\b)", re.I)
 
 SUB = re.compile(r"^\[?\s*\((\d{1,3}[A-Za-z]{0,2})\)")           # (1)  (2A)  [(3)
 CLAUSE = re.compile(r"^\[?\s*\(([a-z]{1,4})\)")                  # (a)  (aa)  (ii)
@@ -167,6 +198,11 @@ def in_capitals(text: str) -> bool:
 
 def length(lines: list[Line]) -> int:
     return sum(len(line.text) + 1 for line in lines)
+
+
+def sentence_like(text: str) -> bool:
+    """A line of running text, as a table of contents never prints one."""
+    return bool(RUNNING_TEXT.search(text)) and not (CONTENTS_SUBHEAD.match(text) and not re.search(r"\bshall\b", text))
 
 
 # ---------------------------------------------------------------- 1. clean
@@ -399,6 +435,11 @@ class Contents:
             return len(heading) >= 3 and squash(rest[:len(heading) + 12]).startswith(heading)
         return fuzz.partial_ratio(heading, squash(rest[:len(heading) + 40])) >= 80
 
+    def opens(self, key: tuple[int, str], rest: str) -> bool:
+        """Does the text after a number begin with the heading the contents give it (word for word, give or take)?"""
+        heading = squash(self.heading.get(key, ""))[:40]
+        return len(heading) >= 3 and fuzz.ratio(heading, squash(rest)[:len(heading)]) >= 85
+
 
 def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[int, Contents | None]:
     """(index of the first line after the table of contents, the contents). (0, None) without one.
@@ -407,14 +448,23 @@ def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[
     them, after which the numbering starts again with real text behind it.
     """
     marker = next((n for n, line in enumerate(lines[:80]) if CONTENTS.match(line.text)), None)
+    # a footnote at the foot of a contents page ("1 Substituted vide P. O. No. 4 of 1975.") is no entry, and does not
+    # start the numbering again (it cut the KP Code's Motor Vehicles Ordinance's contents short at section 19); an
+    # entry may itself say "113A. Omitted by the Finance Act, 2016." (the Income Tax Ordinance's contents)
+    provisions = [None if found and AMENDMENT_ONLY.match(found[1]) else found for found in provisions]
     if marker is not None:
         # a contents page set out as a table has no full stop after the number: "3A  Directorate General ...  10"
-        provisions, quiet, entries = list(provisions), 0, 0
+        quiet, entries, latest = 0, 0, (0, "")
         for n in range(marker + 1, len(lines)):
             # the table ends where the law opens: its preamble, or a "1." written the ordinary way
             if entries >= 3 and (OPENING.match(lines[n].text) or (provisions[n] and provisions[n][0][0] == 1)):
                 break
             entry = None if provisions[n] else TABLE_ENTRY.match(lines[n].text)
+            # ("100F Omitted by the Finance Act," carries on the count; "1 Substituted vide ..." after entry 19 is a note)
+            if entry and FOOTNOTE_TEXT.match(entry.group(3)) and (int(entry.group(1)), entry.group(2)) <= latest:
+                entry = None
+            if provisions[n] or entry:
+                latest = provisions[n][0] if provisions[n] else (int(entry.group(1)), entry.group(2))
             if entry:
                 provisions[n] = ((int(entry.group(1)), entry.group(2)), entry.group(3))
                 entries += 1
@@ -424,11 +474,18 @@ def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[
     numbered = [i for i, found in enumerate(provisions) if found]
     if len(numbered) < 6:
         return 0, None
+    # the law's own opening words ("ACT NO. XXVI OF 1925", "An Act to ...", "WHEREAS ...", "NOW, THEREFORE ...") end
+    # any list before them, whatever the numbers after them: a line of the Carriage of Goods by Sea Act's preamble
+    # read as entry 15, the Road Transport Board Ordinance's "51 . Short title" (note 5 against section 1)
+    opens = [k for k, line in enumerate(lines) if OPENS_LAW.match(line.text) or ENACTING.search(line.text)]
     runs, run = [], [numbered[0]]
     for i in numbered[1:]:
         number, before = provisions[i][0][0], provisions[run[-1]][0][0]
+        k = bisect.bisect_right(opens, run[-1])
+        opened = not runs and len(run) >= 3 and k < len(opens) and opens[k] < i     # (the first run only: a recital
+        # further down, "Whereas in the Marwat District ...", does not cut the body in two)
         # the numbering starts again: at 1 or 2, or (a note mark printed against the number) well below half
-        if provisions[i][0] < provisions[run[-1]][0] and (number <= 2 or (number <= 20 and number * 2 <= before)):
+        if opened or (provisions[i][0] < provisions[run[-1]][0] and (number <= 2 or (number <= 20 and number * 2 <= before))):
             runs.append(run)
             run = [i]
         else:
@@ -451,10 +508,28 @@ def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[
     announced = marker is not None and marker < runs[0][0]
     if not is_listing(runs[0]):
         return 0, None
+    def second_list(n: int) -> bool:
+        """Is run n a list of headings announced as one right after the contents ("SCHEDULE", "THE FIRST STATUTES
+        (See Section 54)" above it)? Footnotes printed after the contents are not, nor is the preamble they precede."""
+        members = runs[n]
+        span = lines[members[0]:members[-1] + 1]
+        if members[0] - runs[n - 1][-1] > 12 or len(members) < 4 or any(FOOTNOTE_LIKE.search(line.text) for line in span):
+            return False
+        if sum(sentence_like(line.text) for line in span) > 0.05 * len(span):
+            return False
+        above = range(max(runs[n - 1][-1] + 1, members[0] - 3), members[0])
+        return any(LIST_TITLE.match(lines[k].text) or (headings[k] and RANK[headings[k][0]] == 0) for k in above)
+
     body = None
     for n in range(1, len(runs)):
         replay = len(keys(runs[0]) & keys(runs[n])) / min(len(keys(runs[0])), len(keys(runs[n])))
         if not is_listing(runs[n]) or (announced and replay >= 0.6):
+            # a second list of headings straight after the contents -- the Schedules with their titles ("1. First
+            # Schedule ...... Forms"), the contents of the First Statutes a university Act annexes ("1. Faculties.") --
+            # is not the law: its body is the run after it, which is no list and names the provisions the contents give
+            if is_listing(runs[n]) and second_list(n) and n + 1 < len(runs) and not is_listing(runs[n + 1]) \
+                    and len(keys(runs[0]) & keys(runs[n + 1])) >= 0.5 * min(len(keys(runs[0])), len(keys(runs[n + 1]))):
+                continue
             # without the word "CONTENTS" above it, the list must at least name the same provisions
             body = n if announced or replay >= 0.5 else None
             break
@@ -463,9 +538,21 @@ def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[
 
     last_entry, first_section = runs[body - 1][-1], runs[body][0]
     title = squash(lines[0].text)
+    # the title as the head of the document prints it, note marks aside ("THE 1[KHYBER PAKHTUNKHWA] FINANCE ACT"):
+    # the KP Code's first line is its page number, "1 | P a ge", and the title follows it
+    plain = lambda text: squash(re.sub(r"\d{1,2}\[|\]", "", text))
+    heads = {plain(lines[k].text) for k in range(min(runs[0][0], 8)) if len(plain(lines[k].text)) > 12}
     start = last_entry + 1
+
+    def furniture_only(upto: int) -> bool:
+        """Only notes and page furniture between the contents and line `upto`: a title found further on (a running
+        head, "Cloud First Policy - Government of Balochistan") must not carry the start past text of the law."""
+        return sum(len(line.text) for line in lines[last_entry + 1:upto]
+                   if not (FOOTNOTE_TEXT.match(re.sub(r"^\d{1,3}\.?\s*", "", line.text)) or len(line.text) < 25)) <= 200
+
     for i in range(last_entry + 1, first_section):      # the law proper opens with its title, number or preamble
-        if OPENING.match(lines[i].text) or (len(title) > 12 and squash(lines[i].text).startswith(title)):
+        if OPENING.match(lines[i].text) or (len(title) > 12 and squash(lines[i].text).startswith(title)) \
+                or ((LAW_NUMBER.match(lines[i].text) or plain(lines[i].text) in heads) and furniture_only(i)):
             start = i
             break
 
@@ -473,7 +560,12 @@ def find_contents(lines: list[Line], provisions: list, headings: list) -> tuple[
     # headings, not sentences
     listed = lines[runs[0][0]:start]
     # (under the word CONTENTS a few headings do say "shall": "8. Fish that shall not be taken.")
-    if sum(bool(RUNNING_TEXT.search(line.text)) for line in listed) > (0.12 if announced else 0.05) * len(listed):
+    # (one such heading never sinks a short list under the word CONTENTS: "3. Rulers shall cease to exercise ...")
+    if sum(sentence_like(line.text) for line in listed) > (max(1, 0.12 * len(listed)) if announced else 0.05 * len(listed)):
+        return 0, None
+    # and the law's own enacting words are never part of it: a "table" that stretches over them took in the preamble
+    # and the body (the Balochistan Finance Ordinance, 1969: 13 entries, then a stray "349." from a tariff 180 lines on)
+    if any(ENACTING.search(line.text) for line in listed):
         return 0, None
 
     contents = Contents()
@@ -537,6 +629,10 @@ def walk(lines: list[Line], provisions: list, headings: list, start: int, conten
     """Group the lines from `start` into units: the preamble, each provision, each schedule.
     `trusted` are lines a reader (chunk_model.py) pointed at: taken on its word if the number fits the count."""
     provisions = list(provisions)
+    for i in range(start, len(lines)):
+        # a line of a list ("1. First Schedule ……. Forms.") or a note ("3. Subs vide ...") begins no provision
+        if provisions[i] and (LEADERS.search(lines[i].text) or AMENDMENT_ONLY.match(provisions[i][1])):
+            provisions[i] = None
     for i in range(start, len(lines) - 1):
         # a number alone on its line: what follows it is on the next line
         if provisions[i] and not provisions[i][1] and not provisions[i + 1] and not headings[i + 1]:
@@ -565,14 +661,23 @@ def walk(lines: list[Line], provisions: list, headings: list, start: int, conten
     anchors: dict[int, int] = {}        # line -> place in the contents, for provisions printed with their heading
     if contents:
         # the contents' own headings find provisions whose number is oddly printed: "(2E) Removal of ..."
-        for i in range(start, len(lines)):
+        notes_on = set()        # "Section 113A omitted by the Finance Act, 2016. The omitted section read ...": the
+        for i in range(start, len(lines)):      # omitted section's place, but only where no provision of the law is
             text = lines[i].text
             if provisions[i] and contents.matches(*provisions[i]):
                 continue
+            if QUOTED.match(text) or LEADERS.search(text):
+                continue
+            if NOTE_ABOUT.match(text):
+                notes_on.add(i)
             for loose in LOOSE_NUMBER.finditer(text[:18]) if any(char.isdigit() for char in text[:12]) else ():
                 digits, rest = loose.group(1), text[loose.end():]
                 keys = [(int(digits[drop:]), loose.group(2)) for drop in range(min(4, len(digits))) if len(digits) - drop <= 3]
-                found = next((key for key in keys if key in contents.position and contents.matches(key, rest)), None)
+                # a number in brackets is mostly a sub-section ("(4) An agreement to sell becomes a sale ..."): it is a
+                # provision only when its heading opens what follows, as in "(2E) Removal of Chairperson and members"
+                bracketed = text[:loose.start()].rstrip().endswith("(")
+                found = next((key for key in keys if key in contents.position and
+                              (contents.opens(key, rest) if bracketed else contents.matches(key, rest))), None)
                 if found:
                     provisions[i] = (found, rest)
                     break
@@ -581,15 +686,32 @@ def walk(lines: list[Line], provisions: list, headings: list, start: int, conten
         # (46) of section 2 that reads like the heading of section 46, a schedule's item 4A.
         named = [(i, contents.position[provisions[i][0]]) for i in range(start, len(lines))
                  if provisions[i] and provisions[i][0] in contents.position and contents.matches(*provisions[i])]
-        anchors = dict(longest_rising(named))
+        # the law's own provisions first; a note on an omitted one only where it fits between them (the note on
+        # section 93 is printed after section 94 begins, and must not cost section 94 its place)
+        anchors = dict(longest_rising([pair for pair in named if pair[0] not in notes_on]))
+        lines_so_far = sorted(anchors)
+        for i, position in named:
+            if i in notes_on:
+                k = bisect.bisect_left(lines_so_far, i)
+                if (k == 0 or anchors[lines_so_far[k - 1]] < position) and (k == len(lines_so_far) or position < anchors[lines_so_far[k]]):
+                    anchors[i] = position
+                    lines_so_far.insert(k, i)
         # does the body print the headings at all? (Some Sindh laws keep them in the margin only.)
         headed = len(anchors) >= 0.5 * len(contents.order)
     anchor_lines = sorted(anchors)
     numbered = [i for i in range(start, len(lines)) if provisions[i]]
     place = {i: n for n, i in enumerate(numbered)}
+    schedule_lines = [j for j in range(start, len(lines)) if headings[j] and RANK[headings[j][0]] == 0]
 
     def ahead(i: int, count: int = 30) -> list:
-        return [provisions[j] for j in numbered[place[i] + 1:place[i] + 1 + count]]
+        # not past a schedule heading: a schedule's own list ("4. Restitution of conjugal rights.") says nothing of
+        # the provisions still to come
+        k = bisect.bisect_right(schedule_lines, i)
+        stop = schedule_lines[k] if k < len(schedule_lines) else len(lines)
+        # nor a note printed in the text ("1. Cl. 7th ins. By Sind Repealing ... Act"): a "1." to come that is a
+        # footnote does not mean section 1 is still to come
+        return [provisions[j] for j in numbered[place[i] + 1:place[i] + 1 + count]
+                if j < stop and not FOOTNOTE_LIKE.search(provisions[j][1][:160])]
 
     trail: list[tuple[str, str]] = []       # (kind, "Chapter XVI: Of Offences ...")
     units: list[dict] = []
@@ -753,12 +875,17 @@ def walk(lines: list[Line], provisions: list, headings: list, start: int, conten
 LONG_HEADING = 120      # characters: a contents heading longer than this is checked for a run-on into the next entry
 NEXT_NUMBER = re.compile(r"(?<=[a-z.)\]])\s+\d{1,3}(?:\s?-?\s?[A-Z]{1,2})?[.,]?\s+(?=[A-Z])")    # "... inferred. 189 When ..."
 SUB_ENTRY = re.compile(r"\s\([a-z]{1,3}\)\s+(?=[A-Z])")                                         # "... after death (b) Estates ..."
+CITES = re.compile(r"\b(?:sections?|rules?|articles?|clauses?|regulations?|paragraphs?|paras?|schedules?|chapters?|parts?|"
+                   r"orders?|items?|forms?|act|ordinance|no|of|and|to|under)\.?$", re.I)
 
 
 def merged_at(heading: str, following: str) -> int | None:
     """Where a long contents entry runs into what comes after it, if it shows: the next provision's number, a
     lettered sub-entry, the opening words of the next provision, or its own first words printed again."""
-    cuts = [m.start() for m in (NEXT_NUMBER.search(heading), SUB_ENTRY.search(heading)) if m and m.start() >= 15]
+    # (a number that a heading cites -- "Provision of section 11, Act III of 1852" -- is not the next entry's)
+    numbers = (m for m in NEXT_NUMBER.finditer(heading) if not CITES.search(heading[:m.start()]))
+    number, sub = next(numbers, None), SUB_ENTRY.search(heading)
+    cuts = [m.start() for m, least in ((number, 15), (sub, 5)) if m and m.start() >= least]    # ("Other Leave (a) For ...")
     heading = re.sub(r"\s+\d{1,4}\s*$", "", heading)        # (a page or provision number left at its end)
     words = [m.start() for m in re.finditer(r"(?<=\s)\S", heading)]
     target = squash(following)[:200]
@@ -773,6 +900,31 @@ def merged_at(heading: str, following: str) -> int | None:
             cuts.append(start)
             break
     return min(cuts) if cuts else None
+
+
+# a sentence ending after a word -- not after an initial ("C.P. Fund") or an abbreviation ("Act No. II")
+SENTENCE_BREAK = re.compile(r"(?<!\b[A-Za-z])(?<!\bNo)(?<!\bNos)(?<!\bArt)(?<!\bSec)(?<!\bGovt)(?<!\bOrd)(?<!\bLtd)(?<!\bPvt)"
+                            r"(?<!\bCo)(?<!\bDr)(?<!\bMr)(?<!\bMrs)(?<!\bSt)(?<!\bVol)\.\s+(?=[A-Z(\[“\"])")
+# a heading's own separator, printed without a full stop: "Application for registration of design——(1) An application",
+# "Compliance with Other Laws - Nothing in these rules", "Responsibilities towards ... Proxy Voting: An Asset Management"
+DASH_BREAK = re.compile(r"\s?[—–]{1,3}\s?-?(?=\S)|\s-\s|:\s+(?=[A-Z‘“(])")
+SUB_SECTION = re.compile(r"\s\(\d{1,2}\)\s*(?=[A-Z])")           # "Short Title, Extent and Commencement (1) This Act shall"
+RUN_ON = [NEXT_NUMBER, SUB_ENTRY, SUB_SECTION, DASH_BREAK, SENTENCE_BREAK]   # the next provision's number first: "... Risalpur. 229."
+# how a rule begins, not a heading: "The Officer-in-Charge shall ...", "No person ...", "Subject to the provisions ..."
+# (not "Where", "When", "No": "Where value of subject matter must be stated", "No decree to be reversed ..." are headings)
+SENTENCE_START = re.compile(r"^(?:The|A|An|Any|Every|In|Subject|After|Notwithstanding|Following|Nothing|All|Such)\b")
+
+
+def trim_run_on(head: str) -> str:
+    """A printed heading that runs on into the provision's own text ("Training. The Authority shall formulate ...
+    11. Maintenance of website", "PROCUREMENT OF CSR PROJECT/SCHEME (i) Schemes approved ... shall be executed"): cut
+    where the text begins -- only where what follows reads as text, or the heading is too long to be one ("Payment to
+    Govt. Servants" keeps its full stop)."""
+    # every sign judged on the whole heading; the earliest that qualifies is where the text begins
+    cuts = [m.start() for pattern in RUN_ON for m in pattern.finditer(head)
+            if m.start() >= 3 and (pattern is not NEXT_NUMBER or not CITES.search(head[:m.start()]))
+            and (BODY_WORDS.search(head[m.end():]) or len(head) > 100)]
+    return head[:min(cuts)] if cuts else head
 
 
 def choose_heading(listed: str | None, printed: str | None, following: str) -> str | None:
@@ -807,14 +959,45 @@ def heading_from_text(unit: dict) -> str | None:
         # "... must be endorsed with one of the followings:-" is a sentence leading into a list, not a heading -- unless
         # a heading stands before a dash in it: "Prohibition against discrimination,-No person shall ... following:-"
         if rest[end.start()] == ":":
-            inner = re.search(r"\s?[—–]|[.,]\s?-|\.\s+(?=[A-Z(\[])|:\s*(?=\()", head)
+            # (a full stop after a word or a year, not after an initial: "C.P. Fund" is one name)
+            inner = re.search(rf"\s?[—–]|[.,]\s?-|{SENTENCE_BREAK.pattern}|:\s*(?=\()", head)
             if inner and inner.start() >= 3 and not BODY_WORDS.search(head[:inner.start()]):
                 head = head[:inner.start()]     # "Levy of stallages, rents and fees. A Cantonment Administration may ...:—"
             elif BODY_WORDS.search(head):
                 return None             # a sentence: no heading rather than a sentence for one
-        return head.strip(" [“\"\xad").rstrip(",;")
+        return finish_heading(head)
     sentence = re.match(r"([A-Z][^.]{3,120})\.\s+[A-Z(]", rest)   # "2. Definitions. In this Act ..."
-    return sentence.group(1).strip() if sentence else None
+    # (the same checks: "30. Other Leave" / "(a) For the purpose of long leave, every department should ...")
+    return finish_heading(sentence.group(1)) if sentence else None
+
+
+# (a dash, not the hyphen inside "Bait-ul-Mal")
+MARGIN_TAIL = re.compile(r"(?:[—–]{1,3}|-{2,}|-\s|_{2,})\s*([A-Z][^—–_]{2,60})$")
+
+
+def tidy_heading(heading: str | None) -> str | None:
+    """Last touches: dot leaders with a scan's noise after them ("Contempt of Court... a a we a", "... . . 277"), and
+    the Pakistan Code's "__" printed for a dash ("Abetment of offence punishable with imprisonment—if offence be not
+    committed")."""
+    if not heading:
+        return heading
+    heading = re.sub(r"(?:\s*[.…·„]){3,}[^.…]{0,15}$", "", heading)
+    heading = re.sub(r"\s*_{2,}\s*", "—", heading)
+    return heading.strip(" -—–") or None
+
+
+def finish_heading(head: str) -> str | None:
+    """A heading candidate, run-on trimmed; None if it is a sentence of the law's own ("The Press and Publications
+    Ordinance, 1960 ... are hereby repealed") -- though a heading may say "shall" ("Procedure where Court desires that
+    its own decree shall be executed by another Court") -- unless the Sindh Code's marginal note ends it: "The
+    functions of the Commission shall be— Functions of the Commission"."""
+    head = trim_run_on(head).strip(" [“\"\xad").rstrip(",;:.~ -—–")
+    note = MARGIN_TAIL.search(head)
+    if note and BODY_WORDS.search(head[:note.start()]) and not BODY_WORDS.search(note.group(1)):
+        return note.group(1).strip()        # ("No person shall____ Restrictions on hunting")
+    if BODY_WORDS.search(head) and (SENTENCE_START.match(head) or len(head) > 120):
+        return None
+    return head or None
 
 
 def unit_word(record: dict, text: str) -> str:
@@ -1025,7 +1208,13 @@ def unglue_note_mark(unit: dict) -> None:
 
 
 TINY = 120          # characters: a chunk smaller than this is looked at again
-OMITTED = re.compile(r"\[\s*(?:\*\s*){2,}\]|^\W*\d*[A-Z]*\W*\s*[\[(]?\s*(?:omitted|repealed|deleted)\b|(?:\*\s*){3,}", re.I)
+OMITTED = re.compile(r"\[\s*(?:\*\s*){2,}\]|^\W*\d*[A-Z]*\W*\s*[\[(]?\s*(?:omitted|repealed|deleted)\b|(?:\*\s*){3,}"
+                     # the word straight after the number and its marks: "47-52. [omitted]", "5[49. Deleted]",
+                     # "16 and 17. [Omitted.]", "5A. 8[Repealed]", "5[18B OMITTED.]", "156. [Repeals.]"
+                     # (a live "15. Repeals.— The X Act is hereby repealed" is not: only the bracketed "[Repeals.]")
+                     r"|^[\W\d]*(?:(?:and|to)\s+[\W\d]+)?[A-Z]{0,3}\W*(?:\d{1,4}\s?[A-Z]{0,3}\W*)?(?:omitted|repealed|deleted)\b"
+                     r"|^[\W\d]*\[\s*repeals?\.?\s*\]", re.I)
+BRACKETED = re.compile(r"^\W{0,2}\(\s*[0-9lI|]{1,4}\s*[A-Za-z]{0,2}\s*\)")
 MASTHEAD_SCRAP = re.compile(r"GAZETTE|EXTRAORDINARY|REGISTERED|PUBLISHED\s+BY\s+AUTHORITY|^\W*(?:ISLAMABAD|LAHORE|KARACHI|QUETTA|PESHAWAR|RAWALPINDI)\b", re.I)
 
 
@@ -1108,6 +1297,10 @@ def locate(pointers: dict, lines: list[Line]) -> dict[int, tuple[tuple[int, str]
         near = sorted(range(max(0, start["line"] - 60), min(len(lines), start["line"] + 61)), key=lambda n: abs(n - start["line"]))
         index = next((n for n in near if lines[n].text[:120] == start["text"]), None)
         number = re.fullmatch(r"(\d{1,3})([A-Z]{0,3})", start["number"])
+        # a number in brackets at the head of the line is a sub-section or a definition ("(9) “Aircraft Operator”
+        # means ..."), which the reader took for section 9 of the Balochistan Sales Tax on Services Act
+        if index is not None and BRACKETED.match(lines[index].text):
+            continue
         if index is not None and number and shows_number(int(number.group(1)), lines[index].text):
             where[index] = ((int(number.group(1)), number.group(2)), start["heading"])
     # still a pointer on nearly every line: a list or table read as provisions
@@ -1137,6 +1330,8 @@ def cut(record: dict, raw: str, pointers: dict | None = None) -> tuple[list[dict
         provisions = [provision_of(line.text) for line in lines]
         headings = [heading_of(line.text, lines[n - 1].text if n else "") for n, line in enumerate(lines)]
         start, contents = find_contents(lines, provisions, headings)
+        if contents and contents.chars > 0.4 * total:      # far too long for a table of contents: a misreading
+            start, contents = 0, None
         if contents is None and record["instrument_type"] in STRUCTURED:
             # the Balochistan Code prints the marginal note in front of the number ("Short title and 1. (1) This
             # Ordinance ..."): its body is numbered only that way, and unseen, the contents list was read as the law
@@ -1163,12 +1358,19 @@ def cut(record: dict, raw: str, pointers: dict | None = None) -> tuple[list[dict
             outside = sum(length(unit["lines"]) for unit in found if unit["zone"] != "schedule" and unit["kind"] != "notes")
             return len(numbered) >= 3 and sum(length(unit["lines"]) for unit in numbered) >= 0.5 * outside
 
-        if not carried(units) and record["instrument_type"] in STRUCTURED:
+        def count(found: list[dict]) -> int:
+            return sum(unit["key"] is not None for unit in found)
+
+        # (a walk the contents guide that finds under half of what they list also gets the second reading: the
+        # Balochistan Public Safety Regulation's ten bracketed "[Repealed]" sections carried the law on their own)
+        followed_poorly = contents is not None and count(units) < 0.5 * len(contents.order)
+        if (not carried(units) or followed_poorly) and record["instrument_type"] in STRUCTURED:
             # old gazettes print the marginal note in front of the number: "Short title 1. (1) This Act ..."
             beside = [found or margin_provision(line.text) for found, line in zip(provisions, lines)]
             retry = walk(lines, beside, headings, start, None, word)
             numbers = {unit["key"][0] for unit in retry if unit["key"] is not None}
-            if carried(retry) and len(numbers) >= 4 and max(numbers) - min(numbers) + 1 - len(numbers) <= 0.25 * len(numbers):
+            if carried(retry) and len(numbers) >= 4 and max(numbers) - min(numbers) + 1 - len(numbers) <= 0.25 * len(numbers) \
+                    and (not carried(units) or count(retry) > count(units)):
                 units, contents = retry, None
         if pointers:
             # chunk_model.py's reading: used where it finds more provisions than the rules did
@@ -1177,7 +1379,8 @@ def cut(record: dict, raw: str, pointers: dict | None = None) -> tuple[list[dict
             # from where the law opens: a table of contents whose headings could not be followed is still a
             # table of contents, and read from line 0 its entries count as provisions (Sind Rented Premises, 1979)
             retry = walk(lines, aided, headings, start, None, word, frozenset(where))
-            if carried(retry) and sum(unit["key"] is not None for unit in retry) > sum(unit["key"] is not None for unit in units):
+            # (against the rules' own count only where their cut holds the law: contents lines counted as provisions do not)
+            if carried(retry) and (not carried(units) or count(retry) > count(units)):
                 units, contents = retry, None
                 report["read_by_model"] = True
                 for unit in units:      # its heading is used only when those very words open the provision
@@ -1226,7 +1429,7 @@ def cut(record: dict, raw: str, pointers: dict | None = None) -> tuple[list[dict
                 or (known[id(unit)] if id(unit) in plans else None)
             following = next((" ".join(line.text for line in later["lines"][:3]) for later in units[n + 1:] if later["key"] is not None), "")
             following = re.sub(r"^\W*\d{1,4}\s?-?\s?[A-Z]{0,3}\s?[.:]\s*(?:\(1\)\s*)?", "", following)
-            unit["heading"] = choose_heading(listed, heading_from_text(unit), following) or unit["heading"]
+            unit["heading"] = tidy_heading(choose_heading(listed, heading_from_text(unit), following) or unit["heading"])
             unglue_note_mark(unit)
         if unit["kind"] == "document":
             parts = [(unit["lines"], None)]
@@ -1345,6 +1548,76 @@ def card(record: dict, outline: list[str]) -> dict:
             "page_start": None, "page_end": None, "table_like": False, "text": text, "notes": [], "stub": None}
 
 
+# ---------------------------------------------------------------- 5. copies of federal laws
+
+# A provincial code prints many federal laws. Where the province has amended one (the Code of Civil Procedure on the
+# Punjab Code, with its Punjab amendments) its copy is that province's law and is served for it. Where it merely
+# reproduces one, the copy can be decades old: the Punjab Code's Penal Code still reads "375. Rape.- [Repealed by the
+# Offence of Zina ... Ordinance, 1979]", lacks section 336A and the 38 others inserted since, and keeps section 325
+# (attempt to commit suicide, omitted in 2022). Such a copy is not served; the Pakistan Code's text answers for the
+# province instead. The Constitution can only be amended by Parliament, so no provincial copy of it is ever served
+# (the Punjab Code's still gives the Supreme Court the original jurisdiction of Article 184, omitted in 2025).
+OWN_PROVINCE = {"punjab": r"Punjab", "sindh": r"Sindh?", "kp": r"(?:N\.?\s?W\.?\s?F\.?\s?P\.?|Khyber\s+Pakhtunkhwa|North[- ]West\s+Frontier)",
+                "balochistan": r"Ba[lu]ochistan"}
+DEAD_TEXT = re.compile(r"\b(?:omitted|repealed|deleted)\b|\brep\.|(?:\*\s*){3,}", re.I)
+CONSTITUTION = re.compile(r"\bconstitution of the islamic republic of pakistan\b", re.I)
+
+
+def in_force_provisions(rows: list[dict]) -> dict[tuple[str, str], bool]:
+    """(unit, number) -> whether the law's text gives that provision in force (not an omitted or repealed stub)."""
+    out = {}
+    for row in rows:
+        if row["number"] and row["part"] == 1 and row["unit"] in ("section", "article", "rule"):
+            dead = row.get("stub") == "omitted" or (len(row["text"]) < 300 and DEAD_TEXT.search(row["text"]))
+            out[(row["unit"], re.sub(r"[^0-9A-Z]", "", row["number"].upper()))] = not dead
+    return out
+
+
+def federal_text(record: dict, rows: list[dict]) -> dict:
+    return {"work_id": record["work_id"], "title": record["title"], "last_amended": record.get("last_amended"),
+            "provisions": in_force_provisions(rows)}
+
+
+def stale_copy(record: dict, rows: list[dict], federal: dict) -> dict | None:
+    """Why a provincial code's copy of a federal law is not served, or None if it is. A copy is stale when the
+    Pakistan Code's text gives at least three provisions in force that the copy lacks or prints as repealed, at least
+    twice as many as the other way round, while the copy shows no amendment by its own province and none later than
+    the Pakistan Code's latest."""
+    own = OWN_PROVINCE.get(record["source"])
+    base = federal.get(record.get("family_id"))
+    if not own or not base or record.get("jurisdiction") != "Federal" or record.get("tier") not in ("current", "unconfirmed"):
+        return None
+    if CONSTITUTION.search(record["title"]):
+        return {"work_id": base["work_id"], "title": base["title"], "why": "the Constitution is amended by Parliament alone"}
+    copy = in_force_provisions(rows)
+    only_federal = sum(1 for key, alive in base["provisions"].items() if alive and not copy.get(key))
+    only_copy = sum(1 for key, alive in copy.items() if alive and not base["provisions"].get(key))
+    amendments = sum(len(re.findall(rf"\b{own}\s+(?:Act|Ordinance|Amendment)\b|\(\s*{own}\s+Amendment", row["text"] + " " + " ".join(row["notes"]), re.I))
+                     for row in rows)
+    later = (record.get("last_amended") or 0) > (base.get("last_amended") or 0)
+    if amendments or later or only_federal < 3 or only_federal < 2 * only_copy:
+        return None
+    return {"work_id": base["work_id"], "title": base["title"],
+            "why": f"the Pakistan Code's text gives {only_federal} provisions in force that this copy lacks or prints as repealed "
+                   f"({only_copy} the other way round), and this copy shows no amendment by its province"}
+
+
+def federal_texts() -> dict:
+    """family -> the Pakistan Code's current text of each federal law, from its chunks already written."""
+    by_work = {}
+    for row in read_jsonl(DATA_DIR / "chunks.jsonl"):
+        if row["tier"] == "current":
+            by_work.setdefault(row["work_id"], []).append(row)
+    out = {}
+    for rows in by_work.values():
+        record = {"work_id": rows[0]["work_id"], "title": rows[0]["title"], "last_amended": rows[0].get("last_amended")}
+        text = federal_text(record, rows)
+        family = rows[0]["family_id"]
+        if family not in out or sum(text["provisions"].values()) > sum(out[family]["provisions"].values()):
+            out[family] = text
+    return out
+
+
 # ---------------------------------------------------------------- run
 
 def laws(source: str, only: re.Pattern | None):
@@ -1395,7 +1668,12 @@ def main():
     summary = {"by_source": {}}
     sizes, methods, units, problems = [], Counter(), Counter(), Counter()
     read_by_model = 0
-    for source in [args.source] if args.source else SOURCES:
+    run = [args.source] if args.source else SOURCES
+    # the Pakistan Code's text of each federal law, to judge the provincial codes' copies by: from this run when the
+    # Pakistan Code is cut first in it, else from its chunks already written
+    federal = {} if run[0] == "pakistancode" else federal_texts()
+    stale = []
+    for source in run:
         data_dir, key = source_layout(source)
         # written beside the old files and swapped in when complete: a power cut, or chunk_model.py
         # reading the report meanwhile, never meets a half-written file
@@ -1405,6 +1683,17 @@ def main():
         pointed = {row["work_id"]: row for row in read_jsonl(data_dir / "chunk_model.jsonl")} if (data_dir / "chunk_model.jsonl").exists() else {}
         for record, raw in laws(source, only):
             rows, report = cut(record, raw, pointed.get(record["work_id"]))
+            if source == "pakistancode" and record.get("tier") == "current":
+                text = federal_text(record, rows)
+                if record["family_id"] not in federal or sum(text["provisions"].values()) > sum(federal[record["family_id"]]["provisions"].values()):
+                    federal[record["family_id"]] = text
+            judged = stale_copy(record, rows, federal)
+            if judged:
+                for row in rows:
+                    row["serve"] = None
+                    row["stale_copy_of"] = judged["work_id"]
+                report["stale_copy_of"] = judged
+                stale.append((source, record["title"], judged["title"], judged["why"]))
             read_by_model += report.get("read_by_model", False)
             count += 1
             chunk_count += len(rows)
@@ -1440,6 +1729,7 @@ def main():
                         "p99": percentile(sizes, .99), "largest": max(sizes, default=0),
                         "under_200": sum(s < 200 for s in sizes), "over_2600": sum(s > SPLIT_ABOVE + 400 for s in sizes)},
         "laws_with_problems": dict(problems.most_common()),
+        "stale_copies_not_served": [{"source": s, "title": t, "instead": i, "why": w} for s, t, i, w in stale],
     })
     if not only and not args.source:
         (DATA_DIR / "chunk_summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -1448,6 +1738,9 @@ def main():
     print("  chunks by unit:", summary["chunks_by_unit"])
     print("  chunk size (characters):", summary["chunk_chars"])
     print("  laws the rules struggled with:", summary["laws_with_problems"])
+    print(f"  provincial copies of federal laws not served, the Pakistan Code's text being later ({len(stale)}):")
+    for source, title, _, why in stale:
+        print(f"    {source:12s} {title[:60]:60s} {why}")
 
 
 if __name__ == "__main__":

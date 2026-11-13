@@ -1,27 +1,28 @@
 {
  "edges": {
-  "repeals whole": 2219,
-  "repeals part": 692,
-  "repeals territory": 210,
-  "amends": 2537,
+  "repeals whole": 2242,
+  "repeals part": 696,
+  "repeals territory": 224,
+  "amends": 2542,
   "repeals conditional": 20,
-  "made_under": 2363
+  "made_under": 2364
  },
  "changes": {
-  "R2 repealed for a territory only": 96,
-  "R4 conflict with an official listing": 41,
-  "R1 repealed (verified)": 163,
-  "R1 repealed (probable)": 48,
+  "R2 repealed for a territory only": 97,
+  "R4 conflict with an official listing": 44,
+  "R1 repealed (verified)": 161,
+  "R10 repealed in every territory (verified)": 1,
+  "R1 repealed (probable)": 53,
   "R8 repeal contradicted by a later amendment": 16
  },
  "leads": {
-  "mention": 420,
-  "unconfirmed": 658,
-  "partial repeal": 147,
+  "mention": 417,
+  "unconfirmed": 650,
+  "partial repeal": 152,
   "refuted": 37,
-  "repeal": 239,
+  "repeal": 241,
   "repeal for Punjab only": 1,
-  "not supported": 124,
+  "not supported": 123,
   "unconfirmed, but listed as current against a general repealing Act": 32,
   "repeal for Islamabad Capital Territory only": 14,
   "repeal on a condition": 14
@@ -31,8 +32,8 @@
   "made under a repealed Act, continued by the repealing law's savings clause": 19
  },
  "succession": {
-  "repealed": 1454,
-  "enacted as an Act": 344
+  "repealed": 1466,
+  "enacted as an Act": 340
  },
- "conflicts": 83
+ "conflicts": 86
 }

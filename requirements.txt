@@ -1,0 +1,30 @@
+# Pakistan Law Assistant (Python 3.12): the versions the project was built and tested with.
+#   python -m venv .venv
+#   .venv\Scripts\pip install -r requirements.txt
+
+# scraping and PDF text
+requests==2.34.2
+beautifulsoup4==4.15.0
+tenacity==9.1.4
+pdfplumber==0.11.10
+pypdfium2==5.13.0
+pillow==12.3.0
+pypdf==6.19.0
+tqdm==4.70.1
+
+# metadata, deduplication, knowledge graph, chunking
+rapidfuzz==3.14.6
+
+# search and the app
+numpy==2.5.2
+scipy==1.18.1
+qdrant-client==1.19.1
+isaacus==0.22.1
+openai==3.35.1
+fastapi==0.146.0
+uvicorn==0.54.0
+pydantic==2.14.1
+
+# Only to re-read scanned PDFs on the GPU (ocr_scanned.py, repair_text.py, repair_pages.py):
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+#   pip install python-doctr==1.1.0

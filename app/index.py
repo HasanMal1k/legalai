@@ -33,12 +33,13 @@ from ocr_scanned import SOURCES, source_layout  # noqa: E402
 
 KEEP = ("chunk_id", "work_id", "family_id", "source", "title", "instrument_type", "year", "jurisdiction", "status",
         "status_applies_in", "status_exceptions", "status_evidence", "tier", "serve", "authority_rank", "unit", "number",
-        "heading", "path", "span", "part", "parts", "seq", "text", "replaces", "replaced_by", "last_amended")
+        "heading", "path", "span", "part", "parts", "seq", "text", "replaces", "replaced_by", "last_amended", "stub")
 K1, B = 1.2, 0.75
 TOKEN = re.compile(r"\w+")
 STOP = set("""a an and are as at be by for from has have he her his i if in into is it its me my of on or our she so that the their them
 then there these they this to was we were what when where which who will with you your can do does how may shall should would could not no
 ka ki ke hai hain kya mein main se ko aur par ne to bhi ho kar karna liye wala wali ye yeh woh wo jo agar kis kaise kab""".split())
+LOADED_AS = "2026-10-20 omitted provisions kept for citations"
 SCORE_BLOCK = 20000   # rows scored at a time (half-precision rows are widened to float32 block by block)
 
 
@@ -100,6 +101,7 @@ class Corpus:
             self.by_work[chunk["work_id"]].append(cid)
         for ids in self.by_work.values():
             ids.sort(key=lambda cid: self.chunks[cid]["seq"])
+        self.fold_family = self._west_pakistan_copies()
         self.vector_db = None
         self.answer_ids, self.answer_vectors = [], None
         self.history_ids, self.history_vectors = [], None
@@ -118,10 +120,35 @@ class Corpus:
         print(f"corpus ready: {len(self.chunks):,} chunks; vectors in {where if load_vectors else 'nothing (not loaded)'} "
               f"({time.time() - started:.0f}s)", flush=True)
 
+    def _west_pakistan_copies(self) -> dict:
+        """work -> the family its copies fold into, where it differs from its own: the Pakistan Code prints the laws of
+        the old province of West Pakistan as they apply in Islamabad, and the provinces print their own versions under
+        their own names ("The Punjab Control of Goondas Ordinance, 1959" for "The West Pakistan Control of Goondas
+        Ordinance, 1959"), so the two are one law to fold -- the province's text for the province, else the Pakistan
+        Code's. Same-named laws of two provinces are not joined: those are different laws."""
+        def core(title: str) -> str:
+            title = re.sub(r"\b(?:the|west\s+pakistan|punjab|sindh?|khyber\s+pakhtunkhwa|n\.?\s?w\.?\s?f\.?\s?p\.?|bal[ou]chistan)\b",
+                           " ", title.lower())
+            return re.sub(r"[^a-z0-9]+", " ", title).strip()
+        first = {}
+        for ids in self.by_work.values():
+            chunk = self.chunks[ids[0]]
+            first[chunk["work_id"]] = chunk
+        west = {}
+        for work, chunk in first.items():
+            if chunk["source"] == "pakistancode" and chunk.get("jurisdiction") == "West Pakistan" and chunk["serve"] in ANSWER_COLLECTION:
+                west.setdefault(core(chunk["title"]), chunk["family_id"])
+        joined = {}
+        for work, chunk in first.items():
+            family = west.get(core(chunk["title"])) if chunk["source"] in SOURCE_HOME else None
+            if family and family != chunk["family_id"]:
+                joined[work] = family
+        return joined
+
     # ---- loading
     def _load_chunks(self) -> dict:
         files = [source_layout(s)[0] / "chunks.jsonl" for s in SOURCES]
-        stamp = [f.stat().st_mtime_ns for f in files]
+        stamp = [LOADED_AS] + [f.stat().st_mtime_ns for f in files]      # (what is kept changes with the code too)
         cache = APP_DATA / "chunks.pkl"
         if cache.exists():
             with cache.open("rb") as f:
@@ -133,8 +160,13 @@ class Corpus:
             with path.open(encoding="utf-8") as f:
                 for line in f:
                     chunk = json.loads(line)
-                    if chunk.get("serve"):
+                    # an omitted provision of a law that is served ("184. [* * * * * * *]") is kept too, for questions
+                    # that cite it -- never embedded or keyword-searched: told nothing, the answer reasoned Article 184(3)
+                    # still stood from a 2023 Act that mentions it
+                    omitted = chunk.get("stub") == "omitted" and chunk.get("tier") in ANSWER_COLLECTION and not chunk.get("stale_copy_of")
+                    if chunk.get("serve") or omitted:
                         kept = {k: chunk.get(k) for k in KEEP}
+                        kept["serve"] = chunk.get("serve") or chunk["tier"]
                         kept["hash"] = digest(chunk["embed_text"])
                         kept["label"] = label(chunk)
                         chunks[chunk["chunk_id"]] = kept
@@ -158,7 +190,7 @@ class Corpus:
         return ids, vectors.astype(np.float16)
 
     def _build_keywords(self):
-        ids = [cid for cid, c in self.chunks.items() if c["serve"] in ANSWER_COLLECTION]
+        ids = [cid for cid, c in self.chunks.items() if c["serve"] in ANSWER_COLLECTION and not c.get("stub")]
         cache = APP_DATA / "bm25.npz"
         meta = APP_DATA / "bm25.json"
         signature = digest("".join(ids) + "".join(self.chunks[cid]["hash"] for cid in ids))

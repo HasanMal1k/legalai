@@ -74,5 +74,29 @@ for case in CASES:
     ok = bool(got) == expected
     bad += not ok
     print(f"{'ok  ' if ok else 'FAIL'} expect {'repeal' if expected else 'none  '} | {title[:48]:48s} | {str(got)[:90]}")
+
+# a stale copy's whole repeal, limited by the repealing law as amended on an up-to-date code (limited_on_code): the
+# Elections Act, 2017 on DRS (as first published) and on the Pakistan Code (with the exception inserted in 2017)
+ELECTIONS_FIRST = ("241. Repeal.—The following laws are hereby repealed— (e) the Election Commission Order, 2002 (Chief Executive’s Order "
+                   "No.1 of 2002); (f) the Conduct of General Elections Order, 2002 (Chief Executive’s Order No.7 of 2002); (g) the Political "
+                   "Parties Order, 2002 (Chief Executive’s Order No.18 of 2002); and (h) the Allocation of Symbols Order, 2002.")
+ELECTIONS_NOW = ELECTIONS_FIRST.replace("No.7 of 2002);", "No.7 of 2002)1[******] 2[except Articles 1, 7B and 7C];")
+
+
+def copy(source, text):
+    return {"title": "The Elections Act, 2017", "source": source, "jurisdiction": "Federal", "_doc": {"text": text}}
+
+
+first, now = copy("drs", ELECTIONS_FIRST), copy("pakistancode", ELECTIONS_NOW)
+for title, copies, of, want in [("The Conduct of General Elections Order, 2002", [first, now], first, True),
+                                ("The Political Parties Order, 2002", [first, now], first, False),
+                                # the code's own copy is the law as amended: nothing to limit
+                                ("The Conduct of General Elections Order, 2002", [first, now], now, False),
+                                # two gazette copies: no up-to-date text to go by
+                                ("The Conduct of General Elections Order, 2002", [first, copy("drs", ELECTIONS_NOW)], first, False)]:
+    got = f.limited_on_code(of, title, copies)
+    ok = bool(got) == want
+    bad += not ok
+    print(f"{'ok  ' if ok else 'FAIL'} expect {'limited' if want else 'whole  '} | {title[:40]:40s} read in {of['source']:12s} | {str(got)[:80]}")
 print("failures:", bad)
 sys.exit(1 if bad else 0)

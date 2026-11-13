@@ -1,27 +1,27 @@
 {
- "generated_at": "2026-10-18T18:28:08Z",
+ "generated_at": "2026-10-20T16:22:26Z",
  "documents": 16171,
  "deduplication": {
-  "works": 13504,
+  "works": 13503,
   "works_with_several_copies": 2489,
   "non_primary_by_version": {
    "as_enacted": 1865,
-   "other_version": 389,
+   "other_version": 390,
    "exact_copy": 296,
    "near_copy": 113,
    "translation": 4
   },
   "primary_by_version": {
-   "as_enacted": 6821,
+   "as_enacted": 6820,
    "consolidated": 6683
   },
-  "index_default": 9201,
+  "index_default": 9202,
   "index_exclusion": {
    "an amending instrument: its content is carried in the law it amended": 3563,
-   "an earlier or other version of an indexed law": 2254,
+   "an earlier or other version of an indexed law": 2255,
    "a Gazette Part III notification (mostly administrative): out of scope": 715,
    "another copy of the same text": 409,
-   "the same text as its copy on a provincial code, which is indexed": 18,
+   "the same text as its copy on a provincial code, which is indexed": 16,
    "a translation of an indexed law": 4,
    "the text is not readable English": 2,
    "the text is mostly symbols (a failed scan)": 2,
@@ -32,11 +32,11 @@
   "families_of_several_works": 575,
   "index_by_authority_rank": {
    "1": 3882,
-   "2": 4072,
-   "3": 505,
-   "4": 742
+   "2": 4070,
+   "3": 502,
+   "4": 748
   },
-  "pairs_for_review": 415
+  "pairs_for_review": 412
  },
  "with_second_pass": 16171,
  "needs_review": 2250,
@@ -44,8 +44,8 @@
   "pakistancode": {
    "documents": 1038,
    "status": {
-    "in_force": 908,
-    "repealed": 91,
+    "in_force": 907,
+    "repealed": 92,
     "unknown": 28,
     "amending_instrument": 9,
     "superseded": 2
@@ -60,12 +60,12 @@
   "drs": {
    "documents": 5850,
    "status": {
-    "unknown": 3983,
+    "unknown": 3978,
     "in_force": 826,
-    "repealed": 485,
+    "repealed": 496,
     "amending_instrument": 200,
-    "superseded": 193,
-    "lapsed_presumed": 163
+    "superseded": 190,
+    "lapsed_presumed": 160
    },
    "jurisdiction": {
     "Federal": 5686,
@@ -81,8 +81,8 @@
     "amending_instrument": 2168,
     "in_force": 1760,
     "repealed": 685,
-    "unknown": 447,
-    "superseded": 86,
+    "unknown": 448,
+    "superseded": 85,
     "lapsed_presumed": 17
    },
    "jurisdiction": {
@@ -109,10 +109,10 @@
   "balochistan": {
    "documents": 1773,
    "status": {
-    "in_force": 969,
+    "in_force": 966,
     "amending_instrument": 668,
     "repealed": 122,
-    "unknown": 7,
+    "unknown": 10,
     "superseded": 7
    },
    "jurisdiction": {
@@ -139,32 +139,32 @@
   }
  },
  "status": {
-  "unknown": 5208,
-  "in_force": 4991,
+  "unknown": 5207,
+  "in_force": 4987,
   "amending_instrument": 3921,
-  "repealed": 1499,
-  "superseded": 344,
-  "lapsed_presumed": 208
+  "repealed": 1511,
+  "superseded": 340,
+  "lapsed_presumed": 205
  },
  "status_confidence": {
-  "unknown (low)": 5208,
-  "in_force (medium)": 4977,
+  "unknown (low)": 5207,
+  "in_force (medium)": 4973,
   "amending_instrument (high)": 3921,
-  "repealed (high)": 1440,
-  "superseded (medium)": 344,
-  "lapsed_presumed (low)": 208,
-  "repealed (medium)": 59,
+  "repealed (high)": 1447,
+  "superseded (medium)": 340,
+  "lapsed_presumed (low)": 205,
+  "repealed (medium)": 64,
   "in_force (low)": 14
  },
  "tiers": {
-  "current": 3226,
-  "historical": 1343,
-  "quarantine": 3925,
+  "current": 3227,
+  "historical": 1358,
+  "quarantine": 3910,
   "unconfirmed": 707
  },
  "quarantine_reasons": {
-  "status: no evidence of whether it is in force": 3550,
-  "text: N of ordinary words garbled": 443,
+  "status: no evidence of whether it is in force": 3547,
+  "text: N of ordinary words garbled": 429,
   "identity: title or kind of law disputed between the site and the two model readings, and the text does not settle it": 233,
   "status: in force by inference, not listed as current": 155,
   "status: a federal law as a provincial code lists it (the Pakistan Code does not list it as current)": 87,
@@ -211,6 +211,8 @@
   "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Balochistan Kachhi Abadis Regularization and Developmen": 1,
   "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Baluchistan Constabulary (Repeal) Ordinance, N (drs)": 1,
   "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by Mir Chakar Khan Rind University, Sibi Act, N (balochista": 1,
-  "status: made under The Freedom of Information Act, N, which has since been repealed": 1
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by the Directorate of Archaeology and Museums Balochistan Quet": 1,
+  "status: made under The Freedom of Information Act, N, which has since been repealed": 1,
+  "status: the sources conflict: listed as current law on the Balochistan Code; nothing found repealing it, but it may be repealed by The Balochistan Civil Service (Executive Branch) Service Ru": 1
  }
 }

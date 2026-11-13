@@ -136,7 +136,8 @@ QUESTIONS = [
          targets=[dict(law=r"transfer of property act", n=["129"])]),
     dict(id="en34", lang="en", kind="procedure", group="declaration",
          q="I only want the court to declare that I am the owner of a house that my brother is living in. Can I ask for that alone, without asking for possession?",
-         targets=[dict(law=r"specific relief act", text=r"entitled\W+to\W+any\W+legal\W+character")]),
+         # (the Pakistan Code prints s. 42 "entitled to any character", the Punjab Code "any legal character")
+         targets=[dict(law=r"specific relief act", text=r"entitled\W+to\W+any\W+(?:legal\W+)?character")]),
     dict(id="en35", lang="en", kind="scenario", group="landgrab",
          q="A land-grabbing group has occupied my empty plot in Karachi. Is there a criminal remedy, rather than a long civil suit?",
          targets=[dict(law=r"illegal dispossession act", n=["3"])]),

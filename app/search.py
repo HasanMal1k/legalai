@@ -20,6 +20,7 @@ issue by issue (answer.understand lists them): each issue has its own candidates
 its best sections to the answer -- one search for the whole question finds none of them well.
 """
 
+import re
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -144,20 +145,35 @@ def fuse(*rankings: list[tuple[str, float]], k: int = 60) -> list[str]:
     return sorted(scores, key=scores.get, reverse=True)
 
 
+ORDER_LABEL = re.compile(r"Order\s+[IVXLC]+[A-Z]?\b", re.I)
+
+
 def fold_copies(corpus: Corpus, ids: list[str], province: str | None) -> list[str]:
     """One chunk per provision: the same section printed on several codes (the Penal Code on the Pakistan Code and
     on the Punjab Code) appears once -- the chosen province's copy, else the federal text."""
     place = PROVINCES.get(province) if province else None
-    best = {}
-    for order, cid in enumerate(ids):
+
+    def provision(chunk: dict) -> tuple:
+        family = corpus.fold_family.get(chunk["work_id"], chunk["family_id"])     # (West Pakistan laws renamed by a province)
+        if not chunk["number"]:
+            return family, chunk["unit"], str(chunk["seq"]), chunk["part"]
+        # a numbered provision is one whichever code prints it, however many parts each cut it into (Article 199 in
+        # five on one code, three on another) -- within the Order a CPC rule belongs to: rule 2 of Order XXXIX is not
+        # rule 2 of Order VII
+        within = next((m.group(0).upper() for p in chunk.get("path") or [] if (m := ORDER_LABEL.match(p))), "")
+        return family, chunk["unit"], provision_key(chunk["number"]), within
+
+    # which copy speaks for each provision: the chosen province's, else the federal text, then by authority and how
+    # well it was found; every part of that copy stays (the reranker judges which part answers), the others go
+    chosen = {}
+    for position, cid in enumerate(ids):
         chunk = corpus.chunks[cid]
-        key = (chunk["family_id"], chunk["unit"], str(chunk["number"] or chunk["seq"]), chunk["part"])
         rank = (SOURCE_PROVINCE.get(chunk["source"]) != place if place else chunk["source"] != "pakistancode",
-                chunk["authority_rank"] or 9, order)
-        if key not in best or rank < best[key][0]:
-            best[key] = (rank, cid, order)
-    kept = {cid for _, cid, _ in best.values()}
-    return [cid for cid in ids if cid in kept]
+                chunk["authority_rank"] or 9, position)
+        key = provision(chunk)
+        if key not in chosen or rank < chosen[key][0]:
+            chosen[key] = (rank, chunk["work_id"])
+    return [cid for cid in ids if chosen[provision(corpus.chunks[cid])][1] == corpus.chunks[cid]["work_id"]]
 
 
 def search(corpus: Corpus, english: str, original: str, province: str | None = None, issues: list[str] | None = None) -> dict:

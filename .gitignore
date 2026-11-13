@@ -11,17 +11,19 @@ __pycache__/
 data/**/raw_pdfs/
 data/raw_pdfs/
 
-# Full statute text and chunks: several files exceed GitHub's 100 MB limit; rebuild with the pipeline
+# Full statute text: several files exceed GitHub's 100 MB limit; rebuild with the pipeline
 data/**/statutes.jsonl
 data/statutes.jsonl
-data/**/chunks.jsonl
-data/chunks.jsonl
 data/**/repaired_text_backup.jsonl
 data/repaired_text_backup.jsonl
 
-# Search indexes and vector stores; rebuild with app/index.py and eval/kanon_eval.py --embed
+# Chunks: the repository carries them gzipped (chunks.jsonl.gz); `python pack_data.py unpack` writes these
+data/**/chunks.jsonl
+data/chunks.jsonl
+
+# The Qdrant database is rebuilt from data/embeddings/ (which is committed) with `python -m app.vectordb`;
+# data/app/ holds the app's caches (rebuilt on start) and its question and feedback log (private)
 data/qdrant/
-data/embeddings/
 data/app/
 
 # Logs
@@ -33,3 +35,8 @@ tools/qdrant/*
 
 # Sindh High Court case corpus (out of scope for the app)
 pakistan_cases/
+
+# Kept on disk only
+main.original.py
+src/
+ARCHITECTURE_INTERVIEW_PREP.md

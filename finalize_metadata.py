@@ -498,9 +498,40 @@ def whole_law_note(evidence: str) -> bool:
                 or re.search(r"\b(?:this|the\s+said)\s+(?:act|ordinance|order|regulation|law)\b[^.]{0,40}?\b(?:has\s+been|is|was|stands?)\s+repealed", evidence, re.I))
 
 
+# the codes that print a law as amended to date (DRS keeps the gazette text as first published)
+UP_TO_DATE_CODES = ("pakistancode", "punjab", "kp", "balochistan")
+LIMITING = re.compile(r"\b(?:except|save\s+(?:for|as)|to\s+the\s+extent|in\s+so\s+far|insofar|so\s+far\s+as)\b", re.I)
+
+
+def limited_on_code(repealer: dict, title: str, copies: list[dict]) -> tuple[str, str] | None:
+    """The repealing law as amended, on a code that keeps it up to date, limiting the repeal its first text made:
+    "(f) the Conduct of General Elections Order, 2002 (Chief Executive's Order No.7 of 2002) [except Articles 1, 7B and
+    7C]" (the exception inserted in 2017; DRS's gazette copy of the Elections Act, 2017 has none). The limiting words
+    have to be there, right after the name -- a copy that merely could not be read proves nothing.
+    -> (the code, its words) or None."""
+    words = [w for w in re.findall(r"[A-Za-z]+|\d{4}", title)]
+    if words and words[0].lower() == "the":
+        words = words[1:]
+    if len(words) < 3:
+        return None
+    name = re.compile(r"\W+".join(map(re.escape, words)), re.I)
+    for copy in copies:
+        if copy is repealer or copy["source"] not in UP_TO_DATE_CODES or repealer["source"] in UP_TO_DATE_CODES:
+            continue
+        text = copy["_doc"]["text"]
+        for m in name.finditer(text):
+            # up to the end of the item: the next ";" or the next "(g) the ..."
+            after = re.split(r";|\(\s*[a-z]{1,3}\s*\)\s+(?:the\s+)?[A-Z]", text[m.end():m.end() + 200])[0]
+            if LIMITING.search(after) and repeal_in_text(text, title, provincial=copy["jurisdiction"] != "Federal") is None:
+                return copy["source"], re.sub(r"\s+", " ", text[m.start():m.end() + len(after)])[-220:]
+    return None
+
+
 def assign_status(records: list[dict]) -> None:
     by_year = defaultdict(list)
+    copies_of = defaultdict(list)          # a law's copies on every site, by name and year
     for record in records:
+        copies_of[(norm_title(record["title"]), record["year"])].append(record)
         for title in {record["title"], record["name"]}:
             year = title_year(title)
             if year:
@@ -552,6 +583,12 @@ def assign_status(records: list[dict]) -> None:
                 continue
             words = None if mass else repeal_in_text(record["_doc"]["text"], title, provincial=record["jurisdiction"] != "Federal",
                                                      purpose=bool(re.search(r"\(\s*repeal\s*\)|\brepeal\)", record["title"], re.I)))
+            limited = limited_on_code(record, title, copies_of[(norm_title(record["title"]), record["year"])]) if words else None
+            if limited:
+                # the first text repealed it whole; the law as amended keeps part of it
+                for target in targets:
+                    mentioned_by[id(target)].append((record, f"the up-to-date text on the {limited[0]} code limits this repeal: \"{limited[1]}\""))
+                continue
             for target in targets:
                 # a law cannot be repealed by one made before it: the title was only mentioned
                 if words and record["year"] and target["year"] and record["year"] < target["year"]:

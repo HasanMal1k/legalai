@@ -254,6 +254,38 @@ CASES += [
      "Act No. XVII of 1860 (to amend the Penal Code, and to authorize the transfer of prisoners) and Act No. III of 1864 are hereby repealed.",
      {"The Pakistan Penal Code": None}, ("pakistancode", "Federal")),
 ]
+CASES += [
+    # "the provisions of" the Act, with nothing between: the whole Act (for the province, here)
+    ("The Sindh Trusts Act, 2020", "sindh", "Sindh",
+     "120. Repeal and Savings.(1) The provisions of the Trust Act 1882 (Act No. 2 of 1882), hereafter referred to as the repealed Act, are "
+     "hereby repealed to the extent of the Province of Sindh. (2)Notwithstanding the repeal under",
+     {"The Trusts Act, 1882": "territory"}, ("pakistancode", "Federal")),
+    ("The Punjab Example Act, 2021", "punjab", "Punjab",
+     "40. Repeal.- The provisions of section 4 of the Punjab Sample Act, 1990 (V of 1990) are hereby repealed.",
+     {"The Punjab Sample Act, 1990": "part"}, ("punjab", "Punjab")),
+    ("The Punjab Example Act, 2022", "punjab", "Punjab",
+     "40. Repeal.- The provisions of the Punjab Sample Act, 1990 (V of 1990), in so far as they relate to the licensing of dealers, are hereby repealed.",
+     {"The Punjab Sample Act, 1990": "part"}, ("punjab", "Punjab")),
+    # "the provisions of" the Ordinance, but only where and as notified, and "to that extent"
+    ("The Punjab Weights and Measures (International System) Enforcement Act, 1975", "punjab", "Punjab",
+     "32. Repeal.– On the coming into force of this Act in any area or regarding different classes of goods or classes of under-takings or "
+     "establishments or commodities etc. as may be notified by Government the provisions of West Pakistan Weights and Measures Ordinance, 1965 "
+     "shall stand repealed to that extent.",
+     {"The West Pakistan Weights and Measures Ordinance, 1965": "part"}, ("punjab", "West Pakistan")),
+    ("The University of Agriculture Faisalabad Act, 1973", "punjab", "Punjab",
+     "40. Repeal and validation.– (1) The Punjab Ordinances Temporary Enactment Act, 1973, in so far as it enacts the provisions of the "
+     "University of Agriculture, Faisalabad Ordinance, 1973 (Punjab Ordinance No. II of 1973), is hereby repealed.",
+     {"The Punjab Ordinances Temporary Enactment Act, 1973": "part"}, ("punjab", "Punjab")),
+    # the clause names the rules with one word more than the code does ("Service"): still them (read as probable)
+    ("The Balochistan Civil Service (Executive Branch) Service Rules, 2025", "balochistan", "Balochistan",
+     "14. Delegation. — The Government my delegate all or any of its powers under these rules to any officer subordinate to it. "
+     "15. Repeal. — The Balochistan Civil Service (Executive Branch) Service Rules, 1984 are hereby repealed. BY ORDER OF GOVERNOR",
+     {"The Balochistan Civil Service (Executive Branch) Rules, 1984": "whole"}, ("balochistan", "Balochistan")),
+    # ... but never a word that makes it another law
+    ("The Punjab Sample Service Rules, 2025", "punjab", "Punjab",
+     "15. Repeal.— The Punjab Sample Service (Amendment) Rules, 1990 are hereby repealed.",
+     {"The Punjab Sample Service Rules, 1990": None}, ("punjab", "Punjab")),
+]
 YEARS = {"The Pakistan Penal Code": 1860}
 KINDS = {"Esta-Code": "Other", "The Customs Rules, 2001": "Rules"}
 # law numbers the corpus records carry, for the cases matched by number
@@ -275,5 +307,30 @@ for repealer_title, source, jurisdiction, text, expected, (target_source, target
         ok = got == want
         bad += not ok
         print(f"{'ok  ' if ok else 'FAIL'} want {str(want):11s} got {str(got):11s} | {title[:70]}")
+
+# R10: a federal law repealed for the Islamabad Capital Territory and for every province, one by one, is repealed;
+# for four of the five, still in force (with the four in its exceptions)
+TRUST_REPEALS = [
+    ("The Islamabad Capital Territory Trust Act, 2020", "pakistancode", "Federal",
+     "111. Repeal.— The Trust Act, 1882 (II of 1882) is hereby repealed to the extent of Islamabad Capital Territory, Islamabad. 112. Saving."),
+    ("The Punjab Trusts Act, 2020", "punjab", "Punjab", "112. Repeal and saving.− (1) The Trusts Act, 1882 (II of 1882) is hereby repealed. (2) Notwithstanding"),
+    ("The Khyber Pakhtunkhwa Trust Act, 2020", "kp", "Khyber Pakhtunkhwa",
+     "118. Repeal and savings.---(1) The Trust Act, 1882 (Act No. II of 1882) is hereby repealed to the extent of Khyber Pakhtunkhwa. (2) Notwithstanding"),
+    ("The Balochistan Trust Act, 2020", "balochistan", "Balochistan",
+     "112. Repeal. The Trust Act, 1882 is hereby repealed to the extent of Balochistan Province. 113. Power to make rules"),
+    ("The Sindh Trusts Act, 2020", "sindh", "Sindh",
+     "120. Repeal and Savings.(1) The provisions of the Trust Act 1882 (Act No. 2 of 1882), hereafter referred to as the repealed Act, are "
+     "hereby repealed to the extent of the Province of Sindh. (2)Notwithstanding"),
+]
+for repealers, want in ((TRUST_REPEALS, "repealed"), (TRUST_REPEALS[:4], "in_force")):
+    target = law("The Trusts Act, 1882")
+    records = [law(t, s, j, text=x) for t, s, j, x in repealers] + [target]
+    graph = kg.Graph(records, f.same_title, f.norm_title, f.title_year)
+    for r in records:
+        graph.edges += graph.repeal_edges(r)
+    kg.apply_rules(graph)
+    ok = target["status"] == want
+    bad += not ok
+    print(f"{'ok  ' if ok else 'FAIL'} want {want:11s} got {target['status']:11s} | R10, {len(repealers)} territories: {target['status_basis'][0][:90]}")
 print("failures:", bad)
 sys.exit(1 if bad else 0)
